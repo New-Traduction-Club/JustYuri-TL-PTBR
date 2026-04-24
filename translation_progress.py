@@ -1,33 +1,67 @@
 import glob
 import re
 
+def _extraer_contenido(linea: str):
+    m = re.search(r'"(.*?)"', linea)
+    return m.group(1) if m else None
+
 def contar_traduccion():
     total = 0
     traducidas = 0
-    for archivo in glob.glob("files/*.rpy"):
-        with open(archivo, 'r', encoding="utf-8") as f:
-            lines = f.readlines()
-            i = 0
-            while i < len(lines):
-                line = lines[i].strip()
+    prev_old = None
+    dentro_translate = False
+    original_text = None
+    bloque_vacio = False
 
-                # Maneja bloques old/new
-                if line.startswith('old "'):
+    for archivo in glob.glob("files/**/*.rpy", recursive=True):
+        with open(archivo, encoding="utf-8") as f:
+            for linea in f:
+                l = linea.strip()
+
+                if l.startswith('old "') and l.endswith('"'):
+                    prev_old = _extraer_contenido(l)
                     total += 1
-                    if i + 1 < len(lines) and lines[i+1].strip().startswith('new "') and not lines[i+1].strip().endswith('new ""'):
-                        traducidas += 1
-                    i += 2  # Saltar la línea 'new'
                     continue
 
-                # Maneja diálogos comentados
-                if line.startswith('#'):
-                    original_match = re.search(r'#\s*(".*"|\w+\s+".*")', line)
-                    if original_match and i + 1 < len(lines):
-                        total += 1
-                        next_line = lines[i+1].strip()
-                        if next_line and not next_line.endswith('""'):
+                if l.startswith('new "'):
+                    nuevo = _extraer_contenido(l)
+                    if prev_old is not None:
+                        if nuevo and nuevo != prev_old:
                             traducidas += 1
-                i += 1
+                    prev_old = None
+                    continue
+
+                if l.startswith("translate ptbr"):
+                    dentro_translate = True
+                    original_text = None
+                    bloque_vacio = True
+                    continue
+
+                if dentro_translate:
+                    if l == "":
+                        if bloque_vacio:
+                            continue
+                        dentro_translate = False
+                        original_text = None
+                        bloque_vacio = False
+                        continue
+
+                    if l.startswith("#"):
+                        original_text = _extraer_contenido(l)
+                        continue
+
+                    if l.startswith("y") or l.startswith("extend"):
+                        trad_text = _extraer_contenido(l)
+                        total += 1
+                        bloque_vacio = False
+                        if original_text is not None:
+                            if trad_text and trad_text != original_text:
+                                traducidas += 1
+                            original_text = None
+                        elif trad_text:
+                            traducidas += 1
+                        continue
+
     return total, traducidas
 
 if __name__ == "__main__":
@@ -37,12 +71,17 @@ if __name__ == "__main__":
     with open("TRANSLATION_PROGRESS.md", "w", encoding="utf-8") as f:
         f.write(progreso_md)
 
-    # Actualizar README.md entre los delimitadores
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()
     inicio = readme.find("<!-- PROGRESO_TRADUCCION_START -->")
     fin = readme.find("<!-- PROGRESO_TRADUCCION_END -->")
     if inicio != -1 and fin != -1:
-        nuevo_readme = (readme[:inicio] + "<!-- PROGRESO_TRADUCCION_START -->\n" + progreso_md.replace('# Progreso de traducción\n\n', '') + "<!-- PROGRESO_TRADUCCION_END -->" + readme[fin+len("<!-- PROGRESO_TRADUCCION_END -->"):])
+        nuevo_readme = (
+            readme[:inicio]
+            + "<!-- PROGRESO_TRADUCCION_START -->\n"
+            + progreso_md.replace('# Progreso de traducción\n\n', '')
+            + "<!-- PROGRESO_TRADUCCION_END -->"
+            + readme[fin+len("<!-- PROGRESO_TRADUCCION_END -->"):]
+        )
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(nuevo_readme)
