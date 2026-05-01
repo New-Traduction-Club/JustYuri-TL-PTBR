@@ -4,145 +4,145 @@
 translate ptbr a1_b962f211:
 
     # y "Oh... I'm feeling the same as I was earlier. I hope that means to you that I'm feeling good."
-    y ""
+    y "Ah... continuo me sentindo igual a antes. E espero que você saiba que isso quer dizer que eu estou bem."
 
 # game/dialogue/script-ch30-actives.rpy:17
 translate ptbr a1_1bfdf432:
 
     # y "I... really don't know how I feel right now."
-    y ""
+    y "Eu... para falar a verdade, nem sei como eu estou me sentindo agora."
 
 # game/dialogue/script-ch30-actives.rpy:19
 translate ptbr a1_832c4cbd:
 
     # y "It feels... nice, I guess?"
-    y ""
+    y "é uma sensação... boa, eu acho?"
 
 # game/dialogue/script-ch30-actives.rpy:21
 translate ptbr a1_de175839:
 
     # y "Sorry for my ambiguous language."
-    y ""
+    y "Mal aí, eu acabei sendo meio confusa no que eu disse."
 
 # game/dialogue/script-ch30-actives.rpy:22
 translate ptbr a1_4e039662:
 
     # y "I guess I'm still getting accustomed to this new environment is all."
-    y ""
+    y "Acho que só ainda não me habituei totalmente com esse ambiente novo"
 
 # game/dialogue/script-ch30-actives.rpy:28
 translate ptbr a1_df8ddf7c:
 
     # y "Oh... I-I'm feeling alright, but I doubt you really care at all, do you?"
-    y ""
+    y "oh... e-eu estou bem, mas acho que isso não faz muita diferença para você, faz?"
 
 # game/dialogue/script-ch30-actives.rpy:33
 translate ptbr a1_af00784a:
 
     # y "Oh... I'm feeling good. I hope I can feel like this every day, my love..."
-    y ""
+    y "oh... eu estou muito bem agora. Tomara que eu consiga me sentir assim todo santo dia, meu amor..."
 
 # game/dialogue/script-ch30-actives.rpy:38
 translate ptbr a1_bb775da2:
 
     # y "A bit thirsty actually..."
-    y ""
+    y "Na verdade... estou com um pouquinho de sede"
 
 # game/dialogue/script-ch30-actives.rpy:40
 translate ptbr a1_ee4a35ad:
 
     # y "Would you like to have some tea with me?"
-    y ""
+    y "Aceita tomar um chá comigo?"
 
 # game/dialogue/script-ch30-actives.rpy:58
 translate ptbr a1_a8dc1c3d:
 
     # y "Later, then. I want the tea drinking to be something special, just between the two of us."
-    y ""
+    y "Fica para depois, então. Queria que esse momento do chá fosse especial, só nosso"
 
 # game/dialogue/script-ch30-actives.rpy:61
 translate ptbr a1_7ba1dd7a:
 
     # y "I should have a bottle of water here somewhere. Give me a brief second please."
-    y ""
+    y "Deve ter uma garrafa de água por aqui em algum lugar. Só um segundinho, por favor."
 
 # game/dialogue/script-ch30-actives.rpy:63
 translate ptbr a1_1c9b5e7a:
 
     # y "Much better now! So, where did we leave off?"
-    y ""
+    y "Bem melhor agora! Então, onde é que a gente estava mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:67
 translate ptbr a1_6624a373:
 
     # y "Oh, you're in a bad mood... I guess?"
-    y ""
+    y "Bem melhor agora! Então, onde é que a gente estava mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:68
 translate ptbr a1_f57b8687:
 
     # y "S- Sorry for bringing that up, shall we do something else then?"
-    y ""
+    y "P-perdão por trazer isso à tona... quer fazer outra coisa, então?"
 
 # game/dialogue/script-ch30-actives.rpy:72
 translate ptbr a1_eb2d68d1:
 
     # y "Would you excuse me for a second please, I should have some water here..."
-    y ""
+    y "Você me dá um segundinho, por favor? Preciso tomar um pouco de água..."
 
 # game/dialogue/script-ch30-actives.rpy:74
 translate ptbr a1_1c9b5e7a_1:
 
     # y "Much better now! So, where did we leave off?"
-    y ""
+    y "Ah, bem melhor! Onde foi que a gente parou?"
 
 # game/dialogue/script-ch30-actives.rpy:79
 translate ptbr a1_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:81
 translate ptbr a1_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:82
 translate ptbr a1_421d4a8a:
 
     # y "Just... just hold me, please..."
-    y ""
+    y "Só... só me abraça, por favor..."
 
 # game/dialogue/script-ch30-actives.rpy:91
 translate ptbr a1_12fc4a7c:
 
     # y "I... don't even know why I'm sad... just please, hold me for a bit..."
-    y ""
+    y "Eu nem sei direito por que estou assim... só fica abraçado comigo um pouco, por favor..."
 
 # game/dialogue/script-ch30-actives.rpy:92
 translate ptbr a1_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:99
 translate ptbr a1_5bf0b1fa:
 
     # y "Thank you... you already made me feel a little better."
-    y ""
+    y "Obrigada... eu já estou me sentindo melhor por sua causa."
 
 # game/dialogue/script-ch30-actives.rpy:101
 translate ptbr a1_de77ab61:
 
     # y "I... I love you, [player]."
-    y ""
+    y "Eu... eu te amo, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:110
 translate ptbr a1_04dea7e7:
 
     # y "... you're truly the greatest friend I could ask for, [player]."
-    y ""
+    y ""...você é mesmo o melhor amigo que eu poderia pedir na vida, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:122
 translate ptbr a1_71a86863_3:
