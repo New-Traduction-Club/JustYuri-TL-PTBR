@@ -4,9 +4,9 @@ Repositório para realizar a tradução para o espanhol do [Just Yuri](https://g
 
 ## Progresso
 <!-- PROGRESO_TRADUCCION_START -->
-**0 de 13411 líneas traducidas**
+**31 de 13411 líneas traducidas**
 
-**Progreso:** 0.00%
+**Progreso:** 0.23%
 <!-- PROGRESO_TRADUCCION_END -->
 
 ## Créditos
