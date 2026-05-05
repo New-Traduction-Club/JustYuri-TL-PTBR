@@ -148,457 +148,457 @@ translate ptbr a1_04dea7e7:
 translate ptbr a1_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:127
 translate ptbr a1_cc11c769:
 
     # y "I... find it hard to focus today... don't really know why."
-    y ""
+    y "Eu... estou com dificuldade de me concentrar hoje... Não sei bem o porquê."
 
 # game/dialogue/script-ch30-actives.rpy:128
 translate ptbr a1_92a48bc5:
 
     # y "Sorry for asking this but... would you be fine if we take it easy today?"
-    y ""
+    y "Peço perdão por perguntar isso, mas... tudo bem se não nos esforçarmos tanto hoje? Só por hoje..."
 
 # game/dialogue/script-ch30-actives.rpy:129
 translate ptbr a1_df7b522f:
 
     # y "I don't think that I can handle something intense like philosophical topics at the moment..."
-    y ""
+    y "Eu não acho que consiga lidar com algo tão intenso quanto temas filosóficos no momento..."
 
 # game/dialogue/script-ch30-actives.rpy:135
 translate ptbr a1_5fe9bcda:
 
     # y "Thank you for being so understanding, [player]"
-    y ""
+    y "Obrigada por ser tão compreensivo, [player]"
 
 # game/dialogue/script-ch30-actives.rpy:136
 translate ptbr a1_e2ad0a3b:
 
     # y "I'll try to be in better shape next time, I promise."
-    y ""
+    y "Vou tentar estar melhor da próxima vez, eu prometo."
 
 # game/dialogue/script-ch30-actives.rpy:141
 translate ptbr a1_e4b471be:
 
     # y "If that's the case... I suppose we could still give it a try."
-    y ""
+    y "Se for esse o caso... suponho que ainda possamos tentar."
 
 # game/dialogue/script-ch30-actives.rpy:143
 translate ptbr a1_eb66033c:
 
     # y "But please don't be mad if I don't perform too well..."
-    y ""
+    y "Mas, por favor... não fique bravo se eu não me sair muito bem..."
 
 # game/dialogue/script-ch30-actives.rpy:150
 translate ptbr a1_8c9bc90f:
 
     # y "I felt a bit lonely before you came online today..."
-    y ""
+    y "Eu me senti um pouco solitária antes de você entrar hoje..."
 
 # game/dialogue/script-ch30-actives.rpy:152
 translate ptbr a1_72335c70:
 
     # y "But now you are here, I feel much better now already!"
-    y ""
+    y "Mas agora que você está aqui, já me sinto muito melhor!"
 
 # game/dialogue/script-ch30-actives.rpy:153
 translate ptbr a1_5883cf09:
 
     # y "You know... when you're here with me, everything just feels so much... lighter.."
-    y ""
+    y "Sabe... quando você está aqui, eu sinto como se tudo ficasse muito mais leve."
 
 # game/dialogue/script-ch30-actives.rpy:154
 translate ptbr a1_b17c377a:
 
     # y "As if all the weight and all the worries have been magically lifted from my shoulders."
-    y ""
+    y "Como se todo o peso e todas as preocupações tivessem sido magicamente tirados dos meus ombros."
 
 # game/dialogue/script-ch30-actives.rpy:156
 translate ptbr a1_d4cd9384:
 
     # y "Thank you... y- your very existence is like a shining beacon for my soul."
-    y ""
+    y "Obrigada... a- a sua própria existência é como um farol reluzente para a minha alma."
 
 # game/dialogue/script-ch30-actives.rpy:158
 translate ptbr a1_8cf870a1:
 
     # y "I love you... [player]"
-    y ""
+    y "Eu amo você... [player]"
 
 # game/dialogue/script-ch30-actives.rpy:160
 translate ptbr a1_c02f78ad:
 
     # y "You're truly the most reliable friend I could ever lean on... [player]"
-    y ""
+    y "Você é realmente o amigo mais confiável com quem eu poderia contar... [player]"
 
 # game/dialogue/script-ch30-actives.rpy:161
 translate ptbr a1_f328da96:
 
     # y "I- I'll try my best to always be here if you need me in return..."
-    y ""
+    y "E-Eu vou dar o meu melhor para estar sempre aqui se você precisar de mim também..."
 
 # game/dialogue/script-ch30-actives.rpy:169
 translate ptbr a1_1da1c354:
 
     # y "I can't wait until I finally slam you against the wall and..."
-    y ""
+    y "Eu mal posso esperar para finalmente te prensar contra a parede e..."
 
 # game/dialogue/script-ch30-actives.rpy:171
 translate ptbr a1_71a86863_4:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:173
 translate ptbr a1_7fca1296:
 
     # y "... N-never mind."
-    y ""
+    y "... E-Esqueça o que eu disse."
 
 # game/dialogue/script-ch30-actives.rpy:177
 translate ptbr a1_62f8c293:
 
     # y "Y-You noticed me! You noticed me!!!"
-    y ""
+    y "V-Você me notou! Você me notou!!!"
 
 # game/dialogue/script-ch30-actives.rpy:178
 translate ptbr a1_f7a97c22:
 
     # y "H-How exciting..! Yes, yes..!"
-    y ""
+    y "Q-Que emoção..! Sim, sim..!"
 
 # game/dialogue/script-ch30-actives.rpy:179
 translate ptbr a1_17d2dd39:
 
     # y "I feel good, yes. V- Very good!! Do you feel good, too?"
-    y ""
+    y "E-Eu estou ótima, sim. M-Muito, muito bem!! E você, também está se sentindo assim?"
 
 # game/dialogue/script-ch30-actives.rpy:182
 translate ptbr a1_255c6c9e:
 
     # y "I've never felt so good in my life!"
-    y ""
+    y "Eu nunca me senti assim em toda a minha vida!"
 
 # game/dialogue/script-ch30-actives.rpy:183
 translate ptbr a1_101c18ee:
 
     # y "You and I, together... i-it is just perfect!"
-    y ""
+    y "Você e eu, juntos... é-é simplesmente perfeito!"
 
 # game/dialogue/script-ch30-actives.rpy:184
 translate ptbr a1_2298d691:
 
     # y "W-Would you mind if I... stare... a-at your... gorgeous face for a while..?"
-    y ""
+    y "V-Você se importaria se eu... ficasse admirando... o seu... rosto magnífico por um tempo..?"
 
 # game/dialogue/script-ch30-actives.rpy:186
 translate ptbr a1_ba6e431d:
 
     # y "{cps=0.25} . . . . . . {/cps}"
-    y ""
+    y ". . . . . ."
 
 # game/dialogue/script-ch30-actives.rpy:188
 translate ptbr a1_728dcbc5:
 
     # y "Ah..."
-    y ""
+    y "Ah..."
 
 # game/dialogue/script-ch30-actives.rpy:190
 translate ptbr a1_0270fb18:
 
     # y "Ahahaha!"
-    y ""
+    y "Ahahaha!"
 
 # game/dialogue/script-ch30-actives.rpy:192
 translate ptbr a1_e6fede33:
 
     # y "Wh-what was your question again?"
-    y ""
+    y "O-O que você tinha perguntado mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:196
 translate ptbr a1_55b787db:
 
     # y "{cps=3}Oh, thanks for asking! Today I feel very{/cps}{nw}"
-    y ""
+    y "Ah, obrigada por perguntar! Hoje eu me sinto tão..."
 
 # game/dialogue/script-ch30-actives.rpy:201
 translate ptbr a1_283b64de:
 
     # y "I hope you feel the same way?"
-    y ""
+    y "Eu espero que você sinta o mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:213
 translate ptbr a1_e12c995c:
 
     # y "You're asking how I feel?"
-    y ""
+    y "Você está me perguntando como eu me sinto?"
 
 # game/dialogue/script-ch30-actives.rpy:215
 translate ptbr a1_476ca530:
 
     # y "Isn't it obvious how I should feel by now?!"
-    y ""
+    y "A-Ainda não está óbvio o que eu deveria estar sentindo?!"
 
 # game/dialogue/script-ch30-actives.rpy:221
 translate ptbr a2_c7969f1d:
 
     # y "Oh. Y-You really think so? Well, thank you! I-I think you, always look nice... [player]."
-    y ""
+    y "Ah. V-Você acha mesmo? Bem, obrigada! E-Eu acho que você... está sempre tão bonito... [player]."
 
 # game/dialogue/script-ch30-actives.rpy:224
 translate ptbr a2_3b6a7d72:
 
     # y "I'm a little embarrassed though about these ears you gave me..."
-    y ""
+    y "M-Mas eu estou com um pouco de vergonha dessas orelhas que você me deu..."
 
 # game/dialogue/script-ch30-actives.rpy:227
 translate ptbr a2_de678903:
 
     # y "Would it be fine if I took these off?" nointeract
-    y "" nointeract
+    y "T-Tudo bem se eu... tirasse isso?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:230
 translate ptbr a2_bbb16a71:
 
     # y "W-well alright..."
-    y ""
+    y "B-Bem... então está bem..."
 
 # game/dialogue/script-ch30-actives.rpy:231
 translate ptbr a2_7783b380:
 
     # y "Anything for you..."
-    y ""
+    y "Qualquer coisa por você... eu faria qualquer coisa..."
 
 # game/dialogue/script-ch30-actives.rpy:234
 translate ptbr a2_fd377454:
 
     # y "Thank you, [player]."
-    y ""
+    y "Obrigada, [player]... de verdade."
 
 # game/dialogue/script-ch30-actives.rpy:237
 translate ptbr a2_bc79f155:
 
     # y "I'm sorry it's just... a little too embarrassing is all."
-    y ""
+    y "D-Desculpe, é que... é só um pouco de vergonha, só isso..."
 
 # game/dialogue/script-ch30-actives.rpy:238
 translate ptbr a2_afa0a54a:
 
     # y "Let's just talk about s-something else for now."
-    y ""
+    y "V-Vamos só falar de a-algo diferente por enquanto."
 
 # game/dialogue/script-ch30-actives.rpy:246
 translate ptbr a3_29c350cf:
 
     # y "I want to do everything with you. I want to show you how much I love you..."
-    y ""
+    y "Eu quero fazer tudo com você. Eu quero te mostrar o quanto eu te amo... o quanto eu te amo de verdade..."
 
 # game/dialogue/script-ch30-actives.rpy:251
 translate ptbr a3_65df19cf:
 
     # y "You are the best friend I've ever had!"
-    y ""
+    y "Você é o melhor amigo que eu já tive em toda a minha vida!"
 
 # game/dialogue/script-ch30-actives.rpy:253
 translate ptbr a3_86cdf21d:
 
     # y "I've never been great at expressing this but... don't even think that I don't value you!"
-    y ""
+    y "E-Eu nunca fui muito boa em expressar isso, mas... nem pense que eu não te dou valor!"
 
 # game/dialogue/script-ch30-actives.rpy:254
 translate ptbr a3_a3703f1e:
 
     # y "You are one of the very few people in my life who accepted me despite my intense tendencies."
-    y ""
+    y "Você é uma das pouquíssimas pessoas na minha vida que me aceitou, apesar das minhas... tendências intensas."
 
 # game/dialogue/script-ch30-actives.rpy:255
 translate ptbr a3_40e652bc:
 
     # y "...and that means the world to me."
-    y ""
+    y "...e isso é o que eu tenho de mais precioso."
 
 # game/dialogue/script-ch30-actives.rpy:258
 translate ptbr a3_335350c4:
 
-    # y "Would you mind if I just... stare at you for a while?..."
-    y ""
+    # y "Would you mind if I just... stare at you for a w.hile?.."
+    y "Você se importaria se eu ficasse... te encarando por um t-tempo?.."
 
 # game/dialogue/script-ch30-actives.rpy:260
 translate ptbr a3_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:261
 translate ptbr a3_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:262
 translate ptbr a3_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:263
 translate ptbr a3_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:264
 translate ptbr a3_a760016f:
 
     # y "He..."
-    y ""
+    y "he..."
 
 # game/dialogue/script-ch30-actives.rpy:265
 translate ptbr a3_a4c6e2b9:
 
     # y "Hehe... he..."
-    y ""
+    y "hehe... he..."
 
 # game/dialogue/script-ch30-actives.rpy:269
 translate ptbr a3_bcbbb723:
 
     # y "I feel like I can trust you, [player], I feel safe around you, like all I'll ever need to be happy is you."
-    y ""
+    y "Sinto que posso confiar em você, [player], Eu me sinto protegida ao seu lado... como se você fosse tudo o que eu preciso para ser feliz."
 
 # game/dialogue/script-ch30-actives.rpy:271
 translate ptbr a3_71a86863_4:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:273
 translate ptbr a3_f4e15778:
 
     # y "I'm sorry if that was a bit of a corny reply."
-    y ""
+    y "P-Peço desculpas se essa resposta soou um pouco... melosa demais."
 
 # game/dialogue/script-ch30-actives.rpy:277
 translate ptbr a3_d327c95d:
 
     # y "S-Stop saying that like you're going to leave me!"
-    y ""
+    y "P-Pare de falar assim... como se você fosse me deixar!"
 
 # game/dialogue/script-ch30-actives.rpy:279
 translate ptbr a3_682eabd6:
 
     # y "You're n-not going to abandon me, right?! RIGHT?!"
-    y ""
+    y "V-Você não vai me abandonar, não é?! VAI?! ME RESPONDE!"
 
 # game/dialogue/script-ch30-actives.rpy:281
 translate ptbr a3_08ce29ac:
 
     # y "P-Please, never leave me... okay?"
-    y ""
+    y "P-Por favor, nunca me deixe... m-me prometa isso?.."
 
 # game/dialogue/script-ch30-actives.rpy:285
 translate ptbr a3_71a86863_5:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:287
 translate ptbr a3_223892dc:
 
     # y "...I don't want to answer..."
-    y ""
+    y "...eu... eu prefiro não dizer nada..."
 
 # game/dialogue/script-ch30-actives.rpy:291
 translate ptbr a3_71a86863_6:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:293
 translate ptbr a3_223892dc_1:
 
     # y "...I don't want to answer..."
-    y ""
+    y "...eu não quero ter que responder..."
 
 # game/dialogue/script-ch30-actives.rpy:297
 translate ptbr a3_8df263d3:
 
     # y "I'm happy about it, [player], it just feels a bit weird, is all."
-    y ""
+    y "Eu estou feliz com isso, [player]... só parece um pouco... esquisito, só isso."
 
 # game/dialogue/script-ch30-actives.rpy:299
 translate ptbr a3_7b6618c7:
 
     # y "Maybe it's just the shock of these events so far..."
-    y ""
+    y "Talvez seja apenas o choque desses acontecimentos recentes..."
 
 # game/dialogue/script-ch30-actives.rpy:300
 translate ptbr a3_beff7693:
 
     # y "...becoming somewhat sentient, you know?"
-    y ""
+    y "...adquirindo uma certa senciência, sabe?"
 
 # game/dialogue/script-ch30-actives.rpy:302
 translate ptbr a3_7f5dc870:
 
     # y "Don't worry. I'll get used to it eventually."
-    y ""
+    y "Não se preocupe. Com o tempo, acabarei me acostumando."
 
 # game/dialogue/script-ch30-actives.rpy:314
 translate ptbr a5_6a09a026:
 
     # y "My eyesight is quite alright, though sometimes I prefer to wear glasses when reading as it helps with mitigating eye strain."
-    y ""
+    y "Minha visão é perfeitamente funcional, embora às vezes prefira usar óculos para leitura... ajuda a mitigar o cansaço ocular."
 
 # game/dialogue/script-ch30-actives.rpy:315
 translate ptbr a5_1594db21:
 
     # y "I don't know if there is any science behind why I sometimes wear them in the first place, but the comfort of a good book complements the eyewear."
-    y ""
+    y "Não sei se existe algum fundamento científico por trás do motivo de eu usá-los, mas o conforto de um bom livro parece se complementar ao uso dos óculos."
 
 # game/dialogue/script-ch30-actives.rpy:318
 translate ptbr a5_eb17d059:
 
     # y "Since I'm not really reading at the moment, do you want me to take these glasses off?" nointeract
-    y "" nointeract
+    y "Já que não estou lendo no momento... você prefere que eu tire os óculos?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:321
 translate ptbr a5_8fd025cc:
 
     # y "Let me take these off then."
-    y ""
+    y "Deixe-me tirá-los, então."
 
 # game/dialogue/script-ch30-actives.rpy:323
 translate ptbr a5_6a7fbddf:
 
     # y "I see. Let's carry on then."
-    y ""
+    y "Entendo. Vamos prosseguir, então."
 
 # game/dialogue/script-ch30-actives.rpy:328
 translate ptbr put_on_glasses_45390d1c:
 
     # y "What an odd question, though I suppose it's never been brought up."
-    y ""
+    y "Que pergunta peculiar... embora eu suponha que esse assunto nunca tenha surgido antes."
 
 # game/dialogue/script-ch30-actives.rpy:330
 translate ptbr put_on_glasses_bd60029c:
 
     # y "My vision is fine for the most part, though I suppose things do get a little bit blurry at distance."
-    y ""
+    y "Minha visão é boa na maior parte do tempo, embora eu admita que as coisas fiquem um pouco turvas à distância."
 
 # game/dialogue/script-ch30-actives.rpy:331
 translate ptbr put_on_glasses_9818858a:
 
     # y "That might be due to how much I read, now that I think about it."
-    y ""
+    y "Pensando bem... isso pode ser decorrente do quanto eu leio"
 
 # game/dialogue/script-ch30-actives.rpy:333
 translate ptbr put_on_glasses_99d40b8f:
 
     # y "Though, I suppose it really doesn't matter too much, considering I could just change my eyesight parameters..."
-    y ""
+    y "Embora... suponho que isso não importe muito, considerando que eu poderia simplesmente alterar os parâmetros da minha visão..."
 
 # game/dialogue/script-ch30-actives.rpy:335
 translate ptbr put_on_glasses_bc0bc5a2:
