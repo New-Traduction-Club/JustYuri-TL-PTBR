@@ -32,7 +32,7 @@ translate ptbr strings:
 
     # game/talk_menu.rpy:96
     old "Sleep."
-    new ""
+    new "Dormir."
 
     # game/talk_menu.rpy:98
     old "Goodbye."
