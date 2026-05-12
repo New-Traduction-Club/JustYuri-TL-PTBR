@@ -4,31 +4,31 @@
 translate ptbr games_menu_e561696a:
 
     # y "Up for a game [player]?"
-    y ""
+    y "Que tal uma partida [player]?"
 
 # game/talk_menu.rpy:172
 translate ptbr games_menu_71d06e5f:
 
     # y "Please take a look at the games I have available for us currently. Do any look appealing to you?"
-    y ""
+    y "Que tal você olhar alguns jogos que tem aqui? Talvez algum deles possa te interessar."
 
 translate ptbr strings:
 
     # game/talk_menu.rpy:85
     old "Control Panel."
-    new ""
+    new "Painel de Controle."
 
     # game/talk_menu.rpy:86
     old "Ask a question."
-    new ""
+    new "Faça uma pergunta."
 
     # game/talk_menu.rpy:89
     old "Compliment."
-    new ""
+    new "Elogio."
 
     # game/talk_menu.rpy:90
     old "Antagonize."
-    new ""
+    new "Antagonizar."
 
     # game/talk_menu.rpy:96
     old "Sleep."
@@ -36,57 +36,57 @@ translate ptbr strings:
 
     # game/talk_menu.rpy:98
     old "Goodbye."
-    new ""
+    new "Adeus."
 
     # game/talk_menu.rpy:102
     old "Hmm, what is it?"
-    new ""
+    new "Hmm, oque foi?"
 
     # game/talk_menu.rpy:102
     old "Yes, "
-    new ""
+    new "Sim, "
 
     # game/talk_menu.rpy:102
     old "Yes, my love?"
-    new ""
+    new "Sim, meu amor?"
 
     # game/talk_menu.rpy:102
     old "Hiya."
-    new ""
+    new "Oi."
 
     # game/talk_menu.rpy:102
     old "What would you like to talk about?"
-    new ""
+    new "Sobre o que você gostaria de conversar?"
 
     # game/talk_menu.rpy:102
     old "Yes, darling?"
-    new ""
+    new "Sim, querido?"
 
     # game/talk_menu.rpy:102
     old "Hmm?"
-    new ""
+    new "Hmm?"
 
     # game/talk_menu.rpy:173
     old "Tetris"
-    new ""
+    new "Tetris"
 
     # game/talk_menu.rpy:173
     old "Chess"
-    new ""
+    new "Xadrez"
 
     # game/talk_menu.rpy:190
     old "Dreams"
-    new ""
+    new "Sonhos"
 
     # game/talk_menu.rpy:199
     old "Music"
-    new ""
+    new "Música"
 
     # game/talk_menu.rpy:205
     old "games"
-    new ""
+    new "Jogos"
 
     # game/talk_menu.rpy:211
     old "Talk"
-    new ""
+    new "Falar"
 
