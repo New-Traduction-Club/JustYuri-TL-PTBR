@@ -1,6 +1,6 @@
 # Just Yuri PTBR - Tradução não oficial
 
-Repositório para realizar a tradução para o espanhol do [Just Yuri](https://github.com/DarkskullDawnZenith/JustYuri) na versão 1.10.4 (beta).
+Repositório para realizar a tradução para o português do [Just Yuri](https://github.com/DarkskullDawnZenith/JustYuri) na versão 1.10.4 (beta).
 
 ## Progresso
 <!-- PROGRESO_TRADUCCION_START -->
