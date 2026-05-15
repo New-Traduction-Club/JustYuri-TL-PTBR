@@ -4,45 +4,45 @@ translate ptbr strings:
 
     # game/chess_displayable.rpy:127
     old "Whose turn: White"
-    new ""
+    new "Turno: Brancas"
 
     # game/chess_displayable.rpy:129
     old "Whose turn: Black"
-    new ""
+    new "Turno: Pretas"
 
     # game/chess_displayable.rpy:134
     old "Checkmate"
-    new ""
+    new "Xeque-mate"
 
     # game/chess_displayable.rpy:136
     old "Stalemate"
-    new ""
+    new "Afogamento"
 
     # game/chess_displayable.rpy:138
     old "In Check"
-    new ""
+    new "Em Xeque"
 
     # game/chess_displayable.rpy:143
     old "Most recent moves"
-    new ""
+    new "Movimentos recentes"
 
     # game/chess_displayable.rpy:153
     old "Resign"
-    new ""
+    new "Abandonar"
 
     # game/chess_displayable.rpy:155
     old "Would you like to resign?"
-    new ""
+    new "Você gostaria de abandonar a partida?"
 
     # game/chess_displayable.rpy:165
     old "Undo move"
-    new ""
+    new "Desfazer movimento"
 
     # game/chess_displayable.rpy:171
     old "Flip board view"
-    new ""
+    new "Girar visualização do tabuleiro"
 
     # game/chess_displayable.rpy:198
     old "Select promotion piece type"
-    new ""
+    new "Selecione a peça de promoção"
 

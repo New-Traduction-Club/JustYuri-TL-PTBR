@@ -4,225 +4,225 @@ translate ptbr strings:
 
     # game/screens.rpy:585
     old "History"
-    new ""
+    new "Histórico"
 
     # game/screens.rpy:586
     old "Skip"
-    new ""
+    new "Pular"
 
     # game/screens.rpy:587
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens.rpy:588
     old "Settings"
-    new ""
+    new "Configurações"
 
     # game/screens.rpy:594
     old "Hide"
-    new ""
+    new "Esconder"
 
     # game/screens.rpy:622
     old "New Game"
-    new ""
+    new "Novo Jogo"
 
     # game/screens.rpy:637
     old "Discord Server"
-    new ""
+    new "Servidor do Discord"
 
     # game/screens.rpy:644
     old "Official X"
-    new ""
+    new "X oficial"
 
     # game/screens.rpy:651
     old "Official YouTube"
-    new ""
+    new "YouTube Oficial"
 
     # game/screens.rpy:658
     old "Credits"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:665
     old "Mod List"
-    new ""
+    new "Lista de mods"
 
     # game/screens.rpy:672
     old "Quit"
-    new ""
+    new "Sair"
 
     # game/screens.rpy:773
     old "Alpha Revival: [alpha.version]"
-    new ""
+    new "Alpha Revival: [alpha.version]"
 
     # game/screens.rpy:776
     old "Beta: [config.version]"
-    new ""
+    new "Beta: [config.version]"
 
     # game/screens.rpy:883
     old "Return"
-    new ""
+    new "Voltar"
 
     # game/screens.rpy:942
     old "About"
-    new ""
+    new "Sobre"
 
     # game/screens.rpy:949
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens.rpy:955
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Feito com {a=[https://www.renpy.org/](https://www.renpy.org/)}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:968
     old "Save"
-    new ""
+    new "Salvar"
 
     # game/screens.rpy:975
     old "Load"
-    new ""
+    new "Carregar"
 
     # game/screens.rpy:982
     old "There's no point in saving anymore.\nDon't worry, I'm not going anywhere."
-    new ""
+    new "Não faz mais sentido salvar.\nNão se preocupe, eu não vou a lugar nenhum."
 
     # game/screens.rpy:1012
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%d de %B de %Y, %H:%M"
 
     # game/screens.rpy:1012
     old "empty slot"
-    new ""
+    new "Espaço Vazio"
 
     # game/screens.rpy:1079
     old "Display"
-    new ""
+    new "Exibição"
 
     # game/screens.rpy:1080
     old "Window"
-    new ""
+    new "Janela"
 
     # game/screens.rpy:1081
     old "Fullscreen"
-    new ""
+    new "Tela cheia"
 
     # game/screens.rpy:1098
     old "Rollback Side"
-    new ""
+    new "Lado do Rollback"
 
     # game/screens.rpy:1099
     old "Disable"
-    new ""
+    new "Desativar"
 
     # game/screens.rpy:1100
     old "Left"
-    new ""
+    new "Esquerda"
 
     # game/screens.rpy:1101
     old "Right"
-    new ""
+    new "Direita"
 
     # game/screens.rpy:1106
     old "Unseen Text"
-    new ""
+    new "Texto não visto"
 
     # game/screens.rpy:1107
     old "After Choices"
-    new ""
+    new "Após escolhas"
 
     # game/screens.rpy:1111
     old "Custom Assets"
-    new ""
+    new "Recursos personalizados"
 
     # game/screens.rpy:1113
     old "Assets Missing..."
-    new ""
+    new "Recursos ausentes..."
 
     # game/screens.rpy:1116
     old "Assets Ready"
-    new ""
+    new "Recursos Prontos"
 
     # game/screens.rpy:1117
     old "JYCrypt"
-    new ""
+    new "JYCrypt"
 
     # game/screens.rpy:1125
     old "Idle Frequency: Frequent"
-    new ""
+    new "Frequência de ócio: Frequente"
 
     # game/screens.rpy:1127
     old "Idle Frequency: Hesitant"
-    new ""
+    new "Frequência de ócio: Hesitante"
 
     # game/screens.rpy:1129
     old "Idle Frequency: Normal"
-    new ""
+    new "Frequência de ócio: Normal"
 
     # game/screens.rpy:1136
     old "Game Time Cycle: Realtime"
-    new ""
+    new "Ciclo de Tempo do Jogo: Tempo Real"
 
     # game/screens.rpy:1140
     old "Text Speed"
-    new ""
+    new "Velocidade do texto"
 
     # game/screens.rpy:1143
     old "Auto-Forward Time"
-    new ""
+    new "Tempo de Avanço Automático"
 
     # game/screens.rpy:1148
     old "Music Volume"
-    new ""
+    new "Volume da Música"
 
     # game/screens.rpy:1153
     old "Sound Volume"
-    new ""
+    new "Volume do Som"
 
     # game/screens.rpy:1157
     old "Test"
-    new ""
+    new "Testar"
 
     # game/screens.rpy:1160
     old "Voice Volume"
-    new ""
+    new "Volume da Voz"
 
     # game/screens.rpy:1168
     old "Mute All"
-    new ""
+    new "Silenciar tudo"
 
     # game/screens.rpy:1173
     old "Space BG Bloom: On"
-    new ""
+    new "Brilho do Fundo Espacial: On"
 
     # game/screens.rpy:1176
     old "Space BG Bloom: Off"
-    new ""
+    new "Brilho do Fundo Espacial: Off"
 
     # game/screens.rpy:1179
     old "Space BG Bloom: Vid"
-    new ""
+    new "Brilho do Fundo Espacial: Vídeo"
 
     # game/screens.rpy:1312
     old "The dialogue history is empty."
-    new ""
+    new "O histórico de diálogo está vazio."
 
     # game/screens.rpy:1416
     old "OK"
-    new ""
+    new "OK"
 
     # game/screens.rpy:1481
     old "Yes"
-    new ""
+    new "Sim"
 
     # game/screens.rpy:1482
     old "No"
-    new ""
+    new "Não"
 
     # game/screens.rpy:1523
     old "Skipping"
-    new ""
+    new "Pulando"
 
     # game/screens.rpy:2311
     old "Open Settings"
-    new ""
+    new "Abrir Configurações"
 
