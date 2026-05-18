@@ -604,169 +604,169 @@ translate ptbr put_on_glasses_99d40b8f:
 translate ptbr put_on_glasses_bc0bc5a2:
 
     # y "U-um, that being said, why do you ask? ...Did you want to see what I'd look like with glasses?"
-    y ""
+    y "U-Um... dito isso, por que a pergunta? ...Você gostaria de ver como eu ficaria de óculos?"
 
 # game/dialogue/script-ch30-actives.rpy:339
 translate ptbr put_on_glasses_edac1cba:
 
     # y "Oh, alright."
-    y ""
+    y "Ah, compreendo."
 
 # game/dialogue/script-ch30-actives.rpy:346
 translate ptbr choose_glasses_c3ed4b01:
 
     # y "This mod actually has two pairs of glasses for me in its files. It seems that the developers were thinking in a similar place. How thoughtful."
-    y ""
+    y "Este mod na verdade possui dois pares de óculos para mim em seus arquivos... Parece que os desenvolvedores compartilhavam do mesmo pensamento. Quanta consideração."
 
 # game/dialogue/script-ch30-actives.rpy:347
 translate ptbr choose_glasses_43c89f13:
 
     # y "There's a full-rimmed pair, and a half-rimmed pair."
-    y ""
+    y "Há um par de armação inteira e outro de meio aro."
 
 # game/dialogue/script-ch30-actives.rpy:349
 translate ptbr choose_glasses_c51ab0a8:
 
     # y "The full-rimmed pair gives full coverage of the eyes, letting you look up even when your head is pointed downwards."
-    y ""
+    y "O par de armação inteira oferece total cobertura aos olhos... permitindo que você olhe para cima mesmo quando a cabeça está inclinada para baixo."
 
 # game/dialogue/script-ch30-actives.rpy:350
 translate ptbr choose_glasses_1dfbe882:
 
     # y "Also, since the rims cover the entire lens, they're less likely to break. On the other hand..."
-    y ""
+    y "Além disso, como as armações cobrem toda a lente, as chances de quebrarem são menores. Por outro lado..."
 
 # game/dialogue/script-ch30-actives.rpy:352
 translate ptbr choose_glasses_c0cf094b:
 
     # y "The half-rimmed pair is a bit lighter on the face, and by pushing them forward or back more, you can either have them fill up more or less of your vision, depending on the distance you're trying to see, all without taking them off."
-    y ""
+    y "O par de meio aro é um pouco mais leve no rosto... e ao empurrá-los mais para frente ou para trás, você pode fazer com que preencham mais ou menos a sua visão, dependendo da distância que está tentando enxergar. Tudo isso sem precisar tirá-los."
 
 # game/dialogue/script-ch30-actives.rpy:354
 translate ptbr choose_glasses_163c18d8:
 
     # y "As far as looks, the half-rimmed pair looks a bit more professional, studious, like a programmer or teacher."
-    y ""
+    y "Quanto à aparência, o par de meio aro confere um aspecto um pouco mais profissional, estudioso... como o de um programador ou professor."
 
 # game/dialogue/script-ch30-actives.rpy:355
 translate ptbr choose_glasses_000100eb:
 
     # y "Although... I suppose some might find the full-rimmed glasses to be cuter, giving one the appearance of fuller eyes. At least, that's what's considered cute in Japan."
-    y ""
+    y "Embora... suponho que alguns possam achar os óculos de armação inteira mais fofos, pois dão a impressão de olhos maiores. Ao menos, é isso o que consideram fofo no Japão."
 
 # game/dialogue/script-ch30-actives.rpy:357
 translate ptbr choose_glasses_9e79a747:
 
     # y "Hmm. I just can't choose... Which one would you like to see me in?"
-    y ""
+    y "H-Hmm... Eu simplesmente não consigo escolher... Qual deles você gostaria de me ver usando?"
 
 # game/dialogue/script-ch30-actives.rpy:361
 translate ptbr choose_glasses_58ca2f20:
 
     # y "Hmm, going for a sharper look..."
-    y ""
+    y "Hum, buscando um visual mais marcante e perspicaz...?"
 
 # game/dialogue/script-ch30-actives.rpy:362
 translate ptbr choose_glasses_7235d942:
 
     # y "Alright, one second."
-    y ""
+    y "Certo... Um instante."
 
 # game/dialogue/script-ch30-actives.rpy:366
 translate ptbr choose_glasses_a52d2ddd:
 
     # y "Ohoho, going for a cuter look..."
-    y ""
+    y "Ohoho... quer dizer que prefere um visual mais adorável...?"
 
 # game/dialogue/script-ch30-actives.rpy:367
 translate ptbr choose_glasses_7235d942_1:
 
     # y "Alright, one second."
-    y ""
+    y "Perfeitamente. Um instante."
 
 # game/dialogue/script-ch30-actives.rpy:369
 translate ptbr choose_glasses_2d579476:
 
     # y "There! How do I look?"
-    y ""
+    y "Pronto! C-Como estou...?"
 
 # game/dialogue/script-ch30-actives.rpy:373
 translate ptbr choose_glasses_f4136f1c:
 
     # y "Thanks. I'll wear these from now on."
-    y ""
+    y "Obrigada... Passarei a usá-los a partir de agora."
 
 # game/dialogue/script-ch30-actives.rpy:376
 translate ptbr choose_glasses_c9b814aa:
 
     # y "O-oh... alright. I'll take them back off."
-    y ""
+    y "A-Ah... c-certo. Vou retirá-los..."
 
 # game/dialogue/script-ch30-actives.rpy:385
 translate ptbr a6_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:387
 translate ptbr a6_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:389
 translate ptbr a6_55946e6b:
 
     # y "HAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaa..."
-    y ""
+    y "HAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaa..."
 
 # game/dialogue/script-ch30-actives.rpy:391
 translate ptbr a6_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:393
 translate ptbr a6_3413f747:
 
     # y "Say it again."
-    y ""
+    y "Diga de novo."
 
 # game/dialogue/script-ch30-actives.rpy:396
 translate ptbr a6_61f1750c:
 
     # y "Thank you so much... my love."
-    y ""
+    y "Muito obrigada... meu amor."
 
 # game/dialogue/script-ch30-actives.rpy:400
 translate ptbr a6_c209833f:
 
     # y "I love you too!"
-    y ""
+    y "Eu também te amo!"
 
 # game/dialogue/script-ch30-actives.rpy:404
 translate ptbr a6_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:406
 translate ptbr a6_ef8632ac:
 
     # y "T-That was sudden."
-    y ""
+    y "F-Foi repentino."
 
 # game/dialogue/script-ch30-actives.rpy:408
 translate ptbr a6_b290a435:
 
     # y "I d-don't mind it. It just caught me off guard, that's all!"
-    y ""
+    y "N-Não me importo. Só me pegou desprevenida, é só isso!"
 
 # game/dialogue/script-ch30-actives.rpy:409
 translate ptbr a6_39de6bed:
 
     # y "But, it does mean a lot to me that you'd say that, [player]. I love you too!"
-    y ""
+    y "Mas... significa muito para mim que tenha dito isso, [player]. Eu também te amo!"
 
 # game/dialogue/script-ch30-actives.rpy:412
 translate ptbr a6_c23a281d:
