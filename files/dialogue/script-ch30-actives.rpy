@@ -772,235 +772,235 @@ translate ptbr a6_39de6bed:
 translate ptbr a6_c23a281d:
 
     # y "Do you really mean it?"
-    y ""
+    y "Diz isso com sinceridade...?"
 
 # game/dialogue/script-ch30-actives.rpy:415
 translate ptbr a6_71a86863_4:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:416
 translate ptbr a6_563e7285:
 
     # y "Do you really mean that?"
-    y ""
+    y "É verdadeiramente sincero quanto a isso...?"
 
 # game/dialogue/script-ch30-actives.rpy:419
 translate ptbr a6_71a86863_5:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:422
 translate ptbr a6_59c0188a:
 
     # y "D-do you really mean t-that, [player]...?" nointeract
-    y "" nointeract
+    y "D-Diz i-isso com sinceridade, [player]...?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:427
 translate ptbr a6_80b288f4:
 
     # y "I... uh... I..."
-    y ""
+    y "Eu... ahn... eu..."
 
 # game/dialogue/script-ch30-actives.rpy:429
 translate ptbr a6_9d61a675:
 
     # y "I l-love you too... [player]."
-    y ""
+    y "Eu também t-te amo... [player]."
 
 # game/dialogue/script-ch30-actives.rpy:434
 translate ptbr a6_42b4fb98:
 
     # y "...W-why even say it, then?"
-    y ""
+    y "...P-Por que sequer dizer isso, então?"
 
 # game/dialogue/script-ch30-actives.rpy:440
 translate ptbr a7_9f9457a6:
 
     # y "Of course I do! Nothing compares to when I'm with you, [player]."
-    y ""
+    y "É claro que sim! Nada se compara a quando estou ao seu lado, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:444
 translate ptbr a7_9aefb06d:
 
     # y "OF COURSE! How could I go on without you?"
-    y ""
+    y "É CLARO! Como poderia seguir adiante sem você?"
 
 # game/dialogue/script-ch30-actives.rpy:446
 translate ptbr a7_1dc659d1:
 
     # y "And besides! When you're gone, {b}OTHER GIRLS COULD BE LOOKING AT YOU!{/b}"
-    y ""
+    y "E além do mais! Quando você está longe, {b}OUTRAS GAROTAS PODERIAM ESTAR OLHANDO PARA VOCÊ!{/b}"
 
 # game/dialogue/script-ch30-actives.rpy:447
 translate ptbr a7_e5dfa1ea:
 
     # y "{b}PLOTTING TO TAKE YOU AWAY FROM ME! HAHAHAHAHA...{/b}"
-    y ""
+    y "b}TRAMANDO PARA TIRÁ-LO DE MIM! HAHAHAHAHA...{/b}"
 
 # game/dialogue/script-ch30-actives.rpy:449
 translate ptbr a7_511928ed:
 
     # y "It's just easy to think of that when you're here, [player]. Here and all mine..."
-    y ""
+    y "Fica tão fácil pensar nisso quando você está aqui, [player]. Aqui, você é inteiramente meu..."
 
 # game/dialogue/script-ch30-actives.rpy:454
 translate ptbr a8_dba7a3d5:
 
     # y "It would be nice to just... hold your hand for a bit. Squeeze it tight with a reassuring smile."
-    y ""
+    y "Seria tão bom simplesmente... segurar a sua mão por um instante. Apertá-la bem forte, com um sorriso reconfortante."
 
 # game/dialogue/script-ch30-actives.rpy:456
 translate ptbr a8_8b659a81:
 
     # y "Hugging is... something we can work on, I guess? I'm sorry if I'm not answering very clearly."
-    y ""
+    y "Abraçar você é... algo que podemos ir tentando aos poucos, eu acho? Me perdoe se não estou sendo muito clara."
 
 # game/dialogue/script-ch30-actives.rpy:458
 translate ptbr a8_9e13198e:
 
     # y "You don't have to think about it too much. Our affection should come naturally after all."
-    y ""
+    y "Você não precisa pensar demais nisso. Afinal, nosso afeto deve fluir com naturalidade."
 
 # game/dialogue/script-ch30-actives.rpy:459
 translate ptbr a8_a612cfdf:
 
     # y "I just don't want to mess this up."
-    y ""
+    y "Eu só não quero estragar tudo."
 
 # game/dialogue/script-ch30-actives.rpy:461
 translate ptbr a8_a6acc219:
 
     # y "{b}W-we can work up to the kiss!{/b}"
-    y ""
+    y "{b}N-Nós podemos ir aos poucos até o beijo!{/b}"
 
 # game/dialogue/script-ch30-actives.rpy:463
 translate ptbr a8_940472d8:
 
     # y "It's just... I need a little time, okay? Would that be fine?"
-    y ""
+    y "É só que... eu preciso de um pouco de tempo, está bem? Estaria tudo bem para você?"
 
 # game/dialogue/script-ch30-actives.rpy:468
 translate ptbr a9_134373de:
 
     # y "There's no need to be flustered, [player]. It was a delicious piece of candy. If you ever want to give me chocolate again..."
-    y ""
+    y "Você não precisa ficar tão sem graça, [player]. Era um doce delicioso. Se algum dia você quiser me oferecer chocolate novamente..."
 
 # game/dialogue/script-ch30-actives.rpy:470
 translate ptbr a9_68366990:
 
     # y "I like the Hershey brand, if you, I-I mean... ever wanted to buy me chocolate."
-    y ""
+    y "Gosto da marca Hershey, se você, q-quer dizer... algum dia quisesse me comprar chocolate."
 
 # game/dialogue/script-ch30-actives.rpy:471
 translate ptbr a9_881104ba:
 
     # y "That, of course, is not to imply an expectation. You shouldn't feel obligated to buy me chocolate!"
-    y ""
+    y "Com isso, é claro, não quero insinuar nenhuma expectativa. Você não precisa se sentir na obrigação de me comprar chocolate!"
 
 # game/dialogue/script-ch30-actives.rpy:472
 translate ptbr a9_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:474
 translate ptbr a9_45d9498b:
 
     # y "Putting that chocolate between my lips was a sweet accident."
-    y ""
+    y "Ter aquele chocolate entre os meus lábios foi um doce acidente."
 
 # game/dialogue/script-ch30-actives.rpy:479
 translate ptbr a10_6d1e87b2:
 
     # y "It is a fascinating read. Many fans have even theorized that it contains knowledge of... another game I was from?"
-    y ""
+    y "É uma leitura fascinante. Muitos fãs até teorizam que ele contém conhecimento sobre... outro jogo de onde eu vim?"
 
 # game/dialogue/script-ch30-actives.rpy:481
 translate ptbr a10_fd594af8:
 
     # y "Though technically I am not 'from' a game that exists, since the game has not been made yet. But from a story perspective I may be from another story."
-    y ""
+    y "Embora, tecnicamente, eu não seja 'de' um jogo que exista, já que esse jogo ainda não foi feito. Mas, do ponto de vista da história, eu posso ser de outra história."
 
 # game/dialogue/script-ch30-actives.rpy:482
 translate ptbr a10_f75fc46b:
 
     # y "Reading it with you might help me understand myself better."
-    y ""
+    y "Ler isso com você pode me ajudar a compreender melhor a mim mesma."
 
 # game/dialogue/script-ch30-actives.rpy:483
 translate ptbr a10_57a17186:
 
     # y "...if you would like to."
-    y ""
+    y "...se você quiser."
 
 # game/dialogue/script-ch30-actives.rpy:485
 translate ptbr a10_deb433ba:
 
     # y "Well... not now."
-    y ""
+    y "Bem... não agora."
 
 # game/dialogue/script-ch30-actives.rpy:487
 translate ptbr a10_da101095:
 
     # y "It might spoil what Dan has planned for it, after all."
-    y ""
+    y "Afinal, isso poderia estragar o que o Dan planejou para ela."
 
 # game/dialogue/script-ch30-actives.rpy:489
 translate ptbr a10_a03af9a0:
 
     # y "I hope you understand why I keep the contents of this book... relatively hidden."
-    y ""
+    y "Espero que você compreenda o motivo de eu manter o conteúdo deste livro... relativamente escondido."
 
 # game/dialogue/script-ch30-actives.rpy:491
 translate ptbr a10_3e1d5bea:
 
     # y "At least, for now."
-    y ""
+    y "Pelo menos por enquanto."
 
 # game/dialogue/script-ch30-actives.rpy:496
 translate ptbr a11_e7c89f26:
 
     # y "...My favorite? My favorite?! Ahaha~!"
-    y ""
+    y "...Meu favorito? Meu favorito?! Ahaha~!"
 
 # game/dialogue/script-ch30-actives.rpy:498
 translate ptbr a11_29bc46ec:
 
     # y "Why do you ask such difficult questions, [player]?"
-    y ""
+    y "Por que você faz perguntas tão difíceis, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:499
 translate ptbr a11_a293eb1c:
 
     # y "Well, let me think..."
-    y ""
+    y "Bem, deixe-me pensar..."
 
 # game/dialogue/script-ch30-actives.rpy:501
 translate ptbr a11_850ff20f:
 
     # y "Well, to be honest with you... there are so many blades out there that deserve praise due to merit, craftsmanship, and history alone."
-    y ""
+    y "Bem, para ser sincera com você... existem tantas lâminas por aí que merecem elogios apenas por seu mérito, nível de fabricação e história."
 
 # game/dialogue/script-ch30-actives.rpy:503
 translate ptbr a11_dc4f4204:
 
     # y "Though I suppose one historic blade that comes to mind is the iconic Kukri, for example."
-    y ""
+    y "Embora eu suponha que uma lâmina histórica que me vem à mente seja a icônica Kukri, por exemplo."
 
 # game/dialogue/script-ch30-actives.rpy:504
 translate ptbr a11_4f0cc154:
 
     # y "This blade was often used by the famous Gurka warriors of Nepal. Often they are praised for their tenacity in close quarters combat with this blade being their favorite."
-    y ""
+    y "Esta lâmina era frequentemente usada pelos famosos guerreiros Gurkha do Nepal. Eles são muitas vezes elogiados por sua tenacidade no combate corpo a corpo, sendo esta lâmina a sua favorita."
 
 # game/dialogue/script-ch30-actives.rpy:506
 translate ptbr a11_3060ff76:
 
     # y "Sure it may not technically be a knife, but it's still a good example of a well-crafted blade that can still be a knife."
-    y ""
+    y "Claro que ela pode não ser, tecnicamente, uma faca, mas ainda é um belo exemplo de uma lâmina bem fabricada que ainda pode servir como uma faca."
 
 # game/dialogue/script-ch30-actives.rpy:508
 translate ptbr a11_ffe6f217:
