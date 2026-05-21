@@ -1006,211 +1006,211 @@ translate ptbr a11_3060ff76:
 translate ptbr a11_ffe6f217:
 
     # y "For instance, the slightly bigger size and curved wide blade make it more practical compared to, say other combat knives.."
-    y ""
+    y "Por exemplo, o tamanho ligeiramente maior e a lâmina larga e curva a tornam mais prática em comparação a, digamos, outras facas de combate..."
 
 # game/dialogue/script-ch30-actives.rpy:510
 translate ptbr a11_05d986d4:
 
     # y "To be precise it's about 16-18 inches in length and I have seen quite a few with many geometric designs that I find simply lovely.."
-    y ""
+    y "Para ser exata, ela tem cerca de 40 a 45 centímetros de comprimento, e eu já vi várias com muitos designs geométricos que acho simplesmente adoráveis..."
 
 # game/dialogue/script-ch30-actives.rpy:511
 translate ptbr a11_5aad30d9:
 
     # y "Then there are these two curved hook-like openings at the front of the blade, ideal for quickly catching and disarming your opponent."
-    y ""
+    y "E há também essas duas aberturas curvas em forma de gancho na frente da lâmina, ideais para prender e desarmar o seu oponente rapidamente."
 
 # game/dialogue/script-ch30-actives.rpy:513
 translate ptbr a11_22137247:
 
     # y "So with such history and utility associated with it, despite its cliche and crude appearance, how can one turn the Kukri down?"
-    y ""
+    y "Então, com tanta história e utilidade associadas a ela, apesar de sua aparência rústica e clichê, como alguém poderia recusar a Kukri?"
 
 # game/dialogue/script-ch30-actives.rpy:515
 translate ptbr a11_5fd54906:
 
     # y "This is actually a widespread misconception, the phrase knife doesn't say anything about the size. For example, there is the medieval german Langmesser which is, by definition, a two-handed knife."
-    y ""
+    y "Na verdade, esse é um equívoco muito comum; o termo 'faca' não diz nada sobre o tamanho. Por exemplo, existe a Langmesser alemã medieval, que é, por definição, uma faca de duas mãos."
 
 # game/dialogue/script-ch30-actives.rpy:517
 translate ptbr a11_ca02249b:
 
     # y "They come in a wide variety of forms. Some of them are even looking like oversized kitchen knives as we know them today. The purpose was quite simple, to take a design the blacksmith of this time already knew, and turn it into an effective weapon."
-    y ""
+    y "Elas vêm em uma grande variedade de formas. Algumas até se parecem com facas de cozinha superdimensionadas, como as conhecemos hoje. O objetivo era bem simples: pegar um design que o ferreiro da época já conhecia e transformá-lo em uma arma eficaz."
 
 # game/dialogue/script-ch30-actives.rpy:518
 translate ptbr a11_96d654ab:
 
     # y "Many iterations of the Langmesser come with a crossguard the same as you see on most types of swords."
-    y ""
+    y "Muitas iterações da Langmesser vêm com uma guarda-cruzada igual à que você vê na maioria dos tipos de espadas."
 
 # game/dialogue/script-ch30-actives.rpy:519
 translate ptbr a11_f5096dcd:
 
     # y "The designs are usually quite simple, highly ornate hilts are rare. Because everyone who could spend a lot of money would just get an actual sword."
-    y ""
+    y "Os designs geralmente são bem simples; empunhaduras altamente ornamentadas são raras. Porque qualquer um que pudesse gastar muito dinheiro simplesmente compraria uma espada de verdade."
 
 # game/dialogue/script-ch30-actives.rpy:521
 translate ptbr a11_775b183b:
 
     # y "And now that I speak of it, I realize that I definitely need one!"
-    y ""
+    y "E, agora que falo sobre isso, percebo que definitivamente preciso de uma!"
 
 # game/dialogue/script-ch30-actives.rpy:523
 translate ptbr a11_1705dc32:
 
     # y "The Bowie knife is another prominent example. Famously used among many adventurers such as James \"Jim\" Bowie and other frontiersmen, it too has its appeal."
-    y ""
+    y "A faca Bowie é outro exemplo proeminente. Famosamente usada por muitos aventureiros, como James "Jim" Bowie e outros desbravadores, ela também tem o seu apelo."
 
 # game/dialogue/script-ch30-actives.rpy:524
 translate ptbr a11_7adaf727:
 
     # y "With its sleek and hardy blade out front, whittled down to a fine grain, it has the best sharpness for any task. It gives a bold and shiny impression as well."
-    y ""
+    y "Com sua lâmina elegante e resistente na frente, desbastada até um grão fino, ela tem a melhor afiação para qualquer tarefa. Ela também passa uma impressão ousada e brilhante."
 
 # game/dialogue/script-ch30-actives.rpy:525
 translate ptbr a11_02a1e92f:
 
     # y "Not to mention all the other collector's editions of the Bowie Knife that have many engravings to give essence and a story to each.."
-    y ""
+    y "Isso sem mencionar todas as outras edições de colecionador da Faca Bowie que possuem diversas gravuras para dar essência e uma história a cada uma..."
 
 # game/dialogue/script-ch30-actives.rpy:526
 translate ptbr a11_19ef8751:
 
     # y "And maybe such knives can be an occasional way to add style to other tasks, such as cooking and things. Though I personally would hold back on that."
-    y ""
+    y "E talvez essas facas possam ser uma maneira ocasional de adicionar estilo a outras tarefas, como cozinhar e coisas do tipo. Embora eu, pessoalmente, me contenha quanto a isso."
 
 # game/dialogue/script-ch30-actives.rpy:527
 translate ptbr a11_99442171:
 
     # y "Oh, I can go on about many various kinds of knives and their appeal but it would take almost an eternity to do so. Still, I do feel a bit elated from this talk.."
-    y ""
+    y "Ah, eu poderia continuar falando sobre vários tipos diferentes de facas e seus apelos, mas levaria quase uma eternidade para fazer isso. Ainda assim, me sinto um pouco eufórica com essa nossa conversa..."
 
 # game/dialogue/script-ch30-actives.rpy:531
 translate ptbr a11_fc322476:
 
     # y "What do you feel about knives, [player]?" nointeract
-    y "" nointeract
+    y "O que você acha sobre facas, [player]?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:536
 translate ptbr a11_b807fb65:
 
     # y "O-oh thank you... I thought I was rambling too much there.."
-    y ""
+    y "A-ah, obrigada... Achei que eu estivesse divagando demais..."
 
 # game/dialogue/script-ch30-actives.rpy:537
 translate ptbr a11_5a230501:
 
     # y "It is always lovely to find someone having similar interests especially in things people may find too esoteric to focus on."
-    y ""
+    y "É sempre adorável encontrar alguém com interesses semelhantes, especialmente em coisas que as pessoas podem achar esotéricas demais para se concentrar."
 
 # game/dialogue/script-ch30-actives.rpy:538
 translate ptbr a11_8fa73604:
 
     # y "Maybe we can discuss the subject further another conversation for another day."
-    y ""
+    y "Talvez possamos discutir mais sobre o assunto numa outra conversa, em outro dia."
 
 # game/dialogue/script-ch30-actives.rpy:539
 translate ptbr a11_7e77122e:
 
     # y "Perhaps compare and discuss each others' collections too in the near future. Hehehe."
-    y ""
+    y "Talvez comparar e discutir sobre a coleção um do outro num futuro próximo também. Hehehe."
 
 # game/dialogue/script-ch30-actives.rpy:543
 translate ptbr a11_05303935:
 
     # y "O-oh... I am genuinely surprised that you would want to go further on this subject."
-    y ""
+    y "A-ah... Eu estou genuinamente surpresa que você queira se aprofundar mais neste assunto."
 
 # game/dialogue/script-ch30-actives.rpy:544
 translate ptbr a11_efffde37:
 
     # y "A-are you sure you want to? I mean I don't want to force you to..."
-    y ""
+    y "V-você tem certeza de que quer? Digo, eu não quero forçar você a..."
 
 # game/dialogue/script-ch30-actives.rpy:545
 translate ptbr a11_b9fb960a:
 
     # y "You don't have to fake interest or save face for me. Honestly, it is not necessary."
-    y ""
+    y "Você não precisa fingir interesse ou tentar manter as aparências por mim. Honestamente, não é necessário."
 
 # game/dialogue/script-ch30-actives.rpy:546
 translate ptbr a11_d0688d71:
 
     # y "But I suppose it is all up to you in the end. I am just letting you know that and make sure you were serious. Anyway, we can discuss this further at another time. T-thank you."
-    y ""
+    y "Mas suponho que, no fim, tudo depende de você. Só estou avisando isso para ter certeza de que você estava falando sério. De qualquer forma, podemos discutir mais sobre isso em outro momento. O-obrigada."
 
 # game/dialogue/script-ch30-actives.rpy:553
 translate ptbr a11_3d7aac5d:
 
     # y "I-I see... Well, I do admit I feel slightly taken aback, but that is okay. Maybe we don't have to share all the same interests all the time."
-    y ""
+    y "E-entendo... Bem, admito que me sinto um pouco surpresa, mas tudo bem. Talvez nós não precisemos compartilhar os mesmos interesses o tempo todo."
 
 # game/dialogue/script-ch30-actives.rpy:554
 translate ptbr a11_dd713418:
 
     # y "Even if I feel a bit disappointed and hoped for further discussion, we all come into this relationship as individuals. Still trying to navigate things."
-    y ""
+    y "Mesmo que eu me sinta um pouco desapontada e esperasse por mais discussões, nós todos entramos nesse relacionamento como indivíduos. Ainda tentando entender as coisas."
 
 # game/dialogue/script-ch30-actives.rpy:555
 translate ptbr a11_73d99a3a:
 
     # y "Perhaps we can talk of other aspects that are as artistic, like novels or even photographs... yeah."
-    y ""
+    y "Talvez possamos conversar sobre outros aspectos que são tão artísticos quanto, como romances ou até fotografias... é."
 
 # game/dialogue/script-ch30-actives.rpy:556
 translate ptbr a11_bd70a75c:
 
     # y "I am sorry the subject of knives and blades was not to your fancy but again I understand."
-    y ""
+    y "Sinto muito se o assunto de facas e lâminas não foi do seu agrado, mas, novamente, eu compreendo."
 
 # game/dialogue/script-ch30-actives.rpy:561
 translate ptbr a11_e04f3ea8:
 
     # y "Oh... sorry about that. I should have known.."
-    y ""
+    y "Ah... me desculpe por isso. Eu deveria saber..."
 
 # game/dialogue/script-ch30-actives.rpy:562
 translate ptbr a11_87a515c9:
 
     # y "Though I appreciate your niceness there. I am sorry to have irritated you with my rambling."
-    y ""
+    y "Embora eu aprecie a sua gentileza nisso. Sinto muito ter irritado você com a minha divagação."
 
 # game/dialogue/script-ch30-actives.rpy:563
 translate ptbr a11_0989a30b:
 
     # y "Let us switch to something else."
-    y ""
+    y "Vamos mudar para alguma outra coisa."
 
 # game/dialogue/script-ch30-actives.rpy:568
 translate ptbr a11_4044b381:
 
     # y "I... You are right... This was most unwise."
-    y ""
+    y "Eu... Você tem razão... Isso foi muito imprudente."
 
 # game/dialogue/script-ch30-actives.rpy:569
 translate ptbr a11_23565c7c:
 
     # y "What was I thinking!? Of course, that would not be good enough!!"
-    y ""
+    y "O que eu estava pensando!? É claro que isso não seria bom o suficiente!!"
 
 # game/dialogue/script-ch30-actives.rpy:570
 translate ptbr a11_016f5926:
 
     # y "J-just why..? I wanted to just discuss something nice with you [player]..."
-    y ""
+    y "M-mas por que..? Eu só queria discutir algo legal com você, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:571
 translate ptbr a11_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:572
 translate ptbr a11_a5edf94a:
 
     # y "N-nevermind..."
-    y ""
+    y "D-deixa para lá..."
 
 # game/dialogue/script-ch30-actives.rpy:575
 translate ptbr a11_52ad78f6:
