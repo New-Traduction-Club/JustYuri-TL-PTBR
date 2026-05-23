@@ -28,7 +28,7 @@ translate ptbr tetris_dde3ed59:
 translate ptbr tetris_e472e3dd:
 
     # y "Perhaps some other time, then."
-    y "Talvez em outra ocasião, então."
+    y "Talvez em outra hora, então."
 
 # game/tetris.rpy:27
 translate ptbr tetris_54227027:
