@@ -4,9 +4,9 @@ Repositório para realizar a tradução para o português do [Just Yuri](https:/
 
 ## Progresso
 <!-- PROGRESO_TRADUCCION_START -->
-**832 de 13486 líneas traducidas**
+**839 de 13486 líneas traducidas**
 
-**Progreso:** 6.17%
+**Progreso:** 6.22%
 <!-- PROGRESO_TRADUCCION_END -->
 
 ## Créditos
