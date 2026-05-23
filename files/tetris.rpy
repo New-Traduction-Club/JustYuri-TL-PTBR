@@ -322,55 +322,55 @@ translate ptbr tetris_ba0404f0:
 translate ptbr tetris_1996f8f8:
 
     # y "Oh, some competition, hm?"
-    y ""Ah, alguma concorrência, hm?""
+    y "Ah, alguma concorrência, hm?"
 
 # game/tetris.rpy:204
 translate ptbr tetris_69870812:
 
     # y "Well I suppose being a little competitive wouldn't be too bad, now would it?"
-    y ""
+    y "Bem acho que ser um pouco mais competitivo não seria tão ruim, não é?"
 
 # game/tetris.rpy:211
 translate ptbr tetris_1019ddde:
 
     # y "There's nothing wrong with a nice [placeholder] every once in a while..."
-    y ""
+    y "Não há nada de errado em um [placeholder] legal de vez em quando..."
 
 # game/tetris.rpy:215
 translate ptbr tetris_37747ad4:
 
     # y "Alright, let us see who will outdo the other!"
-    y ""
+    y "Tudo bem, vamos ver quem se sai melhor!"
 
 # game/tetris.rpy:233
 translate ptbr tetris_95ca18db:
 
     # y "W-well... [player], I don't know whether this is simply a jest or you just trying to impress me..."
-    y ""
+    y "B-bem... [player], não sei se isso é apenas uma brincadeira ou se você está tentando me impressionar..."
 
 # game/tetris.rpy:234
 translate ptbr tetris_85b274f9:
 
     # y "All just to prove something to me. Just to rub it in my face.."
-    y ""
+    y "Tudo isso só para me provar alguma coisa. E esfregar na minha cara.."
 
 # game/tetris.rpy:235
 translate ptbr tetris_90a7a96b:
 
     # y "Then again, at least it's a way to pass the time."
-    y ""
+    y "Por outro lado, pelo menos é uma forma de passar o tempo."
 
 # game/tetris.rpy:237
 translate ptbr tetris_c3c619a6:
 
     # y "Well, whatever."
-    y ""
+    y "Bom, tanto faz."
 
 # game/tetris.rpy:238
 translate ptbr tetris_66d3ea9b:
 
     # y "Let's get on with it."
-    y ""
+    y "Vamos logo com isso."
 
 # game/tetris.rpy:258
 translate ptbr tetris_15e6ef27:
@@ -382,73 +382,73 @@ translate ptbr tetris_15e6ef27:
 translate ptbr tetris_60e2f754:
 
     # y "W-well if you insist [player]. It is better when we strive toward the same goal together."
-    y ""
+    y "B-Bem se você insiste [player]. É melhor quando lutamos juntos pelo mesmo objetivo."
 
 # game/tetris.rpy:260
 translate ptbr tetris_d59f2c87:
 
     # y "As the old saying goes, birds of a feather flock together. Two heads are always better than one ~!"
-    y ""
+    y "Como diz aquele ditado, as semelhanças se atraem. Duas cabeças pensam melhor do que uma!"
 
 # game/tetris.rpy:262
 translate ptbr tetris_bda238cc:
 
     # y "Maybe it might even become an all-nighter! Ehehe..."
-    y ""
+    y "Talvez até viremos a noite! Ehehe..."
 
 # game/tetris.rpy:264
 translate ptbr tetris_4ff579fa:
 
     # y "Okay game on dear [player]!"
-    y ""
+    y "Ok vamos começar querido [player]!"
 
 # game/tetris.rpy:270
 translate ptbr tetris_e668cf05:
 
     # y "A-are you sure...?"
-    y ""
+    y "V-Você tem certeza...?"
 
 # game/tetris.rpy:271
 translate ptbr tetris_a1d4cb99:
 
     # y "I mean why would you want to work together with me, let alone play a game together?"
-    y ""
+    y "Quero dizer, por que você iria querer trabalhar junto comigo, muito menos jogar um jogo juntos?"
 
 # game/tetris.rpy:272
 translate ptbr tetris_80b5e6a8:
 
     # y "Is this again a big joke to you? I... I don't know anymore."
-    y ""
+    y "Isso é só mais uma grande piada para você? Eu... Eu já não sei mais."
 
 # game/tetris.rpy:274
 translate ptbr tetris_71178d66:
 
     # y "Let's try this... I guess."
-    y ""
+    y "Vamos tentar isto... Eu acho."
 
 # game/tetris.rpy:284
 translate ptbr tetris_b7e7cafa:
 
     # y "O~Oh? You want to try the Co-op mode?"
-    y ""
+    y "A~Ah? Você quer experimentar o modo comperativo?"
 
 # game/tetris.rpy:285
 translate ptbr tetris_fe3a6e83:
 
     # y "Well, I guess we could try it together... "
-    y ""
+    y "Bem, acho que poderíamos testar isso juntos..."
 
 # game/tetris.rpy:286
 translate ptbr tetris_ba301020:
 
     # y "If you are really sure you want to..."
-    y ""
+    y "Se você tiver mesmo certeza que quer..."
 
 # game/tetris.rpy:288
 translate ptbr tetris_1209e14e:
 
     # y "I just hope that I don't mess it up somehow..."
-    y ""
+    y "Só espero não estragar tudo de alguma forma..."
 
 # game/tetris.rpy:289
 translate ptbr tetris_692e3c8d:
@@ -2296,12 +2296,8 @@ translate ptbr strings:
     new "Pontuação"
 
     # game/tetris.rpy:118
-    old "CO-OP"
-    new "CO-OP"
-
-    # game/tetris.rpy:127
-    old "30"
-    new "30"
+    old "Co-op"
+    new "Comperativo"
 
     # game/tetris.rpy:127
     old "50"
@@ -2361,7 +2357,7 @@ translate ptbr strings:
 
     # game/tetris.rpy:451
     old "Disadvantage"
-    new "Desvantagem"
+    new "Desvantajoso"
 
     # game/tetris.rpy:451
     old "Expert"
@@ -2373,5 +2369,5 @@ translate ptbr strings:
 
     # game/tetris.rpy:451
     old "Your choice, [persistent.yuri_nickname]"
-    new "Sua escolha, [persistent.yuri_nickname]"
+    new "Sua vez, [persistent.yuri_nickname]"
 
