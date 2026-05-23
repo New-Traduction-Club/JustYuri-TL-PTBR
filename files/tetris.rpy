@@ -1,40 +1,789 @@
-﻿
+
 
 # game/tetris.rpy:16
 translate ptbr tetris_8a53d27f:
 
     # y "Oh, so you'd like to play some Tetris, hm?" nointeract
-    y "" nointeract
+    y "Ah, então você gostaria de jogar Tetris, hm?" nointeract
 
 # game/tetris.rpy:18
 translate ptbr tetris_460e8114:
 
     # y "Oh, good."
-    y ""
+    y "Ah, ótimo."
 
 # game/tetris.rpy:19
 translate ptbr tetris_f53782a9:
 
     # y "Which theme would you like this time?"
-    y ""
+    y "Qual tema você gostaria desta vez?"
 
 # game/tetris.rpy:22
 translate ptbr tetris_dde3ed59:
 
     # y "I see..."
-    y ""
+    y "Vejamos..."
 
 # game/tetris.rpy:23
 translate ptbr tetris_e472e3dd:
 
     # y "Perhaps some other time, then."
-    y ""
+    y "Talvez em outra ocasião, então."
 
 # game/tetris.rpy:27
 translate ptbr tetris_54227027:
 
     # y "You... want to play Tetris...?" nointeract
-    y "" nointeract
+    y "Você... quer jogar Tetris...?" nointeract
+
+# game/tetris.rpy:29
+translate ptbr tetris_4af5053a:
+
+    # y "Oh..."
+    y "Ah..."
+
+# game/tetris.rpy:30
+translate ptbr tetris_9e5485f8:
+
+    # y "Well, sure, I guess I wouldn't really mind."
+    y "Bem, claro, acho que não me importaria."
+
+# game/tetris.rpy:31
+translate ptbr tetris_9f63a45c:
+
+    # y "I have to wonder if you'll mock me for losing."
+    y "Fico me perguntando se você vai zombar de mim por ter perdido."
+
+# game/tetris.rpy:32
+translate ptbr tetris_47d56014:
+
+    # y "Judging from how much pleasure you derive from my misery I assume you will."
+    y "Julgando pelo prazer que você tira da minha miséria, presumo que sim."
+
+# game/tetris.rpy:33
+translate ptbr tetris_d4b6b765:
+
+    # y "Anyway, just pick a theme and let's get on with it."
+    y "Enfim, basta escolher um tema e vamos começar."
+
+# game/tetris.rpy:36
+translate ptbr tetris_4af5053a_1:
+
+    # y "Oh..."
+    y "Ah..."
+
+# game/tetris.rpy:37
+translate ptbr tetris_8f422a2b:
+
+    # y "Perhaps... some other time, then."
+    y "Talvez... em outra ocasião, então."
+
+# game/tetris.rpy:41
+translate ptbr tetris_0f5a488d:
+
+    # y "Y-you want to play Tetris, yes?" nointeract
+    y "V-Você quer jogar Tetris, certo?" nointeract
+
+# game/tetris.rpy:43
+translate ptbr tetris_da554607:
+
+    # y "Uhuhuhu~!"
+    y "Uhuhuhu~!"
+
+# game/tetris.rpy:44
+translate ptbr tetris_f53782a9_1:
+
+    # y "Which theme would you like this time?"
+    y "Qual tema você gostaria desta vez?"
+
+# game/tetris.rpy:45
+translate ptbr tetris_07ccb8c6:
+
+    # y "It doesn't matter which one you'll choose, I'm sure you'll still dominate me no matter what you choose!~"
+    y "Não importa qual você escolha, tenho certeza de que você ainda me dominará, não importa o que faça!~"
+
+# game/tetris.rpy:48
+translate ptbr tetris_8f82eb44:
+
+    # y "O-oh..."
+    y "A-Ah..."
+
+# game/tetris.rpy:49
+translate ptbr tetris_ae7f22e8:
+
+    # y "Well..."
+    y "Bem..."
+
+# game/tetris.rpy:50
+translate ptbr tetris_6e92cc87:
+
+    # y "Alright..."
+    y "Certo..."
+
+# game/tetris.rpy:51
+translate ptbr tetris_3b3aae3c:
+
+    # y "Perhaps some other time, then..."
+    y "Talvez em outra ocasião, então..."
+
+# game/tetris.rpy:55
+translate ptbr tetris_4d7d3148:
+
+    # y "You want to play Tetris, hm?" nointeract
+    y "Você quer jogar Tetris, hm?" nointeract
+
+# game/tetris.rpy:57
+translate ptbr tetris_c48be35b:
+
+    # y "I'm sure you'll somehow find a way to make even such a trivial matter into a nightmare for me..."
+    y "Tenho certeza de que você encontrará um jeito de transformar até mesmo uma questão tão trivial em um pesadelo para mim..."
+
+# game/tetris.rpy:58
+translate ptbr tetris_817bff8e:
+
+    # y "Somehow you'll still find a way to humiliate me..."
+    y "De alguma forma você ainda encontrará um jeito de me humilhar..."
+
+# game/tetris.rpy:59
+translate ptbr tetris_87ff6dd3:
+
+    # y "Right..."
+    y "Certo..."
+
+# game/tetris.rpy:60
+translate ptbr tetris_05078f8e:
+
+    # y "Anyway, which theme do you want?"
+    y "Enfim, qual tema você deseja?"
+
+# game/tetris.rpy:63
+translate ptbr tetris_4af5053a_2:
+
+    # y "Oh..."
+    y "Ah..."
+
+# game/tetris.rpy:64
+translate ptbr tetris_04fa447e:
+
+    # y "Well... I see..."
+    y "Bem... Vejamos..."
+
+# game/tetris.rpy:65
+translate ptbr tetris_f5482126:
+
+    # y "Perhaps some other time when you learn to make up your mind."
+    y "Talvez em outro momento, quando você aprender a se decidir."
+
+# game/tetris.rpy:72
+translate ptbr tetris_fdc8217f:
+
+    # y "You don't want to give Tetris any kind of skin? That's okay."
+    y "Você não quer dar nenhum tipo de skin ao Tetris? Ah, Tudo bem."
+
+# game/tetris.rpy:76
+translate ptbr tetris_d89d9ebb:
+
+    # y "Oh? Going to experience one of the latest Tetris themes?"
+    y "Ah? Vai experimentar um dos temas mais recentes do Tetris?"
+
+# game/tetris.rpy:77
+translate ptbr tetris_fb95ab09:
+
+    # y "But please don't expect too much of it."
+    y "Mas, por favor, não espere muito disso."
+
+# game/tetris.rpy:81
+translate ptbr tetris_cb469b01:
+
+    # y "Oh! Is this the classic Tetris for HandHelds? Have in mind that this is the color version."
+    y "Ah! Este é o Tetris clássico para dispositivos móveis? Lembre-se que esta é a versão colorida."
+
+# game/tetris.rpy:85
+translate ptbr tetris_d11b6ae9:
+
+    # y "Okay. It's unfortunate that you can't experience Blast Processing in Ren'Py."
+    y "Ok. É uma pena que você não possa experimentar o 'Blast Processing' no Ren'Py."
+
+# game/tetris.rpy:98
+translate ptbr tetris_fdc8217f_1:
+
+    # y "You don't want to give Tetris any kind of skin? That's okay."
+    y "Você não quer dar nenhum tipo de skin ao Tetris? Ah, Tudo bem."
+
+# game/tetris.rpy:102
+translate ptbr tetris_d89d9ebb_1:
+
+    # y "Oh? Going to experience one of the latest Tetris themes?"
+    y "Ah? Vai experimentar um dos temas mais recentes de Tetris?"
+
+# game/tetris.rpy:103
+translate ptbr tetris_fb95ab09_1:
+
+    # y "But please don't expect too much of it."
+    y "Mas, por favor, não espere muito disso."
+
+# game/tetris.rpy:107
+translate ptbr tetris_cb469b01_1:
+
+    # y "Oh! Is this the classic Tetris for HandHelds? Have in mind that this is the color version."
+    y "Ah! Este é o Tetris Clássico para dispositivos móveis? Lembre-se de que esta é a versão colorida."
+
+# game/tetris.rpy:111
+translate ptbr tetris_d11b6ae9_1:
+
+    # y "Okay. It's unfortunate that you can't experience Blast Processing in Ren'Py."
+    y "Certo. É uma pena que você não possa apreciar o 'Blast Processing' no Ren'Py."
+
+# game/tetris.rpy:117
+translate ptbr tetris_0443420d:
+
+    # y "Alright [player], now I can let you select the modes you want to play."
+    y "Muito bem [player], agora posso deixar você selecionar os modos que deseja jogar."
+
+# game/tetris.rpy:123
+translate ptbr tetris_b257c1e8:
+
+    # y "It's a nice way to pass the time, really."
+    y "É uma ótima maneira de passar o tempo, na verdade."
+
+# game/tetris.rpy:124
+translate ptbr tetris_c234a635:
+
+    # y "Just a couple doing things together..."
+    y "Apenas um casal se distraindo juntos..."
+
+# game/tetris.rpy:125
+translate ptbr tetris_a7b2cc9e:
+
+    # y "Ahem... Anyway let's get started."
+    y "Bem... De qualquer forma, vamos começar."
+
+# game/tetris.rpy:142
+translate ptbr tetris_3071f89e:
+
+    # y "Oh, lovely choice, [player]~"
+    y "Oh, bela escolha, [player]~"
+
+# game/tetris.rpy:143
+translate ptbr tetris_fb99333e:
+
+    # y "W-well, hopefully I will prove a worthy challenge..."
+    y ""
+
+# game/tetris.rpy:144
+translate ptbr tetris_8218f152:
+
+    # y "Uhuhuhu..."
+    y "Uhuhuhu..."
+
+# game/tetris.rpy:145
+translate ptbr tetris_636c283e:
+
+    # y "Well whoever gets to the specific amount of lines wins..."
+    y ""
+
+# game/tetris.rpy:161
+translate ptbr tetris_d2631acc:
+
+    # y "I-I'm not sure if you'd want to waste your time with me..."
+    y ""
+
+# game/tetris.rpy:162
+translate ptbr tetris_85dd300f:
+
+    # y "I mean, this mode seems a bit too simple and boring to you."
+    y ""
+
+# game/tetris.rpy:163
+translate ptbr tetris_0b511de7:
+
+    # y "Especially with someone such as myself."
+    y ""
+
+# game/tetris.rpy:165
+translate ptbr tetris_450cdb34:
+
+    # y "Maybe you just want to get an ego boost from seeing me lose?"
+    y ""
+
+# game/tetris.rpy:184
+translate ptbr tetris_840aa1fd:
+
+    # y "And maybe you will win me as a prize to be cherished... Forever~"
+    y ""
+
+# game/tetris.rpy:185
+translate ptbr tetris_ba0404f0:
+
+    # y "Or maybe I would win you. Hehe. Either way, everyone wins!"
+    y ""
+
+# game/tetris.rpy:203
+translate ptbr tetris_1996f8f8:
+
+    # y "Oh, some competition, hm?"
+    y ""
+
+# game/tetris.rpy:204
+translate ptbr tetris_69870812:
+
+    # y "Well I suppose being a little competitive wouldn't be too bad, now would it?"
+    y ""
+
+# game/tetris.rpy:211
+translate ptbr tetris_1019ddde:
+
+    # y "There's nothing wrong with a nice [placeholder] every once in a while..."
+    y ""
+
+# game/tetris.rpy:215
+translate ptbr tetris_37747ad4:
+
+    # y "Alright, let us see who will outdo the other!"
+    y ""
+
+# game/tetris.rpy:233
+translate ptbr tetris_95ca18db:
+
+    # y "W-well... [player], I don't know whether this is simply a jest or you just trying to impress me..."
+    y ""
+
+# game/tetris.rpy:234
+translate ptbr tetris_85b274f9:
+
+    # y "All just to prove something to me. Just to rub it in my face.."
+    y ""
+
+# game/tetris.rpy:235
+translate ptbr tetris_90a7a96b:
+
+    # y "Then again, at least it's a way to pass the time."
+    y ""
+
+# game/tetris.rpy:237
+translate ptbr tetris_c3c619a6:
+
+    # y "Well, whatever."
+    y ""
+
+# game/tetris.rpy:238
+translate ptbr tetris_66d3ea9b:
+
+    # y "Let's get on with it."
+    y ""
+
+# game/tetris.rpy:258
+translate ptbr tetris_15e6ef27:
+
+    # y "Oh how fun~!"
+    y ""
+
+# game/tetris.rpy:259
+translate ptbr tetris_60e2f754:
+
+    # y "W-well if you insist [player]. It is better when we strive toward the same goal together."
+    y ""
+
+# game/tetris.rpy:260
+translate ptbr tetris_d59f2c87:
+
+    # y "As the old saying goes, birds of a feather flock together. Two heads are always better than one ~!"
+    y ""
+
+# game/tetris.rpy:262
+translate ptbr tetris_bda238cc:
+
+    # y "Maybe it might even become an all-nighter! Ehehe..."
+    y ""
+
+# game/tetris.rpy:264
+translate ptbr tetris_4ff579fa:
+
+    # y "Okay game on dear [player]!"
+    y ""
+
+# game/tetris.rpy:270
+translate ptbr tetris_e668cf05:
+
+    # y "A-are you sure...?"
+    y ""
+
+# game/tetris.rpy:271
+translate ptbr tetris_a1d4cb99:
+
+    # y "I mean why would you want to work together with me, let alone play a game together?"
+    y ""
+
+# game/tetris.rpy:272
+translate ptbr tetris_80b5e6a8:
+
+    # y "Is this again a big joke to you? I... I don't know anymore."
+    y ""
+
+# game/tetris.rpy:274
+translate ptbr tetris_71178d66:
+
+    # y "Let's try this... I guess."
+    y ""
+
+# game/tetris.rpy:284
+translate ptbr tetris_b7e7cafa:
+
+    # y "O~Oh? You want to try the Co-op mode?"
+    y ""
+
+# game/tetris.rpy:285
+translate ptbr tetris_fe3a6e83:
+
+    # y "Well, I guess we could try it together... "
+    y ""
+
+# game/tetris.rpy:286
+translate ptbr tetris_ba301020:
+
+    # y "If you are really sure you want to..."
+    y ""
+
+# game/tetris.rpy:288
+translate ptbr tetris_1209e14e:
+
+    # y "I just hope that I don't mess it up somehow..."
+    y ""
+
+# game/tetris.rpy:289
+translate ptbr tetris_692e3c8d:
+
+    # y "Oh, what am I saying? It's just Tetris, it will be alright..."
+    y ""
+
+# game/tetris.rpy:291
+translate ptbr tetris_e31cdf3f:
+
+    # y "So umm... let's just... try it out, I guess."
+    y ""
+
+# game/tetris.rpy:297
+translate ptbr custom_tetris_checkpoint_start_201f6b49:
+
+    # y "Oh, you'd like to try your hand on a custom Tetris build?"
+    y ""
+
+# game/tetris.rpy:298
+translate ptbr custom_tetris_checkpoint_start_562f3524:
+
+    # y "Well, let me give you a quick walk-through of how it's done or do you already have it all figure out?"
+    y ""
+
+# game/tetris.rpy:301
+translate ptbr custom_tetris_checkpoint_start_8efaddd8:
+
+    # y "Okay"
+    y ""
+
+# game/tetris.rpy:304
+translate ptbr custom_tetris_checkpoint_start_0e76a61a:
+
+    # y "By the way, you should probably write this down somewhere..."
+    y ""
+
+# game/tetris.rpy:308
+translate ptbr custom_tetris_repeat_aa16d077:
+
+    # y "All those files which you will create will have to go to folder \"game\\custom_tetris\""
+    y ""
+
+# game/tetris.rpy:309
+translate ptbr custom_tetris_repeat_5a9fd364:
+
+    # y "First thing you need to know is that all images have to be in .png format and all sounds have to be .ogg files. Ren'Py will reject anything else."
+    y ""
+
+# game/tetris.rpy:310
+translate ptbr custom_tetris_repeat_e6fa8891:
+
+    # y "Let's start with the background. {b}Line Count{/b} and {b}Score{/b} have two types of background depending on difficulties."
+    y ""
+
+# game/tetris.rpy:311
+translate ptbr custom_tetris_repeat_e390ac89:
+
+    # y "For the Easy, Medium and Hard difficulties it has to be 220 x 420 pixels image. Use the {b}background.png{/b} file from the folder \"game\\images\\tetris\\tetris\" as an example..."
+    y ""
+
+# game/tetris.rpy:313
+translate ptbr custom_tetris_repeat_feeef887:
+
+    # y "For the same modes but in the Disadvantage, Veteran and Expert difficulties, it is the exact same procedure, but this time you have to delete the grids and name it {b}backgrund_no_grind{/b}... oh yes, and it still has to be a .png file!"
+    y ""
+
+# game/tetris.rpy:314
+translate ptbr custom_tetris_repeat_ec944e35:
+
+    # y "The Co-op mode shares the same procedure, but this time it is 421 x 420 pixels and you name it {b}grids (coop).png{/b}. It's in the same folder again."
+    y ""
+
+# game/tetris.rpy:315
+translate ptbr custom_tetris_repeat_765c39bb:
+
+    # y "Now we come to the blocks."
+    y ""
+
+# game/tetris.rpy:316
+translate ptbr custom_tetris_repeat_f74b316f:
+
+    # y "Fun fact, did you know that a single block is called a Tetromino?"
+    y ""
+
+# game/tetris.rpy:317
+translate ptbr custom_tetris_repeat_c996b4f7:
+
+    # y "There are 7 pieces in Tetris which usually have different colors. You could make them the same colors"
+    y ""
+
+# game/tetris.rpy:318
+translate ptbr custom_tetris_repeat_607535a1:
+
+    # y "But that would be kind of boring. Don't you think?"
+    y ""
+
+# game/tetris.rpy:320
+translate ptbr custom_tetris_repeat_d796593d:
+
+    # y "Each pieces is build from individual blocks which are number from 1 to 7."
+    y ""
+
+# game/tetris.rpy:321
+translate ptbr custom_tetris_repeat_cd7f149b:
+
+    # y "Also in newer version of Tetris. You can see where the piece will land. We refer it as {b}shadow pieces{/b} "
+    y ""
+
+# game/tetris.rpy:322
+translate ptbr custom_tetris_repeat_afef16b4:
+
+    # y "They also need to have their own colors which are usually transparency of normal blocks"
+    y ""
+
+# game/tetris.rpy:323
+translate ptbr custom_tetris_repeat_899a11b0:
+
+    # y "Each of the cube need to be a .png image with size 20x20. You can use the {b}cube_1.png{/b} file from the folder \"game\\images\\tetris\\tetris\" as an example..."
+    y ""
+
+# game/tetris.rpy:324
+translate ptbr custom_tetris_repeat_301aac1b:
+
+    # y "For the T Piece you set up cube_1.png and shadow_1.png"
+    y ""
+
+# game/tetris.rpy:325
+translate ptbr custom_tetris_repeat_6afc7053:
+
+    # y "For the S Piece you set up cube_2.png and shadow_2.png"
+    y ""
+
+# game/tetris.rpy:326
+translate ptbr custom_tetris_repeat_88b8147b:
+
+    # y "For the Z Piece you set up cube_3.png and shadow_3.png"
+    y ""
+
+# game/tetris.rpy:327
+translate ptbr custom_tetris_repeat_daf8fab4:
+
+    # y "For the L Piece you set up cube_4.png and shadow_4.png"
+    y ""
+
+# game/tetris.rpy:328
+translate ptbr custom_tetris_repeat_86880505:
+
+    # y "For the J Piece you set up cube_5.png and shadow_5.png"
+    y ""
+
+# game/tetris.rpy:329
+translate ptbr custom_tetris_repeat_37b17f47:
+
+    # y "For the I Piece you set up cube_6.png and shadow_6.png"
+    y ""
+
+# game/tetris.rpy:330
+translate ptbr custom_tetris_repeat_6a16b2b0:
+
+    # y "For the O Piece you set up cube_7.png and shadow_7.png"
+    y ""
+
+# game/tetris.rpy:331
+translate ptbr custom_tetris_repeat_59726846:
+
+    # y "The last is wall of the game. For wall you set up cube_8.png. Most of the time is black for easy distinguish"
+    y ""
+
+# game/tetris.rpy:332
+translate ptbr custom_tetris_repeat_3a86b5e8:
+
+    # y "For now in your custome_Tetris folder, you should have 18 files. 2 Background, 8 cube and 8 shadow png"
+    y ""
+
+# game/tetris.rpy:333
+translate ptbr custom_tetris_repeat_8a8d7d4d:
+
+    # y "Is everything good? If not let me know and I will repeat the step again"
+    y ""
+
+# game/tetris.rpy:336
+translate ptbr custom_tetris_repeat_cccc3434:
+
+    # y "Okay. Let's go to next part"
+    y ""
+
+# game/tetris.rpy:338
+translate ptbr custom_tetris_repeat_bdae0ec3:
+
+    # y " Oh dear. Let me repeat steps again."
+    y ""
+
+# game/tetris.rpy:344
+translate ptbr custom_tetris_repeat_audio_1f60ad8d:
+
+    # y "Now for the audio part..."
+    y ""
+
+# game/tetris.rpy:345
+translate ptbr custom_tetris_repeat_audio_0dccc6c6:
+
+    # y "All the audio files must have specific names, otherwise the game will reject them, so here are the names for the sounds."
+    y ""
+
+# game/tetris.rpy:346
+translate ptbr custom_tetris_repeat_audio_82a9fc12:
+
+    # y "Keep in mind that sfx should be a very short sounds. If they will be long they will overlap. It will turn into mess"
+    y ""
+
+# game/tetris.rpy:347
+translate ptbr custom_tetris_repeat_audio_abddd5cc:
+
+    # y "Here are the names of the sfx sounds"
+    y ""
+
+# game/tetris.rpy:348
+translate ptbr custom_tetris_repeat_audio_08c031ee:
+
+    # y "t-fl.ogg for a single line clear."
+    y ""
+
+# game/tetris.rpy:349
+translate ptbr custom_tetris_repeat_audio_94e079ff:
+
+    # y "t-2f1.ogg for a double line clear."
+    y ""
+
+# game/tetris.rpy:350
+translate ptbr custom_tetris_repeat_audio_3080badb:
+
+    # y "t-3fl.ogg for a triple line clear."
+    y ""
+
+# game/tetris.rpy:351
+translate ptbr custom_tetris_repeat_audio_f82f30a7:
+
+    # y "t-4fl.ogg for a full tetris line clear."
+    y ""
+
+# game/tetris.rpy:352
+translate ptbr custom_tetris_repeat_audio_2346bce9:
+
+    # y "t-drop.ogg for the hard drop sound."
+    y ""
+
+# game/tetris.rpy:353
+translate ptbr custom_tetris_repeat_audio_5466d53d:
+
+    # y "t-move.ogg for whenever you move the piece."
+    y ""
+
+# game/tetris.rpy:354
+translate ptbr custom_tetris_repeat_audio_9ed0b6cd:
+
+    # y "t-rotate.ogg for whenever you rotate the piece."
+    y ""
+
+# game/tetris.rpy:355
+translate ptbr custom_tetris_repeat_audio_22b187fa:
+
+    # y "Those are were sfx sound. For the main music which will loop for the duration of game."
+    y ""
+
+# game/tetris.rpy:356
+translate ptbr custom_tetris_repeat_audio_a1c7ed67:
+
+    # y "Use \"tetris.ogg\""
+    y ""
+
+# game/tetris.rpy:357
+translate ptbr custom_tetris_repeat_audio_67206e64:
+
+    # y "So in the end your custome_Tetris folder should have 26 files. 2 Background, 8 cube, 8 shadow png and 8 .ogg files"
+    y ""
+
+# game/tetris.rpy:359
+translate ptbr custom_tetris_repeat_audio_2cf50ed3:
+
+    # y "I-I hope I didn't confuse you with that explanation..."
+    y ""
+
+# game/tetris.rpy:360
+translate ptbr custom_tetris_repeat_audio_5667b6e3:
+
+    # y "I'm not good at explaining such technicalities..."
+    y ""
+
+# game/tetris.rpy:361
+translate ptbr custom_tetris_repeat_audio_430cda67:
+
+    # y "If I mess up and you still need to adjust something let me know and I will repeat the steps"
+    y ""
+
+# game/tetris.rpy:364
+translate ptbr custom_tetris_repeat_audio_278283bc:
+
+    # y "Yay"
+    y ""
+
+# game/tetris.rpy:366
+translate ptbr custom_tetris_repeat_audio_8efaddd8:
+
+    # y "Okay"
+    y ""
+
+# game/tetris.rpy:369
+translate ptbr custom_tetris_repeat_audio_8efaddd8_1:
+
+    # y "Okay"
+    y ""
+
+# game/tetris.rpy:373
+translate ptbr custom_tetris_repeat_audio_1629ca8f:
+
+    # y "Anyway, I'm looking forward to what you might come up with!"
+    y ""
+
+# game/tetris.rpy:374
+translate ptbr custom_tetris_repeat_audio_92daedbd:
+
+    # y "Everything you do is fun for me anyway..."
+    y ""
+
+# game/tetris.rpy:377
+translate ptbr custom_tetris_repeat_audio_4b7c406e:
+
+    # y "Oh, I do wonder what you just might come up with..."
+    y ""
+
+# game/tetris.rpy:378
+translate ptbr custom_tetris_repeat_audio_9b1b5f0d:
+
+    # y "Most likely something ridiculous or    y "" nointeract
 
 # game/tetris.rpy:29
 translate ptbr tetris_4af5053a:
