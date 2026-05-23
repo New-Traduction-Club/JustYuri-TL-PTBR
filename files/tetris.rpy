@@ -1,328 +1,328 @@
-﻿
+
 
 # game/tetris.rpy:16
 translate ptbr tetris_8a53d27f:
 
     # y "Oh, so you'd like to play some Tetris, hm?" nointeract
-    y "" nointeract
+    y "Ah, então você gostaria de jogar Tetris, hm?" nointeract
 
 # game/tetris.rpy:18
 translate ptbr tetris_460e8114:
 
     # y "Oh, good."
-    y ""
+    y "Ah, ótimo."
 
 # game/tetris.rpy:19
 translate ptbr tetris_f53782a9:
 
     # y "Which theme would you like this time?"
-    y ""
+    y "Qual tema você gostaria desta vez?"
 
 # game/tetris.rpy:22
 translate ptbr tetris_dde3ed59:
 
     # y "I see..."
-    y ""
+    y "Vejamos..."
 
 # game/tetris.rpy:23
 translate ptbr tetris_e472e3dd:
 
     # y "Perhaps some other time, then."
-    y ""
+    y "Talvez em outra ocasião, então."
 
 # game/tetris.rpy:27
 translate ptbr tetris_54227027:
 
     # y "You... want to play Tetris...?" nointeract
-    y "" nointeract
+    y "Você... quer jogar Tetris...?" nointeract
 
 # game/tetris.rpy:29
 translate ptbr tetris_4af5053a:
 
     # y "Oh..."
-    y ""
+    y "Ah..."
 
 # game/tetris.rpy:30
 translate ptbr tetris_9e5485f8:
 
     # y "Well, sure, I guess I wouldn't really mind."
-    y ""
+    y "Bem, claro, acho que não me importaria."
 
 # game/tetris.rpy:31
 translate ptbr tetris_9f63a45c:
 
     # y "I have to wonder if you'll mock me for losing."
-    y ""
+    y "Fico me perguntando se você vai zombar de mim por ter perdido."
 
 # game/tetris.rpy:32
 translate ptbr tetris_47d56014:
 
     # y "Judging from how much pleasure you derive from my misery I assume you will."
-    y ""
+    y "Julgando pelo prazer que você tira da minha miséria, presumo que sim."
 
 # game/tetris.rpy:33
 translate ptbr tetris_d4b6b765:
 
     # y "Anyway, just pick a theme and let's get on with it."
-    y ""
+    y "Enfim, basta escolher um tema e vamos começar."
 
 # game/tetris.rpy:36
 translate ptbr tetris_4af5053a_1:
 
     # y "Oh..."
-    y ""
+    y "Ah..."
 
 # game/tetris.rpy:37
 translate ptbr tetris_8f422a2b:
 
     # y "Perhaps... some other time, then."
-    y ""
+    y "Talvez... em outra ocasião, então."
 
 # game/tetris.rpy:41
 translate ptbr tetris_0f5a488d:
 
     # y "Y-you want to play Tetris, yes?" nointeract
-    y "" nointeract
+    y "V-Você quer jogar Tetris, certo?" nointeract
 
 # game/tetris.rpy:43
 translate ptbr tetris_da554607:
 
     # y "Uhuhuhu~!"
-    y ""
+    y "Uhuhuhu~!"
 
 # game/tetris.rpy:44
 translate ptbr tetris_f53782a9_1:
 
     # y "Which theme would you like this time?"
-    y ""
+    y "Qual tema você gostaria desta vez?"
 
 # game/tetris.rpy:45
 translate ptbr tetris_07ccb8c6:
 
     # y "It doesn't matter which one you'll choose, I'm sure you'll still dominate me no matter what you choose!~"
-    y ""
+    y "Não importa qual você escolha, tenho certeza de que você ainda me dominará, não importa o que faça!~"
 
 # game/tetris.rpy:48
 translate ptbr tetris_8f82eb44:
 
     # y "O-oh..."
-    y ""
+    y "A-Ah..."
 
 # game/tetris.rpy:49
 translate ptbr tetris_ae7f22e8:
 
     # y "Well..."
-    y ""
+    y "Bem..."
 
 # game/tetris.rpy:50
 translate ptbr tetris_6e92cc87:
 
     # y "Alright..."
-    y ""
+    y "Certo..."
 
 # game/tetris.rpy:51
 translate ptbr tetris_3b3aae3c:
 
     # y "Perhaps some other time, then..."
-    y ""
+    y "Talvez em outra ocasião, então..."
 
 # game/tetris.rpy:55
 translate ptbr tetris_4d7d3148:
 
     # y "You want to play Tetris, hm?" nointeract
-    y "" nointeract
+    y "Você quer jogar Tetris, hm?" nointeract
 
 # game/tetris.rpy:57
 translate ptbr tetris_c48be35b:
 
     # y "I'm sure you'll somehow find a way to make even such a trivial matter into a nightmare for me..."
-    y ""
+    y "Tenho certeza de que você encontrará um jeito de transformar até mesmo uma questão tão trivial em um pesadelo para mim..."
 
 # game/tetris.rpy:58
 translate ptbr tetris_817bff8e:
 
     # y "Somehow you'll still find a way to humiliate me..."
-    y ""
+    y "De alguma forma você ainda encontrará um jeito de me humilhar..."
 
 # game/tetris.rpy:59
 translate ptbr tetris_87ff6dd3:
 
     # y "Right..."
-    y ""
+    y "Certo..."
 
 # game/tetris.rpy:60
 translate ptbr tetris_05078f8e:
 
     # y "Anyway, which theme do you want?"
-    y ""
+    y "Enfim, qual tema você deseja?"
 
 # game/tetris.rpy:63
 translate ptbr tetris_4af5053a_2:
 
     # y "Oh..."
-    y ""
+    y "Ah..."
 
 # game/tetris.rpy:64
 translate ptbr tetris_04fa447e:
 
     # y "Well... I see..."
-    y ""
+    y "Bem... Vejamos..."
 
 # game/tetris.rpy:65
 translate ptbr tetris_f5482126:
 
     # y "Perhaps some other time when you learn to make up your mind."
-    y ""
+    y "Talvez em outro momento, quando você aprender a se decidir."
 
 # game/tetris.rpy:72
 translate ptbr tetris_fdc8217f:
 
     # y "You don't want to give Tetris any kind of skin? That's okay."
-    y ""
+    y "Você não quer dar nenhum tipo de skin ao Tetris? Ah, Tudo bem."
 
 # game/tetris.rpy:76
 translate ptbr tetris_d89d9ebb:
 
     # y "Oh? Going to experience one of the latest Tetris themes?"
-    y ""
+    y "Ah? Vai experimentar um dos temas mais recentes do Tetris?"
 
 # game/tetris.rpy:77
 translate ptbr tetris_fb95ab09:
 
     # y "But please don't expect too much of it."
-    y ""
+    y "Mas, por favor, não espere muito disso."
 
 # game/tetris.rpy:81
 translate ptbr tetris_cb469b01:
 
     # y "Oh! Is this the classic Tetris for HandHelds? Have in mind that this is the color version."
-    y ""
+    y "Ah! Este é o Tetris clássico para dispositivos móveis? Lembre-se que esta é a versão colorida."
 
 # game/tetris.rpy:85
 translate ptbr tetris_d11b6ae9:
 
     # y "Okay. It's unfortunate that you can't experience Blast Processing in Ren'Py."
-    y ""
+    y "Ok. É uma pena que você não possa experimentar o 'Blast Processing' no Ren'Py."
 
 # game/tetris.rpy:98
 translate ptbr tetris_fdc8217f_1:
 
     # y "You don't want to give Tetris any kind of skin? That's okay."
-    y ""
+    y "Você não quer dar nenhum tipo de skin ao Tetris? Ah, Tudo bem."
 
 # game/tetris.rpy:102
 translate ptbr tetris_d89d9ebb_1:
 
     # y "Oh? Going to experience one of the latest Tetris themes?"
-    y ""
+    y "Ah? Vai experimentar um dos temas mais recentes de Tetris?"
 
 # game/tetris.rpy:103
 translate ptbr tetris_fb95ab09_1:
 
     # y "But please don't expect too much of it."
-    y ""
+    y "Mas, por favor, não espere muito disso."
 
 # game/tetris.rpy:107
 translate ptbr tetris_cb469b01_1:
 
     # y "Oh! Is this the classic Tetris for HandHelds? Have in mind that this is the color version."
-    y ""
+    y "Ah! Este é o Tetris Clássico para dispositivos móveis? Lembre-se de que esta é a versão colorida."
 
 # game/tetris.rpy:111
 translate ptbr tetris_d11b6ae9_1:
 
     # y "Okay. It's unfortunate that you can't experience Blast Processing in Ren'Py."
-    y ""
+    y "Certo. É uma pena que você não possa apreciar o 'Blast Processing' no Ren'Py."
 
 # game/tetris.rpy:117
 translate ptbr tetris_0443420d:
 
     # y "Alright [player], now I can let you select the modes you want to play."
-    y ""
+    y "Muito bem [player], agora posso deixar você selecionar os modos que deseja jogar."
 
 # game/tetris.rpy:123
 translate ptbr tetris_b257c1e8:
 
     # y "It's a nice way to pass the time, really."
-    y ""
+    y "É uma ótima maneira de passar o tempo, na verdade."
 
 # game/tetris.rpy:124
 translate ptbr tetris_c234a635:
 
     # y "Just a couple doing things together..."
-    y ""
+    y "Apenas um casal se distraindo juntos..."
 
 # game/tetris.rpy:125
 translate ptbr tetris_a7b2cc9e:
 
     # y "Ahem... Anyway let's get started."
-    y ""
+    y "Bem... De qualquer forma, vamos começar."
 
 # game/tetris.rpy:142
 translate ptbr tetris_3071f89e:
 
     # y "Oh, lovely choice, [player]~"
-    y ""
+    y "Oh, bela escolha, [player]~"
 
 # game/tetris.rpy:143
 translate ptbr tetris_fb99333e:
 
     # y "W-well, hopefully I will prove a worthy challenge..."
-    y ""
+    y "B-Bem, espero ser um desafio grandioso..."
 
 # game/tetris.rpy:144
 translate ptbr tetris_8218f152:
 
     # y "Uhuhuhu..."
-    y ""
+    y "Uhuhuhu..."
 
 # game/tetris.rpy:145
 translate ptbr tetris_636c283e:
 
     # y "Well whoever gets to the specific amount of lines wins..."
-    y ""
+    y "Bem quem conseguir atingir o número específico de linhas vence..."
 
 # game/tetris.rpy:161
 translate ptbr tetris_d2631acc:
 
     # y "I-I'm not sure if you'd want to waste your time with me..."
-    y ""
+    y "E-Eu... eu não sei se você gostaria de perder seu tempo comigo..."
 
 # game/tetris.rpy:162
 translate ptbr tetris_85dd300f:
 
     # y "I mean, this mode seems a bit too simple and boring to you."
-    y ""
+    y "Quero dizer, esse modo parece um pouco simples e entediante demais para você."
 
 # game/tetris.rpy:163
 translate ptbr tetris_0b511de7:
 
     # y "Especially with someone such as myself."
-    y ""
+    y "Especialmente com alguém como eu."
 
 # game/tetris.rpy:165
 translate ptbr tetris_450cdb34:
 
     # y "Maybe you just want to get an ego boost from seeing me lose?"
-    y ""
+    y "Talvez você só queira inflar o seu ego me vendo perder?"
 
 # game/tetris.rpy:184
 translate ptbr tetris_840aa1fd:
 
     # y "And maybe you will win me as a prize to be cherished... Forever~"
-    y ""
+    y "E talvez você me ganhe como um prêmio para ser guardado com carinho... Para sempre~"
 
 # game/tetris.rpy:185
 translate ptbr tetris_ba0404f0:
 
     # y "Or maybe I would win you. Hehe. Either way, everyone wins!"
-    y ""
+    y "Ou talvez eu quem te ganhe. Hehe. De qualquer forma, todo mundo ganha!"
 
 # game/tetris.rpy:203
 translate ptbr tetris_1996f8f8:
 
     # y "Oh, some competition, hm?"
-    y ""
+    y ""Ah, alguma concorrência, hm?""
 
 # game/tetris.rpy:204
 translate ptbr tetris_69870812:
@@ -376,7 +376,7 @@ translate ptbr tetris_66d3ea9b:
 translate ptbr tetris_15e6ef27:
 
     # y "Oh how fun~!"
-    y ""
+    y "Ah que divertido~!"
 
 # game/tetris.rpy:259
 translate ptbr tetris_60e2f754:
@@ -478,7 +478,7 @@ translate ptbr custom_tetris_checkpoint_start_562f3524:
 translate ptbr custom_tetris_checkpoint_start_8efaddd8:
 
     # y "Okay"
-    y ""
+    y "Ok"
 
 # game/tetris.rpy:304
 translate ptbr custom_tetris_checkpoint_start_0e76a61a:
@@ -718,7 +718,7 @@ translate ptbr custom_tetris_repeat_audio_22b187fa:
 translate ptbr custom_tetris_repeat_audio_a1c7ed67:
 
     # y "Use \"tetris.ogg\""
-    y ""
+    y "Usar \"tetris.ogg\""
 
 # game/tetris.rpy:357
 translate ptbr custom_tetris_repeat_audio_67206e64:
@@ -748,19 +748,19 @@ translate ptbr custom_tetris_repeat_audio_430cda67:
 translate ptbr custom_tetris_repeat_audio_278283bc:
 
     # y "Yay"
-    y ""
+    y "Eba"
 
 # game/tetris.rpy:366
 translate ptbr custom_tetris_repeat_audio_8efaddd8:
 
     # y "Okay"
-    y ""
+    y "Ok"
 
 # game/tetris.rpy:369
 translate ptbr custom_tetris_repeat_audio_8efaddd8_1:
 
     # y "Okay"
-    y ""
+    y "Ok"
 
 # game/tetris.rpy:373
 translate ptbr custom_tetris_repeat_audio_1629ca8f:
@@ -808,7 +808,7 @@ translate ptbr custom_tetris_checkpoint_2390d2a1:
 translate ptbr custom_tetris_checkpoint_138eba0a:
 
     # y "I see."
-    y ""
+    y "Vejamos."
 
 # game/tetris.rpy:441
 translate ptbr custom_tetris_checkpoint_805750e4:
@@ -826,7 +826,7 @@ translate ptbr tetris_difficulty_c24e5bcd:
 translate ptbr tetris_difficulty_f0c8691b:
 
     # y "Oh, I see."
-    y ""
+    y "Ah, vejamos."
 
 # game/tetris.rpy:457
 translate ptbr tetris_difficulty_ac44e2aa:
@@ -844,7 +844,7 @@ translate ptbr tetris_difficulty_35fb6b93:
 translate ptbr tetris_difficulty_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:464
 translate ptbr tetris_difficulty_4c311a4c:
@@ -946,13 +946,13 @@ translate ptbr tetris_difficulty_d4e5aa1f:
 translate ptbr tetris_difficulty_96067a36:
 
     # y "Hmph."
-    y ""
+    y "Hmph."
 
 # game/tetris.rpy:518
 translate ptbr tetris_difficulty_5c53d1aa:
 
     # y "Mmm..."
-    y ""
+    y "Mmm..."
 
 # game/tetris.rpy:519
 translate ptbr tetris_difficulty_fb9e922e:
@@ -1006,7 +1006,7 @@ translate ptbr tetris_difficulty_02091b8a:
 translate ptbr tetris_difficulty_2cf3a26d:
 
     # y "I-I see..."
-    y ""
+    y "V-Vejamos..."
 
 # game/tetris.rpy:538
 translate ptbr tetris_difficulty_487f9709:
@@ -1096,7 +1096,7 @@ translate ptbr tetris_difficulty_3fdd3ab8:
 translate ptbr tetris_difficulty_66f151ed:
 
     # y "Hmm..."
-    y ""
+    y "Hmm..."
 
 # game/tetris.rpy:615
 translate ptbr tetris_difficulty_88ae1066:
@@ -1114,7 +1114,7 @@ translate ptbr tetris_difficulty_855c9cce:
 translate ptbr tetris_difficulty_66f151ed_1:
 
     # y "Hmm..."
-    y ""
+    y "Hmm..."
 
 # game/tetris.rpy:625
 translate ptbr tetris_difficulty_9bd3dfcd:
@@ -1132,7 +1132,7 @@ translate ptbr tetris_difficulty_022b7d88:
 translate ptbr tetris_difficulty_66f151ed_2:
 
     # y "Hmm..."
-    y ""
+    y "Hmm..."
 
 # game/tetris.rpy:635
 translate ptbr tetris_difficulty_2d7819e3:
@@ -1168,7 +1168,7 @@ translate ptbr tetris_difficulty_0a35923e:
 translate ptbr tetris_difficulty_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:659
 translate ptbr tetris_difficulty_4fe7a64a:
@@ -1192,7 +1192,7 @@ translate ptbr tetris_difficulty_2279d203:
 translate ptbr tetris_difficulty_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:669
 translate ptbr tetris_difficulty_2b508806:
@@ -1222,7 +1222,7 @@ translate ptbr tetris_difficulty_12c65871:
 translate ptbr tetris_difficulty_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:688
 translate ptbr tetris_difficulty_4fe7a64a_1:
@@ -1246,7 +1246,7 @@ translate ptbr tetris_difficulty_2279d203_1:
 translate ptbr tetris_difficulty_71a86863_4:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:698
 translate ptbr tetris_difficulty_a74f5c83:
@@ -1276,7 +1276,7 @@ translate ptbr tetris_difficulty_b7d114f5:
 translate ptbr tetris_difficulty_71a86863_5:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:717
 translate ptbr tetris_difficulty_4fe7a64a_2:
@@ -1300,7 +1300,7 @@ translate ptbr tetris_difficulty_2279d203_2:
 translate ptbr tetris_difficulty_71a86863_6:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:727
 translate ptbr tetris_difficulty_76eb34e1:
@@ -1354,7 +1354,7 @@ translate ptbr tetris_difficulty_bfce4349:
 translate ptbr tetris_difficulty_71a86863_7:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:754
 translate ptbr tetris_difficulty_d1968c87:
@@ -1426,7 +1426,7 @@ translate ptbr tetris_difficulty_bfce4349_1:
 translate ptbr tetris_difficulty_71a86863_8:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:784
 translate ptbr tetris_difficulty_d1968c87_1:
@@ -1498,7 +1498,7 @@ translate ptbr tetris_difficulty_bfce4349_2:
 translate ptbr tetris_difficulty_71a86863_9:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/tetris.rpy:814
 translate ptbr tetris_difficulty_d1968c87_2:
@@ -1534,7 +1534,7 @@ translate ptbr tetris_difficulty_0331ef30:
 translate ptbr tetris_difficulty_7d886a48:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:835
 translate ptbr tetris_difficulty_04c6ca11:
@@ -1558,7 +1558,7 @@ translate ptbr tetris_difficulty_0331ef30_1:
 translate ptbr tetris_difficulty_7d886a48_1:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:842
 translate ptbr tetris_difficulty_04c6ca11_1:
@@ -1582,7 +1582,7 @@ translate ptbr tetris_difficulty_0331ef30_2:
 translate ptbr tetris_difficulty_7d886a48_2:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:854
 translate ptbr tetris_difficulty_04c6ca11_2:
@@ -1606,7 +1606,7 @@ translate ptbr tetris_difficulty_0331ef30_3:
 translate ptbr tetris_difficulty_7d886a48_3:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:861
 translate ptbr tetris_difficulty_04c6ca11_3:
@@ -1630,7 +1630,7 @@ translate ptbr tetris_difficulty_0331ef30_4:
 translate ptbr tetris_difficulty_7d886a48_4:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:873
 translate ptbr tetris_difficulty_04c6ca11_4:
@@ -1654,7 +1654,7 @@ translate ptbr tetris_difficulty_0331ef30_5:
 translate ptbr tetris_difficulty_7d886a48_5:
 
     # y "N-No wait, you know what?"
-    y ""
+    y "N-Não espera, sabe de uma coisa?"
 
 # game/tetris.rpy:880
 translate ptbr tetris_difficulty_04c6ca11_5:
@@ -1672,7 +1672,7 @@ translate ptbr tetris_difficulty_af62599c_1:
 translate ptbr tetris_difficulty_4f87b85b:
 
     # y "{b}HA HA...{/b}"
-    y ""
+    y "{b}HA HA...{/b}"
 
 # game/tetris.rpy:892
 translate ptbr tetris_difficulty_739cf581:
@@ -1702,13 +1702,13 @@ translate ptbr tetris_difficulty_a1b15c92:
 translate ptbr tetris_difficulty_4f87b85b_1:
 
     # y "{b}HA HA...{/b}"
-    y ""
+    y "{b}HA HA...{/b}"
 
 # game/tetris.rpy:905
 translate ptbr tetris_difficulty_739cf581_1:
 
     # y "You want me to choose the difficulty?"
-    y ""
+    y "Você quer que eu escolha a dificuldade?"
 
 # game/tetris.rpy:906
 translate ptbr tetris_difficulty_a588282e_1:
@@ -1774,7 +1774,7 @@ translate ptbr tetris_rules_e1b4db28:
 translate ptbr tetris_rules_ad2c739b:
 
     # y "Game on, [player]!"
-    y ""
+    y "Partida andando, [player]!"
 
 # game/tetris.rpy:931
 translate ptbr tetris_rules_5e2deb57:
@@ -1870,7 +1870,7 @@ translate ptbr tetris_over_22167797:
 translate ptbr tetris_over_a5959bb2:
 
     # y "Aheheh..."
-    y ""
+    y "Aheheh..."
 
 # game/tetris.rpy:1009
 translate ptbr tetris_over_d229546b:
@@ -1918,7 +1918,7 @@ translate ptbr tetris_over_33bc14b5:
 translate ptbr tetris_over_315b7fc4:
 
     # y "Go on [player]."
-    y ""
+    y "Continue [player]."
 
 # game/tetris.rpy:1032
 translate ptbr tetris_over_3c57f7f9:
@@ -2020,13 +2020,13 @@ translate ptbr tetris_over_7f39c68a:
 translate ptbr tetris_over_26e850e6:
 
     # y "Oh my..."
-    y ""
+    y "Ah meu..."
 
 # game/tetris.rpy:1084
 translate ptbr tetris_over_e892bad1:
 
     # y "Good show, good effort~"
-    y ""
+    y "Belo show, belo esforço~"
 
 # game/tetris.rpy:1086
 translate ptbr tetris_over_c9049d4e:
@@ -2104,7 +2104,7 @@ translate ptbr tetris_over_770c3d32:
 translate ptbr tetris_over_0d9d6ee7:
 
     # y "I-I am not sure..."
-    y ""
+    y "E-Eu não tenho certeza..."
 
 # game/tetris.rpy:1110
 translate ptbr tetris_over_c4d61fcc:
@@ -2116,263 +2116,262 @@ translate ptbr tetris_over_c4d61fcc:
 translate ptbr tetris_over_9757c0f5:
 
     # y "Oh... you lost, eh?"
-    y ""
+    y "Ah... Você perdeu, hm?"
 
 # game/tetris.rpy:1115
 translate ptbr tetris_over_9db24bbe:
 
     # y "Well then that's no surprise, I guess."
-    y ""
+    y "Bom não é nenhuma surpresa, eu acho."
 
 # game/tetris.rpy:1116
 translate ptbr tetris_over_df4511e3:
 
     # y "I mean, not that you would care for my input perhaps but.."
-    y ""
+    y "Quero dizer, talvez você não se importe com a minha opinião mas.."
 
 # game/tetris.rpy:1118
 translate ptbr tetris_over_540122ac:
 
     # y "Hm..."
-    y ""
+    y "Hm..."
 
 # game/tetris.rpy:1119
 translate ptbr tetris_over_b31433f3:
 
     # y "Well, I still hope you enjoyed playing... I guess."
-    y ""
+    y "Bom, ainda espero que você tenha gostado de jogar... eu acho."
 
 # game/tetris.rpy:1124
 translate ptbr tetris_over_5ca5f31e:
 
     # y "Aww... sorry [player]~"
-    y ""
+    y "Ah... desculpe [player]~"
 
 # game/tetris.rpy:1125
 translate ptbr tetris_over_07e07ece:
 
     # y "Looks like I won again uhuhuhu~"
-    y ""
+    y "Parece que ganhei de novo, uhuhuhu~"
 
 # game/tetris.rpy:1126
 translate ptbr tetris_over_4a117058:
 
     # y "Don't feel too bad though, love..."
-    y ""
+    y "Não se sinta tão mal, meu bem..."
 
 # game/tetris.rpy:1127
 translate ptbr tetris_over_9bd1b0a7:
 
     # y "I had an immensely pleasurable time just playing with you. Imagining seeing you so focused and determined with sweat running down your face as you tried to score."
-    y ""
+    y "Foi um prazer imenso jogar com você. Imaginar você tão concentrado e determinado, com o suor escorrendo pelo seu rosto enquanto tentava marcar um ponto."
 
 # game/tetris.rpy:1129
 translate ptbr tetris_over_00262151:
 
     # y "Your sweet sweat and essence... Your eyes focusing on mine as the colors of the game shone on your face. Only for me, and me alone."
-    y ""
+    y "Seu doce suor e a sua essência... Seus olhos fixos nos meus enquanto as cores do jogo brilhavam em seu rosto. Só para mim, e apenas para mim."
 
 # game/tetris.rpy:1131
 translate ptbr tetris_over_57d40d39:
 
     # y "I look forward to another session with you as always [player]. Forever and just us.."
-    y ""
+    y "Aguardo ansiosamente por mais uma sessão com você como sempre [player]. Para sempre e sempre só nós dois..."
 
 # game/tetris.rpy:1132
 translate ptbr tetris_over_28f1b7ae:
 
     # y "No one ELSE!... Just us uhuhuhehehe...~"
-    y ""
+    y "Ninguém MAIS!... Só nós uhuhuhehehe...~"
 
 # game/tetris.rpy:1137
 translate ptbr tetris_over_4b46c237:
 
     # y "Aww, you lost?"
-    y ""
+    y "Aww, você perdeu?"
 
 # game/tetris.rpy:1138
 translate ptbr tetris_over_6b09ccfe:
 
     # y "W-well hey don't feel bad and leave so soon..."
-    y ""
+    y "E-ei não se sinta mal e não vá embora tão cedo..."
 
 # game/tetris.rpy:1139
 translate ptbr tetris_over_406e1021:
 
     # y "We can stay here in this room together forever. Breathing in each others' scents as we sweat and play this wonderful classic together."
-    y ""
+    y "Podemos ficar aqui neste quarto juntos para sempre. Respirando o cheiro um do outro enquanto suamos e tocamos este clássico maravilhoso juntos.""
 
 # game/tetris.rpy:1141
 translate ptbr tetris_over_14cc0a1e:
 
     # y "Here in this room and no one else... I know you want to... And I want to also~"
-    y ""
+    y "Aqui neste quarto sem mais ninguém... Eu sei que você quer... E eu também quero~"
 
 # game/tetris.rpy:1142
 translate ptbr tetris_over_6c60a586:
 
     # y "What do you say [player]? Doesn't that sound so heavenly?"
-    y ""
-
+    y "O que você acha [player]? Não soa divino?"
 # game/tetris.rpy:1146
 translate ptbr tetris_over_cd461afc:
 
     # y "Oh, so you lost, hm?"
-    y ""
+    y "Ah, então você perdeu, hm?"
 
 # game/tetris.rpy:1147
 translate ptbr tetris_over_42684717:
 
     # y "Well, that's not surprising."
-    y ""
+    y "Bem, isso não é nenhuma surpresa."
 
 # game/tetris.rpy:1149
 translate ptbr tetris_over_61f00864:
 
     # y "That was honestly even quite... pathetic..."
-    y ""
+    y "Sinceramente, aquilo foi até meio... patético..."
 
 # game/tetris.rpy:1150
 translate ptbr tetris_over_42b56af2:
 
     # y "To be honest, I expected a greater challenge."
-    y ""
+    y "Pra ser honesta, esperava um desafio maior."
 
 # game/tetris.rpy:1154
 translate ptbr tetris_over_161ee3c4:
 
     # y "[player], We cleared our highest Score!"
-    y ""
+    y "[player], ultrapassamos nossa pontuação mais alta!"
 
 # game/tetris.rpy:1156
 translate ptbr tetris_over_12c22904:
 
     # y "That was quite the game, too..."
-    y ""
+    y "Foi um jogo e tanto..."
 
 # game/tetris.rpy:1159
 translate ptbr tetris_over_d87a386f:
 
     # y "I am sorry [player]...we fell short of our highest score."
-    y ""
+    y "Sinto muito [player]...não conseguimos alcançar nossa maior pontuação."
 
 # game/tetris.rpy:1161
 translate ptbr tetris_over_f1431a58:
 
     # y "But fret not! There's always next time..."
-    y ""
+    y "Mas não se preocupe! Sempre haverá uma próxima vez..."
 
 translate ptbr strings:
 
     # game/tetris.rpy:69
     old "Default Theme."
-    new ""
+    new "Tema Padrão"
 
     # game/tetris.rpy:69
     old "Tetris 99 Theme."
-    new ""
+    new "Tema Tetris 99"
 
     # game/tetris.rpy:69
     old "GameBoy Tetris Theme."
-    new ""
+    new "Tema GameBoy Tetris"
 
     # game/tetris.rpy:69
     old "Mega Drive Tetris Theme."
-    new ""
+    new "Tema Mega Drive Tetris"
 
     # game/tetris.rpy:69
     old "M1ND BEND3R Theme."
-    new ""
+    new "Tema M1ND BEND3R"
 
     # game/tetris.rpy:69
     old "Custom Theme."
-    new ""
+    new "Tema personalizado"
 
     # game/tetris.rpy:118
     old "Line count"
-    new ""
+    new "Contagem de linhas"
 
     # game/tetris.rpy:118
     old "Score"
-    new ""
+    new "Pontuação"
 
     # game/tetris.rpy:118
     old "CO-OP"
-    new ""
+    new "CO-OP"
 
     # game/tetris.rpy:127
     old "30"
-    new ""
+    new "30"
 
     # game/tetris.rpy:127
     old "50"
-    new ""
+    new "50"
 
     # game/tetris.rpy:127
     old "100"
-    new ""
+    new "100"
 
     # game/tetris.rpy:127
     old "150"
-    new ""
+    new "150"
 
     # game/tetris.rpy:127
     old "300"
-    new ""
+    new "300"
 
     # game/tetris.rpy:186
     old "20000"
-    new ""
+    new "20000"
 
     # game/tetris.rpy:186
     old "50000"
-    new ""
+    new "50000"
 
     # game/tetris.rpy:186
     old "100000"
-    new ""
+    new "100000"
 
     # game/tetris.rpy:186
     old "200000"
-    new ""
+    new "200000"
 
     # game/tetris.rpy:186
     old "300000"
-    new ""
+    new "300000"
 
     # game/tetris.rpy:186
     old "500000"
-    new ""
+    new "500000"
 
     # game/tetris.rpy:299
     old "Try me"
-    new ""
+    new "Teste me"
 
     # game/tetris.rpy:362
     old "Everything is fine"
-    new ""
+    new "Está tudo bem"
 
     # game/tetris.rpy:362
     old "Please start from start"
-    new ""
+    new "Por favor comece do começo"
 
     # game/tetris.rpy:362
     old "Please start from audio files"
-    new ""
+    new "Por favor comece pelos arquivos de áudio"
 
     # game/tetris.rpy:451
     old "Disadvantage"
-    new ""
+    new "Desvantagem"
 
     # game/tetris.rpy:451
     old "Expert"
-    new ""
+    new "Especialista"
 
     # game/tetris.rpy:451
     old "Veteran"
-    new ""
+    new "Veterano"
 
     # game/tetris.rpy:451
     old "Your choice, [persistent.yuri_nickname]"
-    new ""
+    new "Sua escolha, [persistent.yuri_nickname]"
 
