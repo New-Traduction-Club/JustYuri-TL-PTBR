@@ -52,7 +52,7 @@ translate ptbr tetris_9e5485f8:
 translate ptbr tetris_9f63a45c:
 
     # y "I have to wonder if you'll mock me for losing."
-    y "Fico me perguntando se você vai zombar de mim por ter perdido."
+    y "Fico me perguntando se você irá zombar de mim por ter perdido."
 
 # game/tetris.rpy:32
 translate ptbr tetris_47d56014:
@@ -454,25 +454,25 @@ translate ptbr tetris_1209e14e:
 translate ptbr tetris_692e3c8d:
 
     # y "Oh, what am I saying? It's just Tetris, it will be alright..."
-    y ""
+    y "Ah, do que eu tô falando? É só Tetris, vai ficar tudo bem..."
 
 # game/tetris.rpy:291
 translate ptbr tetris_e31cdf3f:
 
     # y "So umm... let's just... try it out, I guess."
-    y ""
+    y "Então umm... Vamos... Experimentar, eu acho."
 
 # game/tetris.rpy:297
 translate ptbr custom_tetris_checkpoint_start_201f6b49:
 
     # y "Oh, you'd like to try your hand on a custom Tetris build?"
-    y ""
+    y "Ah, você gostaria de tentar criar sua própria versão personalizada do Tetris?"
 
 # game/tetris.rpy:298
 translate ptbr custom_tetris_checkpoint_start_562f3524:
 
     # y "Well, let me give you a quick walk-through of how it's done or do you already have it all figure out?"
-    y ""
+    y "Bem, deixe-me dar uma breve explicação de como se faz, ou você já como funciona?"
 
 # game/tetris.rpy:301
 translate ptbr custom_tetris_checkpoint_start_8efaddd8:
@@ -484,19 +484,19 @@ translate ptbr custom_tetris_checkpoint_start_8efaddd8:
 translate ptbr custom_tetris_checkpoint_start_0e76a61a:
 
     # y "By the way, you should probably write this down somewhere..."
-    y ""
+    y "Falando nisso, talvez você devesse anotar isso em algum lugar..."
 
 # game/tetris.rpy:308
 translate ptbr custom_tetris_repeat_aa16d077:
 
     # y "All those files which you will create will have to go to folder \"game\\custom_tetris\""
-    y ""
+    y "Todos os arquivos que você criar devem ser colocados na pasta "game\\custom_tetris""
 
 # game/tetris.rpy:309
 translate ptbr custom_tetris_repeat_5a9fd364:
 
     # y "First thing you need to know is that all images have to be in .png format and all sounds have to be .ogg files. Ren'Py will reject anything else."
-    y ""
+    y "A primeira coisa que você precisa saber é que todas as imagens devem estar no formato .png e todos os sons devem ser arquivos .ogg. O Ren'Py rejeitará qualquer outro formato."
 
 # game/tetris.rpy:310
 translate ptbr custom_tetris_repeat_e6fa8891:
