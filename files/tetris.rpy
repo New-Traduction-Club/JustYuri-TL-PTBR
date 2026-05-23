@@ -172,7 +172,7 @@ translate ptbr tetris_04fa447e:
 translate ptbr tetris_f5482126:
 
     # y "Perhaps some other time when you learn to make up your mind."
-    y "Talvez em outro momento, quando você aprender a se decidir."
+    y "Talvez em outra hora, quando você conseguir se decidir."
 
 # game/tetris.rpy:72
 translate ptbr tetris_fdc8217f:
@@ -190,7 +190,7 @@ translate ptbr tetris_d89d9ebb:
 translate ptbr tetris_fb95ab09:
 
     # y "But please don't expect too much of it."
-    y "Mas, por favor, não espere muito disso."
+    y "Mas por favor, não espere muito disso."
 
 # game/tetris.rpy:81
 translate ptbr tetris_cb469b01:
@@ -220,7 +220,7 @@ translate ptbr tetris_d89d9ebb_1:
 translate ptbr tetris_fb95ab09_1:
 
     # y "But please don't expect too much of it."
-    y "Mas, por favor, não espere muito disso."
+    y "Mas por favor, não espere muito disso."
 
 # game/tetris.rpy:107
 translate ptbr tetris_cb469b01_1:
