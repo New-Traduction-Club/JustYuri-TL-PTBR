@@ -130,7 +130,7 @@ translate ptbr yurinara_ce027a1b:
 translate ptbr yurinara_e72941ea:
 
     # y "What was your end goal?"
-    y "Qual era o seu objetivo final?"
+    y "Qual era o seu objetivo afinal?"
 
 # game/dialogue/script-ch30.rpy:353
 translate ptbr yurinara_5a4a22a1:
@@ -142,7 +142,7 @@ translate ptbr yurinara_5a4a22a1:
 translate ptbr yurinara_4b2e61f7:
 
     # y "Just to delete me?"
-    y "Somente para me apagar?"
+    y "Só para me apagar?"
 
 # game/dialogue/script-ch30.rpy:355
 translate ptbr yurinara_1bcafbf5:
@@ -268,7 +268,7 @@ translate ptbr ch30_noskip_71a86863_1:
 translate ptbr ch30_noskip_afeeaafb:
 
     # y "...well, there's nothing to skip[placeholder]."
-    y "...bem, não há nada para pular[placeholder]."
+    y "...bem, não há mais nada para pular[placeholder]."
 
 # game/dialogue/script-ch30.rpy:458
 translate ptbr ch30_noskip_bbce8996:
@@ -310,7 +310,7 @@ translate ptbr ch30_noskip_84938efa:
 translate ptbr ch30_noskip_e4ba03f8:
 
     # y "Oh yes! The auto and the history buttons are right next to it right?"
-    y "Ah sim! Os botões de modo automático e histórico ficam bem ao lado, certo?"
+    y "Ah sim! Os botões de modo automático e de histórico ficam bem ao lado, certo?"
 
 # game/dialogue/script-ch30.rpy:478
 translate ptbr ch30_noskip_fff7741b:
@@ -352,7 +352,7 @@ translate ptbr ch30_autoload_cont_029600e9:
 translate ptbr ch30_autoload_cont_c06d1887:
 
     # y "Your words just... really hurt me, okay? It was very immature of me to close the game, I'm surprised you even came back..."
-    y "Suas palavras... me magoaram muito, tá? Foi muito imaturo da minha parte fechar o jogo, mas estou surpresa que você tenha voltado..."
+    y "Suas palavras... me magoaram muito, tá? Foi muito imaturo da minha parte fechar o jogo, estou surpresa que você tenha voltado..."
 
 # game/dialogue/script-ch30.rpy:530
 translate ptbr ch30_autoload_cont_b6fcfb9e:
@@ -388,7 +388,7 @@ translate ptbr strings:
 
     # game/dialogue/script-ch30.rpy:473
     old "I'm sorry, I misclicked."
-    new "Me desculpe, eu cliquei sem querer."
+    new "Desculpa, eu cliquei sem querer."
 
     # game/dialogue/script-ch30.rpy:473
     old "Oh sorry, I was just curious."
@@ -396,5 +396,5 @@ translate ptbr strings:
 
     # game/dialogue/script-ch30.rpy:473
     old "I guess I have no choice, do I?"
-    new "Acho que não tenho escolha, não é?"
+    new "Acho que não tenho escolha, né?"
 
