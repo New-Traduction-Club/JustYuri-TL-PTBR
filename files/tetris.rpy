@@ -502,13 +502,13 @@ translate ptbr custom_tetris_repeat_5a9fd364:
 translate ptbr custom_tetris_repeat_e6fa8891:
 
     # y "Let's start with the background. {b}Line Count{/b} and {b}Score{/b} have two types of background depending on difficulties."
-    y ""
+    y "Vamos começar com o plano de fundo. {b}Contagem de Linhas{/b} e {b}Pontuação{/b} têm dois tipos de plano de fundo dependendo das dificuldades."
 
 # game/tetris.rpy:311
 translate ptbr custom_tetris_repeat_e390ac89:
 
     # y "For the Easy, Medium and Hard difficulties it has to be 220 x 420 pixels image. Use the {b}background.png{/b} file from the folder \"game\\images\\tetris\\tetris\" as an example..."
-    y ""
+    y "Para as dificuldades Fácil, Média e Difícil, a imagem deve ter 220 x 420 pixels. Use o arquivo {b}background.png{/b} da pasta "game\\images\\tetris\\tetris" como exemplo..."
 
 # game/tetris.rpy:313
 translate ptbr custom_tetris_repeat_feeef887:
@@ -1264,13 +1264,13 @@ translate ptbr tetris_difficulty_b9ce55ab_2:
 translate ptbr tetris_difficulty_92847e77_2:
 
     # y "Don't expect me to give you a free pass though."
-    y ""
+    y "Mas não espere que eu te dê carta branca."
 
 # game/tetris.rpy:710
 translate ptbr tetris_difficulty_b7d114f5:
 
     # y "Disadvantaged should suffice."
-    y ""
+    y "Desvantajoso já seria suficiente."
 
 # game/tetris.rpy:715
 translate ptbr tetris_difficulty_71a86863_5:
@@ -2032,19 +2032,19 @@ translate ptbr tetris_over_e892bad1:
 translate ptbr tetris_over_c9049d4e:
 
     # y "I know you wanted a higher score but there will always be a next time!"
-    y ""
+    y "Eu sei que você queria uma pontuação maior, mas sempre haverá uma próxima vez!"
 
 # game/tetris.rpy:1087
 translate ptbr tetris_over_44a8ccc8:
 
     # y "I hope you had fun, [player], I know I did!"
-    y ""
+    y "Espero que você tenha se divertido, [player], eu sei que eu me diverti!"
 
 # game/tetris.rpy:1092
 translate ptbr tetris_over_cc49247e:
 
     # y "O-oh... You lost? Uhm... eheh."
-    y ""
+    y "A-Ah... Você perdeu? Uhm... eheh."
 
 # game/tetris.rpy:1093
 translate ptbr tetris_over_c9f442e1:
@@ -2110,7 +2110,7 @@ translate ptbr tetris_over_0d9d6ee7:
 translate ptbr tetris_over_c4d61fcc:
 
     # y "D-do you want to play a bit more [player]?"
-    y ""
+    y "V-Você quer jogar mais um pouco [player]?"
 
 # game/tetris.rpy:1114
 translate ptbr tetris_over_9757c0f5:
@@ -2140,7 +2140,7 @@ translate ptbr tetris_over_540122ac:
 translate ptbr tetris_over_b31433f3:
 
     # y "Well, I still hope you enjoyed playing... I guess."
-    y "Bom, ainda espero que você tenha gostado de jogar... eu acho."
+    y "Bom, eu ainda espero que você tenha gostado de jogar... eu acho."
 
 # game/tetris.rpy:1124
 translate ptbr tetris_over_5ca5f31e:
