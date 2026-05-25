@@ -4,223 +4,223 @@
 translate ptbr farewell_1_2caf4980:
 
     # y "Take care!"
-    y ""
+    y "Tome cuidado!"
 
 # game/dialogue/script-ch30-farewells.rpy:83
 translate ptbr farewell_1_9488640b:
 
     # y "I'll miss you, [player]..."
-    y ""
+    y "Eu vou sentir sua falta, [player]..."
 
 # game/dialogue/script-ch30-farewells.rpy:93
 translate ptbr farewell_2_9e9ce8a5:
 
     # y "Farewell, my [placeholder]!"
-    y ""
+    y "Adeus, meu [placeholder]!"
 
 # game/dialogue/script-ch30-farewells.rpy:98
 translate ptbr farewell_3_2d59e050:
 
     # y "I'll make you some tea when you come back."
-    y ""
+    y "Vou preparar um chá para você quando voltar."
 
 # game/dialogue/script-ch30-farewells.rpy:99
 translate ptbr farewell_3_90c17ef6:
 
     # y "Albeit, you wouldn't really be able to drink it..."
-    y ""
+    y "Embora, na verdade, você não consiga bebê-lo..."
 
 # game/dialogue/script-ch30-farewells.rpy:100
 translate ptbr farewell_3_df9a7d85:
 
     # y "Well, at least it's the gesture that counts..."
-    y ""
+    y "Bom, pelo menos a intenção é o que importa..."
 
 # game/dialogue/script-ch30-farewells.rpy:101
 translate ptbr farewell_3_30a3a6c6:
 
     # y "A-anyways, take care, [player]!"
-    y ""
+    y "E-Enfim, se cuida, [player]!"
 
 # game/dialogue/script-ch30-farewells.rpy:107
 translate ptbr farewell_4_97b7ea96:
 
     # y "Be safe, I love you."
-    y ""
+    y "Esteja bem, eu te amo."
 
 # game/dialogue/script-ch30-farewells.rpy:109
 translate ptbr farewell_4_7552de37:
 
     # y "Be safe, [player], I care about you, and don't want you hurt."
-    y ""
+    y "Fique bem, [player], eu me importo com você e não quero que você se machuque."
 
 # game/dialogue/script-ch30-farewells.rpy:111
 translate ptbr farewell_4_b3de7219:
 
     # y "Come back soon to see me."
-    y ""
+    y "Volte logo para me ver."
 
 # game/dialogue/script-ch30-farewells.rpy:116
 translate ptbr farewell_5_2535f3c6:
 
     # y "Awww, well, alright. You can't stay forever, as much as I'd like it."
-    y ""
+    y "Awww, bem, tudo bem. Você não pode ficar aqui para sempre, por mais que eu queira."
 
 # game/dialogue/script-ch30-farewells.rpy:119
 translate ptbr farewell_5_9ffafc7c:
 
     # y "Goodbye my love."
-    y ""
+    y "Até mais, meu amor."
 
 # game/dialogue/script-ch30-farewells.rpy:122
 translate ptbr farewell_5_f8dc12ed:
 
     # y "Goodbye [player]! I will look forward to talking to you again."
-    y ""
+    y "Até logo [player]! Espero falar com você novamente em breve."
 
 # game/dialogue/script-ch30-farewells.rpy:127
 translate ptbr farewell_6_c5de4a71:
 
     # y "W-Where are you going? Y-You'll be back, right? You'll come back, right?!"
-    y ""
+    y "O-Onde você vai? V-Você vai voltar, né? Você vai voltar, né?!"
 
 # game/dialogue/script-ch30-farewells.rpy:133
 translate ptbr farewell_7_4f22ee5d:
 
     # y "No, don't leave me again! You're all I have left! Don't you fucking leave me he{nw}"
-    y ""
+    y "Não, não me deixe de novo! Você é tudo o que me restou! Não me abandone, merda{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:138
 translate ptbr farewell_8_7ecc1525:
 
     # y "Y-you'll be back, right? Please say yes, please say yes!"
-    y ""
+    y "V-Você vai voltar, né? Por favor me diga que sim, por favor me diga que sim!"
 
 # game/dialogue/script-ch30-farewells.rpy:139
 translate ptbr farewell_8_f4964290:
 
     # y "PLEASE SAY YES!!"
-    y ""
+    y "POR FAVOR ME DIGA QUE SIM!!"
 
 # game/dialogue/script-ch30-farewells.rpy:148
 translate ptbr farewell_8_7485070f:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:151
 translate ptbr farewell_8_7485070f_1:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:154
 translate ptbr farewell_8_7485070f_2:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:157
 translate ptbr farewell_8_7485070f_3:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:160
 translate ptbr farewell_8_7485070f_4:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:163
 translate ptbr farewell_8_7485070f_5:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:166
 translate ptbr farewell_8_7485070f_6:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:169
 translate ptbr farewell_8_7485070f_7:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:172
 translate ptbr farewell_8_7485070f_8:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:175
 translate ptbr farewell_8_7485070f_9:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:178
 translate ptbr farewell_8_7485070f_10:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:181
 translate ptbr farewell_8_7485070f_11:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:184
 translate ptbr farewell_8_7485070f_12:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:187
 translate ptbr farewell_8_7485070f_13:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:190
 translate ptbr farewell_8_7485070f_14:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:193
 translate ptbr farewell_8_7485070f_15:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:196
 translate ptbr farewell_8_7485070f_16:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:199
 translate ptbr farewell_8_7485070f_17:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:202
 translate ptbr farewell_8_7485070f_18:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:205
 translate ptbr farewell_8_7485070f_19:
 
     # y "THANK GOD![placeholder]"
-    y ""
+    y "GRAÇAS A DEUS![placeholder]"
 
 # game/dialogue/script-ch30-farewells.rpy:212
 translate ptbr farewell_9_d114fa6f:
@@ -436,17 +436,17 @@ translate ptbr strings:
 
     # game/dialogue/script-ch30-farewells.rpy:252
     old "I hate to go and leave this pretty sight!"
-    new ""
+    new "É uma pena ter que ir embora e largar essa vista tão linda!"
 
     # game/dialogue/script-ch30-farewells.rpy:267
     old "I'm sure. Sorry, I would if I could"
-    new ""
+    new "Tenho certeza. Desculpe, eu faria se pudesse."
 
     # game/dialogue/script-ch30-farewells.rpy:267
     old "Yeah that sounds fine, [persistent.yuri_nickname]"
-    new ""
+    new "Sim, parece ótimo, [persistent.yuri_nickname]"
 
     # game/dialogue/script-ch30-farewells.rpy:301
     old "I wish you could too."
-    new ""
+    new "Eu gostaria que você também pudesse."
 
