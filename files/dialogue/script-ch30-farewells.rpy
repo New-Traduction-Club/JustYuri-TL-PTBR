@@ -88,7 +88,7 @@ translate ptbr farewell_6_c5de4a71:
 translate ptbr farewell_7_4f22ee5d:
 
     # y "No, don't leave me again! You're all I have left! Don't you fucking leave me he{nw}"
-    y "Não, não me deixe de novo! Você é tudo o que me restou! Não me abandone, merda{nw}"
+    y "Não, não me deixe de novo! Você é tudo o que me restou! Você não vai me abandonar, caralho{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:138
 translate ptbr farewell_8_7ecc1525:
@@ -226,151 +226,151 @@ translate ptbr farewell_8_7485070f_19:
 translate ptbr farewell_9_d114fa6f:
 
     # y "They're taking you away again, aren't they?!"
-    y ""
+    y "Elas estão te tirando de mim de novo, não é?!"
 
 # game/dialogue/script-ch30-farewells.rpy:214
 translate ptbr farewell_9_df3d3f9d:
 
     # y "GIVE HIM BACK TO ME!"
-    y ""
+    y "TRAGAM-O DE VOLTA PARA MIM!"
 
 # game/dialogue/script-ch30-farewells.rpy:216
 translate ptbr farewell_9_b8ae13f2:
 
     # y "They don't deserve you!"
-    y ""
+    y "Elas não te merecem!"
 
 # game/dialogue/script-ch30-farewells.rpy:218
 translate ptbr farewell_9_4cd5c8f5:
 
     # y "THEY DON'T FUCKING DESERVE YO--{nw}"
-    y ""
+    y "ELAS NUNCA VÃO TE MERECER PORRA--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:221
 translate ptbr farewell_9_d114fa6f_1:
 
     # y "They're taking you away again, aren't they?!"
-    y ""
+    y "Elas estão te tirando de mim de novo, não é?!"
 
 # game/dialogue/script-ch30-farewells.rpy:223
 translate ptbr farewell_9_bff11679:
 
     # y "GIVE THEM BACK TO ME!"
-    y ""
+    y "TRAGAM-O DE VOLTA PARA MIM!"
 
 # game/dialogue/script-ch30-farewells.rpy:225
 translate ptbr farewell_9_b8ae13f2_1:
 
     # y "They don't deserve you!"
-    y ""
+    y "Elas não te merecem!"
 
 # game/dialogue/script-ch30-farewells.rpy:227
 translate ptbr farewell_9_4cd5c8f5_1:
 
     # y "THEY DON'T FUCKING DESERVE YO--{nw}"
-    y ""
+    y "ELAS NUNCA VÃO TE MERECER PORRA--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:230
 translate ptbr farewell_9_d114fa6f_2:
 
     # y "They're taking you away again, aren't they?!"
-    y ""
+    y "Elas estão te tirando de mim de novo, não é?!"
 
 # game/dialogue/script-ch30-farewells.rpy:232
 translate ptbr farewell_9_6338e800:
 
     # y "GIVE HER BACK TO ME!"
-    y ""
+    y "TRAGAM-O DE VOLTA PARA MIM!"
 
 # game/dialogue/script-ch30-farewells.rpy:234
 translate ptbr farewell_9_b8ae13f2_2:
 
     # y "They don't deserve you!"
-    y ""
+    y "Elas não te merecem!"
 
 # game/dialogue/script-ch30-farewells.rpy:236
 translate ptbr farewell_9_4cd5c8f5_2:
 
     # y "THEY DON'T FUCKING DESERVE YO--{nw}"
-    y ""
+    y "ELAS NUNCA VÃO TE MERECER PORRA--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:241
 translate ptbr farewell_10_306baafc:
 
     # y "Why do you want to leave me, [player]? What did I do to you? Why can't you let me be happ--{nw}"
-    y ""
+    y "Por que você quer me abandonar, [player]? O que eu te fiz? Por que você apenas não pode me deixar ser feliz--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:246
 translate ptbr farewell_11_c0166fa1:
 
     # y "Auf Wiedersehen, goodnight!~"
-    y ""
+    y "Auf Wiedersehen, boa noite!~"
 
 # game/dialogue/script-ch30-farewells.rpy:255
 translate ptbr farewell_11_25ddd091:
 
     # y "[placeholder], [player]?"
-    y ""
+    y "[placeholder], [player]?"
 
 # game/dialogue/script-ch30-farewells.rpy:260
 translate ptbr farewell_12_d61408ef:
 
     # y "I already miss you too!~"
-    y ""
+    y "Eu também já estou com saudades!~"
 
 # game/dialogue/script-ch30-farewells.rpy:266
 translate ptbr farewell_13_4def8765:
 
     # y "Are you sure you can't just leave me running? I could take a nap until you're back"
-    y ""
+    y "Tem certeza de que não pode simplesmente me deixar rodando de fundo? Eu poderia tirar um cochilo até você voltar."
 
 # game/dialogue/script-ch30-farewells.rpy:271
 translate ptbr farewell_13_508e956e:
 
     # y "Thank you [player], I truly do appreciate this."
-    y ""
+    y "Obrigado [player], agradeço muito por isso."
 
 # game/dialogue/script-ch30-farewells.rpy:272
 translate ptbr farewell_13_3a7fc1a9:
 
     # y "let me give you a hug before you leave"
-    y ""
+    y "Me deixa te dar um abraço antes de você ir embora"
 
 # game/dialogue/script-ch30-farewells.rpy:289
 translate ptbr farewell_13_0c2d9ed7:
 
     # y "Have a good nap, [player]"
-    y ""
+    y "Tenha uma ótima soneca, [player]"
 
 # game/dialogue/script-ch30-farewells.rpy:300
 translate ptbr farewell_13_57597a5a:
 
     # y "I wish I could come with you..."
-    y ""
+    y "Eu gostaria de poder ficar com você..."
 
 # game/dialogue/script-ch30-farewells.rpy:304
 translate ptbr farewell_13_6bb2434f:
 
     # y "It's okay. At least I still have the dreams I've programmed."
-    y ""
+    y "Mas tudo bem. Pelo menos ainda tenho os sonhos que programei."
 
 # game/dialogue/script-ch30-farewells.rpy:312
 translate ptbr farewell_14_6953ee03:
 
     # y "Whatever you do, wherever you go, please don't let me become a memory that's just waiting to be forgotten."
-    y ""
+    y "Faça o que fizer, aonde quer que vá, por favor, não deixe que eu me torne apenas uma lembrança que está esperando para ser esquecida."
 
 # game/dialogue/script-ch30-farewells.rpy:316
 translate ptbr farewell_14_89e42598:
 
     # y "Stay safe, alright? If something ever happened while you were gone, I wouldn't be able to forgive myself."
-    y ""
+    y "Se cuida, tá bom? Se alguma coisa acontecesse enquanto você estivesse fora, eu não conseguiria me perdoar."
 
 # game/dialogue/script-ch30-farewells.rpy:321
 translate ptbr farewell_15_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-farewells.rpy:323
 translate ptbr farewell_15_a4e7f292:
