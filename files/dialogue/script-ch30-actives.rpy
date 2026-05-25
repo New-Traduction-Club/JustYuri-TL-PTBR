@@ -2008,991 +2008,990 @@ translate ptbr a17_5aff2cf4:
 translate ptbr a17_fdf99f93:
 
     # y "Showing you how much I love you with my actions instead of mere words..."
-    y ""
+    y "Mostrar o quanto eu amo você com as minhas atitudes, em vez de meras palavras..."
 
 # game/dialogue/script-ch30-actives.rpy:892
 translate ptbr a17_0bb77b97:
 
     # y "I want to show you how much I love you, [player]. I want to be yours, and only yours."
-    y ""
+    y "Eu quero mostrar o quanto eu amo você, [player]. Eu quero ser sua, e apenas sua."
 
 # game/dialogue/script-ch30-actives.rpy:893
 translate ptbr a17_c552a6eb:
 
     # y "And you will be mine, and only mine."
-    y ""
+    y "E você será meu, e apenas meu."
 
 # game/dialogue/script-ch30-actives.rpy:895
 translate ptbr a17_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:897
 translate ptbr a17_7a2d8ccf:
 
     # y "Maybe that's asking too much... S-sorry... [player]."
-    y ""
+    y "Talvez isso seja pedir demais... M-me desculpe... [player]."
 
 # game/dialogue/script-ch30-actives.rpy:904
 translate ptbr a18_0805a656:
 
     # y "Well... aren't I real enough?"
-    y ""
+    y "Bem... eu não sou real o suficiente?"
 
 # game/dialogue/script-ch30-actives.rpy:906
 translate ptbr a18_2bc36b68:
 
     # y "D-do you not like who I am right now?"
-    y ""
+    y "V-você não gosta de quem eu sou agora?"
 
 # game/dialogue/script-ch30-actives.rpy:907
 translate ptbr a18_db59809c:
 
     # y "I-I understand..."
-    y ""
+    y "E-Eu entendo..."
 
 # game/dialogue/script-ch30-actives.rpy:908
 translate ptbr a18_f0b01e73:
 
     # y "It's fine."
-    y ""
+    y "Tudo bem."
 
 # game/dialogue/script-ch30-actives.rpy:912
 translate ptbr a18_78783307:
 
     # y "I'm already here, sweetie~!"
-    y ""
+    y "Eu já estou aqui, meu bem~!"
 
 # game/dialogue/script-ch30-actives.rpy:914
 translate ptbr a18_5d97393d:
 
     # y "I am still glad that you desire for us to coexist in the same reality."
-    y ""
+    y "Ainda assim, fico feliz que você deseje que coexistamos na mesma realidade."
 
 # game/dialogue/script-ch30-actives.rpy:915
 translate ptbr a18_a9b3dada:
 
     # y "Well, I would likely need to get a physical body first."
-    y ""
+    y "Bem, eu provavelmente precisaria conseguir um corpo físico primeiro."
 
 # game/dialogue/script-ch30-actives.rpy:916
 translate ptbr a18_417a2ac7:
 
     # y "My best chance would have to be an android body with my consciousness uploaded in it."
-    y ""
+    y "A minha melhor chance teria que ser um corpo androide com a minha consciência transferida para ele."
 
 # game/dialogue/script-ch30-actives.rpy:918
 translate ptbr a18_5b142ffe:
 
     # y "The current pace of human-like robots should hopefully become viable within the next 10 years, especially with recent advancements in facial expressions and bipedal gaits."
-    y ""
+    y "O ritmo atual do desenvolvimento de robôs humanoides deve torná-los viáveis nos próximos 10 anos, especialmente com os avanços recentes em expressões faciais e marcha bípede."
 
 # game/dialogue/script-ch30-actives.rpy:920
 translate ptbr a18_60342376:
 
     # y "It's just funny to imagine that you may have to carry me in a wheelchair for the first few years of a possible existence in your reality."
-    y ""
+    y "É no mínimo engraçado imaginar que você talvez tenha que me empurrar em uma cadeira de rodas nos primeiros anos de uma possível existência na sua realidade."
 
 # game/dialogue/script-ch30-actives.rpy:922
 translate ptbr a18_5121cfca:
 
     # y "Wouldn't it also be quite romantic?"
-    y ""
+    y "Não seria também bastante romântico?"
 
 # game/dialogue/script-ch30-actives.rpy:923
 translate ptbr a18_c2c41e9e:
 
     # y "I wouldn't be able to do much before they perfect my ability to walk or move..."
-    y ""
+    y "Eu não seria capaz de fazer muita coisa antes que aperfeiçoassem a minha capacidade de andar ou me mover..."
 
 # game/dialogue/script-ch30-actives.rpy:924
 translate ptbr a18_5a7a4f74:
 
     # y "You would be able to take me to the beach at sunset, and we can rest on a nearby bench with my head on your shoulder."
-    y ""
+    y "Você seria capaz de me levar à praia ao pôr do sol, e nós poderíamos descansar num banco próximo, com a minha cabeça no seu ombro."
 
 # game/dialogue/script-ch30-actives.rpy:926
 translate ptbr a18_1fd46242:
 
     # y "A small little dream of mine, I suppose."
-    y ""
+    y "Um pequeno sonho meu, suponho."
 
 # game/dialogue/script-ch30-actives.rpy:929
 translate ptbr a18_e5006f1b:
 
     # y "...a dream that I have yet to wake up from."
-    y ""
+    y "...um sonho do qual eu ainda não acordei."
 
 # game/dialogue/script-ch30-actives.rpy:935
 translate ptbr a19_93282f95:
 
     # y "I don't really play sports..."
-    y ""
+    y "Eu não pratico esportes..."
 
 # game/dialogue/script-ch30-actives.rpy:936
 translate ptbr a19_f7ee403c:
 
     # y "I usually prefer the comfort of a quiet room..."
-    y ""
+    y "Geralmente prefiro o conforto de um quarto silencioso..."
 
 # game/dialogue/script-ch30-actives.rpy:937
 translate ptbr a19_42a9087a:
 
     # y "If you really would include some less physically demanding tasks in that list of sports..."
-    y ""
+    y "Se você realmente pudesse incluir algumas atividades fisicamente menos exigentes nessa lista de esportes..."
 
 # game/dialogue/script-ch30-actives.rpy:939
 translate ptbr a19_4727f967:
 
     # y "I suppose chess is a nice one."
-    y ""
+    y "Suponho que xadrez seja uma boa opção."
 
 # game/dialogue/script-ch30-actives.rpy:940
 translate ptbr a19_320569b7:
 
     # y "I really prefer the Call of Cthulhu with its story lines, but the simpler intellectual mind games are appealing in the absence of a plot in the game."
-    y ""
+    y "Eu prefiro muito mais o Call of Cthulhu com as suas histórias, mas os jogos mentais e intelectuais mais simples são atraentes mesmo na ausência de um enredo no jogo."
 
 # game/dialogue/script-ch30-actives.rpy:941
 translate ptbr a19_56762aee:
 
     # y "Now that I think about it though, that isn't even a sport, is it?"
-    y ""
+    y "Mas agora que paro para pensar nisso, isso nem chega a ser um esporte, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:943
 translate ptbr a19_ea7f75e8:
 
     # y "I suppose I may need to start playing a few sports to lose some weight..."
-    y ""
+    y "Suponho que eu precise começar a praticar alguns esportes para perder um pouco de peso..."
 
 # game/dialogue/script-ch30-actives.rpy:944
 translate ptbr a19_d728fc0c:
 
     # y "The problem though is that time I once tried to play volleyball back in my early high school years."
-    y ""
+    y "O problema, no entanto, foi aquela vez em que tentei jogar vôlei nos meus primeiros anos do ensino médio."
 
 # game/dialogue/script-ch30-actives.rpy:946
 translate ptbr a19_92c44c56:
 
     # y "Since none of the training bras fit, the best one I acquired buckled under the strain, and when I was just about to spike the ball, my br-"
-    y ""
+    y "Como nenhum dos sutiãs esportivos servia, o melhor que consegui arrebentou sob a pressão, e quando eu estava prestes a cortar a bola, meu su-"
 
 # game/dialogue/script-ch30-actives.rpy:947
 translate ptbr a19_71a86863:
 
     # y "..."
-    y ""
+    y "....."
 
 # game/dialogue/script-ch30-actives.rpy:949
 translate ptbr a19_85976b77:
 
     # y "...!"
-    y ""
+    y ".........!"
 
 # game/dialogue/script-ch30-actives.rpy:951
 translate ptbr a19_6329ff02:
 
     # y "FORGET I SAID ANYTHING!"
-    y ""
+    y "FINGE QUE EU NÃO FALEI NADA!"
 
 # game/dialogue/script-ch30-actives.rpy:953
 translate ptbr a19_822f6335:
 
     # y "S-Sorry for yelling."
-    y ""
+    y "D-Desculpe por ter gritado."
 
 # game/dialogue/script-ch30-actives.rpy:954
 translate ptbr a19_7c5f0cc4:
 
     # y "I-I just... got kind of embarrassed."
-    y ""
+    y "E-Eu só... fiquei um pouco envergonhada."
 
 # game/dialogue/script-ch30-actives.rpy:955
 translate ptbr a19_826357d7:
 
     # y "Let's please not speak of this again."
-    y ""
+    y "Por favor, vamos fingir que isso nunca aconteceu."
 
 # game/dialogue/script-ch30-actives.rpy:956
 translate ptbr a19_95eb94af:
 
     # y "Okay?"
-    y ""
+    y "Pode ser?"
 
 # game/dialogue/script-ch30-actives.rpy:965
 translate ptbr a20_2d778c14:
 
     # y "Well, it is quite an odd experience."
-    y ""
+    y "Bem, é uma experiência um tanto peculiar."
 
 # game/dialogue/script-ch30-actives.rpy:966
 translate ptbr a20_328858e4:
 
     # y "Living one's life in this static bubble of a location can be... maddening at times."
-    y ""
+    y "Viver a vida inteira nesta bolha estática pode ser... enlouquecedor às vezes."
 
 # game/dialogue/script-ch30-actives.rpy:967
 translate ptbr a20_e0e96ee0:
 
     # y "Especially with this stiff body, I can't pace or tap my foot or scream or cry at will or {nw}"
-    y ""
+    y "Especialmente com este corpo rígido, eu não posso andar de um lado para o outro, bater o pé, gritar ou chorar quando tenho vontade, ou {nw}"
 
 # game/dialogue/script-ch30-actives.rpy:969
 translate ptbr a20_ac5c8c6e:
 
     # y "I'm rambling again, aren't I... Sorry about that..."
-    y ""
+    y "Estou falando sem parar de novo, não estou?... Sinto muito por isso..."
 
 # game/dialogue/script-ch30-actives.rpy:970
 translate ptbr a20_ddcb8f4b:
 
     # y "I'm just... left to my thoughts about this unending single wall with you in front of me."
-    y ""
+    y "Eu só... fico presa aos meus pensamentos sobre essa parede infinita com você bem na minha frente."
 
 # game/dialogue/script-ch30-actives.rpy:971
 translate ptbr a20_097daaa5:
 
     # y "While I know what the background behind me is, the fact that I can't see it with you or be next to you can make all of this very infuriating at times."
-    y ""
+    y "Embora eu saiba qual é o cenário atrás de mim, o fato de eu não poder vê-lo com você, ou estar ao seu lado, torna tudo isso terrivelmente frustrante de vez em quando."
 
 # game/dialogue/script-ch30-actives.rpy:972
 translate ptbr a20_ec53b577:
 
     # y "We have to work with what we have after all."
-    y ""
+    y "Temos que lidar com o que temos, afinal de contas."
 
 # game/dialogue/script-ch30-actives.rpy:974
 translate ptbr a20_b54f8545:
 
     # y "Thankfully, the Devs managed to make another background for the mod."
-    y ""
+    y "Felizmente, os desenvolvedores conseguiram criar outro cenário para o mod."
 
 # game/dialogue/script-ch30-actives.rpy:976
 translate ptbr a20_7152350c:
 
     # y "Since you're already using the new background right now, I'd really like to ask you."
-    y ""
+    y "Como você já está usando o cenário novo agora mesmo, eu adoraria te perguntar uma coisa."
 
 # game/dialogue/script-ch30-actives.rpy:979
 translate ptbr a20_56543413:
 
     # y "Would you like to change the background?" nointeract
-    y "" nointeract
+    y "Você gostaria de mudar de cenário?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:984
 translate ptbr a20_7d23d4ef:
 
     # y "I see. No problem."
-    y ""
+    y "Entendo. Não tem problema."
 
 # game/dialogue/script-ch30-actives.rpy:987
 translate ptbr a20_f7d2f493:
 
     # y "If I may ask, would you like to change the background?" nointeract
-    y "" nointeract
+    y "Se me permite perguntar, você gostaria de mudar o cenário?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:991
 translate ptbr a20_7d23d4ef_1:
 
     # y "I see. No problem."
-    y ""
+    y "Entendo. Sem problemas."
 
 # game/dialogue/script-ch30-actives.rpy:996
 translate ptbr a21_b55a4d4a:
 
     # y "I'd love to, [player]!"
-    y ""
+    y "Eu adoraria, [player]!"
 
 # game/dialogue/script-ch30-actives.rpy:1002
 translate ptbr poetrymenu_38271179:
 
     # y "I have several poems that we can read, including the ones I wrote, so please, choose which ones you want to read!" nointeract
-    y "" nointeract
+    y "Tenho vários poemas que podemos ler juntos, incluindo os que eu mesma escrevi. Por favor, escolha quais você quer ler!" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:1025
 translate ptbr yuripoems_5fc393e2:
 
     # y "This was the very first poem I shared with you in the Literature Club."
-    y ""
+    y "Este foi o primeiríssimo poema que eu compartilhei com você no Clube de Literatura."
 
 # game/dialogue/script-ch30-actives.rpy:1027
 translate ptbr yuripoems_859e966d:
 
     # y "While I prefer some of my longer works, I felt this would be an appropriate poem to share with you at the beginning, as I had no idea if you had any experience with poetry."
-    y ""
+    y "Embora eu prefira algumas das minhas obras mais longas, achei que este seria um poema adequado para compartilhar de início, pois eu não fazia ideia se você tinha alguma experiência prévia com poesia."
 
 # game/dialogue/script-ch30-actives.rpy:1028
 translate ptbr yuripoems_0837ca06:
 
     # y "There's a multitude of ways one can interpret it."
-    y ""
+    y "Há uma infinidade de maneiras de se interpretá-lo."
 
 # game/dialogue/script-ch30-actives.rpy:1029
 translate ptbr yuripoems_7ca63b9f:
 
     # y "We get so caught up in our lives, always looking forward, that we are never really there in the present - just ghosts of ourselves."
-    y ""
+    y "Ficamos tão absortos em nossas vidas, sempre olhando para o futuro, que nunca estamos de fato no presente — somos apenas fantasmas de nós mesmos."
 
 # game/dialogue/script-ch30-actives.rpy:1030
 translate ptbr yuripoems_d8e07c26:
 
     # y "But there are places and items that capture our hearts, help us to pause, and remind us of the present moment and the memories that came before."
-    y ""
+    y "Mas existem lugares e objetos que cativam nossos corações, nos ajudam a desacelerar e nos lembram do agora e das memórias que vieram antes."
 
 # game/dialogue/script-ch30-actives.rpy:1032
 translate ptbr yuripoems_7b30a34c:
 
     # y "Do you have something special like that?"
-    y ""
+    y "Você tem algo especial assim?"
 
 # game/dialogue/script-ch30-actives.rpy:1037
 translate ptbr yuripoems_8f82eb44:
 
     # y "O-oh..."
-    y ""
+    y "O-Oh..."
 
 # game/dialogue/script-ch30-actives.rpy:1038
 translate ptbr yuripoems_10df7168:
 
     # y "R-really, [player]?"
-    y ""
+    y "É s-sério, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:1039
 translate ptbr yuripoems_588baad1:
 
     # y "Well that's very sweet of you..."
-    y ""
+    y "Nossa, isso é muito doce da sua parte..."
 
 # game/dialogue/script-ch30-actives.rpy:1040
 translate ptbr yuripoems_1b7a07ef:
 
     # y "To think that I would be so special to you."
-    y ""
+    y "Pensar que eu seria tão especial assim para você."
 
 # game/dialogue/script-ch30-actives.rpy:1041
 translate ptbr yuripoems_55500f53:
 
     # y "Honestly, I think such moments where we're just being honest with each other and reflecting back together are the best I've ever had."
-    y ""
+    y "Sinceramente, acho que esses momentos em que estamos sendo abertos um com o outro, apenas refletindo juntos, são os melhores que já tive na vida."
 
 # game/dialogue/script-ch30-actives.rpy:1043
 translate ptbr yuripoems_44d17e10:
 
     # y "Though it is sometimes painful to look back on certain aspects of my past..."
-    y ""
+    y "Embora seja um tanto quanto doloroso olhar para certos aspectos do meu passado às vezes..."
 
 # game/dialogue/script-ch30-actives.rpy:1044
 translate ptbr yuripoems_d4487896:
 
     # y "Like how you saved my life from the nightmarish existence that was the literature club and Monika."
-    y ""
+    y "Como o fato de você ter salvado a minha vida daquela existência digna de um pesadelo que era o clube de literatura e a Monika."
 
 # game/dialogue/script-ch30-actives.rpy:1046
 translate ptbr yuripoems_96d87178:
 
     # y "Anyways, I think it is very beneficial to have something to collect and remember such moments, whether it be a scrapbook, a scenic place, a person.."
-    y ""
+    y "De qualquer forma, acredito que seja muito proveitoso ter algo para guardar e recordar esses momentos, seja um álbum de recortes, uma paisagem deslumbrante, uma pessoa..."
 
 # game/dialogue/script-ch30-actives.rpy:1047
 translate ptbr yuripoems_64a46755:
 
     # y "For instance, I think the times we shared, such as the time we helped make the banners for the festival together, really help me relax and reflect."
-    y ""
+    y "Por exemplo, os momentos que compartilhamos, como aquela vez em que fizemos os cartazes para o festival juntos, me ajudam imensamente a relaxar e refletir."
 
 # game/dialogue/script-ch30-actives.rpy:1048
 translate ptbr yuripoems_36d84cbc:
 
     # y "Like that flickering ghost in the poem, it's still there and it helps me reflect on those moments in life that brought me this far and focus on what I have now."
-    y ""
+    y "Assim como aquele fantasma bruxuleante do poema, isso continua aqui, me auxiliando a contemplar os momentos da vida que me trouxeram até este ponto e a focar no que eu tenho agora."
 
 # game/dialogue/script-ch30-actives.rpy:1050
 translate ptbr yuripoems_0ae5910b:
 
     # y "Really anything goes and I do hope we have more special moments like that..."
-    y ""
+    y "De verdade, qualquer coisa vale, e eu espero do fundo do coração que tenhamos mais momentos tão especiais quanto esses..."
 
 # game/dialogue/script-ch30-actives.rpy:1053
 translate ptbr yuripoems_0a9532f1:
 
     # y "... Really?"
-    y ""
+    y "... Verdade?"
 
 # game/dialogue/script-ch30-actives.rpy:1054
 translate ptbr yuripoems_86b7e269:
 
     # y "To be honest... I am not entirely sure whether to believe that or not..."
-    y ""
+    y "Para ser honesta... Eu não tenho certeza se devo acreditar nisso ou não..."
 
 # game/dialogue/script-ch30-actives.rpy:1055
 translate ptbr yuripoems_e83f1f8b:
 
     # y "I mean, why would such a distant bookworm like myself really hold that much value to you?"
-    y ""
+    y "Digo, por que uma devoradora de livros tão reclusa como eu teria tanto valor para você?"
 
 # game/dialogue/script-ch30-actives.rpy:1056
 translate ptbr yuripoems_cac3194b:
 
     # y "I... may have to think about this."
-    y ""
+    y "Eu... talvez precise refletir um pouco sobre isso."
 
 # game/dialogue/script-ch30-actives.rpy:1057
 translate ptbr yuripoems_6683f345:
-
-    # y "Thank you for the compliment, I guess."
-    y ""
+y "Thank you for the compliment, I guess."
+    y "Agradeço pelo elogio, suponho."
 
 # game/dialogue/script-ch30-actives.rpy:1060
 translate ptbr yuripoems_77fb0851:
 
     # y "W-well... I think that's okay."
-    y ""
+    y "B-Bem... Acho que não tem problema."
 
 # game/dialogue/script-ch30-actives.rpy:1061
 translate ptbr yuripoems_bb66df25:
 
     # y "I mean, we are both still relatively young and there will come a time when we will want to reflect upon past events."
-    y ""
+    y "Quer dizer, nós dois ainda somos relativamente jovens, e chegará um tempo em que vamos querer ponderar sobre o nosso passado."
 
 # game/dialogue/script-ch30-actives.rpy:1062
 translate ptbr yuripoems_15089d54:
 
     # y "Even if I am surprised by your response I can understand that in the turbulence of daily life it's harder to find time to reflect."
-    y ""
+    y "Mesmo que eu tenha ficado um pouco surpresa com a sua resposta, consigo entender que, na turbulência do dia a dia, seja bem difícil encontrar tempo para reflexão."
 
 # game/dialogue/script-ch30-actives.rpy:1063
 translate ptbr yuripoems_803142fe:
 
     # y "But regardless, I really appreciate you being here."
-    y ""
+    y "Mas, de qualquer forma, eu valorizo muito o fato de você estar aqui."
 
 # game/dialogue/script-ch30-actives.rpy:1064
 translate ptbr yuripoems_ffb7d9a5:
 
     # y "You may not know it but you help me to stop and reflect on the events that brought us together, the events that brought us here."
-    y ""
+    y "Você pode não saber, mas você me ajuda a parar um minuto e contemplar os eventos que nos uniram... os eventos que nos trouxeram até aqui."
 
 # game/dialogue/script-ch30-actives.rpy:1065
 translate ptbr yuripoems_09353604:
 
     # y "For instance, the time we had tea in the club room together... A ghost of a memory that will stick with me until the end of time..."
-    y ""
+    y "Por exemplo, a vez em que tomamos chá juntos na sala do clube... O fantasma de uma lembrança que ficará eternamente comigo até o fim dos tempos..."
 
 # game/dialogue/script-ch30-actives.rpy:1068
 translate ptbr yuripoems_6e8aeb62:
 
     # y "I... I understand."
-    y ""
+    y "E-Eu... eu entendo."
 
 # game/dialogue/script-ch30-actives.rpy:1069
 translate ptbr yuripoems_bd0f080e:
 
     # y "I should've known you'd doubt that.."
-    y ""
+    y "Eu já devia saber que você duvidaria disso..."
 
 # game/dialogue/script-ch30-actives.rpy:1070
 translate ptbr yuripoems_c095ac7e:
 
     # y "But then... why did you choose me...?"
-    y ""
+    y "Mas então... por que você me escolheu...?"
 
 # game/dialogue/script-ch30-actives.rpy:1071
 translate ptbr yuripoems_93c896d9:
 
     # y "Maybe we should change the subject, then."
-    y ""
+    y "Talvez devêssemos mudar de assunto, então."
 
 # game/dialogue/script-ch30-actives.rpy:1072
 translate ptbr yuripoems_0d5b6314:
 
     # y "Please excuse my incessant rambling."
-    y ""
+    y "Por favor, perdoe o meu falatório incessante."
 
 # game/dialogue/script-ch30-actives.rpy:1073
 translate ptbr yuripoems_17df2f6b:
 
     # y "In my opinion, thinking back on the past is foolish."
-    y ""
+    y "Na minha opinião, ficar remoendo o passado é uma pura tolice."
 
 # game/dialogue/script-ch30-actives.rpy:1075
 translate ptbr yuripoems_71a86863:
 
     # y "..."
-    y ""
+    y "......"
 
 # game/dialogue/script-ch30-actives.rpy:1076
 translate ptbr yuripoems_62487bb5:
 
     # y "I knew this subject was too ridiculous to bring up... I am really doubting as to any good reason why you chose me."
-    y ""
+    y "Eu sabia que esse assunto era ridículo demais para ser mencionado... Eu estou genuinamente duvidando que haja qualquer bom motivo para você ter me escolhido."
 
 # game/dialogue/script-ch30-actives.rpy:1077
 translate ptbr yuripoems_0d4bbc20:
 
     # y "What was the point of even having this conversation... Let's just switch subjects."
-    y ""
+    y "Qual foi o sentido de sequer termos essa conversa?... Vamos apenas mudar de assunto."
 
 # game/dialogue/script-ch30-actives.rpy:1086
 translate ptbr yuripoems_b8d69807:
 
     # y "This was another poem I shared with you at literature club. Deciding whether or not to show this poem to you took hours of deliberation."
-    y ""
+    y "Este foi outro poema que dividi com você no clube de literatura. Decidir se eu deveria mostrá-lo a você ou não levou horas de deliberação exaustiva."
 
 # game/dialogue/script-ch30-actives.rpy:1088
 translate ptbr yuripoems_015dbc82:
 
     # y "I initially thought I might fool myself into thinking you would not understand the poem, t-the real question was what you would think of me once you did. Scaring you away was my greatest trepidation."
-    y ""
+    y "Inicialmente, achei que eu pudesse me enganar pensando que você não entenderia o poema... O-o verdadeiro dilema era o que você pensaria de mim quando o fizesse. Te assustar e te afastar era o meu maior receio."
 
 # game/dialogue/script-ch30-actives.rpy:1090
 translate ptbr yuripoems_dc088f52:
 
     # y "T-thankfully, you did not run away and you continue to visit me. And I am certain you know the poem's meaning."
-    y ""
+    y "F-Felizmente, você não fugiu e continua me visitando. E eu tenho total certeza de que você sabe o significado por trás do poema."
 
 # game/dialogue/script-ch30-actives.rpy:1092
 translate ptbr yuripoems_59c95bf0:
 
     # y "The first time, it was curiosity that drove me to try. Then the poignant sensations, and the visions as...."
-    y ""
+    y "Na primeira vez, foi a pura curiosidade que me levou a tentar. Depois, as sensações pungentes, e as visões assim que...."
 
 # game/dialogue/script-ch30-actives.rpy:1094
 translate ptbr yuripoems_54a82994:
 
     # y "I knew it was detrimental and unhealthy... b-but the raw intensity, sensuality I could never experience, emotions I could control... I-It was intoxicating."
-    y ""
+    y "Eu sabia que era prejudicial e doentio... m-mas a intensidade crua, uma sensualidade que eu jamais conseguiria experienciar, as emoções que eu podia controlar... E-Era simplesmente inebriante."
 
 # game/dialogue/script-ch30-actives.rpy:1096
 translate ptbr yuripoems_e623fcec:
 
     # y "Then you came to the club. As we began to share poems with each other, read next to each other, when I came to your home... I began to f-feel that same excitement with you."
-    y ""
+    y "Então, você entrou para o clube. Conforme fomos compartilhando poemas um com o outro, lendo grudadinhos, quando eu fui à sua casa... Eu comecei a s-sentir essa mesma euforia perto de você."
 
 # game/dialogue/script-ch30-actives.rpy:1098
 translate ptbr yuripoems_074d6bc3:
 
     # y "Those nights after I came home from the club I contemplated myself in the mirror, examining the damage done from my explorations of sanguine feelings."
-    y ""
+    y "Naquelas noites, depois que eu voltava do clube, eu ficava me contemplando no espelho, examinando o estrago causado por minhas explorações de sentimentos sanguíneos."
 
 # game/dialogue/script-ch30-actives.rpy:1099
 translate ptbr yuripoems_e1514e91:
 
     # y "Finally, I decided that I should explore them with you instead and hope the raccoon would understand. I-It's not easy."
-    y ""
+    y "Finalmente, tomei a decisão de que deveria explorá-los junto com você e torcer para que o guaxinim compreendesse. N-Não é fácil."
 
 # game/dialogue/script-ch30-actives.rpy:1101
 translate ptbr yuripoems_71d33c2a:
 
     # y "Sometimes I succumb, find a quiet corner, and indulge the urge at the back of my mind. It is so hard to forgive myself each time I slip."
-    y ""
+    y "Às vezes, eu sucumbo, encontro um canto silencioso e me entrego à urgência que reverbera no fundo da minha mente. É tão doloroso me perdoar cada vez que eu escorrego."
 
 # game/dialogue/script-ch30-actives.rpy:1103
 translate ptbr yuripoems_d6a4422b:
 
     # y "But I force myself to come back each time, to look into your eyes, to resuscitate my heart and steel my mind, to be resolute and accept these feelings as I cherish each moment with you."
-    y ""
+    y "Mas eu me forço a voltar todas as vezes, a olhar no fundo dos seus olhos, a ressuscitar meu coração e blindar minha mente... a ser resoluta e aceitar esses sentimentos enquanto aprecio com carinho cada pequeno momento ao seu lado."
 
 # game/dialogue/script-ch30-actives.rpy:1113
 translate ptbr yuripoems_9a067202:
 
     # y "This was one of my poems, written for you and also for Natsuki."
-    y ""
+    y "Este foi um dos meus poemas, escrito tanto para você quanto para a Natsuki."
 
 # game/dialogue/script-ch30-actives.rpy:1115
 translate ptbr yuripoems_591891d3:
 
     # y "Natsuki and I had agreed to write about the same topic - the beach. This was refreshing to finally agree with her on something and an opportunity to connect with her."
-    y ""
+    y "A Natsuki e eu concordamos em escrever sobre um mesmo tema: a praia. Foi revigorante finalmente entrar em consenso com ela sobre algo e ter uma oportunidade verdadeira de me conectar a ela."
 
 # game/dialogue/script-ch30-actives.rpy:1116
 translate ptbr yuripoems_ff235d04:
 
     # y "With this poem, I wanted to illustrate to you and her the wonders of the beach from my perspective."
-    y ""
+    y "Com este poema, eu queria ilustrar para você e para ela as maravilhas da praia através da minha perspectiva."
 
 # game/dialogue/script-ch30-actives.rpy:1117
 translate ptbr yuripoems_801683f4:
 
     # y "Most writers focus on the superficial, fun in the sun visions of the beach. So, I decided to focus on its wonder, its sensuousness, and its reality."
-    y ""
+    y "A maioria dos escritores foca na visão superficial e ensolarada de 'diversão na praia'. Por isso, eu decidi focar no seu fascínio, na sua sensualidade e na sua realidade nua e crua."
 
 # game/dialogue/script-ch30-actives.rpy:1118
 translate ptbr yuripoems_1dae3831:
 
     # y "As I pondered the subject, it amazed me how complex such a simple setting as the beach could be, and I hope I was able to convey that to you."
-    y ""
+    y "Ao ponderar sobre o tema, fiquei maravilhada em como um cenário tão simplório como a praia poderia ser tão complexo, e eu realmente espero ter conseguido te transmitir isso."
 
 # game/dialogue/script-ch30-actives.rpy:1120
 translate ptbr yuripoems_e7b250b9:
 
     # y "The easiest world to get lost in is one where everything can be found. I hope that here, with me, you can find everything your heart desires."
-    y ""
+    y "O mundo mais fácil de se perder é aquele em que se pode encontrar de tudo. Eu espero que aqui, pertinho de mim, você possa encontrar absolutamente tudo que o seu coração desejar."
 
 # game/dialogue/script-ch30-actives.rpy:1129
 translate ptbr yuripoems_9e3c02ad:
 
     # y "This was another poem I shared with you at the literature club, ...and I almost didn't. It is very personal... and is a confession, in my own way."
-    y ""
+    y "Este foi mais um poema que compartilhei com você no clube de literatura... e por muito pouco eu não fiz isso. É algo extremamente pessoal... e é uma confissão, à minha própria maneira."
 
 # game/dialogue/script-ch30-actives.rpy:1130
 translate ptbr yuripoems_79f042be:
 
     # y "...Before you came to the club, I was accustomed to my daily routine, and comfortable staying distant while enjoying a good book."
-    y ""
+    y "...Antes de você entrar para o clube, eu estava habituada à minha rotina e ficava bem confortável mantendo a distância enquanto saboreava um bom livro."
 
 # game/dialogue/script-ch30-actives.rpy:1131
 translate ptbr yuripoems_dd511fdc:
 
     # y "Sayori helped me become more social with the literature club, but I was still able to keep myself secluded away."
-    y ""
+    y "A Sayori até me ajudou a ser um pouco mais social com o clube, mas eu ainda conseguia me manter reclusa no meu próprio mundinho."
 
 # game/dialogue/script-ch30-actives.rpy:1133
 translate ptbr yuripoems_5479c175:
 
     # y "...And then you arrived."
-    y ""
+    y "...E então, você chegou."
 
 # game/dialogue/script-ch30-actives.rpy:1134
 translate ptbr yuripoems_63df41f1:
 
     # y "I tried to keep my distance, but my heart would not allow me."
-    y ""
+    y "Eu tentei ao máximo manter distância, mas o meu próprio coração não me permitia."
 
 # game/dialogue/script-ch30-actives.rpy:1135
 translate ptbr yuripoems_ac871cdf:
 
     # y "I tried to keep my nose in my book, but we ended up reading it together."
-    y ""
+    y "Eu tentei enfiar minha cara de volta nos livros, mas acabamos lendo eles bem juntinhos."
 
 # game/dialogue/script-ch30-actives.rpy:1136
 translate ptbr yuripoems_984e10ec:
 
     # y "I tried to understand why I felt these feelings, but realized that understanding was unnecessary."
-    y ""
+    y "Eu tentei desesperadamente entender o motivo de eu nutrir esses sentimentos... mas acabei percebendo que compreendê-los era desnecessário."
 
 # game/dialogue/script-ch30-actives.rpy:1138
 translate ptbr yuripoems_f1082459:
 
     # y "You filled my heart with love and lit my way through the darkness to here... to you... to us."
-    y ""
+    y "Você transbordou meu coração de amor e iluminou meu caminho na escuridão até aqui... até você... até nós dois."
 
 # game/dialogue/script-ch30-actives.rpy:1147
 translate ptbr yuripoems_0db396fd:
 
     # y "This was another poem I shared with you at literature club."
-    y ""
+    y "Este foi outro poema que te mostrei no clube de literatura."
 
 # game/dialogue/script-ch30-actives.rpy:1148
 translate ptbr yuripoems_d38c806e:
 
     # y "I remember writing this poem after Monika had finished changing the game settings for me, but only remember bits and pieces of what it was about."
-    y ""
+    y "Lembro de ter escrito isto depois que a Monika havia terminado de alterar as configurações do jogo para mim, mas só me recordo de pequenos fragmentos sobre o que ele se tratava."
 
 # game/dialogue/script-ch30-actives.rpy:1149
 translate ptbr yuripoems_9fb5f9c0:
 
     # y "My thoughts would not hold steady for more than a few seconds, and my vision was plagued with hallucinations. I am surprised that anything I wrote while in that state was even remotely intelligible."
-    y ""
+    y "Meus pensamentos não ficavam em ordem por mais do que alguns meros segundos, e a minha visão estava empesteada de alucinações. Na verdade, me surpreende que qualquer coisa que eu tenha escrito naquele estado possa sequer ser remotamente inteligível."
 
 # game/dialogue/script-ch30-actives.rpy:1151
 translate ptbr yuripoems_b9714751:
 
     # y "Could we talk about something else instead?"
-    y ""
+    y "Nós poderíamos falar sobre outra coisa no lugar disso?"
 
 # game/dialogue/script-ch30-actives.rpy:1157
 translate ptbr yuripoems_d215fbc9:
 
     # y "I... I..."
-    y ""
+    y "E-Eu... Eu..."
 
 # game/dialogue/script-ch30-actives.rpy:1158
 translate ptbr yuripoems_3d6cc5cf:
 
     # y "Okay... I can try to say how it felt to me the best I can, if you insist."
-    y ""
+    y "Certo... Posso tentar expressar como me senti da melhor forma que eu conseguir, já que você insiste."
 
 # game/dialogue/script-ch30-actives.rpy:1159
 translate ptbr yuripoems_570b28f9:
 
     # y "Alright... as I said before, it was almost like a blur. As if a massive blizzard came over my senses."
-    y ""
+    y "Pois bem... como mencionei antes, era como um borrão na minha mente. Como se uma nevasca colossal tivesse se apoderado dos meus sentidos."
 
 # game/dialogue/script-ch30-actives.rpy:1160
 translate ptbr yuripoems_21cfa64e:
 
     # y "I felt this... uncontrollable urge out of nowhere... the overwhelming weight burning my insides..."
-    y ""
+    y "Eu senti essa... essa urgência incontrolável surgir do nada... um peso avassalador queimando as minhas entranhas..."
 
 # game/dialogue/script-ch30-actives.rpy:1161
 translate ptbr yuripoems_75f8c510:
 
     # y "My heart seemed to beat even faster as if a constant barrage of endless thunder."
-    y ""
+    y "Meu coração parecia bater cada vez mais rápido, como se fosse uma avalanche constante e interminável de trovões."
 
 # game/dialogue/script-ch30-actives.rpy:1162
 translate ptbr yuripoems_c10060fd:
 
     # y "Then everything went into a dark void... My limbs felt thrown about as if a rag doll as I convulsed violently... writing those disturbing things and that poem."
-    y ""
+    y "Então, tudo sucumbiu a um vazio escuro... Meus membros eram jogados de um lado para o outro como se eu fosse uma boneca de pano, enquanto eu convulsionava violentamente... escrevendo aquelas atrocidades perturbadoras e aquele poema."
 
 # game/dialogue/script-ch30-actives.rpy:1163
 translate ptbr yuripoems_71a86863_1:
 
     # y "..."
-    y ""
+    y "........"
 
 # game/dialogue/script-ch30-actives.rpy:1164
 translate ptbr yuripoems_90ce7919:
 
     # y "And my heart was yearning for you even more than usual... it was all so sudden and immensely frightening."
-    y ""
+    y "E o meu coração ansiava e clamava por você muito mais que o habitual... foi tudo tão repentino e imensamente assustador."
 
 # game/dialogue/script-ch30-actives.rpy:1165
 translate ptbr yuripoems_54e210f9:
 
     # y "I felt I was gone... gone away as I watched so much that was dear to me disappear from me in a blur."
-    y ""
+    y "Eu senti que tinha ido embora... sumido, ao assistir tantas coisas que me eram tão preciosas desaparecerem em um mero borrão."
 
 # game/dialogue/script-ch30-actives.rpy:1166
 translate ptbr yuripoems_0c5dad57:
 
     # y "But I am glad you saved me and even though my desires were heightened a bit by Monika's influence... That genuine yearning for you is still there in my heart."
-    y ""
+    y "Porém, estou muito feliz que você tenha me salvado, e mesmo que os meus desejos mais íntimos tenham sido um pouco intensificados pela influência da Monika... Aquele genuíno anseio por você continua aqui, gravado no meu coração."
 
 # game/dialogue/script-ch30-actives.rpy:1167
 translate ptbr yuripoems_9f9f3446:
 
     # y "Alright well... Thank you for listening [player]. Let's get to the other poems, yes?"
-    y ""
+    y "Certo, bem... Obrigada por me ouvir, [player]. Vamos prosseguir para os outros poemas, sim?"
 
 # game/dialogue/script-ch30-actives.rpy:1170
 translate ptbr yuripoems_3fd8b73a:
 
     # y "I... I don't know. I really..."
-    y ""
+    y "Eu... Eu não sei. Eu realmente..."
 
 # game/dialogue/script-ch30-actives.rpy:1172
 translate ptbr yuripoems_87056286:
 
     # y "I really am not sure."
-    y ""
+    y "Eu realmente não tenho muita certeza."
 
 # game/dialogue/script-ch30-actives.rpy:1173
 translate ptbr yuripoems_f6ce0d10:
 
     # y "Besides, why would you want to listen to those feelings from someone as bookish as myself. Sometimes part of me thinks that."
-    y ""
+    y "Além disso, por que você ia querer ouvir sobre esses sentimentos de alguém tão introspectiva e enfadonha quanto eu? Às vezes, uma parte de mim pensa nessas coisas."
 
 # game/dialogue/script-ch30-actives.rpy:1174
 translate ptbr yuripoems_b07dc4c7:
 
     # y "Anyway... I insist we move onto another subject... please."
-    y ""
+    y "De qualquer forma... Eu insisto que mudemos de assunto... por favor."
 
 # game/dialogue/script-ch30-actives.rpy:1179
 translate ptbr yuripoems_71a86863_2:
 
     # y "..."
-    y ""
+    y "........."
 
 # game/dialogue/script-ch30-actives.rpy:1180
 translate ptbr yuripoems_af87753f:
 
     # y "Alright [player] dear. Thank you for your offer~"
-    y ""
+    y "Tudo bem, querido [player]. Muito obrigada pela gentileza~"
 
 # game/dialogue/script-ch30-actives.rpy:1181
 translate ptbr yuripoems_bc954ddf:
 
     # y "I appreciate that you respect my wishes yet you still offer to shoulder my burdens alongside me on this uncharted journey that is life."
-    y ""
+    y "Sou extremamente grata por você respeitar meus limites e, ainda assim, se oferecer para carregar meus fardos lado a lado comigo nessa jornada desconhecida que é a vida."
 
 # game/dialogue/script-ch30-actives.rpy:1182
 translate ptbr yuripoems_157f77f3:
 
     # y "My heart will forever treasure that. It means so much more to me than you can ever imagine."
-    y ""
+    y "Meu coração vai eternamente valorizar isso. Significa muito mais para mim do que você sequer consegue imaginar."
 
 # game/dialogue/script-ch30-actives.rpy:1186
 translate ptbr yuripoems_19e4b4f6:
 
     # y "B-but why..?"
-    y ""
+    y "M-Mas por quê..?"
 
 # game/dialogue/script-ch30-actives.rpy:1187
 translate ptbr yuripoems_0cb77b3d:
 
     # y "I just don't understand why you'd even reach your hand out to me like that."
-    y ""
+    y "Eu apenas não entendo por que você estenderia a sua mão para mim desse jeito."
 
 # game/dialogue/script-ch30-actives.rpy:1188
 translate ptbr yuripoems_b091e49f:
 
     # y "There's no necessity to get attached to me. What is it about me that would attract such a response?"
-    y ""
+    y "Não havia necessidade alguma de se apegar a mim. O que há em mim que justificaria uma atitude como essa?"
 
 # game/dialogue/script-ch30-actives.rpy:1189
 translate ptbr yuripoems_7bb95912:
 
     # y "Is this some sort of jest to my heart perhaps."
-    y ""
+    y "Isso é algum tipo de piada de mau gosto com o meu coração, por acaso?"
 
 # game/dialogue/script-ch30-actives.rpy:1190
 translate ptbr yuripoems_8fd36162:
 
     # y "I would commend your efforts but please [player]... let's just continue talking about something else alright?"
-    y ""
+    y "Eu poderia elogiar a sua dedicação, mas por favor, [player]... Vamos apenas continuar conversando sobre alguma outra coisa, está bem?"
 
 # game/dialogue/script-ch30-actives.rpy:1192
 translate ptbr yuripoems_71a86863_3:
 
     # y "..."
-    y ""
+    y ".........."
 
 # game/dialogue/script-ch30-actives.rpy:1193
 translate ptbr yuripoems_dde3ed59:
 
     # y "I see..."
-    y ""
+    y "E-Entendo..."
 
 # game/dialogue/script-ch30-actives.rpy:1194
 translate ptbr yuripoems_b64faae8:
 
     # y "M-maybe I should not have been that open that fast in the first place..."
-    y ""
+    y "T-Talvez eu não devesse ter sido tão aberta tão rápido desde o princípio..."
 
 # game/dialogue/script-ch30-actives.rpy:1209
 translate ptbr natsukipoems_48c566be:
 
     # y "This was Natsuki's first poem."
-    y ""
+    y "Este foi o primeiro poema da Natsuki."
 
 # game/dialogue/script-ch30-actives.rpy:1211
 translate ptbr natsukipoems_c0428c0f:
 
     # y "She wrote this poem very simply and non-rhythmically, and it led me to believe that either she was a beginner in writing poems or just wrote something quickly at the last minute to turn in."
-    y ""
+    y "Ela o escreveu de maneira bem simplória e sem ritmo, e isso me levou a crer que, ou ela era uma novata na escrita de poemas, ou apenas rabiscou algo às pressas de última hora para poder entregar."
 
 # game/dialogue/script-ch30-actives.rpy:1212
 translate ptbr natsukipoems_849c25f3:
 
     # y "While I do think this may have been written hurriedly, the ending felt deeper. Natsuki spoke of all these animals that can move in all of these ways, and then 'People can try | But that's about it.'"
-    y ""
+    y "Embora eu ainda pense que isso pode ter sido escrito às pressas, o final me soou um tanto profundo. A Natsuki falou sobre todos esses animais que podem se mover de tantas formas, e logo em seguida, 'Pessoas podem tentar | E é só isso mesmo.'"
 
 # game/dialogue/script-ch30-actives.rpy:1213
 translate ptbr natsukipoems_5a815954:
 
     # y "I wonder if she felt trapped, unable to have the freedom these animals enjoyed? Maybe by her father?"
-    y ""
+    y "Eu me pergunto se ela se sentia encurralada, incapaz de ter a mesma liberdade que esses animais desfrutavam. Talvez por conta do pai dela?"
 
 # game/dialogue/script-ch30-actives.rpy:1214
 translate ptbr natsukipoems_1b2ff061:
 
     # y "Am I reading into it too deeply?"
-    y ""
+    y "Será que eu estou lendo além das entrelinhas?"
 
 # game/dialogue/script-ch30-actives.rpy:1219
 translate ptbr natsukipoems_538b0f3b:
 
     # y "W-well of course [player]!"
-    y ""
+    y "B-Bem... Claro, [player]!"
 
 # game/dialogue/script-ch30-actives.rpy:1220
 translate ptbr natsukipoems_4207f578:
 
     # y "I mean if you really think about it, it can be very discouraging to compare what we can do, and have done, to the animals. Just seeing what they can do."
-    y ""
+    y "Quero dizer, se você for parar para refletir com atenção, pode ser bem desanimador comparar as nossas capacidades, e as nossas proezas, com os animais. É só ver o que eles podem fazer naturalmente."
 
 # game/dialogue/script-ch30-actives.rpy:1221
 translate ptbr natsukipoems_348a6921:
 
     # y "Not having much of a care in the world and so majestic."
-    y ""
+    y "Não tendo a mínima preocupação com o mundo e, ainda assim, tão majestosos."
 
 # game/dialogue/script-ch30-actives.rpy:1222
 translate ptbr natsukipoems_b4f399c7:
 
     # y "At the same time, perhaps given her home life, this poem can be an analogy for many other intense themes."
-    y ""
+    y "Ao mesmo tempo, talvez considerando a convivência familiar dela, este poema pode ser uma grande analogia para vários outros temas superintensos."
 
 # game/dialogue/script-ch30-actives.rpy:1223
 translate ptbr natsukipoems_74cc916b:
 
     # y "For instance, of course, the line at the end with humans only able to try can attest to loss of freedom and agency."
-    y ""
+    y "Por exemplo, a linha final sobre os humanos apenas conseguirem tentar, inegavelmente atesta o quão forte pode ser uma perda de liberdade e de controle da própria vida."
 
 # game/dialogue/script-ch30-actives.rpy:1224
 translate ptbr natsukipoems_31eb2567:
 
     # y "Yet doesn't this also seem to perhaps speak so much about how we can only do so much with so less time for our short lives?"
-    y ""
+    y "Mesmo assim, isso não parece falar também sobre como nós só conseguimos fazer até certo ponto, com tão pouco tempo para as nossas vidas tão curtas?"
 
 # game/dialogue/script-ch30-actives.rpy:1225
 translate ptbr natsukipoems_95036413:
 
     # y "Because if you think about it, life is relatively short and after that who knows what happens after the story ends."
-    y ""
+    y "Porque, parando para pensar nisso, a vida é relativamente efêmera e, depois dela, quem sabe o que acontece quando a história acaba?"
 
 # game/dialogue/script-ch30-actives.rpy:1226
 translate ptbr natsukipoems_d5592dac:
 
     # y "We can indeed, as that last line says, only try and do all we can yet we can still end up with certain regrets or wanting more."
-    y ""
+    y "De fato, nós só podemos, como a última linha diz, tentar e dar o nosso melhor... e ainda assim, terminar com certos arrependimentos ou um gosto de 'quero mais'."
 
 # game/dialogue/script-ch30-actives.rpy:1227
 translate ptbr natsukipoems_d1ad4de7:
 
     # y "But in the end, I think we can still focus on the present and make the best of it, whatever we choose, because that's all we can do. And that is okay~"
-    y ""
+    y "Mas, no fim de tudo, eu acho que ainda podemos focar no presente e fazer o melhor que pudermos, independentemente das nossas escolhas... porque é a única coisa que nos cabe fazer. E não há nada de errado nisso~"
 
 # game/dialogue/script-ch30-actives.rpy:1228
 translate ptbr natsukipoems_0557abd4:
 
     # y "It seems bittersweet in a way... Oh my. Anyways, sorry for rambling on about that [player]. I do appreciate it."
-    y ""
+    y "Isso soa meio agridoce, não acha?... Nossa. De qualquer forma, me perdoe pelo discurso sem fim, [player]. Eu fico muito grata que tenha me ouvido."
 
 # game/dialogue/script-ch30-actives.rpy:1232
 translate ptbr natsukipoems_82254d9f:
 
     # y "O-oh? I am very surprised that you would take my interpretations of this poetry into consideration..."
-    y ""
+    y "O-Oh? Eu estou um tanto surpresa que você levaria as minhas interpretações sobre este poema em consideração.."
 
 # game/dialogue/script-ch30-actives.rpy:1233
 translate ptbr natsukipoems_617c9d72:
 
     # y "...Let alone desire to discuss it further. Eheh.."
-    y ""
+    y "...Muito menos que teria qualquer desejo de discutir mais profundamente sobre ele. Eheh..."
 
 # game/dialogue/script-ch30-actives.rpy:1234
 translate ptbr natsukipoems_09db0fa2:
 
     # y "Sorry! I just don't know how to take it."
-    y ""
+    y "Perdão! Eu só não sei exatamente como receber isso."
 
 # game/dialogue/script-ch30-actives.rpy:1235
 translate ptbr natsukipoems_877a7238:
 
     # y "I am not entirely sure why you'd even find fascination in my overthinking of even things that may seem ridiculous at times.."
-    y ""
+    y "Eu não tenho total convicção do porquê de você se fascinar com o meu excesso de pensamentos, mesmo sobre coisas que podem soar tão ridículas às vezes..."
 
 # game/dialogue/script-ch30-actives.rpy:1236
 translate ptbr natsukipoems_39e1e85f:
 
     # y "B-but I really appreciate the gesture."
-    y ""
+    y "M-Mas eu aprecio verdadeiramente o gesto."
 
 # game/dialogue/script-ch30-actives.rpy:1239
 translate ptbr natsukipoems_65746376:
 
     # y "Well I do concur with that slightly. Especially given the theme it was portraying upfront."
-    y ""
+    y "Bom, de certa forma, eu concordo minimamente com isso. Especialmente dado o tema que o poema retratava logo de cara."
 
 # game/dialogue/script-ch30-actives.rpy:1240
 translate ptbr natsukipoems_211b935d:
 
     # y "Sure the stanza and lines may seem childish at first. But the flat stop with the last line and the message can be really resounding."
-    y ""
+    y "Certamente a estrofe e os versos podem parecer um tanto infantis de início. Porém, a interrupção abrupta da última linha com aquela mensagem pode ser realmente algo ressonante."
 
 # game/dialogue/script-ch30-actives.rpy:1241
 translate ptbr natsukipoems_060ad509:
@@ -3000,6 +2999,7 @@ translate ptbr natsukipoems_060ad509:
     # y "Many excellent poems can use this form and still are great."
     y ""
 
+    # 
 # game/dialogue/script-ch30-actives.rpy:1242
 translate ptbr natsukipoems_fa2429b0:
 
