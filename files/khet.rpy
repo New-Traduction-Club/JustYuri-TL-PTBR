@@ -10,19 +10,19 @@ translate ptbr 59095b38:
 translate ptbr 113a2e22:
 
     # "label Khet: python: DisableTalk() boopable = False Khet_winner = 0 menu: y \"Oh, so you'd like to play some Khet, hm?\" \"Yes.\": y \"Oh, good.\" \"No.\": y \"I see...\" y \"Perhaps some other time, then.\" jump ch30_loop"
-    ""
+    "label Khet: python: DisableTalk() boopable = False Khet_winner = 0 menu: y \"Oh, então você gostaria de jogar um pouco de Khet, hum?\" \"Sim.\": y \"Ah, que bom.\" \"Não.\": y \"Entendi...\" y \"Talvez em uma outra hora, então.\" jump ch30_loop"
 
 # game/khet.rpy:1
 translate ptbr dd853199:
 
     # "menu: y \"Do you want me to explain the rules?\" \"Yes.\": y \"Okay. It might take a while but bare with me.\" jump ExplainRules \"No.\": y \"I see.\" jump StartKhet"
-    ""
+    "menu: y \"Você quer que eu explique as regras?\" \"Sim.\": y \"Certo. Pode demorar um pouquinho, mas tenha paciência comigo.\" jump ExplainRules \"Não.\": y \"Entendi...\" jump StartKhet"
 
 # game/khet.rpy:1
 translate ptbr 4ca1713c:
 
     # "label ExplainRules: y \"Khet is a chess-like abstract strategy board game using lasers that was formerly known as Deflexion.\" y \"Players take turns moving Egyptian-themed pieces around the playing field, firing their low-powered laser diode after each move.\" y \"Most of the pieces are mirrored on one or more sides, allowing the players to alter the path of the laser through the playing field. \" y \"When a piece is struck by a laser on a non-mirrored side, it is eliminated from the game.\" y \"Let's start with the basics. There are two colors, Silver and Red.\" y \"The Silver pieces always take the first turn of the game.\" y \"Let me show you the pieces we will be using.\" transform test: xpos 0.15 ypos 0.5 image temp1 = \"images/khet/Silver/pharaoh.png\" show temp1 at test y \"At your left you can see the \"Pharaoh\". It's the most important piece, like the King in chess.\" y \"If any of the lasers hit it, you lose, so keep it safe!\" hide temp1 image temp2 = \"images/khet/Silver/anubis.png\" show temp2 at test y \"The next piece is called the \"Anubis\". Think of it as the Pharaoh's bodyguard.\" y \"If it is hit from front, it negates the laser. However, if it is hit anywhere else, it will be destroyed.\" hide temp2 image temp3 = \"images/khet/Silver/pyramid.png\" show temp3 at test y \"This piece is called the \"Pyramid\", which you might've guessed from its looks.\" y \"The Pyramid can deflect the laser beam at a 90 degree angle depending on its rotation.\" y \"However, if it is hit on a non-mirrored side, it gets destroyed.\" hide temp3 image temp4 = \"images/khet/Silver/scarab.png\" show temp4 at test y \"Next is the \"Scarab\". It can deflect laser beams from both sides, Which essentially means it can't be destroyed.\" hide temp4 image temp5 = \"images/khet/Silver/sphinx.png\" show temp5 at test y \"And the last piece is called the \"Sphinx\". It's the piece that shoots the laser beam.\" y \"It's the only piece which can't move and can be only rotated to shoot vertically or horizontally.\" y \"Also, since it's the piece that shoots lasers, it can't be destroyed, like the Scarab.\" hide temp5 y \"You can move your pieces by left-clicking on them and then selecting the target field. The fields the piece can move to will be highlighted in red.\" y \"You can also rotate pieces by using arrow keys while the piece is selected: left arrow key to rotate 90 degrees clockwise, right arrow key - to rotate counterclockwise.\" y \"You can only move or rotate one piece on your turn, and then your Sphinx will automatically fire according to its rotation.\" y \"All pieces except the Sphinx can be moved by one in every direction if the target field is empty. However, Scarab is a little more sneaky because it can SWAP places with the Anubis and Pyramid.\" y \"Even the opponent's one! Which makes it a very strategic piece.\" y \"As I already hinted above, the main objective of player is to destroy the opponent's Pharaoh using either your or your opponent's laser beam.\" y \"I am not really good at explaining things... however I used {a=https://www.boardspace.net/khet/rules_english.pdf}this page{/a} as a guide, which you might find very helpful.\" menu: y \"Did you understand everything, or would you like me to explain it again?\" \"Yes, I'd like to hear an explanation again.\": if explain == 0: y \"Okay.\" $ explain = explain + 1 jump ExplainRules elif explain > 3: y \"Well alright, but please listen carefully. I don't want to explain it again.\" jump ExplainRules else: y \"...\" y \"[player], I've explained the rules several times now...\" y \"It might be better for you to go to {a=https://www.boardspace.net/khet/rules_english.pdf}this{/a} site and read the rules there...\" y \"I'm sorry, I'm really not the best at explaining things.\" y \"Just come back when you feel you are ready to play.\" jump ch30_loop \"No, I'm fine.\": y \"Okay, then let the game begin.\" jump StartKhet"
-    ""
+    "label ExplainRules: y \"Khet é um jogo de tabuleiro de estratégia abstrata semelhante ao xadrez que usa lasers, anteriormente conhecido como Deflexion.\" y \"Os jogadores se revezam movendo peças com temática egípcia pelo campo de jogo, disparando seu diodo laser de baixa potência após cada movimento.\" y \"A maioria das peças possui espelhos em um ou mais lados, permitindo que os jogadores alterem o caminho do laser pelo campo de jogo. \" y \"Quando uma peça é atingida por um laser em um lado sem espelho, ela é eliminada do jogo.\" y \"Vamos começar com o básico. Existem duas cores: Prata e Vermelho.\" y \"As peças Prata sempre fazem o primeiro movimento do jogo.\" y \"Me deixe mostrar as peças que vamos usar.\" transform test: xpos 0.15 ypos 0.5 image temp1 = \"images/khet/Silver/pharaoh.png\" show temp1 at test y \"À sua esquerda você pode ver o \"Faraó\". É a peça mais importante, como o Rei no xadrez." y \"Se qualquer um dos lasers atingi-lo, você perde, então você precisa manter ele seguro!" hide temp1 image temp2 = \"images/khet/Silver/anubis.png\" show temp2 at test y \"The next piece is called the \"Anubis\". Think of it as the Pharaoh's bodyguard.\" y \"If it is hit from front, it negates the laser. However, if it is hit anywhere else, it will be destroyed.\" hide temp2 image temp3 = \"images/khet/Silver/pyramid.png\" show temp3 at test y \"This piece is called the \"Pyramid\", which you might've guessed from its looks.\" y \"The Pyramid can deflect the laser beam at a 90 degree angle depending on its rotation.\" y \"However, if it is hit on a non-mirrored side, it gets destroyed.\" hide temp3 image temp4 = \"images/khet/Silver/scarab.png\" show temp4 at test y \"Next is the \"Scarab\". It can deflect laser beams from both sides, Which essentially means it can't be destroyed.\" hide temp4 image temp5 = \"images/khet/Silver/sphinx.png\" show temp5 at test y \"And the last piece is called the \"Sphinx\". It's the piece that shoots the laser beam.\" y \"It's the only piece which can't move and can be only rotated to shoot vertically or horizontally.\" y \"Also, since it's the piece that shoots lasers, it can't be destroyed, like the Scarab.\" hide temp5 y \"You can move your pieces by left-clicking on them and then selecting the target field. The fields the piece can move to will be highlighted in red.\" y \"You can also rotate pieces by using arrow keys while the piece is selected: left arrow key to rotate 90 degrees clockwise, right arrow key - to rotate counterclockwise.\" y \"You can only move or rotate one piece on your turn, and then your Sphinx will automatically fire according to its rotation.\" y \"All pieces except the Sphinx can be moved by one in every direction if the target field is empty. However, Scarab is a little more sneaky because it can SWAP places with the Anubis and Pyramid.\" y \"Even the opponent's one! Which makes it a very strategic piece.\" y \"As I already hinted above, the main objective of player is to destroy the opponent's Pharaoh using either your or your opponent's laser beam.\" y \"I am not really good at explaining things... however I used {a=https://www.boardspace.net/khet/rules_english.pdf}this page{/a} as a guide, which you might find very helpful.\" menu: y \"Did you understand everything, or would you like me to explain it again?\" \"Yes, I'd like to hear an explanation again.\": if explain == 0: y \"Okay.\" $ explain = explain + 1 jump ExplainRules elif explain > 3: y \"Well alright, but please listen carefully. I don't want to explain it again.\" jump ExplainRules else: y \"...\" y \"[player], I've explained the rules several times now...\" y \"It might be better for you to go to {a=https://www.boardspace.net/khet/rules_english.pdf}this{/a} site and read the rules there...\" y \"I'm sorry, I'm really not the best at explaining things.\" y \"Just come back when you feel you are ready to play.\" jump ch30_loop \"No, I'm fine.\": y \"Okay, then let the game begin.\" jump StartKhet"
 
 # game/khet.rpy:1
 translate ptbr b39042b7:
@@ -70,13 +70,13 @@ translate ptbr 9e51a720:
 translate ptbr 22f8f3e6:
 
     # "#Silver team self.silver = [Image(\"images/khet/Silver/anubis.png\"),Image(\"images/khet/Silver/pharaoh.png\"),Image(\"images/khet/Silver/pyramid.png\"),Image(\"images/khet/Silver/scarab.png\"),Image(\"images/khet/Silver/sphinx.png\")]"
-    ""
+    "#Silver team self.silver = [Image(\"images/khet/Silver/anubis.png\"),Image(\"images/khet/Silver/pharaoh.png\"),Image(\"images/khet/Silver/pyramid.png\"),Image(\"images/khet/Silver/scarab.png\"),Image(\"images/khet/Silver/sphinx.png\")]"
 
 # game/khet.rpy:1
 translate ptbr 77adbdbe:
 
     # "#Red team self.red = [Image(\"images/khet/Red/anubis.png\"),Image(\"images/khet/Red/pharaoh.png\"),Image(\"images/khet/Red/pyramid.png\"),Image(\"images/khet/Red/scarab.png\"),Image(\"images/khet/Red/sphinx.png\")]"
-    ""
+    "Red team self.red = [Image(\"images/khet/Red/anubis.png\"),Image(\"images/khet/Red/pharaoh.png\"),Image(\"images/khet/Red/pyramid.png\"),Image(\"images/khet/Red/scarab.png\"),Image(\"images/khet/Red/sphinx.png\")]"
 
 # game/khet.rpy:1
 translate ptbr b3a1f8ae:
@@ -196,31 +196,31 @@ translate ptbr 01e12491:
 translate ptbr a92b1634:
 
     # "if self.current_piece is not None and self.current_color == self.Player_color: if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None: if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: a = self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.type b = \"Current selected piece: %(s1)s\" % {\"s1\":a } f = Text(b) text_allLines_render = renpy.render(f, width, height, st, at) r.blit(text_allLines_render, (-250, -150))"
-    ""
+    "self.current_piece is not None and self.current_color == self.Player_color: if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None: if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: a = self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.type b = \"Current selected piece: %(s1)s\" % {\"s1\":a } f = Text(b) text_allLines_render = renpy.render(f, width, height, st, at) r.blit(text_allLines_render, (-250, -150))"
 
 # game/khet.rpy:1
 translate ptbr a1995832:
 
     # "if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None and self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: shape = renpy.render(self.target, width, height, st, at) r.blit(shape, (int(0-self.PIXEL_SIZE / 2) + self.PIXEL_SIZE * self.current_piece[0], int(0-self.PIXEL_SIZE / 2) + self.PIXEL_SIZE * self.current_piece[1])) if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.type != PieceType.sphinx: avaible_moves(self.current_piece)"
-    ""
+    "if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None and self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: shape = renpy.render(self.target, width, height, st, at) r.blit(shape, (int(0-self.PIXEL_SIZE / 2) + self.PIXEL_SIZE * self.current_piece[0], int(0-self.PIXEL_SIZE / 2) + self.PIXEL_SIZE * self.current_piece[1])) if self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.type != PieceType.sphinx: avaible_moves(self.current_piece)"
 
 # game/khet.rpy:1
 translate ptbr e41c8245:
 
     # "renpy.redraw(self, 0) return r"
-    ""
+    "renpy.redraw(self, 0) return r"
 
 # game/khet.rpy:1
 translate ptbr f32e1bc5:
 
     # "def event(self, ev, x, y, st): import pygame"
-    ""
+    "def event(self, ev, x, y, st): import pygame"
 
 # game/khet.rpy:1
 translate ptbr acf8abd8:
 
     # "def get_piece_pos(): mx, my = self.get_mouse_pos() mx -= ((1280 - self.PIXEL_SIZE * 10) / 2) - 35 my -= (720 - self.PIXEL_SIZE * 8) - 35 px = mx / self.PIXEL_SIZE py = my / self.PIXEL_SIZE if py >= 0 and py < 8 and px >= 0 and px < 10: return (px, py) return None"
-    ""
+    "def get_piece_pos(): mx, my = self.get_mouse_pos() mx -= ((1280 - self.PIXEL_SIZE * 10) / 2) - 35 my -= (720 - self.PIXEL_SIZE * 8) - 35 px = mx / self.PIXEL_SIZE py = my / self.PIXEL_SIZE if py >= 0 and py < 8 and px >= 0 and px < 10: return (px, py) return None"
 
 # game/khet.rpy:1
 translate ptbr 58c96f20:
@@ -232,29 +232,29 @@ translate ptbr 58c96f20:
 translate ptbr 1a3845ae:
 
     # "self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color"
-    ""
+    "self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color"
 
 # game/khet.rpy:1
 translate ptbr b3c548d5:
 
     # "if ev.type == pygame.MOUSEBUTTONDOWN and ev.button == 1 and self.current_color == self.Player_color and self.laser_in_progress == False: if self.current_piece is None: self.current_piece = get_piece_pos() elif self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None and self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: temp_get_piece_pos = get_piece_pos() if temp_get_piece_pos != None: check_move(self.current_piece, get_piece_pos()) else: self.current_piece = None"
-    ""
+    "if ev.type == pygame.MOUSEBUTTONDOWN and ev.button == 1 and self.current_color == self.Player_color and self.laser_in_progress == False: if self.current_piece is None: self.current_piece = get_piece_pos() elif self.game.squares[self.current_piece[0]][self.current_piece[1]].piece is not None and self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.color == self.Player_color: temp_get_piece_pos = get_piece_pos() if temp_get_piece_pos != None: check_move(self.current_piece, get_piece_pos()) else: self.current_piece = None"
 
 # game/khet.rpy:1
 translate ptbr d8e6e7a7:
 
     # "def orientation_fix(orientation,way): if way == 0: temp = orientation + 90 else: temp = orientation - 90"
-    ""
+    "def orientation_fix(orientation,way): if way == 0: temp = orientation + 90 else: temp = orientation - 90"
 
 # game/khet.rpy:1
 translate ptbr 8433b061:
 
     # "if temp > 270: return Orientation.up elif temp < 0: return Orientation.left elif temp == 0: return Orientation.up elif temp == 270: return Orientation.left elif temp == 180: return Orientation.down elif temp == 90: return Orientation.right"
-    ""
+    "if temp > 270: return Orientation.up elif temp < 0: return Orientation.left elif temp == 0: return Orientation.up elif temp == 270: return Orientation.left elif temp == 180: return Orientation.down elif temp == 90: return Orientation.right"
 
 # game/khet.rpy:1
 translate ptbr 170cc8c8:
 
     # "if ev.type == pygame.KEYDOWN and self.current_piece is not None and self.current_color == self.Player_color and self.laser_in_progress == False: if ev.key == pygame.K_LEFT: try: self.game.apply_move(Move(MoveType.rotate, Position(self.current_piece[0],self.current_piece[1]), orientation_fix(self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.orientation,0))) except: self.current_piece = None else: self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color elif ev.key == pygame.K_RIGHT: try: self.game.apply_move(Move(MoveType.rotate, Position(self.current_piece[0],self.current_piece[1]), orientation_fix(self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.orientation,1))) except: self.current_piece = None else: self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color"
-    ""
+    "if ev.type == pygame.KEYDOWN and self.current_piece is not None and self.current_color == self.Player_color and self.laser_in_progress == False: if ev.key == pygame.K_LEFT: try: self.game.apply_move(Move(MoveType.rotate, Position(self.current_piece[0],self.current_piece[1]), orientation_fix(self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.orientation,0))) except: self.current_piece = None else: self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color elif ev.key == pygame.K_RIGHT: try: self.game.apply_move(Move(MoveType.rotate, Position(self.current_piece[0],self.current_piece[1]), orientation_fix(self.game.squares[self.current_piece[0]][self.current_piece[1]].piece.orientation,1))) except: self.current_piece = None else: self.current_piece = None self.who_turn_is_it = 0 self.start_laser(self.current_color) self.current_color = self.Yuri_color"
 
