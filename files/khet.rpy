@@ -28,7 +28,7 @@ translate ptbr 4ca1713c:
 translate ptbr b39042b7:
 
     # "label StartKhet: menu: y \"What starting configuration would you like to play?\" \"Classic\": $ temp1 = 0 \"Dynasty\": $ temp1 = 1 \"Imhotep\": $ temp1 = 2"
-    ""
+    "label StartKhet: menu: y \"Qual configuração inicial você gostaria de usar?\" \"Classic\": $ temp1 = 0 \"Dynasty\": $ temp1 = 1 \"Imhotep\": $ temp1 = 2"
 
 # game/khet.rpy:1
 translate ptbr 72510648:
@@ -82,67 +82,67 @@ translate ptbr 77adbdbe:
 translate ptbr b3a1f8ae:
 
     # "def get_mouse_pos(self): vw = config.screen_width * 10000 vh = config.screen_height * 10000 pw, ph = renpy.get_physical_size() dw, dh = pygame.display.get_surface().get_size() mx, my = pygame.mouse.get_pos()"
-    ""
+    "def get_mouse_pos(self): vw = config.screen_width * 10000 vh = config.screen_height * 10000 pw, ph = renpy.get_physical_size() dw, dh = pygame.display.get_surface().get_size() mx, my = pygame.mouse.get_pos()"
 
 # game/khet.rpy:1
 translate ptbr 551e15cc:
 
     # "# converts the mouse coordinates from pygame to physical size # NEEDED FOR UI SCALING OTHER THAN 100% mx = (mx * pw) / dw my = (my * ph) / dh"
-    ""
+    "# converts the mouse coordinates from pygame to physical size # NEEDED FOR UI SCALING OTHER THAN 100% mx = (mx * pw) / dw my = (my * ph) / dh"
 
 # game/khet.rpy:1
 translate ptbr 44da5c47:
 
     # "r = None # this part calculates the \"true\" position # it can handle weirdly sized screens if vw / (vh / 10000) > pw * 10000 / ph: r = vw / pw my -= (ph - vh / r) / 2 else: r = vh / ph mx -= (pw - vw / r) / 2"
-    ""
+    "r = None # this part calculates the \"true\" position # it can handle weirdly sized screens if vw / (vh / 10000) > pw * 10000 / ph: r = vw / pw my -= (ph - vh / r) / 2 else: r = vh / ph mx -= (pw - vw / r) / 2"
 
 # game/khet.rpy:1
 translate ptbr efd1583c:
 
     # "newx = (mx * r) / 10000 newy = (my * r) / 10000"
-    ""
+    "newx = (mx * r) / 10000 newy = (my * r) / 10000"
 
 # game/khet.rpy:1
 translate ptbr 210b8f47:
 
     # "return (newx, newy)"
-    ""
+    "return (newx, newy)"
 
 # game/khet.rpy:1
 translate ptbr 35bc43fe:
 
     # "def start_laser(self, color): self.laserPath = self.game.apply_laser(color) if \"destroyed\" in self.laserPath.keys(): self.destroy_piece = self.laserPath[\"destroyed\"] if \"winner\" in self.laserPath.keys(): self.winner = self.laserPath[\"winner\"] self.laser_in_progress = True"
-    ""
+    "def start_laser(self, color): self.laserPath = self.game.apply_laser(color) if \"destroyed\" in self.laserPath.keys(): self.destroy_piece = self.laserPath[\"destroyed\"] if \"winner\" in self.laserPath.keys(): self.winner = self.laserPath[\"winner\"] self.laser_in_progress = True"
 
 # game/khet.rpy:1
 translate ptbr fb113ae3:
 
     # "def render(self, width, height, st, at): global PlayerForYuri ################################################################################# #Check for winner global Khet_winner if self.winner is not None and self.destroy_piece is None: if self.winner == self.Yuri_color: Khet_winner = 0 else: Khet_winner = 1 renpy.jump(\"Khet_over\")"
-    ""
+    "def render(self, width, height, st, at): global PlayerForYuri ################################################################################# #Check for winner global Khet_winner if self.winner is not None and self.destroy_piece is None: if self.winner == self.Yuri_color: Khet_winner = 0 else: Khet_winner = 1 renpy.jump(\"Khet_over\")"
 
 # game/khet.rpy:1
 translate ptbr d803f47c:
 
     # "if self.who_turn_is_it == 0 and self.laser_in_progress == False: #Yuri AI solver1 = CMinMaxSolver(max_evaluations=self.AI ) move = solver1.get_move(self.game, self.current_color) self.game.apply_move(move) self.start_laser(self.current_color) self.current_color = self.Player_color self.who_turn_is_it = 1"
-    ""
+    "if self.who_turn_is_it == 0 and self.laser_in_progress == False: #Yuri AI solver1 = CMinMaxSolver(max_evaluations=self.AI ) move = solver1.get_move(self.game, self.current_color) self.game.apply_move(move) self.start_laser(self.current_color) self.current_color = self.Player_color self.who_turn_is_it = 1"
 
 # game/khet.rpy:1
 translate ptbr 305ab9a3:
 
     # "r = renpy.Render(width, height)"
-    ""
+    "r = renpy.Render(width, height)"
 
 # game/khet.rpy:1
 translate ptbr 2fb8608f:
 
     # "if self.oldst is None: self.oldst = st"
-    ""
+    "if self.oldst is None: self.oldst = st"
 
 # game/khet.rpy:1
 translate ptbr dd4886ce:
 
     # "dtime = st - self.oldst self.oldst = st"
-    ""
+    "dtime = st - self.oldst self.oldst = st"
 
 # game/khet.rpy:1
 translate ptbr 2f8da5bb:
