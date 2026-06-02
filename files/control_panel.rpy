@@ -60,11 +60,11 @@ translate ptbr strings:
 
     # game/control_panel.rpy:5
     old "Dialogue Calling"
-    new "Diálogo Chamando"
+    new "Chamando Diálogo"
 
     # game/control_panel.rpy:5
     old "Active Menu"
-    new "Menu ativo"
+    new "Menu Ativo"
 
     # game/control_panel.rpy:5
     old "Ch30_Loop Jump"
