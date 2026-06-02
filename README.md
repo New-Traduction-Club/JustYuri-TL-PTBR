@@ -9,10 +9,13 @@ Repositório para realizar a tradução para o português do [Just Yuri](https:/
 **Progreso:** 9.62%
 <!-- PROGRESO_TRADUCCION_END -->
 
-## Créditos
+## Créditos (tradução)
 
-- Lord_Nokuteshimo (lord_nokuteshimo | Discord)
-- MEGA-NAKAMURA (hiroshi_tanaka57 | Discord)
+- Lord_Nokuteshimo | Discord: lord_nokuteshimo
+- MEGA-NAKAMURA    | Discord: hiroshi_tanaka57
+- Tyn              | Discord: tayne123457
+
+## Créditos (JY mod)
 - Just Yuri Team
 
 ## Informação que cura
