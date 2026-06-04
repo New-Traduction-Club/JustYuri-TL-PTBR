@@ -14,6 +14,7 @@ Repositório para realizar a tradução para o português do [Just Yuri](https:/
 - Lord_Nokuteshimo | Discord: lord_nokuteshimo
 - MEGA-NAKAMURA    | Discord: hiroshi_tanaka57
 - Tyn              | Discord: tayne123457
+- VittyhSoffyy     | Discord: vitoria_sophia
 
 ## Créditos (JY mod)
 - Just Yuri Team
