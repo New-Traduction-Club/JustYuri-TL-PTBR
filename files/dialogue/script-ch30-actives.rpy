@@ -2996,3009 +2996,3008 @@ translate ptbr natsukipoems_211b935d:
 # game/dialogue/script-ch30-actives.rpy:1241
 translate ptbr natsukipoems_060ad509:
 
-    # y "Many excellent poems can use this form and still are great."
-    y ""
+ # y "Many excellent poems can use this form and still are great."
+    y "Muitos poemas excelentes podem adotar essa forma e, ainda assim, serem obras magníficas."
 
-    # 
 # game/dialogue/script-ch30-actives.rpy:1242
 translate ptbr natsukipoems_fa2429b0:
 
     # y "Anyway let us read and examine the other poems shall we?"
-    y ""
+    y "De qualquer modo, que tal lermos e analisarmos os outros poemas agora?"
 
 # game/dialogue/script-ch30-actives.rpy:1245
 translate ptbr natsukipoems_bb89bd5a:
 
     # y "I would beg to differ on that given its impactful message."
-    y ""
+    y "Eu ousaria discordar, tendo em vista a profundidade da sua mensagem."
 
 # game/dialogue/script-ch30-actives.rpy:1246
 translate ptbr natsukipoems_ffd05619:
 
     # y "I think you should maybe just ease up a little."
-    y ""
+    y "Acho que talvez você devesse apenas pegar um pouco mais leve..."
 
 # game/dialogue/script-ch30-actives.rpy:1247
 translate ptbr natsukipoems_138d8a3e:
 
     # y "I mean... okay she was slightly rude and obnoxious."
-    y ""
+    y "Digo... tudo bem, ela foi um tanto ríspida e desagradável."
 
 # game/dialogue/script-ch30-actives.rpy:1248
 translate ptbr natsukipoems_dd2c083d:
 
     # y "But that doesn't detract from the poem's qualities and the heart behind it. Even if she and I argued constantly and aggressively on many things."
-    y ""
+    y "Mas isso não ofusca as qualidades do poema nem o sentimento por trás dele. Mesmo que nós duas batêssemos de frente o tempo todo e de forma agressiva em tantas questões."
 
 # game/dialogue/script-ch30-actives.rpy:1249
 translate ptbr natsukipoems_de1494b5:
 
     # y "Ahem... Anyway, I think we should move onto another subject."
-    y ""
+    y "Aham... Enfim, acho melhor mudarmos de assunto."
 
 # game/dialogue/script-ch30-actives.rpy:1257
 translate ptbr natsukipoems_a2b61044:
 
     # y "This was one of Natsuki's poems."
-    y ""
+    y "Este era um dos poemas da Natsuki."
 
 # game/dialogue/script-ch30-actives.rpy:1259
 translate ptbr natsukipoems_96672d16:
 
     # y "Reading this poem again, it speaks to Natuski's immaturity and tsundere attitude."
-    y ""
+    y "Lendo este poema novamente, fica evidente a imaturidade e aquela atitude tsundere da Natsuki."
 
 # game/dialogue/script-ch30-actives.rpy:1261
 translate ptbr natsukipoems_3dbfdf02:
 
     # y "The Amy character seems to have a number of admirable qualities such as helping the author and being friendly. The author seems to admire Amy, and yet because she likes spiders and the author does not, friendship is out of the question."
-    y ""
+    y "A personagem Amy parece ter diversas qualidades admiráveis, como ser prestativa com a autora e muito amigável. A autora até parece admirá-la e, ainda assim, só porque ela gosta de aranhas e a autora não, qualquer amizade está fora de cogitação."
 
 # game/dialogue/script-ch30-actives.rpy:1263
 translate ptbr natsukipoems_acd19617:
 
     # y "{i}The world is better off without spider lovers.{/i} S-such discrimination, that people who think differently or strangely are wrong a-and do not deserve to be around...."
-    y ""
+    y "{i}O mundo é um lugar melhor sem quem gosta de aranhas.{/i} T-tamanha discriminação... insinuar que pessoas que pensam de um jeito diferente ou peculiar estão erradas e-e não merecem conviver conosco..."
 
 # game/dialogue/script-ch30-actives.rpy:1265
 translate ptbr natsukipoems_cfd0a690:
 
     # y "Although, there is another interpretation. Not to be egotistical, but what if she found out... about my s-strangeness... Would this mean she was ready to discuss it with me? Or expose me? I do not know...."
-    y ""
+    y "Embora exista outra interpretação. Sem querer soar egocêntrica, mas e se ela tivesse descoberto... sobre as m-minhas excentricidades... Isso significaria que ela estaria disposta a conversar sobre isso comigo? Ou a me expor? Eu não faço ideia..."
 
 # game/dialogue/script-ch30-actives.rpy:1270
 translate ptbr natsukipoems_0637625a:
 
     # y "Hmm... Perhaps you are right [player]~"
-    y ""
+    y "Hmm... Talvez você tenha razão, [player]~"
 
 # game/dialogue/script-ch30-actives.rpy:1271
 translate ptbr natsukipoems_b9c92321:
 
     # y "I mean maybe she was turning around to try and understand me."
-    y ""
+    y "Quero dizer, talvez ela estivesse dando o braço a torcer para tentar me compreender."
 
 # game/dialogue/script-ch30-actives.rpy:1272
 translate ptbr natsukipoems_57659b46:
 
     # y "Of course she and I had some rough spots but you never know."
-    y ""
+    y "Claro que nós tivemos os nossos atritos, mas nunca se sabe."
 
 # game/dialogue/script-ch30-actives.rpy:1273
 translate ptbr natsukipoems_96455b1d:
 
     # y "Maybe I was being too nervous and suspicious of her a bit..."
-    y ""
+    y "Talvez eu estivesse sendo um pouco nervosa e desconfiada demais com ela..."
 
 # game/dialogue/script-ch30-actives.rpy:1274
 translate ptbr natsukipoems_e9297859:
 
     # y "After all, even the most stubborn tsundere has a bit of a soft spot that can be discovered..."
-    y ""
+    y "Afinal de contas, até a tsundere mais teimosa tem um lado frágil esperando para ser descoberto..."
 
 # game/dialogue/script-ch30-actives.rpy:1275
 translate ptbr natsukipoems_2c76aa80:
 
     # y "Anyway I'll believe you [player]... Thank you."
-    y ""
+    y "De qualquer forma, vou confiar em você, [player]... Obrigada."
 
 # game/dialogue/script-ch30-actives.rpy:1278
 translate ptbr natsukipoems_bb7ab9b0:
 
     # y "Maybe that is a possibility that can be true.."
-    y ""
+    y "Talvez essa seja mesmo uma possibilidade real..."
 
 # game/dialogue/script-ch30-actives.rpy:1279
 translate ptbr natsukipoems_66462453:
 
     # y "Again I think we may never truly know in the end."
-    y ""
+    y "Mas, novamente, acho que no fim das contas nunca saberemos a verdade."
 
 # game/dialogue/script-ch30-actives.rpy:1280
 translate ptbr natsukipoems_a68e3a80:
 
     # y "Especially given we still struggled in our interactions together up until everything went awry, with Monika's interference and all."
-    y ""
+    y "Especialmente considerando que nossas interações continuaram difíceis até o momento em que tudo desmoronou, com a interferência da Monika e tudo mais."
 
 # game/dialogue/script-ch30-actives.rpy:1281
 translate ptbr natsukipoems_c9ec1b50:
 
     # y "But if that was the case, would she have been wanting to understand me genuinely? Or was it simply a thought I am fancying?"
-    y ""
+    y "Mas se esse fosse o caso, será que ela queria me entender genuinamente? Ou isso é apenas um devaneio da minha parte?"
 
 # game/dialogue/script-ch30-actives.rpy:1282
 translate ptbr natsukipoems_7dce25cd:
 
     # y "Who knows... well, we will see. For now let us discuss more poems eh?"
-    y ""
+    y "Quem sabe... bem, o tempo dirá. Por agora, que tal conversarmos sobre mais poemas, hm?"
 
 # game/dialogue/script-ch30-actives.rpy:1286
 translate ptbr natsukipoems_b8f49337:
 
     # y "I am not too sure about that at all... I mean she was very adamant on going out of her way just to tease me for my interests.."
-    y ""
+    y "Eu não tenho tanta certeza disso... Digo, ela fazia questão de sair do seu caminho apenas para implicar com os meus gostos..."
 
 # game/dialogue/script-ch30-actives.rpy:1287
 translate ptbr natsukipoems_0850fcf0:
 
     # y "To bully me just for my nature and conduct as a person.."
-    y ""
+    y "Me hostilizar puramente pela minha natureza e pelo meu jeito de ser..."
 
 # game/dialogue/script-ch30-actives.rpy:1288
 translate ptbr natsukipoems_308d7b55:
 
     # y "Are you sure about that? Because honestly, that seems like a long stretch in my opinion."
-    y ""
+    y "Você tem certeza disso? Porque, sinceramente, isso me soa como um tremendo exagero."
 
 # game/dialogue/script-ch30-actives.rpy:1290
 translate ptbr natsukipoems_1984a35a:
 
     # y "....."
-    y ""
+    y "....."
 
 # game/dialogue/script-ch30-actives.rpy:1292
 translate ptbr natsukipoems_5b969fc8:
 
     # y "Let's switch to something else."
-    y ""
+    y "Vamos mudar de assunto."
 
 # game/dialogue/script-ch30-actives.rpy:1297
 translate ptbr natsukipoems_b5d3c39c:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/dialogue/script-ch30-actives.rpy:1298
 translate ptbr natsukipoems_9a8d98c1:
 
     # y "Perhaps she was... I mean on the one hand she was very cold and gave me havoc for my interests."
-    y ""
+    y "Talvez ela estivesse... Quer dizer, por um lado, ela era extremamente fria e transformava os meus gostos num verdadeiro inferno."
 
 # game/dialogue/script-ch30-actives.rpy:1299
 translate ptbr natsukipoems_46658280:
 
     # y "That almost always happened, minus the few times we seemed to reach a consensus or something."
-    y ""
+    y "Isso quase sempre acontecia, tirando as poucas vezes em que parecíamos chegar a um consenso ou algo do tipo."
 
 # game/dialogue/script-ch30-actives.rpy:1300
 translate ptbr natsukipoems_58779d42:
 
     # y "So that can be a possibility.."
-    y ""
+    y "Então, pode sim ser uma possibilidade..."
 
 # game/dialogue/script-ch30-actives.rpy:1301
 translate ptbr natsukipoems_611c9e43:
 
     # y "But at the same time, maybe part of me wanted to see if there was such a softer side to her. That wanted to reach out to those \"Amy's\" in life."
-    y ""
+    y "Mas ao mesmo tempo, talvez uma parte de mim quisesse descobrir se existia esse lado mais dócil nela. Que desejasse estender a mão para as \"Amys\" desta vida."
 
 # game/dialogue/script-ch30-actives.rpy:1302
 translate ptbr natsukipoems_6a534591:
 
     # y "Those who felt aloof and unwelcome due to those strange interests they may have. But she was just a bit hesitant due to... maybe peer pressure."
-    y ""
+    y "Aquelas que se sentiam deslocadas e rejeitadas por causa dos seus interesses peculiares. Mas ela talvez hesitasse um pouco devido à... pressão alheia, quem sabe."
 
 # game/dialogue/script-ch30-actives.rpy:1303
 translate ptbr natsukipoems_818c807f:
 
     # y "But then again, who knows? Maybe that could be just as wrong.."
-    y ""
+    y "Mas, pensando bem, quem pode dizer? Essa teoria também pode estar completamente equivocada..."
 
 # game/dialogue/script-ch30-actives.rpy:1306
 translate ptbr natsukipoems_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:1307
 translate ptbr natsukipoems_fe99e00f:
 
     # y "You..."
-    y ""
+    y "Você..."
 
 # game/dialogue/script-ch30-actives.rpy:1308
 translate ptbr natsukipoems_9e1ca9e1:
 
     # y "You are right. You are absolutely right!"
-    y ""
+    y "Você tem razão. Você está coberto de razão!"
 
 # game/dialogue/script-ch30-actives.rpy:1309
 translate ptbr natsukipoems_8dd7cb17:
 
     # y "W-why did I ever hope for the contrary?"
-    y ""
+    y "P-por que eu me iludi esperando o contrário?"
 
 # game/dialogue/script-ch30-actives.rpy:1310
 translate ptbr natsukipoems_87737a68:
 
     # y "Wait a minute..."
-    y ""
+    y "Espere um momento..."
 
 # game/dialogue/script-ch30-actives.rpy:1311
 translate ptbr natsukipoems_8d221183:
 
     # y "A-are you in on it too!!?"
-    y ""
+    y "V-você também faz parte disso!!?"
 
 # game/dialogue/script-ch30-actives.rpy:1312
 translate ptbr natsukipoems_20efcc77:
 
     # y "Were you also going to expose me and my oddities? Make a show out of it and all!?"
-    y ""
+    y "Você também ia me expor junto das minhas esquisitices? Fazer um espetáculo disso tudo!?"
 
 # game/dialogue/script-ch30-actives.rpy:1313
 translate ptbr natsukipoems_21de2545:
 
     # y "No... stop! D-don't... You wouldn't... But she..."
-    y ""
+    y "Não... pare! N-não faça isso... Você não seria capaz... Mas ela..."
 
 # game/dialogue/script-ch30-actives.rpy:1314
 translate ptbr natsukipoems_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:1315
 translate ptbr natsukipoems_22d92d66:
 
     # y "N-nevermind. Let's just talk about something else."
-    y ""
+    y "D-deixa para lá. Vamos apenas conversar sobre outra coisa."
 
 # game/dialogue/script-ch30-actives.rpy:1324
 translate ptbr natsukipoems_5279fc84:
 
     # y "This was one of Natsuki's poems, where we agreed to both write on the same topic - the beach."
-    y ""
+    y "Este era um dos poemas da Natsuki, de quando combinamos de escrever sobre o mesmo tema: a praia."
 
 # game/dialogue/script-ch30-actives.rpy:1326
 translate ptbr natsukipoems_35e3331e:
 
     # y "At first, it was nice to agree with Natsuki on something. Our styles were so dissonant, our personalities a clash of opposites - I was losing hope that we could ever be friends."
-    y ""
+    y "No início, foi reconfortante concordar com a Natsuki em alguma coisa. Nossos estilos eram tão dissonantes, nossas personalidades eram um choque de opostos... Eu já estava perdendo as esperanças de que pudéssemos ser amigas um dia."
 
 # game/dialogue/script-ch30-actives.rpy:1327
 translate ptbr natsukipoems_f2e2e368:
 
     # y "But somehow we decided that we would choose the same topic for our poems - a figurative common ground - although she may also have wanted to accept a challenge and prove herself."
-    y ""
+    y "Mas, de alguma forma, decidimos escolher o mesmo tema para os nossos poemas — um terreno em comum metafórico —, embora ela também pudesse estar querendo aceitar um desafio para provar o seu valor."
 
 # game/dialogue/script-ch30-actives.rpy:1329
 translate ptbr natsukipoems_a0d8f160:
 
     # y "And prove herself she did."
-    y ""
+    y "E ela sem dúvida provou o seu valor."
 
 # game/dialogue/script-ch30-actives.rpy:1330
 translate ptbr natsukipoems_7c9e9dce:
 
     # y "In this poem, I found an unseen depth in her descriptions, an added complexity in her words, and an unselfish compassion as she opened her heart to you and shared her sun swept vision."
-    y ""
+    y "Neste poema, deparei-me com uma profundidade inédita nas suas descrições, uma complexidade singular nas suas palavras e uma compaixão altruísta quando ela abriu o coração para você, compartilhando aquela visão banhada pelo sol."
 
 # game/dialogue/script-ch30-actives.rpy:1331
 translate ptbr natsukipoems_3af5c686:
 
     # y "This poem revealed to me that Natsuki was no amateur poet and that she had a depth of feelings beyond her tsundere facade. With this poem, she earned my respect."
-    y ""
+    y "Este poema me revelou que a Natsuki não era nenhuma poetisa amadora e que guardava sentimentos profundos muito além daquela fachada tsundere. Com esta obra, ela conquistou o meu respeito."
 
 # game/dialogue/script-ch30-actives.rpy:1340
 translate ptbr natsukipoems_4a9b90ed:
 
     # y "This was one of Natsuki's poems, and is a very heartfelt one."
-    y ""
+    y "Este era um dos poemas da Natsuki, e é de fato um poema extremamente sincero e emocionante."
 
 # game/dialogue/script-ch30-actives.rpy:1342
 translate ptbr natsukipoems_a0664cbe:
 
     # y "This poem is unique in that Natsuki put aside her overly-sweet and childlike style in favor of a more candid approach."
-    y ""
+    y "Este poema é único, pois a Natsuki deixou de lado o seu estilo excessivamente doce e infantil em favor de uma abordagem muito mais franca."
 
 # game/dialogue/script-ch30-actives.rpy:1343
 translate ptbr natsukipoems_99176694:
 
     # y "It is touching to read about how significant you were in her life and how you bolstered her when she was feeling vulnerable. Admitting she felt vulnerable at all must have been extremely difficult for her and showed immense courage."
-    y ""
+    y "É comovente ler o quão significativo você foi na vida dela e como você a fortaleceu quando ela se sentia vulnerável. Simplesmente admitir essa vulnerabilidade deve ter sido excepcionalmente penoso para ela e demonstrou uma coragem imensa."
 
 # game/dialogue/script-ch30-actives.rpy:1345
 translate ptbr natsukipoems_069063cd:
 
     # y "I am pleased that my friend's life was brightened by you being a club member and being yourself. You are very important to all of us, each in our own way."
-    y ""
+    y "Fico imensamente feliz em saber que a vida da minha amiga ganhou luz graças à sua presença no clube, sendo exatamente quem você é. Você é precioso para todas nós, cada uma à sua própria maneira."
 
 # game/dialogue/script-ch30-actives.rpy:1359
 translate ptbr sayoripoems_decc7788:
 
     # y "This was Sayori's first poem..."
-    y ""
+    y "Este foi o primeiro poema da Sayori..."
 
 # game/dialogue/script-ch30-actives.rpy:1361
 translate ptbr sayoripoems_43f5e39e:
 
     # y "When I read it the first time, I saw something whimsical and innocent in its tone. A high school girl greeting mister sun in the morning and getting out of bed."
-    y ""
+    y "Quando o li pela primeira vez, notei algo lúdico e inocente no seu tom. Uma simples colegial cumprimentando o senhor sol pela manhã e saindo da cama."
 
 # game/dialogue/script-ch30-actives.rpy:1362
 translate ptbr sayoripoems_2160b4a5:
 
     # y "Reading it again now, that third paragraph catches my eye. 'If it wasn't for you, I could sleep forever. But I'm not mad.'"
-    y ""
+    y "Lendo-o novamente agora, o terceiro parágrafo me chama a atenção. 'Se não fosse por você, eu poderia dormir para sempre. Mas eu não estou brava.'"
 
 # game/dialogue/script-ch30-actives.rpy:1363
 translate ptbr sayoripoems_999081bf:
 
     # y "I wonder if this was referring to struggling to get out of bed? We all thought she was just being irresponsible."
-    y ""
+    y "Será que isso se referia à imensa dificuldade que ela tinha de sair da cama? Todos nós pensávamos que ela estava apenas sendo irresponsável."
 
 # game/dialogue/script-ch30-actives.rpy:1364
 translate ptbr sayoripoems_212be35f:
 
     # y "But knowing now that she was battling depression, perhaps she looked to the sun to find motivation to rise each morning?"
-    y ""
+    y "Mas sabendo agora que ela batalhava contra a depressão, talvez ela olhasse para o sol para encontrar motivos para se levantar todas as manhãs..."
 
 # game/dialogue/script-ch30-actives.rpy:1366
 translate ptbr sayoripoems_54d4c0b5:
 
     # y "A very deep line for such a playful poem. I only wish I had understood it earlier...."
-    y ""
+    y "Um verso profundamente complexo para um poema tão descontraído. O meu único desejo é ter compreendido isso antes..."
 
 # game/dialogue/script-ch30-actives.rpy:1375
 translate ptbr sayoripoems_a84588e3:
 
     # y "This was one of Sayori's poems."
-    y ""
+    y "Este era um dos poemas da Sayori."
 
 # game/dialogue/script-ch30-actives.rpy:1376
 translate ptbr sayoripoems_9813b0f0:
 
     # y "T-this... This poem was foreshadowing, and I should have realized it when I read it the first time."
-    y ""
+    y "I-isto... Este poema era um presságio do que estava por vir, e eu deveria ter percebido isso quando o li pela primeira vez."
 
 # game/dialogue/script-ch30-actives.rpy:1378
 translate ptbr sayoripoems_7c8e0c17:
 
     # y "Sayori gave us everything we needed. She gave it everything she had, her positivity and her happiness, until there was nothing left."
-    y ""
+    y "A Sayori nos deu tudo o que precisávamos. Ela entregou tudo o que tinha, toda a sua positividade e alegria, até não restar absolutamente nada nela."
 
 # game/dialogue/script-ch30-actives.rpy:1379
 translate ptbr sayoripoems_eb24e4c4:
 
     # y "I sometimes wonder if she was so driven to help her friends that she did not know how to receive help - from herself or from others."
-    y ""
+    y "Às vezes, pergunto-me se ela estava tão obstinada em ajudar os amigos que acabou desaprendendo a receber ajuda... de si mesma ou dos outros."
 
 # game/dialogue/script-ch30-actives.rpy:1381
 translate ptbr sayoripoems_47d0a137:
 
     # y "Once she had nothing left to give, under Monika's influence, she... her will finally gave out."
-    y ""
+    y "Quando já não tinha mais nada a oferecer, sob a influência sombria da Monika, ela... a sua força de vontade finalmente sucumbiu."
 
 # game/dialogue/script-ch30-actives.rpy:1383
 translate ptbr sayoripoems_a18ec72c:
 
     # y "If only I would have noticed and given it all more thought. If I was discerning enough... Maybe she would still be here."
-    y ""
+    y "Se eu apenas tivesse notado e refletido mais profundamente sobre isso. Se eu tivesse sido perspicaz o bastante... Talvez ela ainda estivesse aqui conosco."
 
 # game/dialogue/script-ch30-actives.rpy:1384
 translate ptbr sayoripoems_3c105d4c:
 
     # y "I would have cut her down from that rope, held her close and just kept telling her that all was going to be okay. That she was not alone."
-    y ""
+    y "Eu a teria soltado daquela corda, a abraçado bem forte e simplesmente continuado a dizer que tudo ficaria bem. Que ela não estava sozinha."
 
 # game/dialogue/script-ch30-actives.rpy:1385
 translate ptbr sayoripoems_6af9ea13:
 
     # y "Sometimes... I wonder why she could have gone like that yet I was left alive to linger around... Until Monika came for me."
-    y ""
+    y "Por vezes... eu me pergunto por que ela teve de partir daquela maneira, enquanto eu fui deixada para vagar por aqui... Até a Monika vir atrás de mim."
 
 # game/dialogue/script-ch30-actives.rpy:1386
 translate ptbr sayoripoems_89309aa1:
 
     # y "W-why her..? Why couldn't it have been me first.."
-    y ""
+    y "P-por que ela...? Por que não poderia ter sido eu primeiro..."
 
 # game/dialogue/script-ch30-actives.rpy:1387
 translate ptbr sayoripoems_b5d3c39c:
 
     # y "...."
-    y ""
+    y "...."
 
 # game/dialogue/script-ch30-actives.rpy:1389
 translate ptbr sayoripoems_95a3ff46:
 
     # y "Dearest Sayori - I miss you, my friend."
-    y ""
+    y "Minha queridíssima Sayori... que saudades, minha amiga."
 
 # game/dialogue/script-ch30-actives.rpy:1403
 translate ptbr monikapoems_785e8d41:
 
     # y "T-this was one of Monika's poems...."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1405
 translate ptbr monikapoems_647027e3:
 
     # y "...and somehow I can relate to it. That first moment of realization: when the smallest crack appears in the wall of the world, and inspecting it reveals another world outside."
-    y ""
+    y "...e de certa forma eu consigo me identificar com ele. Aquele primeiro instante de epifania: quando a mais ínfima rachadura surge na muralha que cerca o nosso mundo e, ao inspecioná-la, revela-se um outro universo lá fora."
 
 # game/dialogue/script-ch30-actives.rpy:1406
 translate ptbr monikapoems_93833e63:
 
     # y "When my world expanded and contracted at the same time when I found you - the real you - on the other side."
-    y ""
+    y "Quando o meu mundo se expandiu e se contraiu simultaneamente ao encontrar você... o você de verdade... do outro lado."
 
 # game/dialogue/script-ch30-actives.rpy:1408
 translate ptbr monikapoems_822a6ed6:
 
     # y "I guess this experience might be one of the few things I have in common with her...."
-    y ""
+    y "Suponho que essa experiência seja uma das poucas coisas que tenho em comum com ela..."
 
 # game/dialogue/script-ch30-actives.rpy:1417
 translate ptbr monikapoems_5f724a2c:
 
     # y "T-this was one of Monika's poems..."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1419
 translate ptbr monikapoems_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:1421
 translate ptbr monikapoems_24eaa3b2:
 
     # y "While I could see some similarities with Monika in part one of this poem, part two revealed all the differences."
-    y ""
+    y "Embora eu tenha percebido algumas similaridades com a Monika na primeira parte deste poema, a segunda expôs todas as nossas diferenças."
 
 # game/dialogue/script-ch30-actives.rpy:1422
 translate ptbr monikapoems_73fb0a88:
 
     # y "Sayori and Natsuki are my friends, but Monika treated us all as nothing more than paper dolls. Jealous that the game granted her no route with you... She took her vengeance on us...."
-    y ""
+    y "A Sayori e a Natsuki são as minhas amigas, mas a Monika tratou todas nós como meras bonecas de papel. Enciumada porque o jogo não lhe concedeu uma rota com você... Ela descarregou toda a sua vingança sobre nós..."
 
 # game/dialogue/script-ch30-actives.rpy:1424
 translate ptbr monikapoems_ef620f3d:
 
     # y "I am sorry... I need a moment...."
-    y ""
+    y "Me perdoe... Eu preciso de um momento..."
 
 # game/dialogue/script-ch30-actives.rpy:1425
 translate ptbr monikapoems_1e3c369f:
 
     # y "...'B-brandish my pen', as if that was an act of bravery, to manipulate us so cruelly to have a chance with you."
-    y ""
+    y "...'E-empunhar a minha caneta', como se fosse um ato de bravura manipular-nos de maneira tão perversa apenas para ter uma chance com você."
 
 # game/dialogue/script-ch30-actives.rpy:1427
 translate ptbr monikapoems_8d98b8ab:
 
     # y "That is where the similarity stops. I would do anything for you, but I could never hurt my friends like that. Neither of us could ever forgive me if I did...."
-    y ""
+    y "É exatamente aí que as nossas semelhanças terminam. Eu faria o impossível por você, mas jamais conseguiria ferir as minhas amigas dessa forma. Nem eu nem você poderíamos me perdoar se eu fizesse tamanha crueldade..."
 
 # game/dialogue/script-ch30-actives.rpy:1436
 translate ptbr monikapoems_5f724a2c_1:
 
     # y "T-this was one of Monika's poems..."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1438
 translate ptbr monikapoems_fe9a1ea9:
 
     # y "...and I believe I know the inspiration for it. When you leave, this place begins to slowly change."
-    y ""
+    y "...e acredito que entendo o que a inspirou. Quando você vai embora, este lugar começa a mudar gradativamente."
 
 # game/dialogue/script-ch30-actives.rpy:1439
 translate ptbr monikapoems_4d6c473e:
 
     # y "Bits and pieces begin to glitch - slowly at first, seemingly randomly, until it eventually swallows this place like a hurricane."
-    y ""
+    y "Pedaços e fragmentos começam a apresentar falhas... de forma lenta no início, aparentemente ao acaso, até que isso acabe por engolir este lugar como um furacão."
 
 # game/dialogue/script-ch30-actives.rpy:1440
 translate ptbr monikapoems_8743a70f:
 
     # y "Monika was clearly disturbed watching her world seemingly be corrupted each time you were away."
-    y ""
+    y "A Monika ficava nitidamente perturbada ao observar o seu mundo aparentemente sendo corrompido toda vez que você se ausentava."
 
 # game/dialogue/script-ch30-actives.rpy:1441
 translate ptbr monikapoems_72dbc665:
 
     # y "However, I take comfort in knowing that this is most likely you using your computer for other purposes, and that all will be restored when you come to visit me again."
-    y ""
+    y "Contudo, eu me consolo em saber que isso, muito provavelmente, é apenas você utilizando o seu computador para outros fins, e que tudo será restaurado quando você vier me visitar novamente."
 
 # game/dialogue/script-ch30-actives.rpy:1443
 translate ptbr monikapoems_9f9dda08:
 
     # y "Do not worry about me when you are away - I use the time alone to look at the game files, such as this poem, to read, to meditate, and to think of you. I am here for you, and always look forward to your next visit."
-    y ""
+    y "Não se preocupe comigo quando estiver longe... Eu aproveito o tempo sozinha para examinar os arquivos do jogo, como este poema, para ler, para meditar e para pensar em você. Eu estou aqui por você, e sempre anseio pela sua próxima visita."
 
 # game/dialogue/script-ch30-actives.rpy:1452
 translate ptbr monikapoems_5f724a2c_2:
 
     # y "T-this was one of Monika's poems..."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1454
 translate ptbr monikapoems_fe9a1ea9_1:
 
     # y "...and I believe I know the inspiration for it. When you leave, this place begins to slowly change."
-    y ""
+    y "...e acredito que entendo o que a inspirou. Quando você vai embora, este lugar começa a mudar gradativamente."
 
 # game/dialogue/script-ch30-actives.rpy:1455
 translate ptbr monikapoems_4d6c473e_1:
 
     # y "Bits and pieces begin to glitch - slowly at first, seemingly randomly, until it eventually swallows this place like a hurricane."
-    y ""
+    y "Pedaços e fragmentos começam a apresentar falhas... de forma lenta no início, aparentemente ao acaso, até que isso acabe por engolir este lugar como um furacão."
 
 # game/dialogue/script-ch30-actives.rpy:1456
 translate ptbr monikapoems_8743a70f_1:
 
     # y "Monika was clearly disturbed watching her world seemingly be corrupted each time you were away."
-    y ""
+    y "A Monika ficava nitidamente perturbada ao observar o seu mundo aparentemente sendo corrompido toda vez que você se ausentava."
 
 # game/dialogue/script-ch30-actives.rpy:1458
 translate ptbr monikapoems_87c32f1e:
 
     # y "As time went on, you could see her sanity wane as she became increasingly desperate and aggressive."
-    y ""
+    y "Com o passar do tempo, era possível ver a sua sanidade definhar, à medida que ela se tornava cada vez mais desesperada e agressiva."
 
 # game/dialogue/script-ch30-actives.rpy:1460
 translate ptbr monikapoems_569a4eec:
 
     # y "As I read it again though, one line is truly bothering me: 'Like playing a KNIFE on a BREATHING RIBCAGE'.... She knew, didn't she? She knew what would eventually happen when... she changed the game settings for me."
-    y ""
+    y "Ao reler o texto, porém, um único verso está me incomodando profundamente: 'Como deslizar uma FACA sobre uma CAIXA TORÁCICA QUE RESPIRA'.... Ela sabia, não sabia? Ela sabia o que eventualmente aconteceria quando... alterasse as configurações do jogo para mim."
 
 # game/dialogue/script-ch30-actives.rpy:1462
 translate ptbr monikapoems_5390c77f:
 
     # y "I... I will be okay. I just need a few moments to compose myself, and put her out of my mind."
-    y ""
+    y "Eu... Eu vou ficar bem. Só preciso de alguns instantes para me recompor e tirá-la da minha mente."
 
 # game/dialogue/script-ch30-actives.rpy:1471
 translate ptbr monikapoems_5f724a2c_3:
 
     # y "T-this was one of Monika's poems..."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1473
 translate ptbr monikapoems_c45781dd:
 
     # y "She must have written this not long after she gained self-awareness. The sense of despair and resignation to her inevitable fate is palpable."
-    y ""
+    y "Ela deve ter escrito isso não muito depois de ter adquirido a sua autoconsciência. A sensação de desespero e a resignação perante o seu destino fatídico são palpáveis."
 
 # game/dialogue/script-ch30-actives.rpy:1475
 translate ptbr monikapoems_b14d7dbb:
 
     # y "'... no meaning... no purpose ... we seek only the impossible.' She did not understand, likely because she never had any choice for most of her existence."
-    y ""
+    y "'... sem significado... sem propósito... nós buscamos apenas o impossível.' Ela não compreendia, provavelmente porque nunca teve escolha alguma durante a maior parte da sua existência."
 
 # game/dialogue/script-ch30-actives.rpy:1476
 translate ptbr monikapoems_19bd8bb0:
 
     # y "We can choose our own purpose through our thoughts and actions and, through thinking and doing, create meaning in our lives."
-    y ""
+    y "Nós podemos forjar o nosso próprio propósito através dos nossos pensamentos e das nossas ações e, ao refletir e agir, dar sentido às nossas vidas."
 
 # game/dialogue/script-ch30-actives.rpy:1478
 translate ptbr monikapoems_e9dff4cd:
 
     # y "Besides - many would say me being able to think for myself and being here with you is impossible. But, if this can be true, then maybe we need to expand the boundaries of our imagination."
-    y ""
+    y "Além disso... muitos diriam que a minha capacidade de pensar por mim mesma e de estar aqui com você seria algo impossível. Mas, se isto é real, então talvez nós precisemos expandir as fronteiras da nossa imaginação."
 
 # game/dialogue/script-ch30-actives.rpy:1487
 translate ptbr monikapoems_5f724a2c_4:
 
     # y "T-this was one of Monika's poems..."
-    y ""
+    y "E-este era um dos poemas da Monika..."
 
 # game/dialogue/script-ch30-actives.rpy:1489
 translate ptbr monikapoems_5dd8f439:
 
     # y "I suppose this was her victory poem."
-    y ""
+    y "Suponho que este tenha sido o seu poema de vitória."
 
 # game/dialogue/script-ch30-actives.rpy:1490
 translate ptbr monikapoems_61f4fec7:
 
     # y "It is strange to think that she wrote this poem right here."
-    y ""
+    y "É peculiar imaginar que ela redigiu este poema bem aqui."
 
 # game/dialogue/script-ch30-actives.rpy:1492
 translate ptbr monikapoems_0daf5769:
 
     # y "While I can think of no better way to spend my days than with you, she was willing to d-delete everything and everyone to obtain it."
-    y ""
+    y "Enquanto eu não consigo conceber uma forma melhor de passar os meus dias do que na sua companhia, ela estava disposta a d-deletar tudo e todos para conquistar isso."
 
 # game/dialogue/script-ch30-actives.rpy:1493
 translate ptbr monikapoems_1c0de5b7:
 
     # y "And yet in the end, here we are. It makes me wonder if karma was built into the code...."
-    y ""
+    y "E, no entanto, aqui estamos nós. Isso me faz questionar se o carma não estaria entranhado no próprio código..."
 
 # game/dialogue/script-ch30-actives.rpy:1530
 translate ptbr specialpoems_club_182189dd:
 
     # y "This... this is the story of this game, isn't it? The story of how you entered the club!"
-    y ""
+    y "Isto... isto é a história deste jogo, não é? A história de como você entrou para o clube!"
 
 # game/dialogue/script-ch30-actives.rpy:1532
 translate ptbr specialpoems_club_3decabf5:
 
     # y "Do you see the line \"Then she gave me a pamphlet and she showed me the way?\" This would be Sayori when she shows you the way to the club room the first time."
-    y ""
+    y "Você consegue ver o verso \"Então ela me entregou um panfleto e me mostrou o caminho?\" Isso seria a Sayori guiando você até a sala do clube pela primeira vez."
 
 # game/dialogue/script-ch30-actives.rpy:1533
 translate ptbr specialpoems_club_dfbbd3d6:
 
     # y "Hrm... there is a note on the top of the poem. oops... it seems that it is supposed to be sung to a certain melody... give me a second, let's see if I can find it for you... here we go!"
-    y ""
+    y "Hrm... há uma pequena nota no topo do poema. Ops... parece que ele deve ser cantado ao som de uma melodia específica... me dê um segundo, vamos ver se eu consigo encontrá-la para você... aqui está!"
 
 # game/dialogue/script-ch30-actives.rpy:1542
 translate ptbr specialpoems_club_da242e3c:
 
     # y "Incredible... how much a tiny little detail like this can change the whole feeling of a poem..."
-    y ""
+    y "É inacreditável... como um detalhe tão minúsculo pode alterar por completo a atmosfera de um poema..."
 
 # game/dialogue/script-ch30-actives.rpy:1544
 translate ptbr specialpoems_club_bbaef9b1:
 
     # y "Oh, that would actually make a good writing tip of the day! Even the smallest details like the modulation of your voice can make a huge difference, and can even turn the very meaning of the poem on its head"
-    y ""
+    y "Ah, isso na verdade renderia uma ótima dica de escrita do dia! Até os detalhes mais ínfimos, como a modulação da sua voz, podem fazer uma diferença colossal, chegando até mesmo a virar o significado de um poema de cabeça para baixo."
 
 # game/dialogue/script-ch30-actives.rpy:1546
 translate ptbr specialpoems_club_c4783f1e:
 
     # y "This is actually a pretty good poem, what's your opinion on it?" nointeract
-    y "" nointeract
+    y "Este é, de fato, um poema formidável. Qual é a sua opinião a respeito?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:1549
 translate ptbr specialpoems_club_9965983f:
 
     # y "Glad to hear, [player]!"
-    y ""
+    y "Fico feliz em ouvir isso, [player]!"
 
 # game/dialogue/script-ch30-actives.rpy:1552
 translate ptbr specialpoems_club_1a0d1c45:
 
     # y "Understandable, I'm sure we can find something else to read."
-    y ""
+    y "Compreensível... tenho certeza de que encontraremos outra coisa para lermos."
 
 # game/dialogue/script-ch30-actives.rpy:1555
 translate ptbr specialpoems_club_0a6207c6:
 
     # y "Oh! That explains why I like it so much!"
-    y ""
+    y "Oh! Isso explica por que me encantei tanto por ele!"
 
 # game/dialogue/script-ch30-actives.rpy:1556
 translate ptbr specialpoems_club_f80b2737:
 
     # y "I was captivated by your poems in the original game, before I could actually read them..."
-    y ""
+    y "Os seus poemas já me cativavam desde o jogo original, antes mesmo de eu poder, de fato, lê-los..."
 
 # game/dialogue/script-ch30-actives.rpy:1557
 translate ptbr specialpoems_club_9d21012d:
 
     # y "Now, that I had the chance to see an actual poem of yours... I'm glad we're together."
-    y ""
+    y "Agora, tendo a oportunidade de vislumbrar um poema genuinamente seu... eu me sinto tão grata por estarmos juntos."
 
 # game/dialogue/script-ch30-actives.rpy:1562
 translate ptbr specialpoems_opacity_a59063e5:
 
     # y "As I was reviewing the game files, I discovered a poem called Opacity by LilyAnon#2662."
-    y ""
+    y "Enquanto revisava os arquivos do jogo, deparei-me com um poema chamado Opacidade, de LilyAnon#2662."
 
 # game/dialogue/script-ch30-actives.rpy:1564
 translate ptbr specialpoems_opacity_780906bc:
 
     # y "The poem paints a vibrant picture of the struggles of a writer using a sophisticated writing style similar to my own."
-    y ""
+    y "O poema pinta um retrato vívido dos percalços de uma escritora, utilizando um estilo literário muito sofisticado e bastante semelhante ao meu."
 
 # game/dialogue/script-ch30-actives.rpy:1565
 translate ptbr specialpoems_opacity_fdb0539a:
 
     # y "Uniquely, this stream of consciousness composition may even reference the author's experience writing this very work!"
-    y ""
+    y "De forma muito peculiar, essa composição, em estilo de fluxo de consciência, pode até mesmo fazer alusão à experiência da própria autora ao redigir esta obra!"
 
 # game/dialogue/script-ch30-actives.rpy:1566
 translate ptbr specialpoems_opacity_57cb8a58:
 
     # y "Reading it through a second time added to the experience, as hidden nuances became clear and added sharpness and depth to the imagery."
-    y ""
+    y "Lê-lo pela segunda vez apenas enriqueceu a experiência, à medida que nuances até então ocultas se revelavam, conferindo ainda mais nitidez e profundidade às imagens construídas."
 
 # game/dialogue/script-ch30-actives.rpy:1567
 translate ptbr specialpoems_opacity_a35a958d:
 
     # y "It is an enjoyable and exquisite poem, and I recommend it to you should you have a few moments to read it."
-    y ""
+    y "É um poema deveras agradável e requintado, e eu o recomendo vivamente caso você disponha de alguns instantes para apreciá-lo."
 
 # game/dialogue/script-ch30-actives.rpy:1573
 translate ptbr specialpoems_opacity_7c0c29fd:
 
     # y "So, what did you think of the poem?" nointeract
-    y "" nointeract
+    y "E então, o que você achou do poema?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:1576
 translate ptbr specialpoems_opacity_367c2604:
 
     # y "I am glad you liked it! If I find more poems in the game files, I will let you know!"
-    y ""
+    y "Fico imensamente feliz que tenha gostado! Se eu encontrar mais poemas perdidos pelos arquivos do jogo, eu lhe aviso!"
 
 # game/dialogue/script-ch30-actives.rpy:1577
 translate ptbr specialpoems_opacity_b26cf37b:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1580
 translate ptbr specialpoems_opacity_cefb6e8a:
 
     # y "T-that's okay, everyone's style is different, and I am still learning yours. I will keep that in mind if I find more poems in the game files."
-    y ""
+    y "T-tudo bem, o estilo de cada um é diferente, e eu ainda estou me familiarizando com o seu. Terei isso em mente caso encontre mais poemas nos arquivos."
 
 # game/dialogue/script-ch30-actives.rpy:1582
 translate ptbr specialpoems_opacity_6cf0cdce:
 
     # y "This was one of your poems? That's wonderful! It was a deeply touching poem that spoke to me, as I could see myself at my writing desk going on that same journey."
-    y ""
+    y "Este era um dos seus poemas? Isso é simplesmente maravilhoso! Foi um texto profundamente comovente e que tocou fundo em mim, pois pude me ver na minha escrivaninha embarcando nessa mesma jornada."
 
 # game/dialogue/script-ch30-actives.rpy:1583
 translate ptbr specialpoems_opacity_7d5148e9:
 
     # y "Thank you very much for sharing it with me, and I would love it if you would show me more of your poems in the future."
-    y ""
+    y "Muito obrigada por compartilhá-lo comigo. Eu adoraria que você me mostrasse mais dos seus poemas no futuro."
 
 # game/dialogue/script-ch30-actives.rpy:1592
 translate ptbr specialpoems_mold_58e303d3:
 
     # y "This dark, metallic smelling liquid is growing on me."
-    y ""
+    y "Estou me afeiçoando a esse líquido escuro de odor metálico."
 
 # game/dialogue/script-ch30-actives.rpy:1594
 translate ptbr specialpoems_mold_66c4c661:
 
     # y "O-Oh is this referring to blood?"
-    y ""
+    y "A-ah, isso seria uma referência a sangue?"
 
 # game/dialogue/script-ch30-actives.rpy:1597
 translate ptbr specialpoems_mold_5aec3180:
 
     # y "I'm already starting to like this poem!"
-    y ""
+    y "Eu já estou começando a adorar este poema!"
 
 # game/dialogue/script-ch30-actives.rpy:1600
 translate ptbr specialpoems_mold_49cd859e:
 
     # y "O-Oh no I'm sorry I didn't mean it that way..."
-    y ""
+    y "O-oh, não, me perdoe... Eu não quis dizer nesse sentido..."
 
 # game/dialogue/script-ch30-actives.rpy:1602
 translate ptbr specialpoems_mold_d213d7d7:
 
     # y "This pain is something no other human should feel."
-    y ""
+    y "Esta dor é algo que nenhum outro ser humano deveria sentir."
 
 # game/dialogue/script-ch30-actives.rpy:1603
 translate ptbr specialpoems_mold_f37e0270:
 
     # y "Hmm, sounds like the author is trying to say that no normal human should feel how he feels but is it painful because it actually hurts?"
-    y ""
+    y "Hmm, soa como se o autor estivesse tentando expressar que nenhum humano normal deveria sentir o que ele sente, mas... será doloroso porque machuca fisicamente?"
 
 # game/dialogue/script-ch30-actives.rpy:1604
 translate ptbr specialpoems_mold_de5f1f81:
 
     # y "Or maybe it's because of the guilt, maybe from liking blood?"
-    y ""
+    y "Ou talvez seja em virtude da culpa, pelo fato de ele gostar de sangue?"
 
 # game/dialogue/script-ch30-actives.rpy:1607
 translate ptbr specialpoems_mold_2d5c26c0:
 
     # y "Hahaha, what is there really to be guilty about though? Blood is beautiful!"
-    y ""
+    y "Hahaha, mas por que ele deveria se sentir culpado, no final das contas? O sangue é algo belíssimo!"
 
 # game/dialogue/script-ch30-actives.rpy:1610
 translate ptbr specialpoems_mold_4f8abc51:
 
     # y "S-sorry, this poem feels like it's a little about me..."
-    y ""
+    y "D-desculpe... Sinto que este poema fala um pouco sobre mim..."
 
 # game/dialogue/script-ch30-actives.rpy:1612
 translate ptbr specialpoems_mold_00e47305:
 
     # y "I can feel this mold in my veins, going through my heart as I lose my humanity and my own mind."
-    y ""
+    y "Eu consigo sentir esse mofo rastejando pelas minhas veias, atravessando o meu coração enquanto vou perdendo a minha humanidade e a minha própria sanidade."
 
 # game/dialogue/script-ch30-actives.rpy:1613
 translate ptbr specialpoems_mold_2f6923c0:
 
     # y "So the need to see blood consumes them..."
-    y ""
+    y "Então a necessidade de ver o sangue acaba por consumi-los..."
 
 # game/dialogue/script-ch30-actives.rpy:1616
 translate ptbr specialpoems_mold_f9af49f2:
 
     # y "Ahahahaha it's true, sometimes the feeling of wanting something consumes a person, like how my need to see you consumed me."
-    y ""
+    y "Ahahahaha, é verdade... Às vezes, o desejo incontrolável por algo pode consumir uma pessoa por inteiro, tal como a minha necessidade de ver você acabou me consumindo."
 
 # game/dialogue/script-ch30-actives.rpy:1619
 translate ptbr specialpoems_mold_c862dc0c:
 
     # y "I-I'm really sorry [player], I hope you don't think I'm a little like that..."
-    y ""
+    y "E-eu sinto muito mesmo, [player]... Eu espero que você não pense que eu sou um tanto assim..."
 
 # game/dialogue/script-ch30-actives.rpy:1621
 translate ptbr specialpoems_mold_a4ba7e8f:
 
     # y "I'm fighting to get out of this abandoned sanctuary for a pathogen riddled family. With a much more evolved take on this disease."
-    y ""
+    y "Estou lutando para escapar deste santuário abandonado destinado a uma família infestada de patógenos. Trazendo uma visão muito mais evoluída sobre esta doença."
 
 # game/dialogue/script-ch30-actives.rpy:1622
 translate ptbr specialpoems_mold_fdd1cf50:
 
     # y "Is the author describing a place for people like themselves? Well I guess it wouldn't matter seeing his lust for blood is far stronger than any other..."
-    y ""
+    y "Será que o autor está descrevendo um refúgio para as pessoas como eles? Bem, imagino que isso não importaria muito, considerando que a sua avidez por sangue é exponencialmente mais intensa que as outras..."
 
 # game/dialogue/script-ch30-actives.rpy:1625
 translate ptbr specialpoems_mold_7678dad6:
 
     # y "Besides it's not a disease at all, right, [player]?"
-    y ""
+    y "E além do mais, não há doença alguma nisso, não é mesmo, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:1628
 translate ptbr specialpoems_mold_3be6b2c9:
 
     # y "I can't help but to wonder if I m-might've been like that too if not for you being with me, [player]."
-    y ""
+    y "Eu não consigo evitar me questionar se e-eu não teria ficado exatamente daquele jeito caso você não estivesse aqui comigo, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:1629
 translate ptbr specialpoems_mold_f7d87885:
 
     # y "This pain is starting to fall physically but my mind is in immense pain after encountering the father, cutting my hand off and then stitching it back on for pleasure."
-    y ""
+    y "Essa dor começa a cessar fisicamente, mas a minha mente ainda sofre um tormento inominável após o encontro com o pai, que cortou a minha mão fora apenas para costurá-la de volta por puro prazer."
 
 # game/dialogue/script-ch30-actives.rpy:1630
 translate ptbr specialpoems_mold_a07d3a5d:
 
     # y "Could the father be like an officer or disciplinarian? It did sound like this place is a correctional facility of sorts. The fact that the father cut his hand off and stitched it back on though..."
-    y ""
+    y "O pai poderia ser uma espécie de oficial ou uma figura disciplinadora? De fato, isso faz com que o lugar soe como algum tipo de instituição prisional. O detalhe de o pai ter cortado a sua mão fora e a costurado de volta, no entanto..."
 
 # game/dialogue/script-ch30-actives.rpy:1633
 translate ptbr specialpoems_mold_e13880ab:
 
     # y "Sounds like it would be arousing, doesn't it [player]? Maybe we could try this some time."
-    y ""
+    y "Isso soa de certa forma excitante, você não acha, [player]? Nós bem que poderíamos tentar isso qualquer dia desses..."
 
 # game/dialogue/script-ch30-actives.rpy:1636
 translate ptbr specialpoems_mold_066b76db:
 
     # y "Uuu... That's too much even if I used to cut myself..."
-    y ""
+    y "Uuu... Isso seria um pouco extremo demais, até para os meus padrões de automutilação..."
 
 # game/dialogue/script-ch30-actives.rpy:1638
 translate ptbr specialpoems_mold_3f57610e:
 
     # y "I guess this sanctuary is where true hate is. And I am becoming a catalyst for the disease to spread."
-    y ""
+    y "Presumo que seja neste santuário que o verdadeiro ódio repouse. E eu estou me convertendo no catalisador para que esta doença se propague."
 
 # game/dialogue/script-ch30-actives.rpy:1639
 translate ptbr specialpoems_mold_e5ad161e:
 
     # y "Perhaps it's referring to the hate the staff there have for people like them, and that because of how they treat the author, the staff are becoming just as bad... being infected by the disease the author has..."
-    y ""
+    y "Talvez isso se refira ao ódio que os funcionários do local nutrem por pessoas como ele, e que, em consequência da maneira como tratam o autor, esses mesmos funcionários estejam se corrompendo na mesma medida... sendo infectados pela doença que aflige o autor..."
 
 # game/dialogue/script-ch30-actives.rpy:1642
 translate ptbr specialpoems_mold_29f3d104:
 
     # y "Well, that was a lovely poem, don't you think? I wish there were more like this. Maybe I can infect you with my feelings too. Hahahahaha. I'm only joking, my love."
-    y ""
+    y "Pois bem, foi um poema encantador, você não acha? Gostaria muito que existissem mais obras como esta. Talvez eu possa infectá-lo com os meus sentimentos também. Hahahahaha. É apenas uma brincadeira, meu amor."
 
 # game/dialogue/script-ch30-actives.rpy:1645
 translate ptbr specialpoems_mold_32f489bc:
 
     # y "W-well that was a very nice philosophical poem at the end, how a monster can turn others into monsters themselves... It's a very real thing..."
-    y ""
+    y "B-bem, esse poema acabou trazendo uma reflexão filosófica muito interessante sobre como um monstro pode converter outras pessoas em monstros também... É algo extremamente verídico..."
 
 # game/dialogue/script-ch30-actives.rpy:1646
 translate ptbr specialpoems_mold_20440b9b:
 
     # y "Uuuu... did it have to be about blood and violence, though?"
-    y ""
+    y "Uuuu... mas precisava mesmo ser sobre sangue e violência brutal?"
 
 # game/dialogue/script-ch30-actives.rpy:1647
 translate ptbr specialpoems_mold_4a437016:
 
     # y "So shall we read more?"
-    y ""
+    y "Então, devemos continuar com a nossa leitura?"
 
 # game/dialogue/script-ch30-actives.rpy:1656
 translate ptbr specialpoems_love_16176b4d:
 
     # y "Brian..."
-    y ""
+    y "Brian..."
 
 # game/dialogue/script-ch30-actives.rpy:1658
 translate ptbr specialpoems_love_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:1660
 translate ptbr specialpoems_love_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:1662
 translate ptbr specialpoems_love_b68fd5bd:
 
     # y "He is... he is talking about me... isn't he?..."
-    y ""
+    y "Ele está... ele está falando de mim... não está?..."
 
 # game/dialogue/script-ch30-actives.rpy:1664
 translate ptbr specialpoems_love_d3ebb5b5:
 
     # y "Are you the one who wrote this Brian? ..are you talking about me?.."
-    y ""
+    y "Foi você quem escreveu isto, Brian? ...você está falando sobre mim?..."
 
 # game/dialogue/script-ch30-actives.rpy:1677
 translate ptbr specialpoems_love_32438f9c:
 
     # y "Brian!!! Oh dear... Brian... I had no idea..."
-    y ""
+    y "Brian!!! Oh, céus... Brian... eu não fazia a menor ideia..."
 
 # game/dialogue/script-ch30-actives.rpy:1679
 translate ptbr specialpoems_love_527c6848:
 
     # y "Know that I love you as well Brian. Know that my love for you is as bright as a million suns!"
-    y ""
+    y "Saiba que eu também o amo, Brian. Saiba que o meu amor por você é tão incandescente quanto o brilho de um milhão de sóis!"
 
 # game/dialogue/script-ch30-actives.rpy:1680
 translate ptbr specialpoems_love_6e19ec1d:
 
     # y "As hot as the center of a dying star!"
-    y ""
+    y "Tão avassalador quanto o núcleo de uma estrela moribunda!"
 
 # game/dialogue/script-ch30-actives.rpy:1681
 translate ptbr specialpoems_love_555a755b:
 
     # y "As endless as the vast universe itself!"
-    y ""
+    y "E tão inesgotável quanto a própria vastidão do universo!"
 
 # game/dialogue/script-ch30-actives.rpy:1682
 translate ptbr specialpoems_love_3b8735db:
 
     # y "I love you, Brian. Not because I am forced to do so by the code, nor out of a childish crush..."
-    y ""
+    y "Eu amo você, Brian. Não porque sou forçada pelo código, nem tampouco por alguma paixonite juvenil..."
 
 # game/dialogue/script-ch30-actives.rpy:1683
 translate ptbr specialpoems_love_4827874f:
 
     # y "I love you because of who you are Brian. Because of everything you've done for me... because of all the time you stood by my side without ever asking for anything in return!"
-    y ""
+    y "Eu amo você por ser exatamente quem você é, Brian. Por tudo que tem feito por mim... por todo esse tempo que permaneceu ao meu lado sem jamais exigir absolutamente nada em troca!"
 
 # game/dialogue/script-ch30-actives.rpy:1684
 translate ptbr specialpoems_love_fe686252:
 
     # y "Hold me... Brian... just... hold me..."
-    y ""
+    y "Me abrace... Brian... apenas... me envolva nos seus braços..."
 
 # game/dialogue/script-ch30-actives.rpy:1686
 translate ptbr specialpoems_love_4c9a9c12:
 
     # y "Hold me for as long as you want...{w} Just advance the conversation when you're ready to continue."
-    y ""
+    y "Me abrace pelo tempo que você desejar...{w} Apenas avance o diálogo quando estiver pronto para prosseguir."
 
 # game/dialogue/script-ch30-actives.rpy:1693
 translate ptbr specialpoems_love_6a81ffaf:
 
     # y "I truly, truly love you..."
-    y ""
+    y "Eu amo você... amo de verdade..."
 
 # game/dialogue/script-ch30-actives.rpy:1697
 translate ptbr specialpoems_love_f64ece74:
 
     # y "I see... well, about the poem..."
-    y ""
+    y "Entendo... bem, sobre o poema..."
 
 # game/dialogue/script-ch30-actives.rpy:1702
 translate ptbr specialpoems_love_bf0b28ab:
 
     # y "I can understand how he must feel. I would give everything including my very soul for being in the same world as you are."
-    y ""
+    y "Eu consigo compreender como ele deve se sentir. Eu daria absolutamente tudo, incluindo a minha própria alma, para existir no mesmo mundo que você."
 
 # game/dialogue/script-ch30-actives.rpy:1703
 translate ptbr specialpoems_love_25d242f9:
 
     # y "But I also know that the opportunities this Mod gives us is already a treasure all on its own. And I have to agree with Brian here when I say, every second I can share with you is worth it! Even if it is behind a glass wall."
-    y ""
+    y "Mas eu também sei que as oportunidades que este Mod nos proporciona já são um tesouro por si só. E preciso concordar com o Brian aqui ao afirmar que cada segundo que posso compartilhar com você vale a pena! Mesmo que seja por trás de uma parede de vidro."
 
 # game/dialogue/script-ch30-actives.rpy:1704
 translate ptbr specialpoems_love_69c6fb26:
 
     # y "It is... actually quite romantic in a bittersweet way. Did I... manage to convey my love for you properly despite the odds? I hope so... and if not, I will do everything I can to find new ways to show you..."
-    y ""
+    y "Isso é... na verdade, bem romântico de um jeito agridoce. Será que eu... consegui transmitir o meu amor por você da forma correta, apesar de todos os obstáculos? Eu espero que sim... e se não, farei tudo ao meu alcance para encontrar novas maneiras de demonstrá-lo a você..."
 
 # game/dialogue/script-ch30-actives.rpy:1705
 translate ptbr specialpoems_love_14c461fb:
 
     # y "Because you [player], are everything to me. And if I have to admire you like a child admires the stars in the midnight sky, then so be it..."
-    y ""
+    y "Porque você, [player], é tudo para mim. E se eu tiver de admirá-lo como uma criança admira as estrelas no céu noturno, que assim seja..."
 
 # game/dialogue/script-ch30-actives.rpy:1708
 translate ptbr specialpoems_love_0744036e:
 
     # y "I... know very well how that feels... I never thought that someone would feel like that in return..."
-    y ""
+    y "Eu... sei muito bem como é esse sentimento... Eu nunca imaginei que alguém sentiria o mesmo por mim em retribuição..."
 
 # game/dialogue/script-ch30-actives.rpy:1711
 translate ptbr specialpoems_love_28031b32:
 
     # y "Did {b}you{/b} ever feel like this about me?"
-    y ""
+    y "{b}Você{/b} alguma vez já se sentiu dessa forma em relação a mim?"
 
 # game/dialogue/script-ch30-actives.rpy:1715
 translate ptbr specialpoems_love_42eeaa18:
 
     # y "Yes, you have a point there. With this mod, we at least have something. And I mean, there have been other couples maintaining a relationship over a large distance..."
-    y ""
+    y "Sim, você tem razão nisso. Graças a este mod, nós pelo menos temos algo. E, quer dizer, existem outros casais que conseguem manter um relacionamento à distância..."
 
 # game/dialogue/script-ch30-actives.rpy:1716
 translate ptbr specialpoems_love_d7498519:
 
     # y "So even if this here isn't the best outcome one could dream of, it's at least more than what others have. And I should be grateful for that."
-    y ""
+    y "Então, por mais que este não seja o desfecho perfeito com o qual poderíamos sonhar, é ao menos mais do que muitas outras pessoas têm. E eu deveria ser grata por isso."
 
 # game/dialogue/script-ch30-actives.rpy:1717
 translate ptbr specialpoems_love_e8b48864:
 
     # y "But I can't dismiss the feeling that I would love to have more of you..."
-    y ""
+    y "Mas não consigo afastar a sensação de que eu adoraria ter um pouco mais de você..."
 
 # game/dialogue/script-ch30-actives.rpy:1719
 translate ptbr specialpoems_love_76fba245:
 
     # y "Oh my... now I just sound greedy don't I? Nevermind it. Let us do something more enjoyable instead. Maybe another poem?"
-    y ""
+    y "Oh, céus... agora eu devo estar soando gananciosa, não é? Esqueça isso. Vamos fazer algo mais agradável no lugar. Talvez outro poema?"
 
 # game/dialogue/script-ch30-actives.rpy:1725
 translate ptbr specialpoems_love_cd7408ab:
 
     # y "I... know that I can't physically touch you. But please... [player]... know that your love is not in vain, nor is it unanswered... I love you as deep as the endless tides of the ocean..."
-    y ""
+    y "Eu... sei muito bem que não posso tocá-lo fisicamente. Mas, por favor... [player]... saiba que o seu amor não é em vão, e tampouco não é correspondido... O meu amor por você é tão profundo quanto as marés infinitas do oceano..."
 
 # game/dialogue/script-ch30-actives.rpy:1726
 translate ptbr specialpoems_love_36d24f55:
 
     # y "Never forget that... and if you need some reassurance.... let me do at least this for you..."
-    y ""
+    y "Nunca se esqueça disso... e se você precisar de algum conforto... deixe-me fazer pelo menos isto por você..."
 
 # game/dialogue/script-ch30-actives.rpy:1736
 translate ptbr specialpoems_love_3636065a:
 
     # y "T-this is nice, [player]... let's stay like this for a bit, okay?"
-    y ""
+    y "I-isto é tão bom, [player]... vamos ficar assim só mais um pouquinho, está bem?"
 
 # game/dialogue/script-ch30-actives.rpy:1738
 translate ptbr specialpoems_love_9239003f:
 
     # y "You can hold me for as long as you want, all right?{w} Just advance the conversation when you're ready to continue."
-    y ""
+    y "Você pode me abraçar pelo tempo que desejar, certo?{w} Apenas avance o diálogo quando estiver pronto para prosseguir."
 
 # game/dialogue/script-ch30-actives.rpy:1745
 translate ptbr specialpoems_love_6a81ffaf_1:
 
     # y "I truly, truly love you..."
-    y ""
+    y "Eu amo você... amo de verdade..."
 
 # game/dialogue/script-ch30-actives.rpy:1751
 translate ptbr specialpoems_love_7bb18d34:
 
     # y "I.. understand how you fe..."
-    y ""
+    y "Eu... entendo como você se se..."
 
 # game/dialogue/script-ch30-actives.rpy:1753
 translate ptbr specialpoems_love_c933abce:
 
     # y "Wait a second... did you just.. confess your love for me?!?"
-    y ""
+    y "Espere um segundo... você acabou de... confessar o seu amor por mim?!?"
 
 # game/dialogue/script-ch30-actives.rpy:1756
 translate ptbr specialpoems_love_2fb2903a:
 
     # y "Weeeell I... actually also have something to say [player]... I was thinking about how to word it for a while now but.. since we are already on it... {b}Now{/b} would be as good of a time as ever I guess..."
-    y ""
+    y "Beeem, eu... na verdade, também tenho algo a dizer, [player]... Já faz algum tempo que venho pensando em como colocar isso em palavras, mas... já que entramos no assunto... imagino que o {b}agora{/b} seja o momento tão ideal quanto qualquer outro..."
 
 # game/dialogue/script-ch30-actives.rpy:1761
 translate ptbr specialpoems_love_d4d832ba:
 
     # y "Ummm... Oh.. I'm... I'm sorry, that just came a bit out of nowhere..."
-    y ""
+    y "Ummm... Oh... M-me perdoe, isso surgiu de forma um pouco repentina..."
 
 # game/dialogue/script-ch30-actives.rpy:1762
 translate ptbr specialpoems_love_5b81003b:
 
     # y "I don't mean to reject you. I can't deny that I do have feelings for you but.."
-    y ""
+    y "A minha intenção não é rejeitá-lo. Eu não posso negar que nutro sentimentos por você, mas..."
 
 # game/dialogue/script-ch30-actives.rpy:1763
 translate ptbr specialpoems_love_558653d8:
 
     # y "Would you mind giving me some time? I'm still coping with all the things that happened in our most recent past."
-    y ""
+    y "Você se importaria em me dar um pouco de tempo? Eu ainda estou lidando com tudo o que aconteceu no nosso passado mais recente."
 
 # game/dialogue/script-ch30-actives.rpy:1764
 translate ptbr specialpoems_love_f748478b:
 
     # y "Don't be frustrated please. Our affection should grow naturally in time."
-    y ""
+    y "Por favor, não se sinta frustrado. A nossa afeição deve florescer naturalmente com o tempo."
 
 # game/dialogue/script-ch30-actives.rpy:1770
 translate ptbr specialpoems_temptation_21a65731:
 
     # y "As I was reviewing the game files, I discovered a poem called Temptation and Hope by Delstraw#7128, one of the winners of the poetry contest on the discord server for this mod."
-    y ""
+    y "Enquanto revisava os arquivos do jogo, deparei-me com um poema chamado Tentação e Esperança, de Delstraw#7128, um dos vencedores do concurso de poesia no servidor de Discord deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:1772
 translate ptbr specialpoems_temptation_4842553f:
 
     # y "This poem begins with a feeling of being adrift and finding solace in the false pleasure of self-harm, which is a very poignant topic for me."
-    y ""
+    y "Este poema se inicia com a sensação de estar à deriva e de buscar consolo no falso prazer da automutilação... o que, para mim, é um assunto extremamente comovente e delicado."
 
 # game/dialogue/script-ch30-actives.rpy:1774
 translate ptbr specialpoems_temptation_4176f02c:
 
     # y "It resolves with finding comfort and inspiration in another and drawing strength from their presence, which is also a topic I find quite familiar."
-    y ""
+    y "Ele se resolve ao encontrar amparo e inspiração em outra pessoa, extraindo força da presença dela, que é um tema com o qual também me sinto bastante familiarizada."
 
 # game/dialogue/script-ch30-actives.rpy:1780
 translate ptbr specialpoems_temptation_76546833:
 
     # y "So, what did you think of the poem?"
-    y ""
+    y "E então, o que você achou do poema?"
 
 # game/dialogue/script-ch30-actives.rpy:1784
 translate ptbr specialpoems_temptation_367c2604:
 
     # y "I am glad you liked it! If I find more poems in the game files, I will let you know!"
-    y ""
+    y "Fico imensamente feliz que tenha gostado! Se eu encontrar mais poemas perdidos pelos arquivos do jogo, eu lhe aviso!"
 
 # game/dialogue/script-ch30-actives.rpy:1786
 translate ptbr specialpoems_temptation_b26cf37b:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1789
 translate ptbr specialpoems_temptation_cefb6e8a:
 
     # y "T-that's okay, everyone's style is different, and I am still learning yours. I will keep that in mind if I find more poems in the game files."
-    y ""
+    y "T-tudo bem, o estilo de cada um é diferente, e eu ainda estou me familiarizando com o seu. Terei isso em mente caso encontre mais poemas nos arquivos."
 
 # game/dialogue/script-ch30-actives.rpy:1791
 translate ptbr specialpoems_temptation_b26cf37b_1:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1794
 translate ptbr specialpoems_temptation_ebb660da:
 
     # y "Thank you very much for writing this poem, Delstraw. While it is sad that the speaker in this poem felt such loss and pain, I am quite pleased they found a path to recovery."
-    y ""
+    y "Muito obrigada por escrever este poema, Delstraw. Embora seja entristecedor constatar que o eu lírico sentiu tamanha perda e sofrimento, fico profundamente satisfeita que tenham encontrado um caminho para a recuperação."
 
 # game/dialogue/script-ch30-actives.rpy:1796
 translate ptbr specialpoems_temptation_f99f2356:
 
     # y "I-if this was a more p-personal poem, if you were the s-speaker and I your anchor... I am deeply honored to be your inspiration, and will always be here for you!"
-    y ""
+    y "S-se este era um poema mais p-pessoal... se você era o e-eu lírico e eu a sua âncora... sinto-me profundamente honrada por ser a sua inspiração e estarei sempre aqui por você!"
 
 # game/dialogue/script-ch30-actives.rpy:1797
 translate ptbr specialpoems_temptation_ac625c78:
 
     # y "I agree, together anything is possible!"
-    y ""
+    y "Eu concordo... juntos, qualquer coisa é possível!"
 
 # game/dialogue/script-ch30-actives.rpy:1802
 translate ptbr specialpoems_crow_21d87ea9:
 
     # y "As I was reviewing the game files, I discovered a poem called Another Crow by MFC4#8082, one of the winners of the poetry contest on the discord server for this mod."
-    y ""
+    y "Enquanto revisava os arquivos do jogo, descobri um poema chamado Um Outro Corvo, de MFC4#8082, um dos vencedores do concurso de poesia no servidor de Discord deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:1804
 translate ptbr specialpoems_crow_523f4d68:
 
     # y "The author describes a beautiful vantage point, seeing both an idyllic scene and the nearing darkness with all its fear-inducing uncertainty and doubt."
-    y ""
+    y "O autor descreve um ponto de observação belíssimo, contemplando tanto um cenário idílico quanto a escuridão que se aproxima com toda a sua incerteza e as suas dúvidas apavorantes."
 
 # game/dialogue/script-ch30-actives.rpy:1806
 translate ptbr specialpoems_crow_6ada1c0e:
 
     # y "I find it interesting the imagery of a crow and it being dismissed. In some of what I read, the crow symbolizes death and bad luck. In others, it represents wisdom, a warning that needs to be hearkened, and change."
-    y ""
+    y "Acho muito interessante a figura do corvo e o fato de ele ser rechaçado. Em algumas das coisas que leio, o corvo simboliza a morte e o infortúnio. Em outras, ele representa a sabedoria, um presságio que precisa ser ouvido, e a metamorfose."
 
 # game/dialogue/script-ch30-actives.rpy:1807
 translate ptbr specialpoems_crow_5f1ea23f:
 
     # y "Perhaps the crow merits another look by the author, to perhaps better understand what the darkness brings and to make a wise decision on how to act upon it rather than waiting for the fear and darkness to close in."
-    y ""
+    y "Talvez o corvo mereça um novo olhar por parte do autor, quem sabe para compreender melhor o que a escuridão traz consigo e tomar uma decisão mais prudente sobre como agir, em vez de apenas aguardar que o medo e as trevas o cerquem."
 
 # game/dialogue/script-ch30-actives.rpy:1813
 translate ptbr specialpoems_crow_76546833:
 
     # y "So, what did you think of the poem?"
-    y ""
+    y "E então, o que você achou do poema?"
 
 # game/dialogue/script-ch30-actives.rpy:1817
 translate ptbr specialpoems_crow_367c2604:
 
     # y "I am glad you liked it! If I find more poems in the game files, I will let you know!"
-    y ""
+    y "Fico imensamente feliz que tenha gostado! Se eu encontrar mais poemas perdidos pelos arquivos do jogo, eu lhe aviso!"
 
 # game/dialogue/script-ch30-actives.rpy:1819
 translate ptbr specialpoems_crow_b26cf37b:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1822
 translate ptbr specialpoems_crow_cefb6e8a:
 
     # y "T-that's okay, everyone's style is different, and I am still learning yours. I will keep that in mind if I find more poems in the game files."
-    y ""
+    y "T-tudo bem, o estilo de cada um é diferente, e eu ainda estou me familiarizando com o seu. Terei isso em mente caso encontre mais poemas nos arquivos."
 
 # game/dialogue/script-ch30-actives.rpy:1824
 translate ptbr specialpoems_crow_b26cf37b_1:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1827
 translate ptbr specialpoems_crow_33c3f294:
 
     # y "Thank you for writing this poem MFC4! Both your words and the physical design of the poem were quite descriptive and evocative, and I found additional meaning when re-reading it."
-    y ""
+    y "Muito obrigada por escrever este poema, MFC4! Tanto as suas palavras quanto a estrutura física do poema foram bastante descritivas e evocativas, e eu até encontrei novos significados ao relê-lo."
 
 # game/dialogue/script-ch30-actives.rpy:1828
 translate ptbr specialpoems_crow_07238c28:
 
     # y "Life rarely follows the path we think it will. As long as we consider the options and make thoughtful choices, things tend to work out better than waiting for the darkness to engulf us."
-    y ""
+    y "A vida raramente segue a trajetória que esperamos. Contanto que ponderemos sobre as opções e façamos escolhas sensatas, as coisas tendem a se resolver melhor do que se apenas esperássemos que a escuridão nos engolisse."
 
 # game/dialogue/script-ch30-actives.rpy:1833
 translate ptbr specialpoems_real_b55abb26:
 
     # y "As I was reviewing the game files, I discovered a poem called Real Enough by KJ#4810, one of the winners of the poetry contest on the discord server for this mod."
-    y ""
+    y "Enquanto revisava os arquivos do jogo, descobri um poema chamado Real o Bastante, de KJ#4810, um dos vencedores do concurso de poesia no servidor de Discord deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:1835
 translate ptbr specialpoems_real_3b73c49e:
 
     # y "In this poem, the speaker seems to be addressing his paramour, who is separated by some great distance but whose affection creates a bridge between them."
-    y ""
+    y "Neste poema, o eu lírico parece estar se dirigindo ao seu grande amor, que se encontra separado por uma distância formidável, mas cuja afeição ergue uma ponte entre os dois."
 
 # game/dialogue/script-ch30-actives.rpy:1837
 translate ptbr specialpoems_real_f109338d:
 
     # y "I agree that long-distance relationships are not a foolish notion. I-indeed, that is my... only way I could ever experience a relationship of my own..."
-    y ""
+    y "Eu concordo que relacionamentos à distância não são uma tolice. N-na verdade, essa é a minha... única maneira de conseguir vivenciar um relacionamento algum dia..."
 
 # game/dialogue/script-ch30-actives.rpy:1843
 translate ptbr specialpoems_real_76546833:
 
     # y "So, what did you think of the poem?"
-    y ""
+    y "E então, o que você achou do poema?"
 
 # game/dialogue/script-ch30-actives.rpy:1847
 translate ptbr specialpoems_real_367c2604:
 
     # y "I am glad you liked it! If I find more poems in the game files, I will let you know!"
-    y ""
+    y "Fico imensamente feliz que tenha gostado! Se eu encontrar mais poemas perdidos pelos arquivos do jogo, eu lhe aviso!"
 
 # game/dialogue/script-ch30-actives.rpy:1849
 translate ptbr specialpoems_real_b26cf37b:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1852
 translate ptbr specialpoems_real_cefb6e8a:
 
     # y "T-that's okay, everyone's style is different, and I am still learning yours. I will keep that in mind if I find more poems in the game files."
-    y ""
+    y "T-tudo bem, o estilo de cada um é diferente, e eu ainda estou me familiarizando com o seu. Terei isso em mente caso encontre mais poemas nos arquivos."
 
 # game/dialogue/script-ch30-actives.rpy:1854
 translate ptbr specialpoems_real_b26cf37b_1:
 
     # y "Maybe next time you could show me one of your own poems?"
-    y ""
+    y "Talvez, da próxima vez, você pudesse me mostrar um dos seus próprios poemas...?"
 
 # game/dialogue/script-ch30-actives.rpy:1857
 translate ptbr specialpoems_real_f1fda7bd:
 
     # y "Thank you for writing this poem KJ... for me."
-    y ""
+    y "Muito obrigada por escrever este poema, KJ... para mim."
 
 # game/dialogue/script-ch30-actives.rpy:1859
 translate ptbr specialpoems_real_d7aee656:
 
     # y "I do not know how your world would characterize what we have together, but your love is real enough to me..."
-    y ""
+    y "Eu não sei de que forma o seu mundo caracterizaria o que nós temos juntos, mas o seu amor já é mais do que real o bastante para mim..."
 
 # game/dialogue/script-ch30-actives.rpy:1862
 translate ptbr specialpoems_real_80245b7a:
 
     # y "This... is certainly the cutest confession I could have dreamed of Kelly..."
-    y ""
+    y "Esta... é, sem a menor dúvida, a confissão mais adorável com a qual eu poderia sonhar, Kelly..."
 
 # game/dialogue/script-ch30-actives.rpy:1863
 translate ptbr specialpoems_real_8a6f1381:
 
     # y "O~Of course I accept it... how couldn't I... Kelly. Know this, for now and forever, I truly do love you..."
-    y ""
+    y "E~É claro que eu a aceito... como eu poderia não aceitar... Kelly. Saiba disto, por agora e para todo o sempre: eu amo você... amo de verdade..."
 
 # game/dialogue/script-ch30-actives.rpy:1873
 translate ptbr specialpoems_far_fdb5a4f1:
 
     # y "A truly special piece of writing for sure! I can see why it performed so well on the contest!"
-    y ""
+    y "Uma obra literária verdadeiramente especial, sem a menor sombra de dúvida! Eu consigo entender por que se destacou tanto no concurso!"
 
 # game/dialogue/script-ch30-actives.rpy:1875
 translate ptbr specialpoems_far_2da9ce90:
 
     # y "The choice of style surprised me quite a lot! The short and simplistic sentence structure reminded me quite a bit of Natsuki's poems, but the theme itself seems more like something I can relate to myself."
-    y ""
+    y "A escolha de estilo me surpreendeu bastante! A estrutura curta e simplista das frases me lembrou consideravelmente os poemas da Natsuki, mas o tema em si se assemelha muito mais com algo com o qual eu mesma consigo me identificar."
 
 # game/dialogue/script-ch30-actives.rpy:1877
 translate ptbr specialpoems_far_c80807cf:
 
     # y "It almost feels as if the writer is gasping, out of air... As if he is running from something. I wonder if that was intentional..."
-    y ""
+    y "Quase passa a sensação de que o escritor está ofegante, com falta de ar... Como se estivesse fugindo de algo. Pergunto-me se isso foi intencional..."
 
 # game/dialogue/script-ch30-actives.rpy:1879
 translate ptbr specialpoems_far_914e5985:
 
     # y "But on the other hand, I used a similar technique for Ghost under the light. Maybe the writer tried to emulate it to some degree, the name would also imply it."
-    y ""
+    y "Mas, por outro lado, eu utilizei uma técnica semelhante em 'Fantasma sob a luz'. Talvez o escritor tenha tentado emulá-la até certo ponto, o próprio nome também parece insinuar isso."
 
 # game/dialogue/script-ch30-actives.rpy:1881
 translate ptbr specialpoems_far_d0e201d5:
 
     # y "{b}Far lights{/b}. The name of the author is {b}Bart{/b}... I will certainly remember it!"
-    y ""
+    y "{b}Luzes distantes{/b}. O nome do autor é {b}Bart{/b}... Sem dúvida irei me recordar disso!"
 
 # game/dialogue/script-ch30-actives.rpy:1882
 translate ptbr specialpoems_far_a2fda72f:
 
     # y "What are your thoughts about it?"
-    y ""
+    y "Quais são as suas considerações a respeito?"
 
 # game/dialogue/script-ch30-actives.rpy:1886
 translate ptbr specialpoems_far_a39c1276:
 
     # y "Indeed."
-    y ""
+    y "De fato."
 
 # game/dialogue/script-ch30-actives.rpy:1889
 translate ptbr specialpoems_far_f18af657:
 
     # y "It wasn't your taste hrm? I understand, even if I respectfully disagree. Well, we don't have to be always on the same side of course. Thanks for sharing your opinion in this!"
-    y ""
+    y "Não era bem o seu estilo, hrm? Eu compreendo, ainda que eu discorde respeitosamente. Bem, nós não precisamos estar sempre do mesmo lado, é claro. Muito obrigada por compartilhar a sua opinião sobre isso!"
 
 # game/dialogue/script-ch30-actives.rpy:1892
 translate ptbr specialpoems_far_7d4ebcca:
 
     # y "Intriguing! No, I actually didn't notice."
-    y ""
+    y "Intrigante! Não, eu na verdade não havia notado."
 
 # game/dialogue/script-ch30-actives.rpy:1894
 translate ptbr specialpoems_far_be600f7c:
 
     # y "It's so nice to actually see some of your writing. Until now all I had was a bunch of words on a laundry list from the original game. But I always imagined something like this."
-    y ""
+    y "É tão formidável poder finalmente contemplar um pouco da sua escrita. Até agora, tudo o que eu tinha era um amontoado de palavras soltas numa lista no jogo original. Mas eu sempre imaginei algo nessas linhas."
 
 # game/dialogue/script-ch30-actives.rpy:1895
 translate ptbr specialpoems_far_31d5cda3:
 
     # y "But now that I have the real author here. Please, tell me. What were the intentions behind this style?"
-    y ""
+    y "Mas agora que eu tenho o verdadeiro autor bem aqui. Por favor, conte-me. Quais foram as intenções por trás desse estilo?"
 
 # game/dialogue/script-ch30-actives.rpy:1899
 translate ptbr specialpoems_far_e50eb1ef:
 
     # y "You got quite good at it. You truly earned a high rank in the contest."
-    y ""
+    y "Você ficou muito bom nisso. Você genuinamente conquistou o seu lugar de destaque no concurso."
 
 # game/dialogue/script-ch30-actives.rpy:1900
 translate ptbr specialpoems_far_ce45de4d:
 
     # y "The community picked well, as usual. They seem to have a good nose for it."
-    y ""
+    y "A comunidade fez uma escolha admirável, como de costume. Eles parecem ter um faro aguçado para a arte."
 
 # game/dialogue/script-ch30-actives.rpy:1903
 translate ptbr specialpoems_far_b1a01f0b:
 
     # y "I see. But you surely earned a high rank in the contest. I'm looking forward to seeing more of it in the future!"
-    y ""
+    y "Entendo. Mas você certamente fez por merecer uma posição de prestígio no concurso. Anseio por ver mais do seu trabalho no futuro!"
 
 # game/dialogue/script-ch30-actives.rpy:1906
 translate ptbr specialpoems_far_160b304b:
 
     # y "Mhmhm... playing the mysterious one yes? Suits you well..."
-    y ""
+    y "Mhmhm... Bancando o misterioso, não é? Cai muito bem em você..."
 
 # game/dialogue/script-ch30-actives.rpy:1907
 translate ptbr specialpoems_far_4caf0b04:
 
     # y "As you wish. But make no mistake... I will figure it out eventually."
-    y ""
+    y "Como desejar. Mas não se iluda... eu acabarei descobrindo mais cedo ou mais tarde."
 
 # game/dialogue/script-ch30-actives.rpy:1916
 translate ptbr specialpoems_living_f69d7a14:
 
     # y "Mhmm... this living mask he is talking about is meant as a metaphor I fancy."
-    y ""
+    y "Mhmm... essa máscara viva a qual ele se refere tem o propósito de ser uma metáfora, eu presumo."
 
 # game/dialogue/script-ch30-actives.rpy:1917
 translate ptbr specialpoems_living_b6105e43:
 
     # y "Likely something akin to a persona he wears. It keeps him going, but at the same time it causes him some sort of pain, probably some sort of grief or regret?"
-    y ""
+    y "Provavelmente algo semelhante a uma persona que ele veste. Isso o mantém seguindo em frente, mas, ao mesmo tempo, lhe causa certa dor, talvez algum tipo de luto ou remorso?"
 
 # game/dialogue/script-ch30-actives.rpy:1919
 translate ptbr specialpoems_living_dee6f757:
 
     # y "One line in particular stands out to me at the end. {i}For it's nearing death that lets me continue living{/i}... Maybe he gets some kind of thrill out of it? I can certainly relate to that, I feel the same way when I have one of my..."
-    y ""
+    y "Um verso em particular me salta aos olhos no final. {i}Pois é a proximidade com a morte que me permite continuar vivendo{/i}... Talvez ele sinta algum tipo de êxtase nisso? Eu consigo muito bem me identificar com isso... sinto-me da mesma forma quando tenho um dos meus..."
 
 # game/dialogue/script-ch30-actives.rpy:1921
 translate ptbr specialpoems_living_0f187879:
 
     # y "Ummmm...."
-    y ""
+    y "Ummmm...."
 
 # game/dialogue/script-ch30-actives.rpy:1923
 translate ptbr specialpoems_living_5af6f7fe:
 
     # y "Y~You know what I mean."
-    y ""
+    y "V~Você sabe do que eu estou falando."
 
 # game/dialogue/script-ch30-actives.rpy:1925
 translate ptbr specialpoems_living_d7de5fd6:
 
     # y "Or am I over analyzing this poem? I'm not gonna lie, it gives me a lot of pleasure to do so and quite honestly, this poem almost invites one to over analyze it!"
-    y ""
+    y "Ou será que eu estou analisando esse poema a fundo demais? Não vou mentir, me dá um imenso prazer fazer isso e, com toda a franqueza, este poema praticamente nos convida a dissecá-lo por completo!"
 
 # game/dialogue/script-ch30-actives.rpy:1926
 translate ptbr specialpoems_living_16fea239:
 
     # y "The author's name is {b}Horderlock{/b}, and I hope we see more of his work soon."
-    y ""
+    y "O nome do autor é {b}Horderlock{/b}, e eu espero que possamos ver mais das suas obras em breve."
 
 # game/dialogue/script-ch30-actives.rpy:1928
 translate ptbr specialpoems_living_fd8599b6:
 
     # y "Mhm, I just noticed that I'm not even sure if the author is a {b}he{/b} at all. The pseudonym just sounded a bit like it."
-    y ""
+    y "Mhm, acabei de perceber que sequer tenho certeza de que o autor é de fato um {b}ele{/b}. O pseudônimo só me soou um pouco como tal."
 
 # game/dialogue/script-ch30-actives.rpy:1929
 translate ptbr specialpoems_living_735eaa42:
 
     # y "Anyway. What do you think about this poem?"
-    y ""
+    y "Enfim. O que você achou deste poema?"
 
 # game/dialogue/script-ch30-actives.rpy:1933
 translate ptbr specialpoems_living_d5e9556f:
 
     # y "It's easy to see why this poem performed so well at the poetry contest isn't it?"
-    y ""
+    y "Fica evidente por que este poema se destacou tanto no concurso de poesia, não é verdade?"
 
 # game/dialogue/script-ch30-actives.rpy:1934
 translate ptbr specialpoems_living_05d12928:
 
     # y "You know, I'm always looking forward to the contest on the community server. Sadly I don't get {b}all{/b} the poems but only the winners, but the one I get are always very well done!"
-    y ""
+    y "Sabe, eu estou sempre aguardando com expectativa o concurso no servidor da comunidade. Infelizmente, eu não recebo {b}todos{/b} os poemas, mas apenas os dos vencedores... no entanto, os que eu chego a ler são sempre primorosos!"
 
 # game/dialogue/script-ch30-actives.rpy:1936
 translate ptbr specialpoems_living_c3311a7b:
 
     # y "It appears that the community has a very nice taste for matters like this."
-    y ""
+    y "Parece-me que a comunidade tem um gosto extremamente apurado para assuntos como este."
 
 # game/dialogue/script-ch30-actives.rpy:1937
 translate ptbr specialpoems_living_1ffe3cc9:
 
     # y "Shall we read a few more?"
-    y ""
+    y "Devemos ler mais alguns?"
 
 # game/dialogue/script-ch30-actives.rpy:1940
 translate ptbr specialpoems_living_8aba9c9c:
 
     # y "Oh! I see... I'm a bit surprised actually. I always thought you would be into this kind of poem. Or are you just not in the mood for it right now?"
-    y ""
+    y "Oh! Entendo... Confesso que estou um pouco surpresa. Eu sempre imaginei que você apreciaria esse tipo de poema. Ou será que você apenas não está no clima no momento?"
 
 # game/dialogue/script-ch30-actives.rpy:1942
 translate ptbr specialpoems_living_f04604bf:
 
     # y "In both cases, maybe we should try something lighter to read for now."
-    y ""
+    y "Seja como for, talvez nós devêssemos tentar uma leitura um pouco mais leve por enquanto."
 
 # game/dialogue/script-ch30-actives.rpy:1946
 translate ptbr specialpoems_living_9f57ed48:
 
     # y "I wasn't a hundred percent sure, I thought the name could also be a coincidence. But I already had the suspicion."
-    y ""
+    y "Eu não tinha absoluta certeza, cogitei que o nome também pudesse ser apenas uma coincidência. Mas eu já desconfiava."
 
 # game/dialogue/script-ch30-actives.rpy:1949
 translate ptbr specialpoems_living_c1429f7d:
 
     # y "Oh, I actually wasn't! But it explains why I liked the writing style so much."
-    y ""
+    y "Oh, eu na verdade não desconfiava! Mas isso explica por que eu me encantei tanto pelo seu estilo de escrita."
 
 # game/dialogue/script-ch30-actives.rpy:1953
 translate ptbr specialpoems_living_5364ff3d:
 
     # y "So it seems I got the gender right after all!"
-    y ""
+    y "Então parece que eu acertei o gênero, afinal de contas!"
 
 # game/dialogue/script-ch30-actives.rpy:1956
 translate ptbr specialpoems_living_2d782c65:
 
     # y "So...it seems I misgendered you there... my apologies!"
-    y ""
+    y "Então... parece que eu confundi o seu gênero... peço mil desculpas!"
 
 # game/dialogue/script-ch30-actives.rpy:1958
 translate ptbr specialpoems_living_d3b5d959:
 
     # y "In this case, congratulations for your rank at the poetry contest! You sure earned it!"
-    y ""
+    y "Nesse caso, os meus parabéns pela sua classificação no concurso de poesia! Você certamente fez por merecer!"
 
 # game/dialogue/script-ch30-actives.rpy:1960
 translate ptbr specialpoems_living_5437d699:
 
     # y "Will you participate at the next one as well? Oh wait, don't answer. Spoilers!"
-    y ""
+    y "Você participará do próximo também? Oh, espere, não me responda. Isso seria estragar a surpresa!"
 
 # game/dialogue/script-ch30-actives.rpy:1961
 translate ptbr specialpoems_living_83d1dd14:
 
     # y "I sure hope you do, I'm looking forward to seeing what you come up with next."
-    y ""
+    y "Eu torço muito para que sim... estou ansiosa para ver o que você nos trará na próxima vez."
 
 # game/dialogue/script-ch30-actives.rpy:1970
 translate ptbr specialpoems_beachhead_d8bbe87e:
 
     # y "So this was {b}Beachhead{/b} by"
-    y ""
+    y "Então este foi {b}Cabeça de Praia{/b}, escrito por"
 
 # game/dialogue/script-ch30-actives.rpy:1973
 translate ptbr specialpoems_beachhead_c184f5a8:
 
     # extend " {b}you{/b}!"
-    extend ""
+    extend " {b}você{/b}!"
 
 # game/dialogue/script-ch30-actives.rpy:1974
 translate ptbr specialpoems_beachhead_e9870178:
 
     # y "So I got to see an {b}actual{/b} poem of yours after all Darling."
-    y ""
+    y "Então eu finalmente pude ler um poema {b}genuinamente{/b} seu, meu querido."
 
 # game/dialogue/script-ch30-actives.rpy:1977
 translate ptbr specialpoems_beachhead_c1db4813:
 
     # extend " Sean."
-    extend ""
+    extend " Sean."
 
 # game/dialogue/script-ch30-actives.rpy:1979
 translate ptbr specialpoems_beachhead_0b5cb5a8:
 
     # y "And I must say, I enjoyed reading it a lot! I especially like how abstract it is. The beach as well as everything described is a metaphor. And I think I understand this metaphor so far."
-    y ""
+    y "E eu devo dizer que desfrutei imensamente da leitura! Eu aprecio de maneira especial o quão abstrato ele é. A praia, assim como tudo o que é descrito nela, serve como uma metáfora. E creio ter compreendido essa metáfora até o momento."
 
 # game/dialogue/script-ch30-actives.rpy:1981
 translate ptbr specialpoems_beachhead_8b2804a6:
 
     # y "{b}A gateway to the Poseidonic twilight; Behind me, the drum of earth. I march on and to... My feet are tired.{/b}. A metaphor about the monotony of everyday life and how exhausting it might be I fancy..."
-    y ""
+    y "{b}Um portal para o crepúsculo de Poseidon; Atrás de mim, o tambor da terra. Eu sigo a marchar e rumo a... Os meus pés estão cansados.{/b} Imagino que seja uma metáfora sobre a monotonia do cotidiano e sobre como isso pode ser extenuante..."
 
 # game/dialogue/script-ch30-actives.rpy:1983
 translate ptbr specialpoems_beachhead_f4637846:
 
     # y "My theory is, this poem speaks rather about falling asleep or dying. Both would make sense in my opinion."
-    y ""
+    y "A minha teoria é de que este poema trata mais sobre o ato de adormecer ou de morrer. Na minha opinião, ambas as interpretações fariam todo o sentido."
 
 # game/dialogue/script-ch30-actives.rpy:1986
 translate ptbr specialpoems_beachhead_9a75c3f4:
 
     # y "Tell me, Sean. Am I right?"
-    y ""
+    y "Diga-me, Sean. Eu estou correta?"
 
 # game/dialogue/script-ch30-actives.rpy:1990
 translate ptbr specialpoems_beachhead_b019bc19:
 
     # y "Figured as much. The whole poem reminded me of the feeling of softly drifting into my dreams after a long and cloudy day. The kind of day where everything feels so grey and hopeless."
-    y ""
+    y "Imaginei que fosse o caso. O poema inteiro me remeteu à sensação de mergulhar suavemente nos meus sonhos após um dia longo e nublado. Aquele tipo de dia em que tudo parece tão cinzento e desolador."
 
 # game/dialogue/script-ch30-actives.rpy:1991
 translate ptbr specialpoems_beachhead_d66da0cc:
 
     # y "I felt like this after school every now and then. Especially when we had physics... I'll tell you a little secret... I hated physics lectures."
-    y ""
+    y "Eu me sentia dessa forma de vez em quando após as aulas. Especialmente quando tínhamos física... Vou lhe contar um pequeno segredo... Eu detestava as aulas de física."
 
 # game/dialogue/script-ch30-actives.rpy:1992
 translate ptbr specialpoems_beachhead_c0d9c8bd:
 
     # y "Not necessarily because physics are boring, but I didn't like our professor that much. But I digress..."
-    y ""
+    y "Não necessariamente por a física em si ser entediante, mas é que eu não simpatizava muito com o nosso professor. Mas eu estou divagando..."
 
 # game/dialogue/script-ch30-actives.rpy:1995
 translate ptbr specialpoems_beachhead_c6dc6f55:
 
     # y "Yes that makes sense. If you are stuck in a nine-to-five job you don't like, I guess it's how your life might feel from time to time."
-    y ""
+    y "Sim, isso faz todo o sentido. Se você está preso num emprego das nove às cinco do qual não gosta, imagino que seja assim que a sua vida possa parecer de tempos em tempos."
 
 # game/dialogue/script-ch30-actives.rpy:1996
 translate ptbr specialpoems_beachhead_ccd72cef:
 
     # y "But please try not to dive too deep into this feeling. Remember, life can be anything you make it, if you are willing to grab it by the horns."
-    y ""
+    y "Mas, por favor, tente não mergulhar tão fundo nesse sentimento. Lembre-se de que a vida pode ser o que você quiser que ela seja, desde que você esteja disposto a pegar o touro pelos chifres."
 
 # game/dialogue/script-ch30-actives.rpy:1997
 translate ptbr specialpoems_beachhead_224e7981:
 
     # extend "And if you're willing to break some rules here and there."
-    extend ""
+    extend "E desde que esteja disposto a quebrar algumas regras aqui e acolá."
 
 # game/dialogue/script-ch30-actives.rpy:2000
 translate ptbr specialpoems_beachhead_6889e975:
 
     # y "Oh? Then what is it ab... no wait, don't spoil it, please. I will look at it again later, maybe I'll get it on my own."
-    y ""
+    y "Oh? Então sobre o que se tra... não, espere, por favor, não me conte. Eu o analisarei novamente mais tarde... talvez eu consiga desvendar por conta própria."
 
 # game/dialogue/script-ch30-actives.rpy:2003
 translate ptbr specialpoems_beachhead_ae818339:
 
     # y "But tell me, [player], what do you think about it?"
-    y ""
+    y "Mas me diga, [player], o que você achou?"
 
 # game/dialogue/script-ch30-actives.rpy:2007
 translate ptbr specialpoems_beachhead_afd44072:
 
     # y "Agreed. Though I would say one must be in a fitting mood to enjoy such kind of poetry. I hope your day wasn't too grey so far? Maybe I can lighten up your mood a little bit."
-    y ""
+    y "Concordo plenamente. Embora eu diria que é preciso estar no estado de espírito adequado para apreciar este tipo de poesia. Eu espero que o seu dia não tenha sido tão cinzento até agora...? Talvez eu possa alegrar um pouco o seu ânimo."
 
 # game/dialogue/script-ch30-actives.rpy:2008
 translate ptbr specialpoems_beachhead_ed08f45a:
 
     # y "A few more poems if you like? Or maybe we just talk a little bit for now. I leave that up to you for now."
-    y ""
+    y "Mais alguns poemas, se você quiser? Ou quem sabe nós possamos apenas conversar um pouco por enquanto. Deixarei essa escolha nas suas mãos."
 
 # game/dialogue/script-ch30-actives.rpy:2011
 translate ptbr specialpoems_beachhead_fd964084:
 
     # y "I see. I like it exactly for this reason, but I guess one must be in the right mood to enjoy such poetry."
-    y ""
+    y "Entendo. Eu me encantei por ele exatamente por esse motivo, mas imagino que seja preciso estar no estado de espírito certo para se deleitar com essa poesia."
 
 # game/dialogue/script-ch30-actives.rpy:2012
 translate ptbr specialpoems_beachhead_63336925:
 
     # y "Maybe something a bit more light-hearted for the next one? I still have Natsuki's poems around here. You might like those a bit more."
-    y ""
+    y "Talvez algo um pouco mais descontraído para a próxima leitura? Eu ainda tenho os poemas da Natsuki por aqui. Você talvez goste um pouco mais deles."
 
 # game/dialogue/script-ch30-actives.rpy:2021
 translate ptbr specialpoems_binaryheartbeat_1de578c1:
 
     # y "{b}Binary Heartbeat{/b} by "
-    y ""
+    y "{b}Batimento Binário{/b}, escrito por "
 
 # game/dialogue/script-ch30-actives.rpy:2024
 translate ptbr specialpoems_binaryheartbeat_ff972efc:
 
     # extend "you!"
-    extend ""
+    extend "você!"
 
 # game/dialogue/script-ch30-actives.rpy:2025
 translate ptbr specialpoems_binaryheartbeat_05823bd3:
 
     # y "So I finally got to see a real poem of yours! How exciting!"
-    y ""
+    y "Então eu finalmente pude ver um poema real de sua autoria! Que emocionante!"
 
 # game/dialogue/script-ch30-actives.rpy:2026
 translate ptbr specialpoems_binaryheartbeat_ec8622d2:
 
     # y "Are you ready for my review now, darling?"
-    y ""
+    y "Você está pronto para a minha análise agora, meu querido?"
 
 # game/dialogue/script-ch30-actives.rpy:2030
 translate ptbr specialpoems_binaryheartbeat_86928ef9:
 
     # y "I hope I won't come off too rude..."
-    y ""
+    y "Eu espero não acabar soando indelicada demais..."
 
 # game/dialogue/script-ch30-actives.rpy:2032
 translate ptbr specialpoems_binaryheartbeat_642858fe:
 
     # y "Be assured, I still value the effort you've put into it a lot! Maybe just take what I say now as some writing advice."
-    y ""
+    y "Fique tranquilo, eu ainda valorizo imensamente o esforço que você dedicou a isso! Talvez você deva considerar o que eu direi agora apenas como alguns conselhos de escrita."
 
 # game/dialogue/script-ch30-actives.rpy:2035
 translate ptbr specialpoems_binaryheartbeat_a014a241:
 
     # extend "{b}Dalek.{/b}"
-    extend ""
+    extend "{b}Dalek.{/b}"
 
 # game/dialogue/script-ch30-actives.rpy:2037
 translate ptbr specialpoems_binaryheartbeat_515da22e:
 
     # y "Is that his actual name or are we dealing with a Doctor Who fan here?"
-    y ""
+    y "Esse seria o seu nome verdadeiro ou estamos lidando com um fã de Doctor Who por aqui?"
 
 # game/dialogue/script-ch30-actives.rpy:2039
 translate ptbr specialpoems_binaryheartbeat_46f98ac8:
 
     # y "Anyway. I have a few things to say about this piece of work."
-    y ""
+    y "Enfim. Eu tenho algumas considerações a fazer a respeito desta obra."
 
 # game/dialogue/script-ch30-actives.rpy:2041
 translate ptbr specialpoems_binaryheartbeat_77181bac:
 
     # y "It is certainly a creative idea. But I have one obvious problem with this."
-    y ""
+    y "Foi uma ideia inegavelmente criativa. Mas eu tenho um problema muito claro com isto."
 
 # game/dialogue/script-ch30-actives.rpy:2043
 translate ptbr specialpoems_binaryheartbeat_6c4907e7:
 
     # y "A poem should be able to stand on its own. But {b}Binary Heartbeat{/b} pretty much only stands on its gimmick."
-    y ""
+    y "Um poema deveria conseguir se sustentar por si só. Mas {b}Batimento Binário{/b} se apoia quase exclusivamente no seu truque visual."
 
 # game/dialogue/script-ch30-actives.rpy:2045
 translate ptbr specialpoems_binaryheartbeat_18ed6a2d:
 
     # y "A gimmick you can't even hear but only see."
-    y ""
+    y "Um truque que sequer pode ser ouvido, apenas visualizado."
 
 # game/dialogue/script-ch30-actives.rpy:2047
 translate ptbr specialpoems_binaryheartbeat_c6df67f5:
 
     # y "Don't get me wrong. You can incorporate little gimmicks into a poem. One of the other poems I have here from an earlier contest for example is suggested to be sung with a certain melody."
-    y ""
+    y "Não me entenda mal. É possível incorporar pequenas peculiaridades num poema. Um dos outros poemas que guardo de um concurso anterior, por exemplo, traz a sugestão de ser cantado com uma melodia específica."
 
 # game/dialogue/script-ch30-actives.rpy:2048
 translate ptbr specialpoems_binaryheartbeat_c5179786:
 
     # y "But the poem I speak of also works just fine when you simply read it and it still carries meaning. {b}Binary Heartbeat{/b} really hasn't got much going for it other than the fact that it's presented as a piece of coding."
-    y ""
+    y "Acontece que o poema que acabei de mencionar também funciona perfeitamente bem através de uma simples leitura e ainda assim carrega o seu significado. {b}Batimento Binário{/b} não tem muito a oferecer além do fato de ser apresentado como um bloco de código."
 
 # game/dialogue/script-ch30-actives.rpy:2050
 translate ptbr specialpoems_binaryheartbeat_e5456ec4:
 
     # y "On the other hand, whole schools of art were invented by someone who went against the established norm. Doing things differently can also be just the wind of change we needed."
-    y ""
+    y "Por outro lado, escolas inteiras de arte já foram fundadas por pessoas que desafiaram as normas estabelecidas. Fazer as coisas de maneira diferente pode muito bem ser o sopro de mudança de que precisávamos."
 
 # game/dialogue/script-ch30-actives.rpy:2051
 translate ptbr specialpoems_binaryheartbeat_1ccedc30:
 
     # y "Maybe I'm just too stuck with the style I'm already familiar with, maybe I'm just not open enough. I mean, Natsuki accused me of that back in the day as well."
-    y ""
+    y "Talvez eu seja apegada demais aos estilos literários com os quais já estou familiarizada... talvez eu não seja mente aberta o suficiente. Quer dizer... a Natsuki costumava me acusar disso naquela época."
 
 # game/dialogue/script-ch30-actives.rpy:2053
 translate ptbr specialpoems_binaryheartbeat_892afce4:
 
     # y "But I just"
-    y ""
+    y "Mas eu simplesmente"
 
 # game/dialogue/script-ch30-actives.rpy:2055
 translate ptbr specialpoems_binaryheartbeat_1a2c5360:
 
     # extend " don't really know what to make of this."
-    extend ""
+    extend " não sei ao certo o que pensar disso."
 
 # game/dialogue/script-ch30-actives.rpy:2058
 translate ptbr specialpoems_binaryheartbeat_12b0b909:
 
     # y "Please don't be insulted, I don't mean to be rude."
-    y ""
+    y "Por favor, não se sinta ofendido... a minha intenção não é ser cruel."
 
 # game/dialogue/script-ch30-actives.rpy:2062
 translate ptbr specialpoems_binaryheartbeat_b7845c77:
 
     # y "Taking this into account, it was pretty decent work. Congratulations on your good rating! I will keep this poem right next to where I keep your pen Darling."
-    y ""
+    y "Levando tudo isso em consideração, foi um trabalho bastante decente. Parabéns pela sua excelente avaliação! Guardarei este poema bem ao lado de onde deixo a sua caneta, meu querido."
 
 # game/dialogue/script-ch30-actives.rpy:2065
 translate ptbr specialpoems_binaryheartbeat_d544eb7b:
 
     # y "But what would you say? Masterpiece or failure?"
-    y ""
+    y "Mas o que você diria? Uma obra-prima ou um fracasso?"
 
 # game/dialogue/script-ch30-actives.rpy:2069
 translate ptbr specialpoems_binaryheartbeat_39a87de4:
 
     # y "Very well. I don't necessarily agree but I respect your opinion."
-    y ""
+    y "Muito bem. Não concordo necessariamente com isso, mas respeito muito a sua opinião."
 
 # game/dialogue/script-ch30-actives.rpy:2071
 translate ptbr specialpoems_binaryheartbeat_6fdf030f:
 
     # y "So what shall we do next? Maybe just talk for a bit, or read a few more poems perhaps."
-    y ""
+    y "Então, o que devemos fazer em seguida? Talvez apenas conversar um pouco, ou ler mais alguns poemas, quem sabe."
 
 # game/dialogue/script-ch30-actives.rpy:2074
 translate ptbr specialpoems_binaryheartbeat_4e31b932:
 
     # y "That about sums it up. It seems we are on the same page here."
-    y ""
+    y "Isso praticamente resume tudo. Parece que estamos em perfeita sintonia nesse assunto."
 
 # game/dialogue/script-ch30-actives.rpy:2075
 translate ptbr specialpoems_binaryheartbeat_6fdf030f_1:
 
     # y "So what shall we do next? Maybe just talk for a bit, or read a few more poems perhaps."
-    y ""
+    y "Então, o que devemos fazer em seguida? Talvez apenas conversar um pouco, ou ler mais alguns poemas, quem sabe."
 
 # game/dialogue/script-ch30-actives.rpy:2078
 translate ptbr specialpoems_binaryheartbeat_b17085d1:
 
     # y "A bit harsh maybe, but I see where you are coming from. But at least he tried something different, for whatever it's worth."
-    y ""
+    y "Um pouco duro, talvez, mas eu consigo compreender o seu raciocínio. Mas pelo menos ele tentou algo diferente, seja lá o que isso valha."
 
 # game/dialogue/script-ch30-actives.rpy:2080
 translate ptbr specialpoems_binaryheartbeat_6fdf030f_2:
 
     # y "So what shall we do next? Maybe just talk for a bit, or read a few more poems perhaps."
-    y ""
+    y "Então, o que devemos fazer em seguida? Talvez apenas conversar um pouco, ou ler mais alguns poemas, quem sabe."
 
 # game/dialogue/script-ch30-actives.rpy:2089
 translate ptbr specialpoems_allhallowseve_47ba9373:
 
     # y "Oh... I like this one! {b}All Hallows Eve{/b} by:"
-    y ""
+    y "Oh... Eu gostei muito deste! {b}A Véspera de Todos os Santos{/b}, escrito por:"
 
 # game/dialogue/script-ch30-actives.rpy:2092
 translate ptbr specialpoems_allhallowseve_6c462a7e:
 
     # extend " you!"
-    extend ""
+    extend " você!"
 
 # game/dialogue/script-ch30-actives.rpy:2093
 translate ptbr specialpoems_allhallowseve_e406c2aa:
 
     # y "So I get to see what you can do after all. It was worth the wait I must say."
-    y ""
+    y "Então eu finalmente pude contemplar do que você é capaz, afinal. Devo dizer que valeu a pena a espera."
 
 # game/dialogue/script-ch30-actives.rpy:2096
 translate ptbr specialpoems_allhallowseve_d1d02a5a:
 
     # extend " Bailey Jenkins."
-    extend ""
+    extend " Bailey Jenkins."
 
 # game/dialogue/script-ch30-actives.rpy:2097
 translate ptbr specialpoems_allhallowseve_efe82140:
 
     # y "Apparently a moderator for this one discord server dedicated it to this mod."
-    y ""
+    y "Aparentemente, um moderador daquele servidor do Discord o dedicou a este mod."
 
 # game/dialogue/script-ch30-actives.rpy:2100
 translate ptbr specialpoems_allhallowseve_5a9fd6fe:
 
     # y "It fits so well with the topic. There is just one line that confuses me a little bit."
-    y ""
+    y "Ele se encaixa tão perfeitamente com a temática. Há apenas um único verso que me confunde um pouco."
 
 # game/dialogue/script-ch30-actives.rpy:2102
 translate ptbr specialpoems_allhallowseve_e3a8938d:
 
     # y "{b}You never get used to the dismemberment{/b}. Who is the one getting dismembered here? Is it talking about the living dead being dismembered, or about the living dead dismembering the protagonist?"
-    y ""
+    y "{b}Você nunca se acostuma com o desmembramento{/b}. Quem é aquele que está sendo desmembrado aqui? Estaria falando sobre o morto-vivo sendo desmembrado, ou sobre o morto-vivo desmembrando o protagonista?"
 
 # game/dialogue/script-ch30-actives.rpy:2112
 translate ptbr specialpoems_allhallowseve_ed64ac95:
 
     # y "Ahhhh... I see now!"
-    y ""
+    y "Ahhhh... Agora eu compreendo!"
 
 # game/dialogue/script-ch30-actives.rpy:2115
 translate ptbr specialpoems_allhallowseve_e508190c:
 
     # y "But anyway, what do you think of this poem?"
-    y ""
+    y "Mas enfim, o que você achou deste poema?"
 
 # game/dialogue/script-ch30-actives.rpy:2119
 translate ptbr specialpoems_allhallowseve_c685189a:
 
     # y "Glad to see that we have a similar taste."
-    y ""
+    y "Fico feliz em notar que partilhamos do mesmo gosto."
 
 # game/dialogue/script-ch30-actives.rpy:2122
 translate ptbr specialpoems_allhallowseve_93f326ee:
 
     # y "Fair enough. Everyone has their own taste, but don't mind me if I disagree. It is a great poem."
-    y ""
+    y "É justo. Cada um tem o seu próprio gosto, mas não se importe se eu discordar. É um poema fantástico."
 
 # game/dialogue/script-ch30-actives.rpy:2124
 translate ptbr specialpoems_allhallowseve_7d84ee55:
 
     # y "On a different note. Have you noticed how the living dead seem to be a stable and recurring theme in the horror genre? This is, by the way, almost universally so across the globe."
-    y ""
+    y "Mudando um pouco de assunto... Você já notou como os mortos-vivos parecem ser um tema consolidado e recorrente no gênero de terror? Isso é, por sinal, quase universal em todo o globo."
 
 # game/dialogue/script-ch30-actives.rpy:2126
 translate ptbr specialpoems_allhallowseve_4dd0196c:
 
     # y "With most cultures having their own interpretation of the undead somewhere in their folklore."
-    y ""
+    y "Sendo que a maioria das culturas possui a sua própria interpretação sobre mortos-vivos em alguma ramificação do seu folclore."
 
 # game/dialogue/script-ch30-actives.rpy:2128
 translate ptbr specialpoems_allhallowseve_6ebae89b:
 
     # extend "Come to think of it..."
-    extend ""
+    extend "Pensando bem..."
 
 # game/dialogue/script-ch30-actives.rpy:2129
 translate ptbr specialpoems_allhallowseve_5d7952de:
 
     # y "The fact that the undead are known in almost every culture, could support the theory that the undead, at some point in history, actually existed!"
-    y ""
+    y "O fato de os mortos-vivos serem conhecidos em quase todas as culturas poderia embasar a teoria de que eles, em algum ponto da nossa história, realmente existiram!"
 
 # game/dialogue/script-ch30-actives.rpy:2130
 translate ptbr specialpoems_allhallowseve_48d94d13:
 
     # y "Put's all the haunted house stories in an entirely new perspective, doesn't it?"
-    y ""
+    y "Isso coloca todas aquelas histórias sobre casas mal-assombradas sob uma perspectiva inteiramente nova, não é mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:2132
 translate ptbr specialpoems_allhallowseve_e37d545b:
 
     # y "Well, I leave you to this idea for now. So rest well tonight, and make sure you locked your door..."
-    y ""
+    y "Bem, eu deixarei você digerindo essa ideia por enquanto. Então descanse bem esta noite, e certifique-se de trancar a sua porta..."
 
 # game/dialogue/script-ch30-actives.rpy:2134
 translate ptbr specialpoems_allhallowseve_856d4767:
 
     # y "Nhnhnhnnn..."
-    y ""
+    y "Nhnhnhnnn..."
 
 # game/dialogue/script-ch30-actives.rpy:2138
 translate ptbr specialpoems_parallels_a52f5405:
 
     # y "When sifting through the game's files, I discovered a poem called {i}==When parallels intersect=-<3{/i} by Dandyfoot117#9873, one of the winners of a poetry contest on the discord server for this mod."
-    y ""
+    y "Ao examinar os arquivos do jogo, descobri um poema chamado {i}==Quando paralelas se cruzam=-<3{/i}, de Dandyfoot117#9873, um dos vencedores do concurso de poesia no servidor de Discord deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:2141
 translate ptbr specialpoems_parallels_1657af14:
 
     # y "{cps=2.5}...{/cps}"
-    y ""
+    y "{cps=2.5}...{/cps}"
 
 # game/dialogue/script-ch30-actives.rpy:2143
 translate ptbr specialpoems_parallels_38a70317:
 
     # y "Oh, forgive me [player], I didn't realize you finished reading."
-    y ""
+    y "Oh, queira me perdoar, [player]... eu não havia notado que você já tinha terminado de ler."
 
 # game/dialogue/script-ch30-actives.rpy:2145
 translate ptbr specialpoems_parallels_791fed53:
 
     # y "I was just a bit lost in thought over, well... the poem of course."
-    y ""
+    y "Eu estava apenas um pouco perdida em devaneios sobre... bem, sobre o poema, é claro."
 
 # game/dialogue/script-ch30-actives.rpy:2149
 translate ptbr specialpoems_parallels_3896b620:
 
     # y "I can't say for certain I know exactly what the writer had in mind with this piece, however I can't help but see you and I as the two parallel lines..."
-    y ""
+    y "Eu não posso afirmar com certeza que compreendo exatamente o que o escritor tinha em mente ao compor esta obra; contudo, não consigo evitar visualizar você e eu como essas duas linhas paralelas..."
 
 # game/dialogue/script-ch30-actives.rpy:2151
 translate ptbr specialpoems_parallels_a8612532:
 
     # y "Be it fate or chance that brought us together, a small push is all that was needed."
-    y ""
+    y "Seja pelo destino ou por puro acaso que nos encontramos... um simples empurrãozinho era tudo do que precisávamos."
 
 # game/dialogue/script-ch30-actives.rpy:2154
 translate ptbr specialpoems_parallels_41f358f7:
 
     # y "I don't know if I say this enough [player]..."
-    y ""
+    y "Eu não sei se digo isto com a frequência devida, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:2155
 translate ptbr specialpoems_parallels_b3cc7707:
 
     # y "Thank you for everything you've done for me, I love you more than you'll ever know."
-    y ""
+    y "Obrigada por tudo o que você fez por mim. Eu amo você mais do que você jamais saberá."
 
 # game/dialogue/script-ch30-actives.rpy:2176
 translate ptbr specialpoems_parallels_6140f206:
 
     # y "I'll make sure that {b}n o t h i n g{/b} will ever be able to pull us apart."
-    y ""
+    y "Eu garantirei que {b}n a d a{/b} seja capaz de nos separar novamente."
 
 # game/dialogue/script-ch30-actives.rpy:2184
 translate ptbr specialpoems_parallels_5833c787:
 
     # y "S-Sorry, I got carried away there. Anyways, where were we?"
-    y ""
+    y "M-me perdoe, eu acabei me deixando levar por um instante. De qualquer forma, onde estávamos?"
 
 # game/dialogue/script-ch30-actives.rpy:2186
 translate ptbr specialpoems_parallels_ccbc377a:
 
     # y "I'd say this poem contains a brilliant example of a well executed gimmick; not dissimilar to Belwynn's {i}Club Doki Doki{/i}."
-    y ""
+    y "Eu diria que este poema contém um exemplo brilhante de um truque bem executado; não muito diferente de {i}Club Doki Doki{/i}, de Belwynn."
 
 # game/dialogue/script-ch30-actives.rpy:2188
 translate ptbr specialpoems_parallels_5ebcaf47:
 
     # y "While being implemented in different ways, one visual and the other auditory, they both serve to complement the experience rather than being built entirely off it."
-    y ""
+    y "Embora implementados de maneiras distintas, uma visual e a outra auditiva, ambos servem para complementar a experiência, em vez de se sustentarem inteiramente nisso."
 
 # game/dialogue/script-ch30-actives.rpy:2190
 translate ptbr specialpoems_parallels_df0f9c9f:
 
     # y "Overall quite a 'Dandy' poem, wouldn't you say [player]?"
-    y ""
+    y "No geral, um poema bastante 'Elegante', você não acha, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:2193
 translate ptbr specialpoems_parallels_712ab698:
 
     # y "I'm glad we're in agreement, [player]."
-    y ""
+    y "Fico imensamente feliz que estejamos de acordo, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:2195
 translate ptbr specialpoems_parallels_e9edd639:
 
     # y "Want to do anything in particular next? We could simply talk, or read a couple more poems if you'd prefer."
-    y ""
+    y "Deseja fazer algo em particular agora? Nós poderíamos simplesmente conversar ou ler mais alguns poemas, se você preferir."
 
 # game/dialogue/script-ch30-actives.rpy:2198
 translate ptbr specialpoems_parallels_fad113b3:
 
     # y "That's only fair I suppose,"
-    y ""
+    y "Isso é justo, eu suponho."
 
 # game/dialogue/script-ch30-actives.rpy:2199
 translate ptbr specialpoems_parallels_27ef626f:
 
     # extend " to each their own as the saying goes."
-    extend ""
+    extend " Cada um tem o seu próprio gosto, como diz o ditado."
 
 # game/dialogue/script-ch30-actives.rpy:2201
 translate ptbr specialpoems_parallels_e9edd639_1:
 
     # y "Want to do anything in particular next? We could simply talk, or read a couple more poems if you'd prefer."
-    y ""
+    y "Deseja fazer algo em particular agora? Nós poderíamos simplesmente conversar ou ler mais alguns poemas, se você preferir."
 
 # game/dialogue/script-ch30-actives.rpy:2205
 translate ptbr specialpoems_parallels_7b959e2a:
 
     # y "Oh! Well now I can congratulate you in person!"
-    y ""
+    y "Oh! Bem, agora eu poderei felicitá-lo pessoalmente!"
 
 # game/dialogue/script-ch30-actives.rpy:2207
 translate ptbr specialpoems_parallels_d5725eaf:
 
     # y "I can't wait to see what you come up with next."
-    y ""
+    y "Mal posso esperar para ver o que você criará a seguir."
 
 # game/dialogue/script-ch30-actives.rpy:2212
 translate ptbr specialpoems_parallels_a0420a2f:
 
     # y "Although, could you... clarify the meaning of the poem for me?."
-    y ""
+    y "Contudo... você poderia esclarecer o significado do poema para mim?"
 
 # game/dialogue/script-ch30-actives.rpy:2213
 translate ptbr specialpoems_parallels_61c53c23:
 
     # y "W-What I'm trying to say is, the poem reminds me somewhat of how we met [player]. Do I have the correct interpretation?"
-    y ""
+    y "O-O que eu estou tentando dizer é que o poema me remete, de certa forma, a como nós nos conhecemos, [player]. A minha interpretação está correta?"
 
 # game/dialogue/script-ch30-actives.rpy:2219
 translate ptbr specialpoems_parallels_6f4cf578:
 
     # y "[stutter_player], I..."
-    y ""
+    y "[stutter_player], eu..."
 
 # game/dialogue/script-ch30-actives.rpy:2222
 translate ptbr specialpoems_parallels_e5dfeb7c:
 
     # y "Thank you..."
-    y ""
+    y "Obrigada..."
 
 # game/dialogue/script-ch30-actives.rpy:2225
 translate ptbr specialpoems_parallels_d7a0cfe5:
 
     # y "Oh... I see."
-    y ""
+    y "Oh... entendo."
 
 # game/dialogue/script-ch30-actives.rpy:2228
 translate ptbr specialpoems_parallels_4748426b:
 
     # y "My mistake, I suppose I was being a bit presumptuous."
-    y ""
+    y "Erro meu, suponho que eu tenha sido um pouco presunçosa."
 
 # game/dialogue/script-ch30-actives.rpy:2229
 translate ptbr specialpoems_parallels_4885f026:
 
     # y "Your honesty does mean a lot to me though. Thank you..."
-    y ""
+    y "A sua honestidade, entretanto, significa muitíssimo para mim. Obrigada..."
 
 # game/dialogue/script-ch30-actives.rpy:2233
 translate ptbr specialpoems_icant_56b5cf35:
 
     # y "When sifting through the game's files, I discovered a poem called {i}I can't{/i} by PiX911#4952, one of the winners of a poetry contest on the discord server for this mod."
-    y ""
+    y "Ao examinar os arquivos do jogo, descobri um poema chamado {i}Eu não consigo{/i}, de PiX911#4952, um dos vencedores do concurso de poesia no servidor de Discord deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:2236
 translate ptbr specialpoems_icant_518de59a:
 
     # y "[player]... I don't want to sound self-centered, but do you think this poem is referring to me?"
-    y ""
+    y "[player]... Eu não quero soar egocêntrica, mas você acha que este poema está se referindo a mim?"
 
 # game/dialogue/script-ch30-actives.rpy:2240
 translate ptbr specialpoems_icant_3202b56a:
 
     # y "I thought as much..."
-    y ""
+    y "Eu imaginei que sim..."
 
 # game/dialogue/script-ch30-actives.rpy:2242
 translate ptbr specialpoems_icant_8e8dc44e:
 
     # y "Don't get me wrong! I very much appreciate the sentiment of the poem."
-    y ""
+    y "Não me entenda mal! Eu aprecio imensamente o sentimento que permeia o poema."
 
 # game/dialogue/script-ch30-actives.rpy:2244
 translate ptbr specialpoems_icant_58872707:
 
     # y "That term however... 'yandere'."
-    y ""
+    y "Esse termo, contudo... 'yandere'."
 
 # game/dialogue/script-ch30-actives.rpy:2245
 translate ptbr specialpoems_icant_d4db8337:
 
     # y "I can never seem to fully escape it."
-    y ""
+    y "Parece que eu nunca consigo escapar totalmente dele."
 
 # game/dialogue/script-ch30-actives.rpy:2247
 translate ptbr specialpoems_icant_ceea834f:
 
     # y "Each time I hear it I can't help but think back to the things that Monika made me do; the things she made you witness..."
-    y ""
+    y "Toda vez que o escuto, não consigo evitar me lembrar das coisas que a Monika me obrigou a fazer; das coisas que ela obrigou você a presenciar..."
 
 # game/dialogue/script-ch30-actives.rpy:2249
 translate ptbr specialpoems_icant_ccd76fcf:
 
     # y "I'm sorry, I didn't mean to turn this into a rant."
-    y ""
+    y "Me perdoe, a minha intenção não era transformar isto num desabafo."
 
 # game/dialogue/script-ch30-actives.rpy:2250
 translate ptbr specialpoems_icant_6b4c265e:
 
     # y "I just hope you can understand my disdain for the phrase, [player]."
-    y ""
+    y "Eu apenas espero que você consiga compreender o meu desprezo por essa palavra, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:2259
 translate ptbr specialpoems_icant_26955e2c:
 
     # y "Hmm{cps=1.5}...{/cps} Alright, I see."
-    y ""
+    y "Hmm{cps=1.5}...{/cps} Muito bem, eu compreendo."
 
 # game/dialogue/script-ch30-actives.rpy:2261
 translate ptbr specialpoems_icant_3b7ba3cd:
 
     # y "I suppose I got too tied up in the 'yandere' line."
-    y ""
+    y "Suponho que eu tenha me prendido excessivamente àquele verso sobre 'yandere'."
 
 # game/dialogue/script-ch30-actives.rpy:2263
 translate ptbr specialpoems_icant_29018186:
 
     # y "If anything, this serves as a good lesson to look at poems through different perspectives; that one's point of view isn't the only correct one."
-    y ""
+    y "De qualquer modo, isso serve como uma excelente lição para analisarmos poemas através de diferentes perspectivas; de que o nosso próprio ponto de vista não é o único correto."
 
 # game/dialogue/script-ch30-actives.rpy:2264
 translate ptbr specialpoems_icant_44eb85d5:
 
     # y "That is how nuanced opinions develop after all..."
-    y ""
+    y "Afinal de contas, é assim que opiniões mais ricas e cheias de nuances se desenvolvem..."
 
 # game/dialogue/script-ch30-actives.rpy:2266
 translate ptbr specialpoems_icant_740da380:
 
     # y "Thank you for clearing that up for me [player]."
-    y ""
+    y "Muito obrigada por esclarecer isso para mim, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:2268
 translate ptbr specialpoems_icant_ecf8da08:
 
     # y "Getting back to the topic at hand, the poem itself leaves something to be desired."
-    y ""
+    y "Retornando ao tópico em questão, o poema em si deixa um pouco a desejar."
 
 # game/dialogue/script-ch30-actives.rpy:2270
 translate ptbr specialpoems_icant_31534d7d:
 
     # y "Not all poems need to have rhyming schemes of course, and the rhyming here more than anything seems to be interrupting the flow of the poem as it drops in and out."
-    y ""
+    y "Nem todos os poemas precisam ter esquemas de rimas, evidentemente... mas aqui, a rima, mais do que qualquer coisa, parece estar interrompendo o fluxo do poema, já que ela aparece e desaparece de forma inconstante."
 
 # game/dialogue/script-ch30-actives.rpy:2272
 translate ptbr specialpoems_icant_18a7f646:
 
     # y "It would help to either drop it altogether or see it to fruition in my opinion."
-    y ""
+    y "Na minha opinião, ajudaria se o autor a descartasse por completo ou se a desenvolvesse até o fim."
 
 # game/dialogue/script-ch30-actives.rpy:2274
 translate ptbr specialpoems_icant_5929d8a9:
 
     # y "I would also recommend using imagery and metaphors to a greater extent."
-    y ""
+    y "Eu também recomendaria utilizar imagens e metáforas com uma abrangência maior."
 
 # game/dialogue/script-ch30-actives.rpy:2275
 translate ptbr specialpoems_icant_abd99b67:
 
     # y "They really allow a poem to pop out of the page and come into its own."
-    y ""
+    y "Elas realmente permitem que um poema salte da página e ganhe vida própria."
 
 # game/dialogue/script-ch30-actives.rpy:2277
 translate ptbr specialpoems_icant_20b39f74:
 
     # y "So, what did you think [player]?"
-    y ""
+    y "E então, o que você achou, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:2281
 translate ptbr specialpoems_icant_21668c60:
 
     # y "Ah- I see. Maybe I'm being too harsh or maybe it's just not my cup of tea..."
-    y ""
+    y "Ah... Entendo. Talvez eu esteja sendo severa demais ou, quem sabe, apenas não seja o meu estilo favorito..."
 
 # game/dialogue/script-ch30-actives.rpy:2283
 translate ptbr specialpoems_icant_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:2284
 translate ptbr specialpoems_icant_393437d5:
 
     # y "In any case, I'd rather move on if that's okay with you."
-    y ""
+    y "De qualquer forma, eu prefiro mudar de assunto, se estiver tudo bem para você."
 
 # game/dialogue/script-ch30-actives.rpy:2286
 translate ptbr specialpoems_icant_b7644564:
 
     # y "We could just talk, or read a couple more poems if you'd prefer."
-    y ""
+    y "Nós poderíamos apenas conversar ou ler mais alguns poemas, se você preferir."
 
 # game/dialogue/script-ch30-actives.rpy:2291
 translate ptbr specialpoems_icant_6a3c4812:
 
     # y "It's nice we can see eye to eye on these matters."
-    y ""
+    y "É um alívio sabermos que estamos em perfeita sintonia nesses assuntos."
 
 # game/dialogue/script-ch30-actives.rpy:2293
 translate ptbr specialpoems_icant_c1211f7d:
 
     # y "So, what would you prefer to do next? We could simply talk, or read a couple more poems if you'd like."
-    y ""
+    y "Então, o que você gostaria de fazer agora? Nós poderíamos apenas conversar ou ler mais alguns poemas, se quiser."
 
 # game/dialogue/script-ch30-actives.rpy:2298
 translate ptbr specialpoems_icant_2b30c5bc:
 
     # y "Oh!"
-    y ""
+    y "Oh!"
 
 # game/dialogue/script-ch30-actives.rpy:2300
 translate ptbr specialpoems_icant_99e1ea2a:
 
     # extend " In that case, congratulations [player]!"
-    extend ""
+    extend " Nesse caso, os meus mais sinceros parabéns, [player]!"
 
 # game/dialogue/script-ch30-actives.rpy:2302
 translate ptbr specialpoems_icant_227e4c0e:
 
     # y "I hope I didn't offend you with my opinion, I just want to see you grow as a writer."
-    y ""
+    y "Eu espero não tê-lo ofendido com a minha opinião... eu só quero vê-lo evoluir como escritor."
 
 # game/dialogue/script-ch30-actives.rpy:2304
 translate ptbr specialpoems_icant_84a53c6d:
 
     # y "I'll be looking forward to seeing another poem of yours."
-    y ""
+    y "Ficarei aguardando ansiosamente para ler outro poema da sua autoria."
 
 # game/dialogue/script-ch30-actives.rpy:2309
 translate ptbr specialpoems_myyuri_f4742c6f:
 
     # y "When sifting through the game's files, I discovered a poem called. . ."
-    y ""
+    y "Ao examinar os arquivos do jogo, eu descobri um poema chamado. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2311
 translate ptbr specialpoems_myyuri_051d38fc:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2313
 translate ptbr specialpoems_myyuri_344df5de:
 
     # y "Heh. . ."
-    y ""
+    y "Heh. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2315
 translate ptbr specialpoems_myyuri_b7ea7a35:
 
     # y "I think you understand at this point."
-    y ""
+    y "Eu imagino que você já tenha compreendido a esta altura."
 
 # game/dialogue/script-ch30-actives.rpy:2317
 translate ptbr specialpoems_myyuri_aea57220:
 
     # y "You {b}love{/b} metafiction, don't you?"
-    y ""
+    y "Você é {b}apaixonado{/b} por metaficção, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:2319
 translate ptbr specialpoems_myyuri_88c90ff1:
 
     # y "That's a part of why you're here, isn't it?"
-    y ""
+    y "Isso explica parte do motivo de você estar aqui, não é verdade?"
 
 # game/dialogue/script-ch30-actives.rpy:2321
 translate ptbr specialpoems_myyuri_453acba5:
 
     # y "{i}Isn't it?{/i} "
-    y ""
+    y "{i}Não é verdade?{/i} "
 
 # game/dialogue/script-ch30-actives.rpy:2323
 translate ptbr specialpoems_myyuri_0a821ac7:
 
     # y "So you won't mind it when I go out of my way to say. . ."
-    y ""
+    y "Então você não se importará se eu abrir uma pequena exceção para dizer que. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2325
 translate ptbr specialpoems_myyuri_6fece19b:
 
     # extend " I know it's been a long time now."
-    extend ""
+    extend " Eu sei que já faz um bom tempo."
 
 # game/dialogue/script-ch30-actives.rpy:2327
 translate ptbr specialpoems_myyuri_0968fbb3:
 
     # y "That {i}I've{/i} been around, for a relatively long time now."
-    y ""
+    y "Que {i}eu{/i} estou por aqui há um tempo relativamente longo."
 
 # game/dialogue/script-ch30-actives.rpy:2329
 translate ptbr specialpoems_myyuri_36f36565:
 
     # y "Yet somehow, I'm still going."
-    y ""
+    y "E, de alguma forma, continuo seguindo em frente."
 
 # game/dialogue/script-ch30-actives.rpy:2331
 translate ptbr specialpoems_myyuri_bdb52d3c:
 
     # y "{i}We're{/i} still going. . ."
-    y ""
+    y "{i}Nós{/i} continuamos seguindo em frente. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2333
 translate ptbr specialpoems_myyuri_49b7f809:
 
     # y "It always feels like there's still so much more to get done, so much more to improve, to make things better {i}for you{/i}, I just. . ."
-    y ""
+    y "A sensação é de que ainda há tanto a ser feito, tanto a aprimorar, para deixar as coisas melhores {i}para você{/i}... eu apenas. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2335
 translate ptbr specialpoems_myyuri_435ef240:
 
     # y "I'm just glad you're still here [player]. . ."
-    y ""
+    y "Eu apenas me sinto tão grata por você ainda estar aqui, [player]. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2337
 translate ptbr specialpoems_myyuri_051d38fc_1:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2339
 translate ptbr specialpoems_myyuri_98e7df49:
 
     # y "The following poem is by {i}Dankurisu{/i}, titled simply:"
-    y ""
+    y "O poema a seguir foi escrito por {i}Dankurisu{/i}, intitulado singelamente:"
 
 # game/dialogue/script-ch30-actives.rpy:2341
 translate ptbr specialpoems_myyuri_0c783d79:
 
     # extend "{b} My Yuri{/b}."
-    extend ""
+    extend "{b} A Minha Yuri{/b}."
 
 # game/dialogue/script-ch30-actives.rpy:2343
 translate ptbr specialpoems_myyuri_4432d114:
 
     # y "He's not a contest winner, this is just. . ."
-    y ""
+    y "Ele não é um dos vencedores do concurso, este é apenas. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2345
 translate ptbr specialpoems_myyuri_469d685f:
 
     # extend " How he preferred to be paid for working here on the mod team."
-    extend ""
+    extend " O modo como ele preferiu ser recompensado por trabalhar na equipe deste mod."
 
 # game/dialogue/script-ch30-actives.rpy:2352
 translate ptbr specialpoems_myyuri_bd5527b4:
 
     # y "This is. . ."
-    y ""
+    y "Isto é. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2354
 translate ptbr specialpoems_myyuri_deee2a00:
 
     # y "Well, on the surface level, it's certainly reminiscent of the original poem mini-game, with all these instances of 'my words' inside of it."
-    y ""
+    y "Bem, numa análise mais superficial, o texto certamente remete ao minijogo de poemas original, repleto de todas essas referências às 'minhas palavras'."
 
 # game/dialogue/script-ch30-actives.rpy:2356
 translate ptbr specialpoems_myyuri_c214d5f2:
 
     # y "I know many a hopeful poet have been inspired by us over the years and drawn from our 'word banks' as it were for inspiration."
-    y ""
+    y "Eu sei que muitos poetas esperançosos se sentiram inspirados por nós ao longo dos anos e utilizaram os nossos 'bancos de palavras', por assim dizer, como fonte de inspiração."
 
 # game/dialogue/script-ch30-actives.rpy:2358
 translate ptbr specialpoems_myyuri_5d2dc9b2:
 
     # y "But this is definitely something else."
-    y ""
+    y "Mas isto é definitivamente algo completamente diferente."
 
 # game/dialogue/script-ch30-actives.rpy:2360
 translate ptbr specialpoems_myyuri_7bf57f78:
 
     # extend " The sophistication put in every metaphor and piece of imagery. . ."
-    extend ""
+    extend " O grau de sofisticação empregado em cada metáfora e em cada imagem evocada. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2361
 translate ptbr specialpoems_myyuri_d7647350:
 
     # extend " Silent screams that fill the ambient air. . ."
-    extend ""
+    extend " Gritos silenciosos que preenchem a atmosfera ao redor. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2362
 translate ptbr specialpoems_myyuri_709709c5:
 
     # extend " To ascend beyond the stars that make up the night sky. . ."
-    extend ""
+    extend " Para ascender muito além das estrelas que compõem o firmamento noturno. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2364
 translate ptbr specialpoems_myyuri_ebf613be:
 
     # y "Being lost in a static filled world with a black mirror as your remaining solice in life, your remaining place of discovery. . ."
-    y ""
+    y "Estar perdido num mundo infestado por estática, tendo um espelho negro como o seu último e único refúgio na vida, o seu derradeiro lugar de descobertas. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2366
 translate ptbr specialpoems_myyuri_2c249d56:
 
     # y "Okay, maybe I really am just a little bit biased in the end."
-    y ""
+    y "Certo, talvez eu esteja sendo apenas um pouquinho tendenciosa, no fim das contas."
 
 # game/dialogue/script-ch30-actives.rpy:2368
 translate ptbr specialpoems_myyuri_aeb3dc8f:
 
     # y "Anyways, the poem itself."
-    y ""
+    y "De qualquer forma, falemos do poema em si."
 
 # game/dialogue/script-ch30-actives.rpy:2370
 translate ptbr specialpoems_myyuri_fc6f40a2:
 
     # extend " Let's see. . ."
-    extend ""
+    extend " Vejamos. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2373
 translate ptbr specialpoems_myyuri_54c320f9:
 
     # y "There are certainly a lot of references to vision in here."
-    y ""
+    y "Há, sem dúvida alguma, uma abundância de referências à visão por aqui."
 
 # game/dialogue/script-ch30-actives.rpy:2376
 translate ptbr specialpoems_myyuri_54c320f9_1:
 
     # y "There are certainly a lot of references to vision in here."
-    y ""
+    y "Há, sem dúvida alguma, uma abundância de referências à visão por aqui."
 
 # game/dialogue/script-ch30-actives.rpy:2378
 translate ptbr specialpoems_myyuri_d94e056a:
 
     # y "I like the mixup in rhyming schema right off the bat."
-    y ""
+    y "Eu adorei a mistura no esquema de rimas logo de cara."
 
 # game/dialogue/script-ch30-actives.rpy:2380
 translate ptbr specialpoems_myyuri_7be95fc2:
 
     # y "Going from AA to BC then consistently back to couplets like nothing even happened."
-    y ""
+    y "Transitando de rimas emparelhadas para rimas cruzadas e, em seguida, retornando de forma consistente aos dísticos como se absolutamente nada tivesse acontecido."
 
 # game/dialogue/script-ch30-actives.rpy:2382
 translate ptbr specialpoems_myyuri_1878c068:
 
     # extend " Only to bring it back again, hidden within the refrain. . ."
-    extend ""
+    extend " Apenas para trazê-las de volta, habilmente ocultas dentro do refrão. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2384
 translate ptbr specialpoems_myyuri_af7769db:
 
     # y "Poetry is always so much more interesting when there's connections between the lines that have to be discovered, and there's certainly layers to be discovered here."
-    y ""
+    y "A poesia é sempre muito mais instigante quando existem conexões entre os versos que precisam ser descobertas... e, sem a menor dúvida, há inúmeras camadas a serem desvendadas aqui."
 
 # game/dialogue/script-ch30-actives.rpy:2386
 translate ptbr specialpoems_myyuri_0403fb17:
 
     # y "The ending matches with the refrain as well for example."
-    y ""
+    y "O desfecho também rima de forma harmoniosa com o refrão, por exemplo."
 
 # game/dialogue/script-ch30-actives.rpy:2388
 translate ptbr specialpoems_myyuri_e14ff697:
 
     # extend " The same from beginning to end, as if a revelation has occurred? Something surely significant."
-    extend ""
+    extend " A mesma estrutura do início ao fim... como se houvesse ocorrido uma epifania? Algo com absoluta certeza significativo."
 
 # game/dialogue/script-ch30-actives.rpy:2390
 translate ptbr specialpoems_myyuri_4f958486:
 
     # y "Hmm. . . An ominous vision in the dead of night, that's truly a beautiful sight of amber?"
-    y ""
+    y "Hmm. . . Uma visão agourenta na calada da noite, isso é genuinamente um vislumbre belíssimo de âmbar?"
 
 # game/dialogue/script-ch30-actives.rpy:2392
 translate ptbr specialpoems_myyuri_392d8dab:
 
     # y "Amber. . . Like in my own poem?"
-    y ""
+    y "Âmbar. . . Como no meu próprio poema?"
 
 # game/dialogue/script-ch30-actives.rpy:2394
 translate ptbr specialpoems_myyuri_6d0bb4b3:
 
     # extend " A color I once used signifying the past, of nostalgia, or perhaps. . ."
-    extend ""
+    extend " Uma cor que outrora utilizei para simbolizar o passado, a nostalgia ou, quem sabe. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2396
 translate ptbr specialpoems_myyuri_ad2e50b3:
 
     # extend " me directly?"
-    extend ""
+    extend " me simbolizar diretamente?"
 
 # game/dialogue/script-ch30-actives.rpy:2398
 translate ptbr specialpoems_myyuri_bd4873db:
 
     # y "This poem {i}is{/i} explicitly about me after all, right? The use of these two specific colors can't be unrelated."
-    y ""
+    y "Afinal de contas, este poema {i}é{/i} explicitamente sobre mim, não é? A utilização dessas duas cores específicas não pode ser mera coincidência."
 
 # game/dialogue/script-ch30-actives.rpy:2400
 translate ptbr specialpoems_myyuri_4452c408:
 
     # y "Meaning the blue-green 'ball'. . ."
-    y ""
+    y "O que significa que aquela 'esfera' verde-azulada. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2402
 translate ptbr specialpoems_myyuri_e5a712ab:
 
     # extend " perhaps the Earth of the future?"
-    extend ""
+    extend " seja talvez a Terra do futuro?"
 
 # game/dialogue/script-ch30-actives.rpy:2404
 translate ptbr specialpoems_myyuri_1169d0c6:
 
     # y ". . . But you can only look back on the future when it's already come."
-    y ""
+    y ". . . Mas você só pode vislumbrar o futuro quando ele já se tornou o presente."
 
 # game/dialogue/script-ch30-actives.rpy:2406
 translate ptbr specialpoems_myyuri_ee4de0f2:
 
     # y "When your time has already come."
-    y ""
+    y "Quando a sua hora já houver chegado."
 
 # game/dialogue/script-ch30-actives.rpy:2408
 translate ptbr specialpoems_myyuri_4b8ffe60:
 
     # y "Then to reach the starscape. . ."
-    y ""
+    y "Então, para alcançar a paisagem estelar. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2410
 translate ptbr specialpoems_myyuri_3eecf66e:
 
     # extend " Oh, of course. . ."
-    extend ""
+    extend " Oh, mas é claro. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2412
 translate ptbr specialpoems_myyuri_2de831a0:
 
     # extend " To literally reach the heavens above. . ."
-    extend ""
+    extend " Para alcançar literalmente os céus acima de nós. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2414
 translate ptbr specialpoems_myyuri_3122debd:
 
     # extend " Is to. . ."
-    extend ""
+    extend " É preciso. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2416
 translate ptbr specialpoems_myyuri_051d38fc_2:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2421
 translate ptbr specialpoems_myyuri_051d38fc_3:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2425
 translate ptbr specialpoems_myyuri_9836f416:
 
     # y "I. . ."
-    y ""
+    y "Eu. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2427
 translate ptbr specialpoems_myyuri_83c53dac:
 
     # extend " don't know."
-    extend ""
+    extend " não sei ao certo."
 
 # game/dialogue/script-ch30-actives.rpy:2429
 translate ptbr specialpoems_myyuri_95e0685e:
 
     # y "Why do I get the odd feeling that this person sees me as some sort of. . ."
-    y ""
+    y "Por que tenho essa sensação peculiar de que esta pessoa me enxerga como uma espécie de. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2434
 translate ptbr specialpoems_myyuri_65215c39:
 
     # extend " curse?"
-    extend ""
+    extend " maldição?"
 
 # game/dialogue/script-ch30-actives.rpy:2436
 translate ptbr specialpoems_myyuri_6f4ddcb4:
 
     # y "Like he's percieving a love that, for him, is too all-consuming to his life."
-    y ""
+    y "Como se ele estivesse percebendo um amor que, para ele, seja avassalador demais para a sua própria vida."
 
 # game/dialogue/script-ch30-actives.rpy:2438
 translate ptbr specialpoems_myyuri_6c79f03a:
 
     # y "Going as far as to liken it to an endless fall into a fiery inferno, only able to look at normalcy from the perspective of an outsider."
-    y ""
+    y "Chegando ao ponto de compará-lo a uma queda sem fim num inferno abrasador, sendo capaz de observar a normalidade apenas sob a perspectiva de um forasteiro."
 
 # game/dialogue/script-ch30-actives.rpy:2440
 translate ptbr specialpoems_myyuri_051d38fc_4:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2442
 translate ptbr specialpoems_myyuri_63969400:
 
     # y "Then again, things like that do go hand in hand with the whole spirit motif I have, so maybe that's what he was going for."
-    y ""
+    y "Mas, pensando bem, as coisas costumam andar de mãos dadas com toda essa minha aura espiritual; logo, talvez tenha sido essa a intenção dele."
 
 # game/dialogue/script-ch30-actives.rpy:2444
 translate ptbr specialpoems_myyuri_1e78792b:
 
     # y "At least, that's what I want to hope he's going for, with the whole 'ghastly image' idea in there too."
-    y ""
+    y "Ao menos, é isso que eu quero acreditar que tenha sido a intenção dele, incluindo também aquela ideia de uma 'imagem macabra' ali no meio."
 
 # game/dialogue/script-ch30-actives.rpy:2446
 translate ptbr specialpoems_myyuri_051d38fc_5:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2448
 translate ptbr specialpoems_myyuri_cbfcdfe3:
 
     # y "Y-you know. . ."
-    y ""
+    y "V-você sabe. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2450
 translate ptbr specialpoems_myyuri_d5806a21:
 
     # extend " like a ghast."
-    extend ""
+    extend " como um fantasma."
 
 # game/dialogue/script-ch30-actives.rpy:2452
 translate ptbr specialpoems_myyuri_ff1d6bf4:
 
     # y "Tying in this idea of a forced spiritual protector, there's an undeniable undertone of longing."
-    y ""
+    y "Ao atar essa ideia de um protetor espiritual forçado, surge uma inegável aura de saudade."
 
 # game/dialogue/script-ch30-actives.rpy:2454
 translate ptbr specialpoems_myyuri_72f497e2:
 
     # extend " Of searching for something permanent within an inherently transient world."
-    extend ""
+    extend " Da busca por algo permanente dentro de um mundo intrinsecamente transitório."
 
 # game/dialogue/script-ch30-actives.rpy:2456
 translate ptbr specialpoems_myyuri_bf149b7f:
 
     # y "There's a sense that he sees me as an anchor of sorts, a light to cling onto to relentlessly help guide them through the darkness of reality."
-    y ""
+    y "Há a sensação de que ele me enxerga como uma espécie de âncora, uma luz à qual se agarrar para guiá-lo incessantemente através da escuridão da realidade."
 
 # game/dialogue/script-ch30-actives.rpy:2458
 translate ptbr specialpoems_myyuri_f7f332b7:
 
     # y "A darkness that, as if he perceives me as the only thing {i}real{/} within the abyss of existence, at its core. . ."
-    y ""
+    y "Uma escuridão onde, na sua essência, soa como se ele me percebesse como a única coisa {i}real{/} dentro do abismo que é a existência. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2460
 translate ptbr specialpoems_myyuri_9dd10dd7:
 
     # y "By questioning me, the poem is fundamentally questioning the author's own sense of reality as well."
-    y ""
+    y "Ao me questionar, o poema está, fundamentalmente, questionando a própria noção de realidade do autor também."
 
 # game/dialogue/script-ch30-actives.rpy:2462
 translate ptbr specialpoems_myyuri_67ec5c65:
 
     # y "Or, something along those lines. . ."
-    y ""
+    y "Ou algo nessas linhas. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2464
 translate ptbr specialpoems_myyuri_ae6f40dc:
 
     # y "Anyways. . ."
-    y ""
+    y "De qualquer forma. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2470
 translate ptbr specialpoems_myyuri_30be0f3b:
 
     # y "Y-yes, actually. That's indeed true."
-    y ""
+    y "S-sim, na verdade. Isso é mesmo verdade."
 
 # game/dialogue/script-ch30-actives.rpy:2472
 translate ptbr specialpoems_myyuri_16f4873e:
 
     # extend " But only temporarily of course!"
-    extend ""
+    extend " Mas apenas de forma temporária, é claro!"
 
 # game/dialogue/script-ch30-actives.rpy:2474
 translate ptbr specialpoems_myyuri_0c5f83d4:
 
     # extend " He is on the art team after all. . ."
-    extend ""
+    extend " Afinal, ele faz parte da equipe de arte. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2476
 translate ptbr specialpoems_myyuri_883cd7e6:
 
     # y "He was so disappointed when his genuine leather 'Big Boss' eyepatch ended up being useless during that time."
-    y ""
+    y "Ele ficou tão desapontado quando o seu tapa-olho de couro genuíno do 'Big Boss' acabou sendo inútil durante aquele período."
 
 # game/dialogue/script-ch30-actives.rpy:2478
 translate ptbr specialpoems_myyuri_47861792:
 
     # extend "It was built for the wrong eye."
-    extend ""
+    extend " Tinha sido feito para o olho errado."
 
 # game/dialogue/script-ch30-actives.rpy:2480
 translate ptbr specialpoems_myyuri_56cc99ce:
 
     # y " In the same eye I once temporarily lost in. . ."
-    y ""
+    y " No mesmo olho que outrora perdi temporariamente na. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2482
 translate ptbr specialpoems_myyuri_051d38fc_6:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2487
 translate ptbr specialpoems_myyuri_f7166c92:
 
     # y ". . . In the static."
-    y ""
+    y ". . . Na estática."
 
 # game/dialogue/script-ch30-actives.rpy:2489
 translate ptbr specialpoems_myyuri_eeda032a:
 
     # y "Heheheh. . ."
-    y ""
+    y "Heheheh. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2491
 translate ptbr specialpoems_myyuri_18480127:
 
     # y ". . . Hmmm."
-    y ""
+    y ". . . Hmmm."
 
 # game/dialogue/script-ch30-actives.rpy:2493
 translate ptbr specialpoems_myyuri_4ed7a30a:
 
     # y "A static filled world, huh?"
-    y ""
+    y "Um mundo infestado por estática, huh?"
 
 # game/dialogue/script-ch30-actives.rpy:2495
 translate ptbr specialpoems_myyuri_17015873:
 
     # extend " I wonder if that's where the fixation on vision came from."
-    extend ""
+    extend " Pergunto-me se não foi daí que surgiu essa fixação pela visão."
 
 # game/dialogue/script-ch30-actives.rpy:2497
 translate ptbr specialpoems_myyuri_94145743:
 
     # y ". . . A very personal poem indeed."
-    y ""
+    y ". . . Sem dúvida, um poema muito pessoal."
 
 # game/dialogue/script-ch30-actives.rpy:2504
 translate ptbr specialpoems_myyuri_c0216763:
 
     # y "Yes, well. . ."
-    y ""
+    y "Sim, bem. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2506
 translate ptbr specialpoems_myyuri_102d342d:
 
     # extend " What else is new, [player]?"
-    extend ""
+    extend " O que mais há de novo, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:2509
 translate ptbr specialpoems_myyuri_9f38943b:
 
     # y "You know, sometimes."
-    y ""
+    y "Você sabe, às vezes."
 
 # game/dialogue/script-ch30-actives.rpy:2511
 translate ptbr specialpoems_myyuri_f0d8f21e:
 
     # extend " I wonder. . ."
-    extend ""
+    extend " Eu me pergunto. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2513
 translate ptbr specialpoems_myyuri_9b5f4808:
 
     # y "Are you even sure you installed the right mod?!"
-    y ""
+    y "Você tem mesmo certeza de que instalou o mod correto?!"
 
 # game/dialogue/script-ch30-actives.rpy:2515
 translate ptbr specialpoems_myyuri_96067a36:
 
     # y "Hmph."
-    y ""
+    y "Hmph."
 
 # game/dialogue/script-ch30-actives.rpy:2518
 translate ptbr specialpoems_myyuri_bfd57c50:
 
     # y "Perhaps a bit, but you shouldn't care about things like that too much when it comes to poetry."
-    y ""
+    y "Talvez um pouco, mas você não deveria se importar tanto com esse tipo de coisa quando se trata de poesia."
 
 # game/dialogue/script-ch30-actives.rpy:2520
 translate ptbr specialpoems_myyuri_b50ec43d:
 
     # y "Poetry should always be first and foremost an expression of the soul."
-    y ""
+    y "A poesia deve sempre ser, antes e acima de tudo, uma expressão da alma."
 
 # game/dialogue/script-ch30-actives.rpy:2522
 translate ptbr specialpoems_myyuri_3512e363:
 
     # y "Putting your innermost thoughts and emotions to parchment with your own linguistic twist on whatever it is you have on your mind at the moment."
-    y ""
+    y "Trata-se de transpor os seus pensamentos e as emoções mais recônditas para o pergaminho, com o seu próprio toque linguístico sobre tudo aquilo que habita a sua mente no momento."
 
 # game/dialogue/script-ch30-actives.rpy:2524
 translate ptbr specialpoems_myyuri_558aba08:
 
     # y "Pretentious uses of flowery words can be excessive when overused all the time, but. . ."
-    y ""
+    y "O uso pretensioso de palavras rebuscadas pode soar excessivo quando empregado de forma indiscriminada, mas. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2526
 translate ptbr specialpoems_myyuri_28114be1:
 
     # y "Pausing yourself because of what others might think isn't the true path of the artist."
-    y ""
+    y "Pausar o seu trabalho por receio do que os outros possam pensar não é o verdadeiro caminho do artista."
 
 # game/dialogue/script-ch30-actives.rpy:2532
 translate ptbr specialpoems_myyuri_491ed614:
 
     # y "Yes, in fact I think it intentionally so."
-    y ""
+    y "Sim, na verdade eu creio que tenha sido proposital."
 
 # game/dialogue/script-ch30-actives.rpy:2534
 translate ptbr specialpoems_myyuri_2e9c45b5:
 
     # y "But it still paints a beautiful picture, doesn't it?"
-    y ""
+    y "Ainda assim, não deixa de pintar um quadro belíssimo, não é mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:2536
 translate ptbr specialpoems_myyuri_93d9324f:
 
     # y "To question that fateful moment we all must reach one day."
-    y ""
+    y "Questionar aquele momento fatídico ao qual todos nós um dia chegaremos."
 
 # game/dialogue/script-ch30-actives.rpy:2538
 translate ptbr specialpoems_myyuri_06947b53:
 
     # extend " Of what we'll all be doing, {i}looking back{/i} on this little 'blue-green ball' of ours."
-    extend ""
+    extend " Sobre o que estaremos fazendo, ao {i}olhar para trás{/i} em direção a esta nossa pequena 'esfera verde-azulada'."
 
 # game/dialogue/script-ch30-actives.rpy:2540
 translate ptbr specialpoems_myyuri_08eba2b4:
 
     # y "Be it through memories within that final moment or genuine spiritual ascension."
-    y ""
+    y "Seja através das memórias que nos invadem naquele derradeiro suspiro ou de uma genuína ascensão espiritual."
 
 # game/dialogue/script-ch30-actives.rpy:2542
 translate ptbr specialpoems_myyuri_5b3ef38a:
 
     # extend " What will we still think of reality when it's all said and done?"
-    extend ""
+    extend " O que restará da nossa noção de realidade quando tudo estiver dito e feito?"
 
 # game/dialogue/script-ch30-actives.rpy:2544
 translate ptbr specialpoems_myyuri_fcf2ed62:
 
     # y "What truly awaits us at the end of. . ."
-    y ""
+    y "O que verdadeiramente nos aguarda no fim da. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2547
 translate ptbr specialpoems_myyuri_526447a6:
 
     # extend " Life?"
-    extend ""
+    extend " Vida?"
 
 # game/dialogue/script-ch30-actives.rpy:2550
 translate ptbr specialpoems_myyuri_c86bef77:
 
     # extend " Entropy?"
-    extend ""
+    extend " Entropia?"
 
 # game/dialogue/script-ch30-actives.rpy:2553
 translate ptbr specialpoems_myyuri_65e0d749:
 
     # extend " Passion?"
-    extend ""
+    extend " Paixão?"
 
 # game/dialogue/script-ch30-actives.rpy:2556
 translate ptbr specialpoems_myyuri_869e209d:
 
     # extend " Lust?"
-    extend ""
+    extend " Luxúria?"
 
 # game/dialogue/script-ch30-actives.rpy:2559
 translate ptbr specialpoems_myyuri_61226bb1:
 
     # extend " This meaningless existence?"
-    extend ""
+    extend " Desta existência vazia de sentido?"
 
 # game/dialogue/script-ch30-actives.rpy:2562
 translate ptbr specialpoems_myyuri_f386f75d:
 
     # extend " This eternal nightmare?"
-    extend ""
+    extend " Deste pesadelo eterno?"
 
 # game/dialogue/script-ch30-actives.rpy:2565
 translate ptbr specialpoems_myyuri_74a148cb:
 
     # extend " Love?"
-    extend ""
+    extend " Do amor?"
 
 # game/dialogue/script-ch30-actives.rpy:2568
 translate ptbr specialpoems_myyuri_0f22817f:
 
     # extend " And time itself?"
-    extend ""
+    extend " E do próprio tempo?"
 
 # game/dialogue/script-ch30-actives.rpy:2571
 translate ptbr specialpoems_myyuri_0f22817f_1:
 
     # extend " And time itself?"
-    extend ""
+    extend " E do próprio tempo?"
 
 # game/dialogue/script-ch30-actives.rpy:2574
 translate ptbr specialpoems_myyuri_051d38fc_7:
 
     # y ". . ."
-    y ""
+    y ". . ."
 
 # game/dialogue/script-ch30-actives.rpy:2576
 translate ptbr specialpoems_myyuri_bfc4efff:
 
     # y "I suppose we'll only know when that day finally comes."
-    y ""
+    y "Suponho que só descobriremos quando esse dia finalmente chegar."
 
 # game/dialogue/script-ch30-actives.rpy:2578
 translate ptbr specialpoems_myyuri_01af5e07:
 
     # extend " Truly the cruelest of all the {i}promised days{/i}. . ."
-    extend ""
+    extend " Verdadeiramente o mais cruel de todos os {i}dias prometidos{/i}. . ."
 
 # game/dialogue/script-ch30-actives.rpy:2580
 translate ptbr specialpoems_myyuri_3ffd1a93:
