@@ -1060,7 +1060,7 @@ translate ptbr a11_775b183b:
 translate ptbr a11_1705dc32:
 
     # y "The Bowie knife is another prominent example. Famously used among many adventurers such as James \"Jim\" Bowie and other frontiersmen, it too has its appeal."
-    y "A faca Bowie é outro exemplo proeminente. Famosamente usada por muitos aventureiros, como James "Jim" Bowie e outros desbravadores, ela também tem o seu apelo."
+    y "A faca Bowie é outro exemplo proeminente. Famosamente usada por muitos aventureiros, como James \"Jim\" Bowie e outros desbravadores, ela também tem o seu apelo."
 
 # game/dialogue/script-ch30-actives.rpy:524
 translate ptbr a11_7adaf727:
