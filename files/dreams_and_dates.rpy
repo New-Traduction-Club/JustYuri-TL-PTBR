@@ -4,19 +4,19 @@
 translate ptbr dates_menu_73ccc00a:
 
     # y "Oh, you want to take me out on a date? What a lovely idea!"
-    y ""
+    y "Ah, você quer me convidar para um encontro? Que ideia adorável! "
 
 # game/dreams_and_dates.rpy:207
 translate ptbr dates_menu_c8a82d26:
 
     # y "Please take a look at the locations I have prepared so far. Do any of them look appealing to you?"
-    y ""
+    y "Por favor, dê uma olhada nos lugares que preparei até agora. Algum deles te parece atraente?"
 
 # game/dreams_and_dates.rpy:394
 translate ptbr rain_dream_f6b43dc3:
 
     # "Lightly pattering against the window, rain slowly started to fall from the clouds above, acting as the only audible sound amidst the general silence."
-    ""
+    "Batendo de leve contra a janela, a chuva começou a cair lentamente, sendo o único som que se ouvia no meio daquele silêncio."
 
 # game/dreams_and_dates.rpy:395
 translate ptbr rain_dream_a18310ec:
