@@ -1,6 +1,5 @@
 ﻿
 ﻿
-
 # game/dialogue/script-ch30-actives.rpy:14
 translate ptbr a1_b962f211:
 
@@ -143,7 +142,7 @@ translate ptbr a1_de77ab61:
 translate ptbr a1_04dea7e7:
 
     # y "... you're truly the greatest friend I could ask for, [player]."
-    y ""...você é mesmo o melhor amigo que eu poderia pedir na vida, [player]."
+    y "...você é mesmo o melhor amigo que eu poderia pedir na vida, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:122
 translate ptbr a1_71a86863_3:
@@ -1061,7 +1060,7 @@ translate ptbr a11_775b183b:
 translate ptbr a11_1705dc32:
 
     # y "The Bowie knife is another prominent example. Famously used among many adventurers such as James \"Jim\" Bowie and other frontiersmen, it too has its appeal."
-    y "A faca Bowie é outro exemplo proeminente. Famosamente usada por muitos aventureiros, como James "Jim" Bowie e outros desbravadores, ela também tem o seu apelo."
+    y "A faca Bowie é outro exemplo proeminente. Famosamente usada por muitos aventureiros, como James \"Jim\" Bowie e outros desbravadores, ela também tem o seu apelo."
 
 # game/dialogue/script-ch30-actives.rpy:524
 translate ptbr a11_7adaf727:
