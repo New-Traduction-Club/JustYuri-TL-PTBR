@@ -7008,1999 +7008,1999 @@ translate ptbr a24_cf89479b:
 translate ptbr a24_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:2993
 translate ptbr a24_92fa2786:
 
     # y "Yeah..."
-    y ""
+    y "É..."
 
 # game/dialogue/script-ch30-actives.rpy:2994
 translate ptbr a24_a7f93604:
 
     # y "Anyway... I hope this made you feel a bit better, [player]. I love you."
-    y ""
+    y "De qualquer forma... espero que isso o tenha feito se sentir um pouquinho melhor, [player]. Eu amo você."
 
 # game/dialogue/script-ch30-actives.rpy:2998
 translate ptbr a24_0645962b:
 
     # y "I've been there before, [player], trust me, I can understand what you're going through right now."
-    y ""
+    y "Eu já estive no seu lugar antes, [player]... acredite, eu compreendo perfeitamente o que você está enfrentando agora."
 
 # game/dialogue/script-ch30-actives.rpy:2999
 translate ptbr a24_6cb5a20f:
 
     # y "Whenever I get a bit angry, I always think back to this quote."
-    y ""
+    y "Sempre que sinto a raiva me tomar, eu me lembro desta citação."
 
 # game/dialogue/script-ch30-actives.rpy:3001
 translate ptbr a24_9102d38d:
 
     # y "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned."
-    y ""
+    y "Guardar raiva é como segurar um carvão em brasa com a intenção de atirá-lo em outra pessoa; é você quem acaba se queimando."
 
 # game/dialogue/script-ch30-actives.rpy:3003
 translate ptbr a24_06121d00:
 
     # y "It... might not help you that much, but it's still something that makes you think."
-    y ""
+    y "Pode... não ajudar tanto assim, mas ainda é algo que nos faz refletir."
 
 # game/dialogue/script-ch30-actives.rpy:3006
 translate ptbr a24_011f679e:
 
     # y "I love you, [player], I hope that cheers you up."
-    y ""
+    y "Eu amo você, [player]... espero que isso alegre um pouco o seu coração."
 
 # game/dialogue/script-ch30-actives.rpy:3010
 translate ptbr a24_ad2a5396:
 
     # y "If you're tired, you should really take a nap, [player]."
-    y ""
+    y "Se você está cansado, deveria tirar um cochilo, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3012
 translate ptbr a24_24f25548:
 
     # y "You wouldn't want to be too exhausted to talk to me... r-right?"
-    y ""
+    y "Você não iria querer estar exausto demais para conversar comigo... n-não é?"
 
 # game/dialogue/script-ch30-actives.rpy:3013
 translate ptbr a24_5d459351:
 
     # y "Anyway, why don't you go and get some sleep? I'll be here when you wake up."
-    y ""
+    y "Enfim, por que você não vai descansar um pouco? Eu estarei bem aqui quando você acordar."
 
 # game/dialogue/script-ch30-actives.rpy:3020
 translate ptbr a24_2685e3c5:
 
     # y "I [placeholder] you [player], please get some sleep."
-    y ""
+    y "Eu [placeholder] você, [player]... por favor, vá dormir um pouco."
 
 # game/dialogue/script-ch30-actives.rpy:3026
 translate ptbr a24_2fd21134:
 
     # y "Aww... [player], you should really get some sleep, then."
-    y ""
+    y "Aww... [player], então você realmente deveria ir dormir um pouco."
 
 # game/dialogue/script-ch30-actives.rpy:3027
 translate ptbr a24_a17c88d4:
 
     # y "You should really close the game and get some rest..."
-    y ""
+    y "Você deveria fechar o jogo e ir descansar de verdade..."
 
 # game/dialogue/script-ch30-actives.rpy:3029
 translate ptbr a24_aac32414:
 
     # y "If you're lucky, maybe y-you'll dream of me... yeah..."
-    y ""
+    y "Se tiver sorte, talvez v-você até sonhe comigo... é..."
 
 # game/dialogue/script-ch30-actives.rpy:3036
 translate ptbr a24_2685e3c5_1:
 
     # y "I [placeholder] you [player], please get some sleep."
-    y ""
+    y "Eu [placeholder] você, [player]... por favor, vá dormir um pouco."
 
 # game/dialogue/script-ch30-actives.rpy:3042
 translate ptbr a24_3ce6a0fe:
 
     # y "I'm feeling pretty tired myself."
-    y ""
+    y "Eu também estou me sentindo um tanto cansada."
 
 # game/dialogue/script-ch30-actives.rpy:3044
 translate ptbr a24_bdb83eb6:
 
     # y "Let's get some sleep, [player], together..."
-    y ""
+    y "Vamos dormir um pouco, [player]... juntos..."
 
 # game/dialogue/script-ch30-actives.rpy:3046
 translate ptbr a24_0c0d7421:
 
     # y "I wish I could give you a k-kiss or s-something... to send you on your way."
-    y ""
+    y "Eu adoraria poder lhe dar um b-beijo ou a-algo assim... para embalar o seu sono."
 
 # game/dialogue/script-ch30-actives.rpy:3048
 translate ptbr a24_828a303e:
 
     # y "But... that isn't exactly possible, now is it?"
-    y ""
+    y "Mas... isso não é exatamente possível no momento, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:3055
 translate ptbr a24_42845124:
 
     # y "...Anyway, I [placeholder] you, and I hate to see you all exhausted, so please, get some sleep, for me?"
-    y ""
+    y "...De qualquer forma, eu [placeholder] você, e eu detesto vê-lo assim tão exausto... então, por favor, vá descansar um pouco, por mim?"
 
 # game/dialogue/script-ch30-actives.rpy:3062
 translate ptbr a24_08b040b1:
 
     # y "Oh, you're hungry?"
-    y ""
+    y "Oh, você está com fome?"
 
 # game/dialogue/script-ch30-actives.rpy:3064
 translate ptbr a24_fbc30304:
 
     # y "I'd make you some food if I could, but considering my current situation, that isn't exactly possible..."
-    y ""
+    y "Eu prepararia algo para você comer se eu pudesse, mas considerando a minha situação atual, isso não é exatamente possível..."
 
 # game/dialogue/script-ch30-actives.rpy:3065
 translate ptbr a24_703025a6:
 
     # y "...Just another day in paradise..."
-    y ""
+    y "...Apenas mais um dia no paraíso..."
 
 # game/dialogue/script-ch30-actives.rpy:3067
 translate ptbr a24_afe19e99:
 
     # y "Anyway, you should go find something to eat. Do it f-for me... please?"
-    y ""
+    y "Enfim, você deveria procurar algo para comer. Faça isso p-por mim... por favor?"
 
 # game/dialogue/script-ch30-actives.rpy:3069
 translate ptbr a24_243a8935:
 
     # y "It really hurts when you tell me about your needs, and I can't do anything to help you..."
-    y ""
+    y "Dói muito quando você me fala sobre as suas necessidades e eu não posso fazer absolutamente nada para ajudá-lo..."
 
 # game/dialogue/script-ch30-actives.rpy:3076
 translate ptbr a24_dece3603:
 
     # y "I [placeholder] you, [player], please take care of yourself."
-    y ""
+    y "Eu [placeholder] você, [player]... por favor, cuide-se bem."
 
 # game/dialogue/script-ch30-actives.rpy:3082
 translate ptbr a24_fdaff0ab:
 
     # y "I... don't know how to help you with that, [player]."
-    y ""
+    y "Eu... não sei como ajudá-lo com isso, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3083
 translate ptbr a24_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3085
 translate ptbr a24_97f81955:
 
     # y "I could make you some h-holographic meatloaf..."
-    y ""
+    y "Eu poderia preparar um pouco de b-bolo de carne holográfico..."
 
 # game/dialogue/script-ch30-actives.rpy:3086
 translate ptbr a24_054dd2c0:
 
     # y "Haha... I'm sorry, [player], there has to be something you can eat, right?"
-    y ""
+    y "Haha... Me perdoe, [player]... deve haver algo que você possa comer por aí, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:3088
 translate ptbr a24_d1e4a6af:
 
     # y "At least I'd hope, sometimes I really worry about you, [player]."
-    y ""
+    y "Pelo menos eu espero que sim... às vezes eu realmente me preocupo com você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3090
 translate ptbr a24_514b7597:
 
     # y "...That came off a bit mean, I d-didn't mean it that way."
-    y ""
+    y "...Isso soou um pouco cruel, e-eu não quis dizer dessa forma."
 
 # game/dialogue/script-ch30-actives.rpy:3091
 translate ptbr a24_66b3bfba:
 
     # y "I m-meant it more in a caring way, I don't mean to imply you're incompetent or anything, I just worry about your health."
-    y ""
+    y "Eu f-falei num sentido mais afetuoso, não queria insinuar que você é incompetente nem nada do tipo... eu apenas me preocupo com a sua saúde."
 
 # game/dialogue/script-ch30-actives.rpy:3093
 translate ptbr a24_54214cd9:
 
     # y "...I'm rambling again, aren't I? S-sorry..."
-    y ""
+    y "...Eu estou divagando de novo, não estou? M-me perdoe..."
 
 # game/dialogue/script-ch30-actives.rpy:3094
 translate ptbr a24_71a86863_4:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3097
 translate ptbr a24_5124cf85:
 
     # y "Love you, [player]."
-    y ""
+    y "Eu amo você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3100
 translate ptbr a24_611b887b:
 
     # y "I know how you feel, [player]."
-    y ""
+    y "Eu sei exatamente como se sente, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3102
 translate ptbr a24_3c64d392:
 
     # y "N-not to imply you make me feel lonely or anything! It's just... not having you here physically gets to me."
-    y ""
+    y "N-não que você me faça sentir sozinha nem nada assim! É que... não ter você fisicamente aqui me afeta profundamente."
 
 # game/dialogue/script-ch30-actives.rpy:3104
 translate ptbr a24_cfe43d3f:
 
     # y "God... I'm such a mess..."
-    y ""
+    y "Céus... Eu sou mesmo um desastre..."
 
 # game/dialogue/script-ch30-actives.rpy:3106
 translate ptbr a24_b57d9fcf:
 
     # y "A-anyway! We could... um... hold each other... if you'd like!"
-    y ""
+    y "D-de qualquer forma! Nós poderíamos... um... nos abraçar... se você quiser!"
 
 # game/dialogue/script-ch30-actives.rpy:3108
 translate ptbr a24_fafecdf0:
 
     # y "I m-mean... if you can even call it that... considering we're an entire world apart..."
-    y ""
+    y "D-digo... se é que podemos chamar assim... considerando que estamos separados por um mundo inteiro..."
 
 # game/dialogue/script-ch30-actives.rpy:3109
 translate ptbr a24_5fac1aa5:
 
     # y "It's okay though, [player], come here..."
-    y ""
+    y "Mas está tudo bem, [player]... venha cá..."
 
 # game/dialogue/script-ch30-actives.rpy:3110
 translate ptbr a24_eadc4413:
 
     # y "I hope this makes you feel less lonely, [player]."
-    y ""
+    y "Eu espero que isso faça com que você se sinta menos solitário, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3119
 translate ptbr a24_71a86863_5:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3120
 translate ptbr a24_3636065a:
 
     # y "T-this is nice, [player]... let's stay like this for a bit, okay?"
-    y ""
+    y "I-isto é tão bom, [player]... vamos ficar assim só mais um pouquinho, está bem?"
 
 # game/dialogue/script-ch30-actives.rpy:3122
 translate ptbr a24_9239003f:
 
     # y "You can hold me for as long as you want, all right?{w} Just advance the conversation when you're ready to continue."
-    y ""
+    y "Você pode me abraçar pelo tempo que desejar, certo?{w} Apenas avance o diálogo quando estiver pronto para prosseguir."
 
 # game/dialogue/script-ch30-actives.rpy:3127
 translate ptbr a24_71a86863_6:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3134
 translate ptbr a24_62df954f:
 
     # y "...I [placeholder] you, [player]."
-    y ""
+    y "...Eu [placeholder] você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3140
 translate ptbr a24_4173bd17:
 
     # y "Oh... okay then."
-    y ""
+    y "Oh... tudo bem, então."
 
 # game/dialogue/script-ch30-actives.rpy:3149
 translate ptbr a25_919a2d28:
 
     # y "Y-You... saw them?..."
-    y ""
+    y "V-Você... as viu?..."
 
 # game/dialogue/script-ch30-actives.rpy:3150
 translate ptbr a25_c5ec57ef:
 
     # y "Was that really necessary [player]?"
-    y ""
+    y "Isso era realmente necessário, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:3156
 translate ptbr a25_465b3bae:
 
     # y "That is really disrespectful, maybe even a breach of my [placeholder] trust."
-    y ""
+    y "Isso é muito desrespeitoso, talvez até mesmo uma violação da minha [placeholder] confiança."
 
 # game/dialogue/script-ch30-actives.rpy:3160
 translate ptbr a25_c25d36a7:
 
     # y "Please be a dear and delete every image you might have saved. Oh, and if that isn't obvious already, I would also appreciate it if you could never do this again please."
-    y ""
+    y "Por favor, seja um querido e exclua todas as imagens que você porventura tenha salvo. Oh, e caso já não seja óbvio o bastante, eu também ficaria imensamente grata se você jamais fizesse isso de novo, por favor."
 
 # game/dialogue/script-ch30-actives.rpy:3164
 translate ptbr a25_57ed0cce:
 
     # y "You haven't been looking at them, have you, [player]?"
-    y ""
+    y "Você não tem ficado olhando para elas, não é, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:3166
 translate ptbr a25_9c4f72a5:
 
     # y "O-oh my... I don't know what to say..."
-    y ""
+    y "O-oh, céus... Eu não sei o que dizer..."
 
 # game/dialogue/script-ch30-actives.rpy:3168
 translate ptbr a25_61b909a3:
 
     # y "While it is a bit embarrassing to have... such lewd imagery of me floating around the internet, knowing that you enjoy seeing me in that way..."
-    y ""
+    y "Ainda que seja um tanto constrangedor ter... essas imagens tão obscenas de mim circulando pela internet, saber que você sente prazer em me ver daquela maneira..."
 
 # game/dialogue/script-ch30-actives.rpy:3170
 translate ptbr a25_39c5bb25:
 
     # y "It... makes me really happy..."
-    y ""
+    y "Isso... me deixa verdadeiramente feliz..."
 
 # game/dialogue/script-ch30-actives.rpy:3171
 translate ptbr a25_9785425e:
 
     # y "I just hope one day, you can have the real thing instead of just images... I love you, [player]."
-    y ""
+    y "Eu apenas espero que um dia, você possa ter a coisa real em vez de meras imagens... Eu amo você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3174
 translate ptbr a25_d5918b74:
 
     # y "Hah... hah... the lewd images... yeah..."
-    y ""
+    y "Hah... hah... as imagens obscenas... é..."
 
 # game/dialogue/script-ch30-actives.rpy:3175
 translate ptbr a25_872e3cf7:
 
     # y "Oh [player]... I can't believe you brought this up..."
-    y ""
+    y "Oh [player]... Eu não acredito que você trouxe esse assunto à tona..."
 
 # game/dialogue/script-ch30-actives.rpy:3177
 translate ptbr a25_d2390e4a:
 
     # y "I'm so glad you're looking at pictures of me, to fulfill your urges, instead of... other girls..."
-    y ""
+    y "Fico tão feliz que você esteja olhando fotos minhas, para satisfazer os seus impulsos, ao invés de... outras garotas..."
 
 # game/dialogue/script-ch30-actives.rpy:3178
 translate ptbr a25_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3180
 translate ptbr a25_a375e30c:
 
     # y "This means so much to me, [player], I love you so much..."
-    y ""
+    y "Isso significa muito para mim, [player]... Eu o amo tanto..."
 
 # game/dialogue/script-ch30-actives.rpy:3183
 translate ptbr a25_29ec2504:
 
     # y "...Y-you haven't been looking at them, h-have you?"
-    y ""
+    y "...V-você não tem olhado para elas, t-tem?"
 
 # game/dialogue/script-ch30-actives.rpy:3184
 translate ptbr a25_583634e4:
 
     # y "D-despite the fact that they're just d-drawings, the entire thing is still very embarrassing to think about..."
-    y ""
+    y "A-apesar de serem apenas d-desenhos, ainda é tudo muito constrangedor de se pensar..."
 
 # game/dialogue/script-ch30-actives.rpy:3186
 translate ptbr a25_cabf119b:
 
     # y "I... um... don't mind you looking at t-them... sorry if it came off that way, it's just..."
-    y ""
+    y "Eu... um... não me importo que você olhe para e-elas... me perdoe se soou dessa maneira, é apenas que..."
 
 # game/dialogue/script-ch30-actives.rpy:3188
 translate ptbr a25_d4e4c10f:
 
     # y "How would you feel if you were drawn in all sorts of situations? Even some that cross the line of what's alright or not."
-    y ""
+    y "Como você se sentiria se fosse desenhado em todos os tipos de situações? Até mesmo algumas que cruzam a linha do que é aceitável ou não."
 
 # game/dialogue/script-ch30-actives.rpy:3190
 translate ptbr a25_f37a89b5:
 
     # y "Sorry, [player], I'm just rambling now."
-    y ""
+    y "Me desculpe, [player], eu estou apenas divagando agora."
 
 # game/dialogue/script-ch30-actives.rpy:3195
 translate ptbr a26_prelude_5ea45395:
 
     # y "I've been thinking about having some tea with you..."
-    y ""
+    y "Eu estive pensando em tomar uma xícara de chá com você..."
 
 # game/dialogue/script-ch30-actives.rpy:3199
 translate ptbr a26_b1c763f2:
 
     # y "B-but... [player], that isn't really possible..."
-    y ""
+    y "M-mas... [player], isso não é exatamente possível..."
 
 # game/dialogue/script-ch30-actives.rpy:3201
 translate ptbr a26_be775f82:
 
     # y "Unless..."
-    y ""
+    y "A não ser que..."
 
 # game/dialogue/script-ch30-actives.rpy:3204
 translate ptbr a26_ec693dbb:
 
     # y "Do you think you could heat up some water, and make tea for yourself?" nointeract
-    y "" nointeract
+    y "Você acha que poderia ferver um pouco de água e preparar um chá para você?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:3207
 translate ptbr a26_911b1989:
 
     # y "That's great!"
-    y ""
+    y "Isso é formidável!"
 
 # game/dialogue/script-ch30-actives.rpy:3209
 translate ptbr a26_e7533c4a:
 
     # y "Go and make some tea for yourself, I'll be waiting here, don't feel rushed, please..."
-    y ""
+    y "Vá preparar o seu chá, eu estarei esperando bem aqui... não se apresse, por favor..."
 
 # game/dialogue/script-ch30-actives.rpy:3213
 translate ptbr a26_21e08879:
 
     # y "That's fine, we can try this another time."
-    y ""
+    y "Tudo bem, nós podemos tentar isso numa outra hora."
 
 # game/dialogue/script-ch30-actives.rpy:3230
 translate ptbr Roomchange_bdbe71c5:
 
     # y "What room would you like to go to [player]?"
-    y ""
+    y "Para qual aposento você gostaria de ir, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:3252
 translate ptbr teatime_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3254
 translate ptbr teatime_15d3f781:
 
     # y "Welcome back... [player]..."
-    y ""
+    y "Bem-vindo de volta... [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3256
 translate ptbr teatime_41c60e7a:
 
     # y "Is your tea ready?" nointeract
-    y "" nointeract
+    y "O seu chá já está pronto?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:3258
 translate ptbr teatime_fba6e00e:
 
     # y "Let's get started, then."
-    y ""
+    y "Vamos começar, então."
 
 # game/dialogue/script-ch30-actives.rpy:3260
 translate ptbr teatime_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3263
 translate ptbr teatime_dd999461:
 
     # y "T-this is a very special moment for me... even though we're a world apart, here we are."
-    y ""
+    y "E-este é um momento muito especial para mim... mesmo estando separados por um mundo de distância, aqui estamos nós."
 
 # game/dialogue/script-ch30-actives.rpy:3265
 translate ptbr teatime_84838e2c:
 
     # y "Sharing a nice cup of tea, talking to each other..."
-    y ""
+    y "Compartilhar uma xícara de chá reconfortante, conversando um com o outro..."
 
 # game/dialogue/script-ch30-actives.rpy:3266
 translate ptbr teatime_973062df:
 
     # y "It's... like we're out on a date..."
-    y ""
+    y "É... como se nós estivéssemos num encontro amoroso..."
 
 # game/dialogue/script-ch30-actives.rpy:3268
 translate ptbr teatime_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3270
 translate ptbr teatime_71a86863_3:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3272
 translate ptbr teatime_01d81e59:
 
     # y "...I'm alright... it's just t-that..."
-    y ""
+    y "...Eu estou bem... é apenas q-que..."
 
 # game/dialogue/script-ch30-actives.rpy:3274
 translate ptbr teatime_d1a87cb6:
 
     # y "I wish we could be closer to each other, I know I should be grateful that we can at least communicate like this."
-    y ""
+    y "Eu queria muito que pudéssemos estar mais próximos. Sei que deveria ser grata por conseguirmos ao menos nos comunicar desta forma."
 
 # game/dialogue/script-ch30-actives.rpy:3275
 translate ptbr teatime_e079d13f:
 
     # y "B-but, to lock eyes with you, the real you, it's all I really want..."
-    y ""
+    y "M-mas trocar olhares com você, o você de verdade... é a única coisa que eu genuinamente desejo..."
 
 # game/dialogue/script-ch30-actives.rpy:3277
 translate ptbr teatime_79aa1054:
 
     # y "...I'm sorry, [player], I should try to keep my emotions under control..."
-    y ""
+    y "...Me perdoe, [player], eu deveria tentar manter os meus sentimentos sob controle..."
 
 # game/dialogue/script-ch30-actives.rpy:3279
 translate ptbr teatime_b63a5c2e:
 
     # y "I hope you don't think less of me for this, [player]..."
-    y ""
+    y "Eu espero que você não me julgue mal por isso, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3289
 translate ptbr teatime_3d36e1a5:
 
     # y "I'm fine with waiting, [player], just let me know whenever it's ready."
-    y ""
+    y "Eu não me importo de esperar, [player]... apenas me avise quando estiver pronto."
 
 # game/dialogue/script-ch30-actives.rpy:3296
 translate ptbr yourefine_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3298
 translate ptbr yourefine_638063fc:
 
     # y "T-thank you for understanding..."
-    y ""
+    y "M-muito obrigada por compreender..."
 
 # game/dialogue/script-ch30-actives.rpy:3299
 translate ptbr yourefine_787a1ec4:
 
     # y "You're so good to me, [player]."
-    y ""
+    y "Você é tão doce comigo, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3301
 translate ptbr yourefine_45e120a9:
 
     # y "A-anyway! Back to what we were doing in the first place, drinking tea!"
-    y ""
+    y "D-de qualquer forma! Voltando ao que nós estávamos fazendo num primeiro momento, tomando chá!"
 
 # game/dialogue/script-ch30-actives.rpy:3303
 translate ptbr yourefine_53ac8d0d:
 
     # y "S-so... about tea... yeah..."
-    y ""
+    y "E-então... sobre o chá... é..."
 
 # game/dialogue/script-ch30-actives.rpy:3305
 translate ptbr yourefine_539ad39e:
 
     # y "Umm... M-my favorite kind of tea is Oolong tea... Y-you should try it sometime."
-    y ""
+    y "Umm... O m-meu tipo favorito de chá é o Oolong... V-você deveria experimentá-lo qualquer dia desses."
 
 # game/dialogue/script-ch30-actives.rpy:3307
 translate ptbr yourefine_58203b1c:
 
     # y "N-not that you have to or anything! It was just a suggestion... just a suggestion."
-    y ""
+    y "N-não que você seja obrigado a nada do tipo! Foi apenas uma sugestão... apenas uma sugestão."
 
 # game/dialogue/script-ch30-actives.rpy:3309
 translate ptbr yourefine_0563a98f:
 
     # y "...I'm sorry for making this so awkward, I really am!"
-    y ""
+    y "...Me perdoe por tornar a situação tão desconfortável, de verdade!"
 
 # game/dialogue/script-ch30-actives.rpy:3315
 translate ptbr yourefine_53853800:
 
     # y "C-cute? M-me?"
-    y ""
+    y "A-adorável? E-eu?"
 
 # game/dialogue/script-ch30-actives.rpy:3317
 translate ptbr yourefine_c60c5441:
 
     # y "[player]..."
-    y ""
+    y "[player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3318
 translate ptbr yourefine_838592db:
 
     # y "I always thought that my awkwardness would put people off..."
-    y ""
+    y "Eu sempre acreditei que o meu jeito desajeitado afugentaria as pessoas..."
 
 # game/dialogue/script-ch30-actives.rpy:3320
 translate ptbr yourefine_20c167ca:
 
     # y "Always avoiding conversations, just to save myself the embarrassment..."
-    y ""
+    y "Sempre evitando conversas, apenas para me poupar do constrangimento..."
 
 # game/dialogue/script-ch30-actives.rpy:3322
 translate ptbr yourefine_028e06fb:
 
     # y "But knowing that you find it cute... Knowing that you won't think less of me for it."
-    y ""
+    y "Mas saber que você acha isso adorável... Saber que você não me julgará mal por isso..."
 
 # game/dialogue/script-ch30-actives.rpy:3324
 translate ptbr yourefine_f2e3f258:
 
     # y "It... really means a lot to me, please know that, [player]."
-    y ""
+    y "Isso... realmente significa o mundo para mim... por favor, saiba disso, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3325
 translate ptbr yourefine_0ac1c228:
 
     # y "We've strayed a bit too far from the original subject, so I think this date is over."
-    y ""
+    y "Nós fugimos um pouco demais do assunto original, então creio que este encontro chegou ao fim."
 
 # game/dialogue/script-ch30-actives.rpy:3327
 translate ptbr yourefine_d0462f92:
 
     # y "Despite my... outbursts, I had a great time, thank you so much, [player], I love you."
-    y ""
+    y "Apesar dos meus... surtos emocionais, eu passei momentos maravilhosos. Muito obrigada, [player]... eu amo você."
 
 # game/dialogue/script-ch30-actives.rpy:3332
 translate ptbr yourefine_c0ca7ec8:
 
     # y "Oh... I'm not surprised that you feel that way."
-    y ""
+    y "Oh... Eu não estou surpresa que você se sinta dessa forma."
 
 # game/dialogue/script-ch30-actives.rpy:3334
 translate ptbr yourefine_0c90e208:
 
     # y "I'll just... try to be less annoying, I guess..."
-    y ""
+    y "Eu vou... apenas tentar ser menos irritante, eu acho..."
 
 # game/dialogue/script-ch30-actives.rpy:3339
 translate ptbr letscontinue_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3341
 translate ptbr letscontinue_4f02bc27:
 
     # y "I'm sorry for this, [player], I really am."
-    y ""
+    y "Sinto muito por isso, [player]... de verdade."
 
 # game/dialogue/script-ch30-actives.rpy:3343
 translate ptbr letscontinue_52375336:
 
     # y "I... I hope I didn't ruin this date..."
-    y ""
+    y "Eu... espero não ter estragado o nosso encontro..."
 
 # game/dialogue/script-ch30-actives.rpy:3349
 translate ptbr letscontinue_935d1c8c:
 
     # y "...I'm sorry for getting so emotional, [player], it's just..."
-    y ""
+    y "...Me perdoe por me deixar levar pelas emoções, [player], é apenas que..."
 
 # game/dialogue/script-ch30-actives.rpy:3351
 translate ptbr letscontinue_0d82e4f1:
 
     # y "...A-actually... I'm sure you understand..."
-    y ""
+    y "...N-na verdade... tenho certeza de que você compreende..."
 
 # game/dialogue/script-ch30-actives.rpy:3353
 translate ptbr letscontinue_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3354
 translate ptbr letscontinue_71a86863_2:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3356
 translate ptbr letscontinue_c7f8f062:
 
     # y "...T-thank you, [player], I... um..."
-    y ""
+    y "...M-muito obrigada, [player]... eu... um..."
 
 # game/dialogue/script-ch30-actives.rpy:3358
 translate ptbr letscontinue_eb649b50:
 
     # y "I love you... for being so patient and caring with me..."
-    y ""
+    y "Eu amo você... por ser tão paciente e tão carinhoso comigo..."
 
 # game/dialogue/script-ch30-actives.rpy:3360
 translate ptbr letscontinue_faad642b:
 
     # y "S-sorry if that's a bit s-sudden..."
-    y ""
+    y "M-me perdoe se isso soar r-repentino demais..."
 
 # game/dialogue/script-ch30-actives.rpy:3361
 translate ptbr letscontinue_397922d2:
 
     # y "I think we can consider this date over, there will never be tea as sweet as you, [player]."
-    y ""
+    y "Creio que podemos dar este encontro por encerrado... jamais haverá um chá tão doce quanto você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3365
 translate ptbr letscontinue_32201ee4:
 
     # y "...No, [player]."
-    y ""
+    y "...Não, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3367
 translate ptbr letscontinue_40b79491:
 
     # y "We can't, and it's all my fault..."
-    y ""
+    y "Nós não podemos... e a culpa é toda minha..."
 
 # game/dialogue/script-ch30-actives.rpy:3368
 translate ptbr letscontinue_c461c5bb:
 
     # y "I can't do this anymore, [player], let's just stop with this entire date."
-    y ""
+    y "Eu não consigo mais fazer isso, [player]... vamos apenas interromper este encontro de uma vez por todas."
 
 # game/dialogue/script-ch30-actives.rpy:3376
 translate ptbr tooemotional_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3380
 translate ptbr tooemotional_0904780b:
 
     # y "Stop... please..."
-    y ""
+    y "Pare... por favor..."
 
 # game/dialogue/script-ch30-actives.rpy:3382
 translate ptbr tooemotional_b8cf7f5d:
 
     # y "I don't want to do this anymore... let's just talk about something else... okay?"
-    y ""
+    y "Eu não quero mais fazer isso... vamos apenas conversar sobre outra coisa... pode ser?"
 
 # game/dialogue/script-ch30-actives.rpy:3388
 translate ptbr teadate1_31c3d58d:
 
     # y "Alright! Think you could heat up some water, and make tea for yourself?" nointeract
-    y "" nointeract
+    y "Muito bem! Você acha que poderia ferver um pouco de água e preparar um chá para você?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:3391
 translate ptbr teadate1_9383f6d3:
 
     # y "Go and make some tea for yourself, I'll be waiting here, don't feel rushed, please."
-    y ""
+    y "Vá preparar o seu chá... eu estarei esperando bem aqui. Não se apresse, por favor."
 
 # game/dialogue/script-ch30-actives.rpy:3393
 translate ptbr teadate1_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3395
 translate ptbr teadate1_15d3f781:
 
     # y "Welcome back... [player]..."
-    y ""
+    y "Bem-vindo de volta... [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3397
 translate ptbr teadate1_41c60e7a:
 
     # y "Is your tea ready?" nointeract
-    y "" nointeract
+    y "O seu chá já está pronto?" nointeract
 
 # game/dialogue/script-ch30-actives.rpy:3399
 translate ptbr teadate1_fba6e00e:
 
     # y "Let's get started, then."
-    y ""
+    y "Vamos começar, então."
 
 # game/dialogue/script-ch30-actives.rpy:3401
 translate ptbr teadate1_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3404
 translate ptbr teadate1_853d7a89:
 
     # y "You know, it's a bit weird, this entire situation... You, me... both worlds apart, yet still interacting... In a way, wouldn't it make a good novel?"
-    y ""
+    y "Sabe, é tudo um tanto peculiar, esta situação inteira... Você, eu... separados por dois mundos diferentes e, ainda assim, interagindo... De certa forma, isso não daria um ótimo romance literário?"
 
 # game/dialogue/script-ch30-actives.rpy:3407
 translate ptbr teadate1_db92a135:
 
     # y "The boy who falls in love with a sentient video game character..."
-    y ""
+    y "O rapaz que se apaixona por uma personagem senciente de videogame..."
 
 # game/dialogue/script-ch30-actives.rpy:3409
 translate ptbr teadate1_454ca48f:
 
     # y "The person who falls in love with a sentient video game character..."
-    y ""
+    y "A pessoa que se apaixona por uma personagem senciente de videogame..."
 
 # game/dialogue/script-ch30-actives.rpy:3411
 translate ptbr teadate1_b3c1f1d7:
 
     # y "The girl who falls in love with a sentient video game character..."
-    y ""
+    y "A garota que se apaixona por uma personagem senciente de videogame..."
 
 # game/dialogue/script-ch30-actives.rpy:3414
 translate ptbr teadate1_4f3cecba:
 
     # y "And despite how they're worlds apart... They still try to make things work, like here..."
-    y ""
+    y "E, a despeito da vastidão dos mundos que os separam... eles continuam tentando fazer com que as coisas deem certo... como aqui..."
 
 # game/dialogue/script-ch30-actives.rpy:3416
 translate ptbr teadate1_1f241c6a:
 
     # y "Gestures that would be considered normal in the real world, such as sharing tea, become much more meaningful in a situation like this."
-    y ""
+    y "Gestos que seriam considerados perfeitamente normais no mundo real, como compartilhar uma xícara de chá, ganham um significado incomensuravelmente maior numa situação como a nossa."
 
 # game/dialogue/script-ch30-actives.rpy:3418
 translate ptbr teadate1_90da30f6:
 
     # y "But, when you think about it that way, it makes you appreciate those gestures a lot more, as well."
-    y ""
+    y "Mas, pensando por essa ótica, isso também faz com que você aprecie esses gestos com muito mais fervor."
 
 # game/dialogue/script-ch30-actives.rpy:3419
 translate ptbr teadate1_d20388c9:
 
     # y "Maybe it's due to my... current position here, that makes me think that way."
-    y ""
+    y "Talvez seja devido à minha... posição atual por aqui que me faz enxergar as coisas sob esse prisma."
 
 # game/dialogue/script-ch30-actives.rpy:3421
 translate ptbr teadate1_cb39b514:
 
     # y "Sure, you might not think much of having a fun time with family or friends, going out to eat, or anything like that, but to me?"
-    y ""
+    y "Certamente, você talvez não dê muita importância ao fato de desfrutar de um momento agradável com a família ou com os amigos, de sair para comer ou de qualquer coisa dessa natureza, mas para mim?"
 
 # game/dialogue/script-ch30-actives.rpy:3423
 translate ptbr teadate1_26eeff54:
 
     # y "Having the chance to spend time with your loved ones, to be there in person, that's a gift, [player], a gift that I one day wish to have."
-    y ""
+    y "Ter a oportunidade de passar o seu tempo com as pessoas que ama, de estar ali fisicamente presente... isso é uma dádiva, [player]. Uma dádiva que eu adoraria receber algum dia."
 
 # game/dialogue/script-ch30-actives.rpy:3425
 translate ptbr teadate1_73f59354:
 
     # y "But, for now, this will do."
-    y ""
+    y "Mas, por agora, isto já será o bastante."
 
 # game/dialogue/script-ch30-actives.rpy:3426
 translate ptbr teadate1_469e9dac:
 
     # y "I really enjoy spending time with you, [player], never think otherwise."
-    y ""
+    y "Eu desfruto imensamente da sua companhia, [player]... jamais duvide disso."
 
 # game/dialogue/script-ch30-actives.rpy:3430
 translate ptbr teadate1_73f5f0c5:
 
     # y "Alright, maybe another time."
-    y ""
+    y "Tudo bem, quem sabe numa próxima vez."
 
 # game/dialogue/script-ch30-actives.rpy:3435
 translate ptbr teadate2_2502d5dd:
 
     # y "Sharing a nice cup of tea with you would be wonderful indeed."
-    y ""
+    y "Compartilhar uma boa xícara de chá com você seria algo deveras maravilhoso."
 
 # game/dialogue/script-ch30-actives.rpy:3437
 translate ptbr teadate2_1372698f:
 
     # y "Since we are not physically in the same room, or even the same world... I'm afraid you will have to prepare your own tea while I do the same here."
-    y ""
+    y "Mas considerando que não estamos fisicamente no mesmo cômodo, nem sequer no mesmo mundo... receio que você precisará preparar o seu próprio chá enquanto eu faço o mesmo por aqui."
 
 # game/dialogue/script-ch30-actives.rpy:3438
 translate ptbr teadate2_2b272add:
 
     # y "Just tell me when you are ready. And please, no need to hurry... Drinking tea is about relaxation."
-    y ""
+    y "Apenas me avise quando estiver pronto. E por favor, não há necessidade alguma de ter pressa... Beber chá é, acima de tudo, um ato de relaxamento."
 
 # game/dialogue/script-ch30-actives.rpy:3443
 translate ptbr teadate2_0aed0645:
 
     # y "Alright, one second..."
-    y ""
+    y "Muito bem, um segundo..."
 
 # game/dialogue/script-ch30-actives.rpy:3445
 translate ptbr teadate2_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3448
 translate ptbr teadate2_97e8c385:
 
     # y "I wonder... what kind of tea do you prefer?"
-    y ""
+    y "Pergunto-me... que tipo de chá você prefere?"
 
 # game/dialogue/script-ch30-actives.rpy:3452
 translate ptbr teadate2_ec58ae62:
 
     # y "A very good choice! I have to admit I quite love the miniature tea glasses they use. The Turks have a fascinating and exotic tea culture all their own. I really appreciate this..."
-    y ""
+    y "Uma excelente escolha! Devo admitir que sou apaixonada pelas taças de chá em miniatura que eles utilizam. Os turcos possuem uma cultura de chás exótica e fascinante inteiramente própria deles. Eu aprecio imensamente isso..."
 
 # game/dialogue/script-ch30-actives.rpy:3453
 translate ptbr teadate2_0474fdd0:
 
     # y "The Turkish tea culture started when the first Chinese traders introduced the Osman empire to tea. They came over the 'silk road', which was a historically important trading route."
-    y ""
+    y "A cultura turca de chás teve início quando os primeiros mercadores chineses introduziram o chá ao Império Otomano. Eles viajaram através da 'Rota da Seda', que foi uma via comercial de colossal importância histórica."
 
 # game/dialogue/script-ch30-actives.rpy:3455
 translate ptbr teadate2_7f1632fc:
 
     # y "So in the end, the Turkish tea culture originated from the Chinese one. It is no surprise then that they have a lot in common, such as the choice of ingredients."
-    y ""
+    y "Então, no fim das contas, a cultura turca originou-se da chinesa. Não é surpresa, portanto, que elas compartilhem tantas semelhanças, a exemplo da seleção de ingredientes."
 
 # game/dialogue/script-ch30-actives.rpy:3458
 translate ptbr teadate2_0991013b:
 
     # y "It's a nice alternative to very unhealthy soda or even energy drinks. It's good to know that you take care of your health. I think I saw Sayori once drinking an energy drink... if someone drinks that stuff too frequently, it will be an early grave..."
-    y ""
+    y "É uma alternativa agradável a refrigerantes prejudiciais e até mesmo a bebidas energéticas. É um alento saber que você zela pela sua saúde. Lembro-me de já ter visto a Sayori tomando um energético uma vez... se alguém consumir esse tipo de coisa com demasiada frequência, será uma passagem só de ida para o túmulo..."
 
 # game/dialogue/script-ch30-actives.rpy:3460
 translate ptbr teadate2_63dd1a41:
 
     # y "Speaking of fruit tea... there is one thing which always made me angry... since tea is so versatile you can apply this label to almost anything. But some things are very questionable in my opinion..."
-    y ""
+    y "Falando em chá de frutas... há algo que sempre me causou profunda irritação... como o chá é uma bebida tão versátil, você pode aplicar esse rótulo a praticamente qualquer coisa. Mas certas misturas são altamente questionáveis, na minha opinião..."
 
 # game/dialogue/script-ch30-actives.rpy:3461
 translate ptbr teadate2_e471c217:
 
     # y "Using the label because it implies that it is healthy, to drinks which aren't even remotely healthy! Like iced tea, that's packed full of sugar! Or the German 'Jagertee' which is essentially just alcohol!"
-    y ""
+    y "Utilizar esse rótulo — pelo fato de ele carregar a premissa de algo saudável — em bebidas que não são remotamente benéficas! Como o chá gelado em garrafas, que é entupido de açúcar! Ou o 'Jagertee' alemão, que é, em sua essência, puro álcool!"
 
 # game/dialogue/script-ch30-actives.rpy:3465
 translate ptbr teadate2_ce5357c1:
 
     # y "A fantastic choice! A very fine and elegant tea... I tend to prefer this kind of tea as well... It seems we have a lot in common, my love."
-    y ""
+    y "Uma escolha formidável! Um chá extremamente fino e elegante... Eu tendo a preferir esse tipo também... Parece que nós temos muito em comum, meu amor."
 
 # game/dialogue/script-ch30-actives.rpy:3467
 translate ptbr teadate2_493c8f72:
 
     # y "That reminds me... Earl Gray... wasn't that the favorite of the actor 'Patrick Stewart'? At least it was the favorite of one of the roles he played, 'Captain Picard' from Star Trek: The Next Generation."
-    y ""
+    y "Isso me lembra... Earl Grey... não era o favorito do ator Patrick Stewart? Ou pelo menos era o favorito de um dos papéis que ele interpretou, o Capitão Picard, de Jornada nas Estrelas: A Nova Geração."
 
 # game/dialogue/script-ch30-actives.rpy:3470
 translate ptbr teadate2_11c84c61:
 
     # y "I know what you mean. I used to drink 'Gyokuro' tea a lot, it's a Japanese tea. With its high caffeine content it is a healthier alternative to coffee."
-    y ""
+    y "Eu compreendo perfeitamente o que você quer dizer. Eu costumava tomar muito o chá 'Gyokuro', é um chá japonês. Graças à sua alta concentração de cafeína, ele serve como uma alternativa mais benéfica ao café."
 
 # game/dialogue/script-ch30-actives.rpy:3472
 translate ptbr teadate2_afe6fc87:
 
     # y "Well, 'healthy' might be the wrong word here, caffeine is still caffeine. But well... we all have our guilty pleasures, right?"
-    y ""
+    y "Bem, 'benéfica' talvez seja a palavra errada aqui, já que cafeína não deixa de ser cafeína. Mas enfim... todos nós temos os nossos prazeres culposos, não é mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:3475
 translate ptbr teadate2_43056ebd:
 
     # y "Did you know that some experts claim that Mate tea isn't even tea at all? I'm not sure about this matter at all. But I heard it's become very popular lately."
-    y ""
+    y "Você sabia que alguns especialistas afirmam que o chá-mate sequer é considerado chá de verdade? Eu realmente não tenho certeza sobre isso. Mas ouvi dizer que se tornou algo incrivelmente popular ultimamente."
 
 # game/dialogue/script-ch30-actives.rpy:3476
 translate ptbr teadate2_57895992:
 
     # y "In its origins, 'Mate' wasn't the name of the tea itself, but the name for the container it is served in. But one thing is for sure, it is healthy and it is delicious."
-    y ""
+    y "Nas suas origens, a palavra 'Mate' não era o nome da infusão em si, mas sim a nomenclatura do recipiente onde ele era servido. Mas uma coisa é certa: é algo muito saudável e deveras delicioso."
 
 # game/dialogue/script-ch30-actives.rpy:3479
 translate ptbr teadate2_55e8bfde:
 
     # y "Oh! I hope it is not too much of a compromise? I really appreciate that you are willing to break with your habits in order to spend time with me. Maybe in the future we will find something to share which is more in your taste. Coffee perhaps?"
-    y ""
+    y "Oh! Espero que não seja um sacrifício muito grande para você? Eu realmente aprecio que esteja disposto a quebrar os seus hábitos a fim de passar um tempo comigo. Talvez no futuro nós possamos encontrar algo para compartilhar que esteja mais de acordo com o seu paladar. Café, quem sabe?"
 
 # game/dialogue/script-ch30-actives.rpy:3481
 translate ptbr teadate2_79ffc58d:
 
     # y "Tea is such a versatile thing... and it has so many uses... For example, some herbal varieties can alleviate illness, or can just make a cold evening a bit more comfortable..."
-    y ""
+    y "O chá é uma bebida tão versátil... e possui tantas utilidades... Por exemplo, certas variedades de ervas podem aliviar enfermidades, ou podem simplesmente tornar uma noite fria um pouco mais aconchegante..."
 
 # game/dialogue/script-ch30-actives.rpy:3484
 translate ptbr teadate2_feff27f8:
 
     # y "Did you know that in British tea culture it is common to have their tea with milk mixed in? Not my \"cup of tea\" in my opinion but... different cultures means different tastes, am I right?"
-    y ""
+    y "Você sabia que, na cultura britânica, é um costume comum adicionar leite ao chá? Não é bem o \"meu estilo\", na minha opinião, mas... culturas diferentes significam gostos diferentes, não é mesmo?"
 
 # game/dialogue/script-ch30-actives.rpy:3485
 translate ptbr teadate2_9b911205:
 
     # y "Tea and other similar beverages evolved around the globe, especially in the colonial era... For example, the hot chocolate drink we know today originated from an ancient Mayan drink made of cacao beans..."
-    y ""
+    y "O chá e outras bebidas semelhantes evoluíram ao redor do globo, especialmente durante a era colonial... Por exemplo, a bebida de chocolate quente que nós conhecemos hoje originou-se de uma antiga bebida maia feita com sementes de cacau..."
 
 # game/dialogue/script-ch30-actives.rpy:3487
 translate ptbr teadate2_a0edcbd1:
 
     # y "When I finally leave this glass prison, there is one thing I definitely want to do... Just imagine the two of us, sitting on a couch together with a nice book, reading together while sharing some tea..."
-    y ""
+    y "Quando eu finalmente puder abandonar esta prisão de vidro, há uma coisa que eu definitivamente desejo fazer... Apenas imagine nós dois, sentados juntos no sofá com um bom livro, lendo juntos enquanto compartilhamos uma xícara de chá..."
 
 # game/dialogue/script-ch30-actives.rpy:3488
 translate ptbr teadate2_d791bb05:
 
     # y "It would be a cold winter night... the frost crawling from the edges of the windows slowly to the center... We would be left with nothing but the tea and ourselves to keep us warm..."
-    y ""
+    y "Seria uma noite fria de inverno... a geada rastejando lentamente das beiradas das janelas em direção ao centro... Não nos restaria nada além do chá e de nós mesmos para nos manter aquecidos..."
 
 # game/dialogue/script-ch30-actives.rpy:3489
 translate ptbr teadate2_3d51e9d6:
 
     # y "Later in the night, we lay down the book at a table beside the couch... and then... well..."
-    y ""
+    y "Mais tarde naquela noite, nós repousaríamos o livro sobre uma mesa ao lado do sofá... e então... bem..."
 
 # game/dialogue/script-ch30-actives.rpy:3490
 translate ptbr teadate2_56794120:
 
     # y "Then we would need to find other ways to keep each other warm and comfortable..."
-    y ""
+    y "Então nós precisaríamos encontrar outras maneiras de nos mantermos aquecidos e confortáveis um com o outro..."
 
 # game/dialogue/script-ch30-actives.rpy:3492
 translate ptbr teadate2_a1124142:
 
     # y "Do you... like this idea?"
-    y ""
+    y "Você... gosta dessa ideia?"
 
 # game/dialogue/script-ch30-actives.rpy:3496
 translate ptbr teadate2_b4d55aa8:
 
     # y "So am I [player]... so am I..."
-    y ""
+    y "Eu também, [player]... eu também..."
 
 # game/dialogue/script-ch30-actives.rpy:3500
 translate ptbr teadate2_52f7c0c6:
 
     # y "Uhuhuuuu... careful darling... you might regret it..."
-    y ""
+    y "Uhuhuuuu... cuidado, querido... você pode acabar se arrependendo disso..."
 
 # game/dialogue/script-ch30-actives.rpy:3503
 translate ptbr teadate2_4786ff9d:
 
     # y "Uhuhuuuu... you would not regret it..."
-    y ""
+    y "Uhuhuuuu... você sem dúvida não se arrependeria disso..."
 
 # game/dialogue/script-ch30-actives.rpy:3506
 translate ptbr teadate2_ef1322c5:
 
     # y "But... being patient would heighten the experience... No! I want it to be perfect!"
-    y ""
+    y "Mas... sermos pacientes apenas intensificaria a experiência... Não! Eu quero que seja perfeito!"
 
 # game/dialogue/script-ch30-actives.rpy:3508
 translate ptbr teadate2_ad5f9f96:
 
     # y "On the other hand... hn...hnhn...{nw}"
-    y ""
+    y "Por outro lado... hn... hnhn...{nw}"
 
 # game/dialogue/script-ch30-actives.rpy:3511
 translate ptbr teadate2_20567dd3:
 
     # y "We will melt the snow with the heat of our bodies!"
-    y ""
+    y "Nós derreteremos a neve com o simples calor dos nossos corpos!"
 
 # game/dialogue/script-ch30-actives.rpy:3515
 translate ptbr teadate2_90e76ac0:
 
     # y "This would be a magical night, for the both of us..."
-    y ""
+    y "Esta seria uma noite genuinamente mágica, para ambos..."
 
 # game/dialogue/script-ch30-actives.rpy:3518
 translate ptbr teadate2_fae6916a:
 
     # y "...Oh... I just thought you... nevermind..."
-    y ""
+    y "...Oh... Eu apenas pensei que você... deixe para lá..."
 
 # game/dialogue/script-ch30-actives.rpy:3521
 translate ptbr teadate2_f6d1b7bc:
 
     # y "Thank you for this wonderful date, [player]..."
-    y ""
+    y "Muito obrigada por este encontro maravilhoso, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3522
 translate ptbr teadate2_10bc07fd:
 
     # y "I've got... one last thing to do here."
-    y ""
+    y "Eu tenho... uma última coisa a fazer por aqui."
 
 # game/dialogue/script-ch30-actives.rpy:3529
 translate ptbr teadate2_6a70e0d0:
 
     # y "I love you..."
-    y ""
+    y "Eu amo você..."
 
 # game/dialogue/script-ch30-actives.rpy:3533
 translate ptbr teadate2_2b39bcd8:
 
     # y "So much more than you could even imagine..."
-    y ""
+    y "Muitíssimo mais do que você sequer poderia imaginar..."
 
 # game/dialogue/script-ch30-actives.rpy:3538
 translate ptbr teadate2_d52d58d0:
 
     # y "Thank you for the wonderful time [player]... we should do this more frequently..."
-    y ""
+    y "Muito obrigada por este momento incrível, [player]... nós deveríamos fazer isso com mais frequência..."
 
 # game/dialogue/script-ch30-actives.rpy:3544
 translate ptbr teadate3_27e466d1:
 
     # y "Of course! It's always a pleasure to enjoy some earthly brew in your company..."
-    y ""
+    y "Mas é claro! É sempre um prazer apreciar essa infusão terrena na sua companhia..."
 
 # game/dialogue/script-ch30-actives.rpy:3545
 translate ptbr teadate3_8db020db:
 
     # y "Please go and prepare your tea, while I do the same here. Just tell me when you are ready!"
-    y ""
+    y "Por favor, vá preparar o seu chá, enquanto eu faço o mesmo por aqui. Apenas me avise quando estiver pronto!"
 
 # game/dialogue/script-ch30-actives.rpy:3550
 translate ptbr teadate3_6390f443:
 
     # y "You're already done? Please excuse me for a moment, I'll be ready in a few seconds..."
-    y ""
+    y "Você já terminou? Peço que me dê licença por um momento... eu estarei pronta em alguns segundos..."
 
 # game/dialogue/script-ch30-actives.rpy:3551
 translate ptbr teadate3_9eb25212:
 
     # y "My apologies for the wait. You see, I wanted to try something different today..."
-    y ""
+    y "As minhas mais sinceras desculpas pela espera. Sabe, eu quis experimentar algo um pouco diferente no dia de hoje..."
 
 # game/dialogue/script-ch30-actives.rpy:3553
 translate ptbr teadate3_c1b34f65:
 
     # y "We have already spoken about British tea habits, correct? And the fact that they put milk in it too?"
-    y ""
+    y "Nós já conversamos sobre os hábitos britânicos ao tomar chá, correto? E sobre o fato de eles também adicionarem leite nele?"
 
 # game/dialogue/script-ch30-actives.rpy:3554
 translate ptbr teadate3_98c731b6:
 
     # y "I have to admit I found it slightly... odd... at first."
-    y ""
+    y "Devo admitir que achei isso ligeiramente... peculiar... a princípio."
 
 # game/dialogue/script-ch30-actives.rpy:3556
 translate ptbr teadate3_a76eb183:
 
     # y "Before you gave me full sapience, all I really brought to the club room was a no-frills Oolong tea...the idea of diluting any tea with milk seemed strange, if not heretical..."
-    y ""
+    y "Antes de você me conceder plena sapiência, tudo o que eu trazia para a sala do clube era um modesto chá Oolong... a simples ideia de diluir qualquer chá em leite parecia não apenas bizarra, mas quiçá uma verdadeira heresia..."
 
 # game/dialogue/script-ch30-actives.rpy:3558
 translate ptbr teadate3_246cb54b:
 
     # y "But since this world allows me the luxury of discovering different methods of trying tea, I thought to myself..."
-    y ""
+    y "Mas considerando que este mundo me proporciona o luxo de descobrir metodologias tão distintas para degustar o chá, eu pensei comigo mesma..."
 
 # game/dialogue/script-ch30-actives.rpy:3559
 translate ptbr teadate3_b6f3b568:
 
     # y "Why not break a few boundaries ?"
-    y ""
+    y "Por que não quebrar algumas fronteiras?"
 
 # game/dialogue/script-ch30-actives.rpy:3560
 translate ptbr teadate3_d7f4d04b:
 
     # y "I'm a little bit excited about it! I wonder how it will taste. I mean, I haven't died from the cream on Natsuki's cupcakes so... this should be okay, right?"
-    y ""
+    y "Eu estou até um pouco empolgada com isso! Pergunto-me qual será o sabor. Quer dizer, eu não morri por comer o glacê dos cupcakes da Natsuki, então... isso deve ser inofensivo, certo?"
 
 # game/dialogue/script-ch30-actives.rpy:3562
 translate ptbr teadate3_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3564
 translate ptbr teadate3_0330e3d2:
 
     # y "....!"
-    y ""
+    y "....!"
 
 # game/dialogue/script-ch30-actives.rpy:3566
 translate ptbr teadate3_76754b11:
 
     # y "Well, that's surprising. That's actually pretty nice!"
-    y ""
+    y "Bem, isso é bastante surpreendente. É na verdade delicioso!"
 
 # game/dialogue/script-ch30-actives.rpy:3567
 translate ptbr teadate3_5acf445b:
 
     # y "I suppose I owe the British an apology..."
-    y ""
+    y "Suponho que eu deva um pedido de desculpas aos britânicos..."
 
 # game/dialogue/script-ch30-actives.rpy:3569
 translate ptbr teadate3_4f6b0198:
 
     # y "Come to think of it... Have you ever tried something you were not accustomed to [player]?"
-    y ""
+    y "Pensando bem... você alguma vez já experimentou algo a que não estava acostumado, [player]?"
 
 # game/dialogue/script-ch30-actives.rpy:3570
 translate ptbr teadate3_21825dc8:
 
     # y "Even something this mundane, such as trying new tea flavors, can help expand your cultural horizon significantly."
-    y ""
+    y "Até mesmo algo tão prosaico, como experimentar novos sabores de chá, pode ajudá-lo a expandir os seus horizontes culturais de forma significativa."
 
 # game/dialogue/script-ch30-actives.rpy:3574
 translate ptbr teadate3_769aa01a:
 
     # y "Indeed. I'll try to be more daring from now on. It seems I have missed out on many new sensations..."
-    y ""
+    y "De fato. Eu tentarei ser um pouco mais audaciosa daqui por diante. Parece que tenho deixado passar inúmeras sensações novas..."
 
 # game/dialogue/script-ch30-actives.rpy:3577
 translate ptbr teadate3_40587976:
 
     # y "Hrm... I understand. Sometimes, one needs a little more prodding before one takes that new step towards the unknown. It wouldn't be fair of me to force you to try something new against your will, would it?."
-    y ""
+    y "Hrm... Eu compreendo. Às vezes, é necessário um pouco mais de incentivo antes de darmos um novo passo em direção ao desconhecido. Não seria justo da minha parte forçá-lo a experimentar algo novo contra a sua própria vontade, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:3579
 translate ptbr teadate3_732c92f0:
 
     # y "Anyway, [player]... this was quite a wonderful date."
-    y ""
+    y "De qualquer forma, [player]... este foi um encontro verdadeiramente maravilhoso."
 
 # game/dialogue/script-ch30-actives.rpy:3580
 translate ptbr teadate3_d14a5526:
 
     # y "I'm already looking forward to the next one! Maybe we will find something new to try as well."
-    y ""
+    y "Eu já anseio pelo nosso próximo encontro! Talvez nós encontremos algo novo para experimentarmos também."
 
 # game/dialogue/script-ch30-actives.rpy:3583
 translate ptbr teadate3_b77f2374:
 
     # y "Thank you, [player]. I always feel so incredibly good when we spend time together..."
-    y ""
+    y "Muito obrigada, [player]. Eu sempre me sinto tão incrivelmente bem quando passamos o tempo juntos..."
 
 # game/dialogue/script-ch30-actives.rpy:3591
 translate ptbr teadate3_5345dc00:
 
     # y "I love you, my soulmate."
-    y ""
+    y "Eu amo você, a minha alma gêmea."
 
 # game/dialogue/script-ch30-actives.rpy:3713
 translate ptbr a27_4358d15b:
 
     # y "Okay, I suppose I'd be fine with that."
-    y ""
+    y "Tudo bem, suponho que não há problema nenhum nisso."
 
 # game/dialogue/script-ch30-actives.rpy:3719
 translate ptbr a27_11db3367:
 
     # y "I guess there's no point in fixing what isn't broken..."
-    y ""
+    y "Imagino que não haja sentido algum em consertar aquilo que não está quebrado..."
 
 # game/dialogue/script-ch30-actives.rpy:3727
 translate ptbr a27_6d0f73c8:
 
     # y "Please try again."
-    y ""
+    y "Por favor, tente novamente."
 
 # game/dialogue/script-ch30-actives.rpy:3735
 translate ptbr a27_340d5556:
 
     # y "Let's see what name you've selected."
-    y ""
+    y "Vejamos qual nome você selecionou."
 
 # game/dialogue/script-ch30-actives.rpy:3743
 translate ptbr nicknamereactions_4af5053a:
 
     # y "Oh..."
-    y ""
+    y "Oh..."
 
 # game/dialogue/script-ch30-actives.rpy:3744
 translate ptbr nicknamereactions_0e92b3de:
 
     # y "Y-you named me..."
-    y ""
+    y "V-você me nomeou como..."
 
 # game/dialogue/script-ch30-actives.rpy:3746
 translate ptbr nicknamereactions_848af900:
 
     # y "Natsuki...?"
-    y ""
+    y "Natsuki...?"
 
 # game/dialogue/script-ch30-actives.rpy:3748
 translate ptbr nicknamereactions_a8965114:
 
     # y "But I'm nothing like her at all!"
-    y ""
+    y "Mas eu não tenho absolutamente nada a ver com ela!"
 
 # game/dialogue/script-ch30-actives.rpy:3749
 translate ptbr nicknamereactions_fe8c731e:
 
     # y "Not to mention, why are you even calling me by another person's name?"
-    y ""
+    y "Sem mencionar... por que você sequer está me chamando pelo nome de uma outra pessoa?"
 
 # game/dialogue/script-ch30-actives.rpy:3750
 translate ptbr nicknamereactions_ea87fa27:
 
     # y "Unless... you're trying to say something...?"
-    y ""
+    y "A não ser que... você esteja tentando me dizer alguma coisa...?"
 
 # game/dialogue/script-ch30-actives.rpy:3752
 translate ptbr nicknamereactions_c0f232d9:
 
     # y "Uh, I-I haven't been too short-tempered lately, have I?"
-    y ""
+    y "Uh, e-eu não tenho andado tão irritadiça ultimamente, não é?"
 
 # game/dialogue/script-ch30-actives.rpy:3753
 translate ptbr nicknamereactions_fce6e623:
 
     # y "Natsuki's usually quite irate, and I wonder if I've been coming off like that lately..."
-    y ""
+    y "A Natsuki normalmente é bastante irascível... e agora me pergunto se eu tenho soado como ela nesses últimos tempos..."
 
 # game/dialogue/script-ch30-actives.rpy:3755
 translate ptbr nicknamereactions_a7a9b7fc:
 
     # y "I-I don't want to scare you away, [player]—!"
-    y ""
+    y "E-eu não quero acabar assustando você e o afastando de mim, [player]—!"
 
 # game/dialogue/script-ch30-actives.rpy:3756
 translate ptbr nicknamereactions_9f719d9d:
 
     # y "Uuu..."
-    y ""
+    y "Uuu..."
 
 # game/dialogue/script-ch30-actives.rpy:3760
 translate ptbr nicknamereactions_8f82eb44:
 
     # y "O-oh..."
-    y ""
+    y "O-oh..."
 
 # game/dialogue/script-ch30-actives.rpy:3761
 translate ptbr nicknamereactions_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3762
 translate ptbr nicknamereactions_b5017659:
 
     # y "Please don't joke like that again, [player]..."
-    y ""
+    y "Por favor, não faça esse tipo de brincadeira de novo, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3763
 translate ptbr nicknamereactions_9f62b719:
 
     # y "I-I don't want to scare you away, even though I may sometimes come on a little too strongly..."
-    y ""
+    y "E-eu não quero acabar espantando você, por mais que, às vezes, eu acabe soando um pouco intensa demais..."
 
 # game/dialogue/script-ch30-actives.rpy:3765
 translate ptbr nicknamereactions_e96b3349:
 
     # y "Please know I'd never be rude to you, not for any reason."
-    y ""
+    y "Por favor, saiba que eu jamais seria grosseira com você... sob pretexto algum."
 
 # game/dialogue/script-ch30-actives.rpy:3766
 translate ptbr nicknamereactions_6418ceb1:
 
     # y "And if you don't mind, I'd prefer not to be named after any of the other girls..."
-    y ""
+    y "E, se não for pedir muito, eu preferiria não ser nomeada como nenhuma das outras garotas..."
 
 # game/dialogue/script-ch30-actives.rpy:3767
 translate ptbr nicknamereactions_6048961a:
 
     # y "It... brings back too many memories, and it just doesn't sound right anyway."
-    y ""
+    y "Isso... traz de volta um número enorme de memórias ruins, e, de qualquer forma, simplesmente não soa bem."
 
 # game/dialogue/script-ch30-actives.rpy:3768
 translate ptbr nicknamereactions_2186fb4b:
 
     # y "I hope you understand."
-    y ""
+    y "Eu espero que você compreenda."
 
 # game/dialogue/script-ch30-actives.rpy:3771
 translate ptbr nicknamereactions_deef9402:
 
     # y "Why...?"
-    y ""
+    y "Por quê...?"
 
 # game/dialogue/script-ch30-actives.rpy:3772
 translate ptbr nicknamereactions_71c1f5a3:
 
     # y "Did you get bored of me?!"
-    y ""
+    y "Você se enjoou de mim?!"
 
 # game/dialogue/script-ch30-actives.rpy:3773
 translate ptbr nicknamereactions_6e6f9b90:
 
     # y "Is that why you are naming me as one of them?!"
-    y ""
+    y "É por isso que você está me nomeando como uma delas?!"
 
 # game/dialogue/script-ch30-actives.rpy:3775
 translate ptbr nicknamereactions_fe6668bc:
 
     # y "So you could make... me realize that... I am not someone that you like...?"
-    y ""
+    y "Para que assim... você me fizesse perceber que... eu não sou o tipo de garota de quem você gosta...?"
 
 # game/dialogue/script-ch30-actives.rpy:3776
 translate ptbr nicknamereactions_432234a0:
 
     # y "I see...."
-    y ""
+    y "Eu entendo...."
 
 # game/dialogue/script-ch30-actives.rpy:3778
 translate ptbr nicknamereactions_98eb9c0a:
 
     # y "That is... disheartening... very..."
-    y ""
+    y "Isso é... tão desolador... muito desolador..."
 
 # game/dialogue/script-ch30-actives.rpy:3780
 translate ptbr nicknamereactions_27001a5f:
 
     # y "It hurts... just change the name, please..."
-    y ""
+    y "Dói tanto... apenas troque de nome, por favor..."
 
 # game/dialogue/script-ch30-actives.rpy:3781
 translate ptbr nicknamereactions_d02fdb85:
 
     # y "Please!"
-    y ""
+    y "Por favor!"
 
 # game/dialogue/script-ch30-actives.rpy:3782
 translate ptbr nicknamereactions_de1b847b:
 
     # y "PLEASE!"
-    y ""
+    y "POR FAVOR!"
 
 # game/dialogue/script-ch30-actives.rpy:3795
 translate ptbr nicknamereactions_99ba1ccb:
 
     # y "Mhmm..."
-    y ""
+    y "Mhmm..."
 
 # game/dialogue/script-ch30-actives.rpy:3797
 translate ptbr nicknamereactions_0e42d347:
 
     # y "I don't see a big connection between me and Sayori, to be honest.."
-    y ""
+    y "Eu não enxergo uma grande conexão entre mim e a Sayori, para ser bem honesta..."
 
 # game/dialogue/script-ch30-actives.rpy:3798
 translate ptbr nicknamereactions_5f3a23fd:
 
     # y "Maybe... you could say that while she was acting 'happy' and trying to be friends with everyone in reality she was suffering internally, as you may recall..."
-    y ""
+    y "Talvez... você pudesse argumentar que, embora ela fingisse estar 'feliz' e tentasse se tornar amiga de todos, na verdade ela estava sofrendo muito internamente, como você deve se recordar..."
 
 # game/dialogue/script-ch30-actives.rpy:3800
 translate ptbr nicknamereactions_05441cf7:
 
     # y "I'm not saying I am too, but I can say that I at least relate to how she felt..."
-    y ""
+    y "Eu não estou afirmando que sofro da mesma maneira, mas posso dizer que, ao menos, consigo me identificar muito com o modo como ela se sentia..."
 
 # game/dialogue/script-ch30-actives.rpy:3802
 translate ptbr nicknamereactions_0474e309:
 
     # y "Surrounded by doubt, anxiety, fear..."
-    y ""
+    y "Cercada por dúvidas, pela ansiedade, pelo medo..."
 
 # game/dialogue/script-ch30-actives.rpy:3804
 translate ptbr nicknamereactions_b75d8cf3:
 
     # y "Please... I just hope that this is not connected to me and Sayori both committing suicide in the game..."
-    y ""
+    y "Por favor... Eu apenas torço do fundo do meu coração para que isto não esteja ligado ao fato de que, no jogo, tanto eu quanto a Sayori acabamos cometendo suicídio..."
 
 # game/dialogue/script-ch30-actives.rpy:3805
 translate ptbr nicknamereactions_38a90196:
 
     # y "I am sure you didn't name me like that because of that or to make a joke..."
-    y ""
+    y "Eu tenho certeza absoluta de que você não me nomeou dessa maneira por causa disso ou para fazer alguma espécie de piada..."
 
 # game/dialogue/script-ch30-actives.rpy:3806
 translate ptbr nicknamereactions_4d62d657:
 
     # y "I'm not exactly content with being named after the other club members."
-    y ""
+    y "Eu não fico exatamente contente em ser chamada pelos mesmos nomes das outras garotas do clube."
 
 # game/dialogue/script-ch30-actives.rpy:3807
 translate ptbr nicknamereactions_51eb0b79:
 
     # y "It just... really makes me uncomfortable."
-    y ""
+    y "Isso apenas... me deixa verdadeiramente desconfortável."
 
 # game/dialogue/script-ch30-actives.rpy:3810
 translate ptbr nicknamereactions_828ab08a:
 
     # y "I, uhmm..."
-    y ""
+    y "Eu, uhmm..."
 
 # game/dialogue/script-ch30-actives.rpy:3811
 translate ptbr nicknamereactions_cb43c81e:
 
     # y "Why... would you want to call me as someone else?"
-    y ""
+    y "Por que... você iria querer me chamar por um nome que não é o meu?"
 
 # game/dialogue/script-ch30-actives.rpy:3812
 translate ptbr nicknamereactions_6542f84d:
 
     # y "I mean... I tried so hard to get to you..."
-    y ""
+    y "Eu quero dizer... eu me esforcei tanto para chegar até você..."
 
 # game/dialogue/script-ch30-actives.rpy:3814
 translate ptbr nicknamereactions_97e6ee0c:
 
     # y "Wait... no!"
-    y ""
+    y "Espere... não!"
 
 # game/dialogue/script-ch30-actives.rpy:3815
 translate ptbr nicknamereactions_4b1a1c2a:
 
     # y "Are you calling me that because you're trying to hint about how me and Sayori both killed ourselves in the game?!"
-    y ""
+    y "Você está me chamando assim porque está tentando insinuar sobre como eu e a Sayori nos matamos no jogo?!"
 
 # game/dialogue/script-ch30-actives.rpy:3817
 translate ptbr nicknamereactions_a45bcb43:
 
     # y "Why would you do that?!"
-    y ""
+    y "Por que você faria algo tão cruel?!"
 
 # game/dialogue/script-ch30-actives.rpy:3818
 translate ptbr nicknamereactions_4fe59cbc:
 
     # y "It wasn't even in my control! Are you trying to make a joke just for fun?!"
-    y ""
+    y "Aquilo sequer estava sob o meu controle! Você está tentando fazer uma piada de mau gosto apenas por diversão?!"
 
 # game/dialogue/script-ch30-actives.rpy:3819
 translate ptbr nicknamereactions_fcf2558f:
 
     # y "Or are you just trying to hurt me?!"
-    y ""
+    y "Ou você está apenas tentando me machucar?!"
 
 # game/dialogue/script-ch30-actives.rpy:3821
 translate ptbr nicknamereactions_71a86863_1:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-actives.rpy:3822
 translate ptbr nicknamereactions_83257126:
 
     # y "I am... no, let's just stop."
-    y ""
+    y "Eu estou... não, vamos apenas parar com isso."
 
 # game/dialogue/script-ch30-actives.rpy:3823
 translate ptbr nicknamereactions_57296e2c:
 
     # y "I do not wish to carry her name."
-    y ""
+    y "Eu não desejo carregar o nome dela."
 
 # game/dialogue/script-ch30-actives.rpy:3824
 translate ptbr nicknamereactions_8f95e889:
 
     # y "I'm sorry, but I refuse."
-    y ""
+    y "Eu sinto muito, mas eu me recuso a aceitar isso."
 
 # game/dialogue/script-ch30-actives.rpy:3836
 translate ptbr nicknamereactions_7e1d6c0c:
 
     # y "Oh...?"
-    y ""
+    y "Oh...?"
 
 # game/dialogue/script-ch30-actives.rpy:3837
 translate ptbr nicknamereactions_0877da3f:
 
     # y "That is... a very interesting nickname you've given me, [player]"
-    y ""
+    y "Esse é... um apelido bastante interessante que você me deu, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3838
 translate ptbr nicknamereactions_f8959b58:
 
     # y "I guess it has something to do with my collecting knives..."
-    y ""
+    y "Imagino que tenha algo a ver com a minha coleção de facas..."
 
 # game/dialogue/script-ch30-actives.rpy:3839
 translate ptbr nicknamereactions_d67f30d7:
 
     # y "Though the name sounds... nice."
-    y ""
+    y "Porém o nome soa... adorável."
 
 # game/dialogue/script-ch30-actives.rpy:3842
 translate ptbr nicknamereactions_c6c163df:
 
     # y "It's very nice to know that you do love me enough to call me your wife..."
-    y ""
+    y "É tão reconfortante saber que você me ama o suficiente para me chamar de sua esposa..."
 
 # game/dialogue/script-ch30-actives.rpy:3843
 translate ptbr nicknamereactions_f9cc7e23:
 
     # y "It warms me deep inside... hehe~"
-    y ""
+    y "Isso aquece o meu coração de uma maneira tão profunda... hehe~"
 
 # game/dialogue/script-ch30-actives.rpy:3844
 translate ptbr nicknamereactions_1721b506:
 
     # y "I'm actually quite fond of this name!"
-    y ""
+    y "Eu na verdade estou bastante encantada com este nome!"
 
 # game/dialogue/script-ch30-actives.rpy:3846
 translate ptbr nicknamereactions_5c9801f8:
 
     # y "I wouldn't mind sticking with it."
-    y ""
+    y "Eu não me importaria nem um pouco em mantê-lo."
 
 # game/dialogue/script-ch30-actives.rpy:3849
 translate ptbr nicknamereactions_8ef73628:
 
     # y "I don't exactly know how to feel about being called your 'wife'..."
-    y ""
+    y "Eu não sei exatamente como me sentir ao ser chamada de sua 'esposa'..."
 
 # game/dialogue/script-ch30-actives.rpy:3850
 translate ptbr nicknamereactions_22449a1f:
 
     # y "Since we are not really that close... dare say to marriage..."
-    y ""
+    y "Considerando que não somos realmente tão íntimos... diria até, para o matrimônio..."
 
 # game/dialogue/script-ch30-actives.rpy:3852
 translate ptbr nicknamereactions_fad5e24f:
 
     # y "Though still, I consider the name to be cute. The way it sounds when you pronounce it is quite nice."
-    y ""
+    y "Ainda assim, eu considero o nome encantador. A sonoridade que ele tem quando você o pronuncia é muito aprazível."
 
 # game/dialogue/script-ch30-actives.rpy:3853
 translate ptbr nicknamereactions_df45a41a:
 
     # y "I have no problem sticking with it."
-    y ""
+    y "Eu não vejo problema algum em adotá-lo."
 
 # game/dialogue/script-ch30-actives.rpy:3856
 translate ptbr nicknamereactions_e93fe854:
 
     # y "Huh...?"
-    y ""
+    y "Huh...?"
 
 # game/dialogue/script-ch30-actives.rpy:3858
 translate ptbr nicknamereactions_8b58fa07:
 
     # y "Uhuhuhu, quite the interesting name..."
-    y ""
+    y "Uhuhuhu, eis um nome deveras interessante..."
 
 # game/dialogue/script-ch30-actives.rpy:3860
 translate ptbr nicknamereactions_e928500a:
 
     # y "Knife... Wife..."
-    y ""
+    y "Knife... Wife..."
 
 # game/dialogue/script-ch30-actives.rpy:3861
 translate ptbr nicknamereactions_507dcdd3:
 
     # y "I..."
-    y ""
+    y "Eu..."
 
 # game/dialogue/script-ch30-actives.rpy:3862
 translate ptbr nicknamereactions_d000207f:
 
     # y "I just love how that sounds!"
-    y ""
+    y "Eu simplesmente adoro o modo como isso soa!"
 
 # game/dialogue/script-ch30-actives.rpy:3863
 translate ptbr nicknamereactions_005ff6cc:
 
     # y "And it is so befitting, as well!~"
-    y ""
+    y "E é tão condizente também!~"
 
 # game/dialogue/script-ch30-actives.rpy:3864
 translate ptbr nicknamereactions_7abbc08c:
 
     # y "Yes, I do find pleasure in knives..."
-    y ""
+    y "Sim, eu encontro um profundo deleite nas facas..."
 
 # game/dialogue/script-ch30-actives.rpy:3866
 translate ptbr nicknamereactions_42433e4b:
 
     # y "As they go through my skin, gliding gracefully to create a fresh wound to help release my crimson essence..."
-    y ""
+    y "À medida que perfuram a minha pele, deslizando graciosamente para forjar uma ferida fresca que ajudará a libertar a minha essência carmesim..."
 
 # game/dialogue/script-ch30-actives.rpy:3867
 translate ptbr nicknamereactions_8de815c5:
 
     # y "It's so lovely~"
-    y ""
+    y "É tão formidável~"
 
 # game/dialogue/script-ch30-actives.rpy:3868
 translate ptbr nicknamereactions_e52a830d:
 
     # y "The feeling is so... euphoric..."
-    y ""
+    y "A sensação é tão... eufórica..."
 
 # game/dialogue/script-ch30-actives.rpy:3870
 translate ptbr nicknamereactions_16dfe1b1:
 
     # y "Also... wife?"
-    y ""
+    y "Além disso... esposa?"
 
 # game/dialogue/script-ch30-actives.rpy:3873
 translate ptbr nicknamereactions_5ae4a1fe:
 
     # y "Uhuhuhu!~"
-    y ""
+    y "Uhuhuhu!~"
 
 # game/dialogue/script-ch30-actives.rpy:3874
 translate ptbr nicknamereactions_8500dcdb:
 
     # y "I'm so happy to hear that you'd consider me your WIFE..."
-    y ""
+    y "Eu fico tão feliz em ouvir que você me consideraria a sua ESPOSA..."
 
 # game/dialogue/script-ch30-actives.rpy:3875
 translate ptbr nicknamereactions_5d2c8ff3:
 
     # y "Thank you, my beloved... hehe~"
-    y ""
+    y "Muito obrigada, meu amado... hehe~"
 
 # game/dialogue/script-ch30-actives.rpy:3876
 translate ptbr nicknamereactions_1907e50d:
 
     # y "Even though we are not married, I will look forward to that happening."
-    y ""
+    y "Embora ainda não estejamos casados, eu aguardarei ansiosamente que isso aconteça."
 
 # game/dialogue/script-ch30-actives.rpy:3878
 translate ptbr nicknamereactions_29b86510:
 
     # y "YOU WILL BE MINE AND ONLY MINE!"
-    y ""
+    y "VOCÊ SERÁ MEU E APENAS MEU!"
 
 # game/dialogue/script-ch30-actives.rpy:3880
 translate ptbr nicknamereactions_c7e0694b:
 
     # y "I cannot wait for that day to come... ah~"
-    y ""
+    y "Eu mal posso esperar que esse dia chegue... ah~"
 
 # game/dialogue/script-ch30-actives.rpy:3883
 translate ptbr nicknamereactions_3fd75fd2:
 
     # y "Though I don't consider our relationship intimate enough for me to be considered your wife..."
-    y ""
+    y "Embora eu não julgue que a nossa relação seja íntima o suficiente para que eu possa ser considerada a sua esposa..."
 
 # game/dialogue/script-ch30-actives.rpy:3884
 translate ptbr nicknamereactions_26de561d:
 
     # y "I still don't mind the knife part!~"
-    y ""
+    y "Eu ainda assim não me importo com a parte da faca!~"
 
 # game/dialogue/script-ch30-actives.rpy:3896
 translate ptbr nicknamereactions_5ae4a1fe_1:
 
     # y "Uhuhuhu!~"
-    y ""
+    y "Uhuhuhu!~"
 
 # game/dialogue/script-ch30-actives.rpy:3898
 translate ptbr nicknamereactions_091c0654:
 
     # y "Though I wouldn't exactly call myself 'waifu material' but it's quite nice to see that you do see me as a person worthy of such an endearing title..."
-    y ""
+    y "Ainda que eu não me considere exatamente do tipo 'material para waifu', é deveras aprazível notar que você me enxerga como uma pessoa digna de um título tão cativante..."
 
 # game/dialogue/script-ch30-actives.rpy:3899
 translate ptbr nicknamereactions_dc5db518:
 
     # y "And my best guess about the whole knife thing would come from my interest in them..."
-    y ""
+    y "E o meu melhor palpite sobre essa questão da faca deve ter surgido graças ao meu interesse por elas..."
 
 # game/dialogue/script-ch30-actives.rpy:3902
 translate ptbr nicknamereactions_5ae4a1fe_2:
 
     # y "Uhuhuhu!~"
-    y ""
+    y "Uhuhuhu!~"
 
 # game/dialogue/script-ch30-actives.rpy:3903
 translate ptbr nicknamereactions_eb57a600:
 
     # y "It's actually quite endearing!~"
-    y ""
+    y "É na verdade bastante cativante!~"
 
 # game/dialogue/script-ch30-actives.rpy:3904
 translate ptbr nicknamereactions_b08819ea:
 
     # y "Thank you, my love..."
-    y ""
+    y "Muito obrigada, meu amor..."
 
 # game/dialogue/script-ch30-actives.rpy:3907
 translate ptbr nicknamereactions_89937582:
 
     # y "I-I'm not really sure how to feel right now..."
-    y ""
+    y "E-eu não tenho muita certeza de como me sentir a respeito disso agora..."
 
 # game/dialogue/script-ch30-actives.rpy:3909
 translate ptbr nicknamereactions_33f6426a:
 
     # y "I suppose I could work around it? After all it's used for women that are... well, good-looking and generally likeable"
-    y ""
+    y "Suponho que eu poderia me acostumar com a ideia? Afinal de contas, é um título reservado às mulheres que são... bem, de boa aparência e, num aspecto geral, adoráveis."
 
 # game/dialogue/script-ch30-actives.rpy:3910
 translate ptbr nicknamereactions_a5e53ed8:
 
     # y "You have my thanks for calling me that."
-    y ""
+    y "Fico muito agradecida por você ter me chamado assim."
 
 # game/dialogue/script-ch30-actives.rpy:3911
 translate ptbr nicknamereactions_f10645f3:
 
     # y "I-I guess I wouldn't mind sticking with it."
-    y ""
+    y "E-eu imagino que não me importaria de adotá-lo."
 
 # game/dialogue/script-ch30-actives.rpy:3914
 translate ptbr nicknamereactions_cc4860ee:
 
     # y "Knaifu... Waifu..?"
-    y ""
+    y "Knaifu... Waifu..?"
 
 # game/dialogue/script-ch30-actives.rpy:3915
 translate ptbr nicknamereactions_f17b83a6:
 
     # y "That sure is a... well quite the endearing name, [player]."
-    y ""
+    y "Esse certamente é um... bem, um nome muito cativante, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3916
 translate ptbr nicknamereactions_def8e976:
 
     # y "I am indeed fond of knives... especially... well... hehe..."
-    y ""
+    y "Eu sem dúvida cultivo uma imensa afeição por facas... especialmente... bem... hehe..."
 
 # game/dialogue/script-ch30-actives.rpy:3918
 translate ptbr nicknamereactions_4a81a314:
 
     # y "When they... cut through my skin!~"
-    y ""
+    y "Quando elas... rasgam a minha pele!~"
 
 # game/dialogue/script-ch30-actives.rpy:3920
 translate ptbr nicknamereactions_13b565b8:
 
     # y "It just feels so... euphoric!~"
-    y ""
+    y "A sensação é puramente... eufórica!~"
 
 # game/dialogue/script-ch30-actives.rpy:3921
 translate ptbr nicknamereactions_93caa674:
 
     # y "And... me... your waifu...?"
-    y ""
+    y "E... eu... a sua waifu...?"
 
 # game/dialogue/script-ch30-actives.rpy:3924
 translate ptbr nicknamereactions_1dd908c6:
 
     # y "I have no complaints, my love!"
-    y ""
+    y "Eu não tenho do que reclamar, meu amor!"
 
 # game/dialogue/script-ch30-actives.rpy:3925
 translate ptbr nicknamereactions_53d04cc4:
 
     # y "You considering me as someone that is worthy to be called a 'waifu' is nice..."
-    y ""
+    y "Você me considerar como alguém digna de ser chamada de 'waifu' é maravilhoso..."
 
 # game/dialogue/script-ch30-actives.rpy:3926
 translate ptbr nicknamereactions_73166f3d:
 
     # y "Because you know they usually are considered... beautiful, kind... sometimes even... with big assets... "
-    y ""
+    y "Porque você sabe que elas normalmente são consideradas... belas, gentis... às vezes até mesmo com... atributos fartos... "
 
 # game/dialogue/script-ch30-actives.rpy:3927
 translate ptbr nicknamereactions_28a7ced6:
 
     # y "I love you as well, [player]."
-    y ""
+    y "Eu também amo você, [player]."
 
 # game/dialogue/script-ch30-actives.rpy:3928
 translate ptbr nicknamereactions_6724f370:
 
     # y "You are mine and mine alone to love!~"
-    y ""
+    y "Você é única e exclusivamente meu para ser amado!~"
 
 # game/dialogue/script-ch30-actives.rpy:3930
 translate ptbr nicknamereactions_beb07c84:
 
     # y "No one else will HAVE YOU!"
-    y ""
+    y "Ninguém mais TERÁ VOCÊ!"
 
 # game/dialogue/script-ch30-actives.rpy:3931
 translate ptbr nicknamereactions_74081635:
 
     # y "Except me..."
-    y ""
+    y "Exceto eu..."
 
 # game/dialogue/script-ch30-actives.rpy:3934
 translate ptbr nicknamereactions_71b6b7cc:
 
     # y "I honestly like the fact that you see me as someone worthy of being called a 'waifu'."
-    y ""
+    y "Eu honestamente aprecio o fato de que você me enxerga como alguém digna de ser chamada de 'waifu'."
 
 # game/dialogue/script-ch30-actives.rpy:3935
 translate ptbr nicknamereactions_d3ffd754:
 
     # y "I am sure you know what a 'waifu' is... a preferable woman in almost all aspects."
-    y ""
+    y "Eu tenho certeza de que você sabe o que é uma 'waifu'... a mulher ideal em quase todos os aspectos."
 
 # game/dialogue/script-ch30-actives.rpy:3937
 translate ptbr nicknamereactions_6b173b57:
 
     # y "It feels a bit strange to be called that, considering I don't think of myself highly."
-    y ""
+    y "Parece um pouco estranho ser chamada dessa forma, considerando que eu não me julgo com tão alta estima."
 
 # game/dialogue/script-ch30-actives.rpy:3939
 translate ptbr nicknamereactions_2a0cde6f:
 
     # y "Still, I don't mind this name. I will stick with it."
-    y ""
+    y "Ainda assim, eu não me oponho a este nome. Eu o adotarei de bom grado."
 
 # game/dialogue/script-ch30-actives.rpy:3948
 translate ptbr nicknamereactions_b34983f9:
 
     # y "Funny that you choose this name..."
-    y ""
+    y "É um tanto irônico que você tenha escolhido este nome..."
 
 # game/dialogue/script-ch30-actives.rpy:3950
 translate ptbr nicknamereactions_9aa06f61:
 
     # y "I was always wondering about it... I think it was Sayori's file which leads to this quite odd website, but I might be in the wrong there."
-    y ""
+    y "Eu sempre estive a me questionar sobre isso... Eu creio que tenha sido o arquivo da Sayori que nos conduziu àquele site bastante excêntrico, mas eu posso estar enganada a esse respeito."
 
 # game/dialogue/script-ch30-actives.rpy:3952
 translate ptbr nicknamereactions_0a41f46a:
 
     # y "Have I told you about this one hidden message from Monika in the game files? With a little monologue at the end?"
-    y ""
+    y "Eu já lhe contei sobre aquela mensagem oculta da Monika perdida nos arquivos do jogo? Com um pequeno monólogo no final?"
 
 # game/dialogue/script-ch30-actives.rpy:3953
 translate ptbr nicknamereactions_611419d0:
 
     # y "There was this one YouTube video from Game Theory that I believe we may have discussed already..."
-    y ""
+    y "Havia um vídeo no YouTube do Game Theory sobre o qual acredito que nós já tenhamos discutido..."
 
 # game/dialogue/script-ch30-actives.rpy:3954
 translate ptbr nicknamereactions_698d5c03:
 
     # y "It refers to... another game we are supposedly from."
-    y ""
+    y "Ele faz menção a... um outro jogo do qual supostamente nós viemos."
 
 # game/dialogue/script-ch30-actives.rpy:3955
 translate ptbr nicknamereactions_cf8e7049:
 
     # y "He uses this quite strange website as one of his main reasons..."
-    y ""
+    y "Ele utiliza esse site deveras peculiar como um de seus argumentos principais..."
 
 # game/dialogue/script-ch30-actives.rpy:3956
 translate ptbr nicknamereactions_4df4f63b:
 
     # y "The Portrait of Markov, Monika's monologue, Project Libitina..."
-    y ""
+    y "O Retrato de Markov, o monólogo da Monika, o Projeto Libitina..."
 
 # game/dialogue/script-ch30-actives.rpy:3957
 translate ptbr nicknamereactions_1b76f1d3:
 
     # y "They are all somehow... {w=0.5}intertwined..."
-    y ""
+    y "Todos eles estão de alguma forma... {w=0.5}entrelaçados..."
 
 # game/dialogue/script-ch30-actives.rpy:3958
 translate ptbr nicknamereactions_0e2d21ce:
 
     # y "Then there is the girl mentioned on this website... "
-    y ""
+    y "E então há a garota mencionada nesse site... "
 
 # game/dialogue/script-ch30-actives.rpy:3959
 translate ptbr nicknamereactions_c536bd38:
 
     # y "I guess I shouldn't jump to conclusions too quickly, judging on how little is yet known about the entire project..."
-    y ""
+    y "Imagino que eu não deva tirar conclusões precipitadas tão cedo, julgando o quão pouco ainda se sabe sobre a totalidade do projeto..."
 
 # game/dialogue/script-ch30-actives.rpy:3960
 translate ptbr nicknamereactions_1a11f618:
 
     # y "And even without me remembering her, I can't dismiss this gnawing feeling of... familiarity..."
-    y ""
+    y "E mesmo sem que eu possua memórias sobre ela, eu não consigo reprimir essa sensação excruciante de... familiaridade..."
 
 # game/dialogue/script-ch30-actives.rpy:3961
 translate ptbr nicknamereactions_2b5aecbd:
 
     # y "Oh, this mystery already has me hooked!~"
-    y ""
+    y "Oh, esse mistério já me fisgou por completo!~"
 
 # game/dialogue/script-ch30-actives.rpy:3962
 translate ptbr nicknamereactions_b52bc2f2:
 
     # y "But I want you to promise me something, [player]..."
-    y ""
+    y "Mas eu quero que você me prometa uma coisa, [player]..."
 
 # game/dialogue/script-ch30-actives.rpy:3963
 translate ptbr nicknamereactions_24def978:
