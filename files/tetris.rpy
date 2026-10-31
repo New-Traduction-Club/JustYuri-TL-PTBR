@@ -430,7 +430,7 @@ translate ptbr tetris_71178d66:
 translate ptbr tetris_b7e7cafa:
 
     # y "O~Oh? You want to try the Co-op mode?"
-    y "A~Ah? Você quer experimentar o modo comperativo?"
+    y "A~Ah? Você quer experimentar o modo cooperativo?"
 
 # game/tetris.rpy:285
 translate ptbr tetris_fe3a6e83:
@@ -514,79 +514,79 @@ translate ptbr custom_tetris_repeat_e390ac89:
 translate ptbr custom_tetris_repeat_feeef887:
 
     # y "For the same modes but in the Disadvantage, Veteran and Expert difficulties, it is the exact same procedure, but this time you have to delete the grids and name it {b}backgrund_no_grind{/b}... oh yes, and it still has to be a .png file!"
-    y ""
+    y "Para as dificuldades Desvantagem, Veterano e Expert, é exatamente o mesmo processo, mas dessa vez você deve deletar as grades e nomear {b}background_no_grind{/b}... ah sim, e ainda tem que ser um arquivo .png!"
 
 # game/tetris.rpy:314
 translate ptbr custom_tetris_repeat_ec944e35:
 
     # y "The Co-op mode shares the same procedure, but this time it is 421 x 420 pixels and you name it {b}grids (coop).png{/b}. It's in the same folder again."
-    y ""
+    y "O modo Co-op compartilha o mesmo procedimento, mas dessa vez é 421 x 420 pixels e você nomeia {b}grids (coop).png{/b}. De novo é na mesma pasta."
 
 # game/tetris.rpy:315
 translate ptbr custom_tetris_repeat_765c39bb:
 
     # y "Now we come to the blocks."
-    y ""
+    y "Agora vamos para os blocos."
 
 # game/tetris.rpy:316
 translate ptbr custom_tetris_repeat_f74b316f:
 
     # y "Fun fact, did you know that a single block is called a Tetromino?"
-    y ""
+    y "Curiosidade, você sabia que um bloco sozinho é chamado de Tetromino?"
 
 # game/tetris.rpy:317
 translate ptbr custom_tetris_repeat_c996b4f7:
 
     # y "There are 7 pieces in Tetris which usually have different colors. You could make them the same colors"
-    y ""
+    y "Há 7 peças no Tetris que geralmente têm cores diferentes. Você pode deixá-los da mesma cor"
 
 # game/tetris.rpy:318
 translate ptbr custom_tetris_repeat_607535a1:
 
     # y "But that would be kind of boring. Don't you think?"
-    y ""
+    y "Mas seria meio chato. Não acha?"
 
 # game/tetris.rpy:320
 translate ptbr custom_tetris_repeat_d796593d:
 
     # y "Each pieces is build from individual blocks which are number from 1 to 7."
-    y ""
+    y "Cada peça é construída de blocos individuais que são números de 1 a 7."
 
 # game/tetris.rpy:321
 translate ptbr custom_tetris_repeat_cd7f149b:
 
     # y "Also in newer version of Tetris. You can see where the piece will land. We refer it as {b}shadow pieces{/b} "
-    y ""
+    y "Também em versões mais recentes do Tetris, você pode ver onde a peça cairá. Nós referimos a isso de {b}peças sombra{/b} "
 
 # game/tetris.rpy:322
 translate ptbr custom_tetris_repeat_afef16b4:
 
     # y "They also need to have their own colors which are usually transparency of normal blocks"
-    y ""
+    y "Eles também precisam ter suas próprias cores que normalmente são transparência dos blocos normais"
 
 # game/tetris.rpy:323
 translate ptbr custom_tetris_repeat_899a11b0:
 
     # y "Each of the cube need to be a .png image with size 20x20. You can use the {b}cube_1.png{/b} file from the folder \"game\\images\\tetris\\tetris\" as an example..."
-    y ""
+    y "Cada um dos cubos precisa ser ums imagem png de tamanho 20x20. Você pode usar o arquivo {b}cube_1.png{/b} da pasta \"game\images\\tetris\\tetris\" de exemplo..."
 
 # game/tetris.rpy:324
 translate ptbr custom_tetris_repeat_301aac1b:
 
     # y "For the T Piece you set up cube_1.png and shadow_1.png"
-    y ""
+    y "Para a peça em T você faz cube_1.png e shadow_1.png"
 
 # game/tetris.rpy:325
 translate ptbr custom_tetris_repeat_6afc7053:
 
     # y "For the S Piece you set up cube_2.png and shadow_2.png"
-    y ""
+    y "Para a peça em S você faz cube_2.png e shadow_2.png"
 
 # game/tetris.rpy:326
 translate ptbr custom_tetris_repeat_88b8147b:
 
     # y "For the Z Piece you set up cube_3.png and shadow_3.png"
-    y ""
+    y "Para a peça em Z você faz cube_3.png e shadow_3.png"
 
 # game/tetris.rpy:327
 translate ptbr custom_tetris_repeat_daf8fab4:
