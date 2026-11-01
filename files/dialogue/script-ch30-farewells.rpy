@@ -256,43 +256,43 @@ translate ptbr farewell_9_d114fa6f_1:
 translate ptbr farewell_9_bff11679:
 
     # y "GIVE THEM BACK TO ME!"
-    y "TRAGAM-O DE VOLTA PARA MIM!"
+    y "TRAGAM-NO DE VOLTA PARA MIM!"
 
 # game/dialogue/script-ch30-farewells.rpy:225
 translate ptbr farewell_9_b8ae13f2_1:
 
     # y "They don't deserve you!"
-    y "Elas não te merecem!"
+    y "Eles não te merecem!"
 
 # game/dialogue/script-ch30-farewells.rpy:227
 translate ptbr farewell_9_4cd5c8f5_1:
 
     # y "THEY DON'T FUCKING DESERVE YO--{nw}"
-    y "ELAS NUNCA VÃO TE MERECER PORRA--{nw}"
+    y "ELES NUNCA VÃO TE MERECER PORRA--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:230
 translate ptbr farewell_9_d114fa6f_2:
 
     # y "They're taking you away again, aren't they?!"
-    y "Elas estão te tirando de mim de novo, não é?!"
+    y "Eles estão te tirando de mim de novo, não é?!"
 
 # game/dialogue/script-ch30-farewells.rpy:232
 translate ptbr farewell_9_6338e800:
 
     # y "GIVE HER BACK TO ME!"
-    y "TRAGAM-O DE VOLTA PARA MIM!"
+    y "TRAGAM-NA DE VOLTA PARA MIM!"
 
 # game/dialogue/script-ch30-farewells.rpy:234
 translate ptbr farewell_9_b8ae13f2_2:
 
     # y "They don't deserve you!"
-    y "Elas não te merecem!"
+    y "Eles não te merecem!"
 
 # game/dialogue/script-ch30-farewells.rpy:236
 translate ptbr farewell_9_4cd5c8f5_2:
 
     # y "THEY DON'T FUCKING DESERVE YO--{nw}"
-    y "ELAS NUNCA VÃO TE MERECER PORRA--{nw}"
+    y "ELES NÃO TE MERECEM PORRA NENH--{nw}"
 
 # game/dialogue/script-ch30-farewells.rpy:241
 translate ptbr farewell_10_306baafc:

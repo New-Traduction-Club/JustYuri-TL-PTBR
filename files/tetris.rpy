@@ -490,7 +490,7 @@ translate ptbr custom_tetris_checkpoint_start_0e76a61a:
 translate ptbr custom_tetris_repeat_aa16d077:
 
     # y "All those files which you will create will have to go to folder \"game\\custom_tetris\""
-    y "Todos os arquivos que você criar devem ser colocados na pasta "game\\custom_tetris""
+    y "Todos os arquivos que você criar devem ser colocados na pasta \"game\\custom_tetris\""
 
 # game/tetris.rpy:309
 translate ptbr custom_tetris_repeat_5a9fd364:
@@ -508,7 +508,7 @@ translate ptbr custom_tetris_repeat_e6fa8891:
 translate ptbr custom_tetris_repeat_e390ac89:
 
     # y "For the Easy, Medium and Hard difficulties it has to be 220 x 420 pixels image. Use the {b}background.png{/b} file from the folder \"game\\images\\tetris\\tetris\" as an example..."
-    y "Para as dificuldades Fácil, Média e Difícil, a imagem deve ter 220 x 420 pixels. Use o arquivo {b}background.png{/b} da pasta "game\\images\\tetris\\tetris" como exemplo..."
+    y "Para as dificuldades Fácil, Média e Difícil, a imagem deve ter 220 x 420 pixels. Use o arquivo {b}background.png{/b} da pasta \"game\\images\\tetris\\tetris\" como exemplo..."
 
 # game/tetris.rpy:313
 translate ptbr custom_tetris_repeat_feeef887:
@@ -2200,7 +2200,7 @@ translate ptbr tetris_over_6b09ccfe:
 translate ptbr tetris_over_406e1021:
 
     # y "We can stay here in this room together forever. Breathing in each others' scents as we sweat and play this wonderful classic together."
-    y "Podemos ficar aqui neste quarto juntos para sempre. Respirando o cheiro um do outro enquanto suamos e tocamos este clássico maravilhoso juntos.""
+    y "Podemos ficar aqui neste quarto juntos para sempre. Respirando o cheiro um do outro enquanto suamos e tocamos este clássico maravilhoso juntos."
 
 # game/tetris.rpy:1141
 translate ptbr tetris_over_14cc0a1e:

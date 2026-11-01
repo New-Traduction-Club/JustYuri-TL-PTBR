@@ -1,6 +1,4 @@
-﻿
-﻿
-# game/dialogue/script-ch30-actives.rpy:14
+﻿# game/dialogue/script-ch30-actives.rpy:14
 translate ptbr a1_b962f211:
 
     # y "Oh... I'm feeling the same as I was earlier. I hope that means to you that I'm feeling good."
@@ -1948,7 +1946,7 @@ translate ptbr a17_dca2fb4c:
 translate ptbr a17_be049731:
 
     # y "Hearing your soft voice whispered into my ear and feeling you take charge."
-    y ""Ouvir a sua voz suave sussurrada no meu ouvido e sentir você no comando."
+    y "Ouvir a sua voz suave sussurrada no meu ouvido e sentir você no comando."
 
 # game/dialogue/script-ch30-actives.rpy:876
 translate ptbr a17_56efae63:
@@ -2438,7 +2436,7 @@ translate ptbr yuripoems_cac3194b:
 
 # game/dialogue/script-ch30-actives.rpy:1057
 translate ptbr yuripoems_6683f345:
-y "Thank you for the compliment, I guess."
+    # y "Thank you for the compliment, I guess."
     y "Agradeço pelo elogio, suponho."
 
 # game/dialogue/script-ch30-actives.rpy:1060
@@ -5998,9 +5996,6 @@ translate ptbr specialpoems_myyuri_01af5e07:
 
     # extend " Truly the cruelest of all the {i}promised days{/i}. . ."
     extend " Verdadeiramente o mais cruel de todos os {i}dias prometidos{/i}. . ."
-
-# game/dialogue/script-ch30-actives.rpy:2580
-translate ptbr specialpoems_myyuri_3ffd1a93:
 
   # game/dialogue/script-ch30-actives.rpy:2580
 translate ptbr specialpoems_myyuri_3ffd1a93:
