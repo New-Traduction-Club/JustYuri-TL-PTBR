@@ -94,7 +94,7 @@ translate ptbr strings:
 
     # game/music.rpy:63
     old "Play Okay Everyone! Yuri Variant"
-    new "Play Okay Everyone! Yuri Variante"
+    new "Play Okay Everyone! Variação da Yuri"
 
     # game/music.rpy:64
     old "Play Stagnant Air"

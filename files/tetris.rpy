@@ -1960,67 +1960,67 @@ translate ptbr tetris_over_aa8444a8:
 translate ptbr tetris_over_84de0e0f:
 
     # y "Actually, would you like to give it another try? Playing with you turned out to be a lot of fun, even if it's only Tetris."
-    y "Na verdade, você gostaria de tentar de novo? Jogar com você "
+    y "Na verdade, você gostaria de tentar de novo? Jogar com você acabou sendo muito divertido, mesmo sendo apenas Tetris."
 
 # game/tetris.rpy:1051
 translate ptbr tetris_over_0af64d18:
 
     # y "We could probably try something else in the future. Chess, or maybe a card game?"
-    y ""
+    y "A gente provavelmente poderia experimentar outra coisa no futuro. Xadrez, ou talvez um jogo de cartas?"
 
 # game/tetris.rpy:1052
 translate ptbr tetris_over_5d219a0a:
 
     # y "I also thought about darts, but honestly I have no idea how to code that in..."
-    y ""
+    y "Eu também pensei em dardos, mas honestamento eu não tenho ideia em como programar isso..."
 
 # game/tetris.rpy:1055
 translate ptbr tetris_over_81e15e51:
 
     # y "Oh but I almost forgot, would you like to play another round with me?" nointeract
-    y "" nointeract
+    y "Ah mas eu quase esqueci, você gostaria de jogar outra rodada comigo?" nointeract
 
 # game/tetris.rpy:1061
 translate ptbr tetris_over_7d937098_3:
 
     # y "I really enjoy playing with you. Let's do this again sometime soon."
-    y ""
+    y "Eu realmente gosto de jogar com você. Vamos fazer isso de novo algum momento em breve."
 
 # game/tetris.rpy:1066
 translate ptbr tetris_over_227edc50:
 
     # y "Congratulations, I guess?"
-    y ""
+    y "Parabéns, eu acho?"
 
 # game/tetris.rpy:1068
 translate ptbr tetris_over_59cd4475:
 
     # y "Oh I'm sorry, I didn't mean to sound so unenthusiastic."
-    y ""
+    y "Ah desculpa, eu não queria soar tão desanimada."
 
 # game/tetris.rpy:1069
 translate ptbr tetris_over_01e0e11f:
 
     # y "It's just... I find it a bit difficult to focus right now. I can't help but ask myself how we ended up here like this."
-    y ""
+    y "É só que... eu acho um pouco difícil de focar nas coisas agora. Eu não consigo deixar de me perguntar como nós acabmos aqui assim."
 
 # game/tetris.rpy:1071
 translate ptbr tetris_over_45b8cb60:
 
     # y "Forgive me, am I too dramatic? What I meant to say is.. I wish we were able to do more together than playing Tetris. Please don't read too much into it. "
-    y ""
+    y "Me perdoa, estou sendo dramática demais? O que eu quis dizer é... eu queria que nós pudéssemos fazer mais coisas junos do que jogar Tetris. Por favor não interprete demais isso."
 
 # game/tetris.rpy:1073
 translate ptbr tetris_over_7f39c68a:
 
     # extend "Would you like to play another round?" nointeract
-    extend "" nointeract
+    extend "Você gostaria de jogar outra partida?" nointeract
 
 # game/tetris.rpy:1083
 translate ptbr tetris_over_26e850e6:
 
     # y "Oh my..."
-    y "Ah meu..."
+    y "Oh céus..."
 
 # game/tetris.rpy:1084
 translate ptbr tetris_over_e892bad1:
@@ -2050,55 +2050,55 @@ translate ptbr tetris_over_cc49247e:
 translate ptbr tetris_over_c9f442e1:
 
     # y "I-I hope I did not get too intense for you. Don't feel bad about it [player]. I had a lot of fun."
-    y ""
+    y "E-Eu espere que eu não fiquei intensa demais para você. Não se sinta mal por isso [player]. Eu me diverti muito."
 
 # game/tetris.rpy:1094
 translate ptbr tetris_over_5be46536:
 
     # y "I hope you did too... O-oh... I mean but... We can do something else if you'd like. I really hope you enjoyed it though. I-It means so much to me... Just time together like this."
-    y ""
+    y "Eu espere que você se divertiu também... A-ah... Digo mas... Nós podemos fazer outra coisa se você quiser. Mas eu realmente espero que você curtiu. Significa tanto para mim... Apenas o tempo juntos assim."
 
 # game/tetris.rpy:1095
 translate ptbr tetris_over_bd199316:
 
     # y "Did I make you feel bad [player]? I hope I didn't... I'd give you a hug at least for your efforts..."
-    y ""
+    y "Eu te deixei triste [player]? Eu espero que não... Eu vou te dar um abraço pelo menos pelos seus esforços..."
 
 # game/tetris.rpy:1097
 translate ptbr tetris_over_670b093e:
 
     # y "It's the heart and thought that c-counts after all."
-    y ""
+    y "É o coração e a intenção que c-conta afinal das contas."
 
 # game/tetris.rpy:1098
 translate ptbr tetris_over_92b659d1:
 
     # y "S-so... do you want to play again? Or if you want to do something else, that is okay too [player]~"
-    y ""
+    y "E-então... você quer jogar de novo? Ou se você quiser fazer outra coisa, está tudo bem também [player]~"
 
 # game/tetris.rpy:1103
 translate ptbr tetris_over_8d3f0d6b:
 
     # y "W-well... This was quite intriguing to say the least."
-    y ""
+    y "B-bem... Foi bem intrigante para dizer o mínimo."
 
 # game/tetris.rpy:1104
 translate ptbr tetris_over_cd590754:
 
     # y "I am not exactly sure if this time together does count or whether it matters but... I am intrigued by this game of matching blocks and tiles."
-    y ""
+    y "Eu não tenho certeza absoluta de se esse tempo juntos conta ou se importa mas... Eu estou intrigada por este jogo de juntar blocos e peças."
 
 # game/tetris.rpy:1106
 translate ptbr tetris_over_1ff6200a:
 
     # y "If you are here and hearing this [player] I would say this session was alright and I do feel slightly bad that you lost."
-    y ""
+    y "Se você está aqui e ouvindo isso [player], eu diria que essa sessão foi tranquila e eu me sinto meio mal que você perdeu,"
 
 # game/tetris.rpy:1107
 translate ptbr tetris_over_770c3d32:
 
     # y "M-maybe this activity might help me relax and get my bearings on getting used to here and maybe knowing you more?"
-    y "T-talvez essa atividade possa me ajudar a relaxar e "
+    y "T-talvez essa atividade possa me ajudar a relaxar e me orientar em me acostumar com aqui e talvez te conhecer melhor?"
 
 # game/tetris.rpy:1109
 translate ptbr tetris_over_0d9d6ee7:
