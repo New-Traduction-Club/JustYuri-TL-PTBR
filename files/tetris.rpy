@@ -388,7 +388,7 @@ translate ptbr tetris_60e2f754:
 translate ptbr tetris_d59f2c87:
 
     # y "As the old saying goes, birds of a feather flock together. Two heads are always better than one ~!"
-    y "Como diz aquele ditado, as semelhanças se atraem. Duas cabeças pensam melhor do que uma!"
+    y "Como diz aquele velho ditado, as semelhanças se atraem. Duas cabeças pensam melhor do que uma!"
 
 # game/tetris.rpy:262
 translate ptbr tetris_bda238cc:
@@ -472,7 +472,7 @@ translate ptbr custom_tetris_checkpoint_start_201f6b49:
 translate ptbr custom_tetris_checkpoint_start_562f3524:
 
     # y "Well, let me give you a quick walk-through of how it's done or do you already have it all figure out?"
-    y "Bem, deixe-me dar uma breve explicação de como se faz, ou você já como funciona?"
+    y "Bem, deixe-me dar uma breve explicação de como se faz, ou você já sabe como funciona?"
 
 # game/tetris.rpy:301
 translate ptbr custom_tetris_checkpoint_start_8efaddd8:
@@ -514,7 +514,7 @@ translate ptbr custom_tetris_repeat_e390ac89:
 translate ptbr custom_tetris_repeat_feeef887:
 
     # y "For the same modes but in the Disadvantage, Veteran and Expert difficulties, it is the exact same procedure, but this time you have to delete the grids and name it {b}backgrund_no_grind{/b}... oh yes, and it still has to be a .png file!"
-    y "Para as dificuldades Desvantagem, Veterano e Expert, é exatamente o mesmo processo, mas dessa vez você deve deletar as grades e nomear {b}background_no_grind{/b}... ah sim, e ainda tem que ser um arquivo .png!"
+    y "Para as dificuldades Desvantajoso, Veterano e Expert, é exatamente o mesmo processo, mas dessa vez você deve deletar as grades e nomear {b}background_no_grind{/b}... ah sim, e ainda tem que ser um arquivo .png!"
 
 # game/tetris.rpy:314
 translate ptbr custom_tetris_repeat_ec944e35:
@@ -592,157 +592,157 @@ translate ptbr custom_tetris_repeat_88b8147b:
 translate ptbr custom_tetris_repeat_daf8fab4:
 
     # y "For the L Piece you set up cube_4.png and shadow_4.png"
-    y ""
+    y "Para a peça em L você faz cube_4.png e shadow_4.png"
 
 # game/tetris.rpy:328
 translate ptbr custom_tetris_repeat_86880505:
 
     # y "For the J Piece you set up cube_5.png and shadow_5.png"
-    y ""
+    y "Para a peça em J você faz cube_5.png e shadow_5.png"
 
 # game/tetris.rpy:329
 translate ptbr custom_tetris_repeat_37b17f47:
 
     # y "For the I Piece you set up cube_6.png and shadow_6.png"
-    y ""
+    y "Para a peça em I você faz cube_6.png e shadow_6.png"
 
 # game/tetris.rpy:330
 translate ptbr custom_tetris_repeat_6a16b2b0:
 
     # y "For the O Piece you set up cube_7.png and shadow_7.png"
-    y ""
+    y "Para a peça em O você faz cube_7.png e shadow_7.png"
 
 # game/tetris.rpy:331
 translate ptbr custom_tetris_repeat_59726846:
 
     # y "The last is wall of the game. For wall you set up cube_8.png. Most of the time is black for easy distinguish"
-    y ""
+    y "A última é a parede para o jogo. Para a parede você faz cube_8.png. Na maioria das vezes é preta para fácil distinção"
 
 # game/tetris.rpy:332
 translate ptbr custom_tetris_repeat_3a86b5e8:
 
     # y "For now in your custome_Tetris folder, you should have 18 files. 2 Background, 8 cube and 8 shadow png"
-    y ""
+    y "Agora na sua pasta custom_tetris, você deve ter 18 arquivos. 2 png's de Background, 8 de cubos e 8 de sombra"
 
 # game/tetris.rpy:333
 translate ptbr custom_tetris_repeat_8a8d7d4d:
 
     # y "Is everything good? If not let me know and I will repeat the step again"
-    y ""
+    y "Tudo está indo bem? Se não me diga para eu repetir a etapa de novo"
 
 # game/tetris.rpy:336
 translate ptbr custom_tetris_repeat_cccc3434:
 
     # y "Okay. Let's go to next part"
-    y ""
+    y "Ok. Vamos para a próxima parte"
 
 # game/tetris.rpy:338
 translate ptbr custom_tetris_repeat_bdae0ec3:
 
     # y " Oh dear. Let me repeat steps again."
-    y ""
+    y " Oh céus. Deixe-me repetir os passos novamente."
 
 # game/tetris.rpy:344
 translate ptbr custom_tetris_repeat_audio_1f60ad8d:
 
     # y "Now for the audio part..."
-    y ""
+    y "Agora para a parte do áudio..."
 
 # game/tetris.rpy:345
 translate ptbr custom_tetris_repeat_audio_0dccc6c6:
 
     # y "All the audio files must have specific names, otherwise the game will reject them, so here are the names for the sounds."
-    y ""
+    y "Todos os arquivos de áudio devem ter nomes específicos, caso contrário o jogo os rejeitará, então aqui estão os nomes para os sons."
 
 # game/tetris.rpy:346
 translate ptbr custom_tetris_repeat_audio_82a9fc12:
 
     # y "Keep in mind that sfx should be a very short sounds. If they will be long they will overlap. It will turn into mess"
-    y ""
+    y "Lembre-se de que sfx devem ser sons muito curtos. Se eles forem longos eles vão se sobrepor. Ficará uma bagunça"
 
 # game/tetris.rpy:347
 translate ptbr custom_tetris_repeat_audio_abddd5cc:
 
     # y "Here are the names of the sfx sounds"
-    y ""
+    y "Aquu estão os nomes dos sfx"
 
 # game/tetris.rpy:348
 translate ptbr custom_tetris_repeat_audio_08c031ee:
 
     # y "t-fl.ogg for a single line clear."
-    y ""
+    y "t-fl.ogg para uma só linha limpa."
 
 # game/tetris.rpy:349
 translate ptbr custom_tetris_repeat_audio_94e079ff:
 
     # y "t-2f1.ogg for a double line clear."
-    y ""
+    y "t-2fl.ogg para duas linhas limpas."
 
 # game/tetris.rpy:350
 translate ptbr custom_tetris_repeat_audio_3080badb:
 
     # y "t-3fl.ogg for a triple line clear."
-    y ""
+    y "t-3fl.ogg para três linhas limpas."
 
 # game/tetris.rpy:351
 translate ptbr custom_tetris_repeat_audio_f82f30a7:
 
     # y "t-4fl.ogg for a full tetris line clear."
-    y ""
+    y "t-4fl.ogg para "
 
 # game/tetris.rpy:352
 translate ptbr custom_tetris_repeat_audio_2346bce9:
 
     # y "t-drop.ogg for the hard drop sound."
-    y ""
+    y "t-drop.ogg para o som de largar peça."
 
 # game/tetris.rpy:353
 translate ptbr custom_tetris_repeat_audio_5466d53d:
 
     # y "t-move.ogg for whenever you move the piece."
-    y ""
+    y "t-move.ogg para quando você mover a peça."
 
 # game/tetris.rpy:354
 translate ptbr custom_tetris_repeat_audio_9ed0b6cd:
 
     # y "t-rotate.ogg for whenever you rotate the piece."
-    y ""
-
+    y "t-rotate.ogg para quando você rotacionar a peça."
+ 
 # game/tetris.rpy:355
 translate ptbr custom_tetris_repeat_audio_22b187fa:
 
     # y "Those are were sfx sound. For the main music which will loop for the duration of game."
-    y ""
+    y "Esses eram os sfx. Para a música principal que ficará tocando durante o jogo."
 
 # game/tetris.rpy:356
 translate ptbr custom_tetris_repeat_audio_a1c7ed67:
 
     # y "Use \"tetris.ogg\""
-    y "Usar \"tetris.ogg\""
+    y "Use \"tetris.ogg\""
 
 # game/tetris.rpy:357
 translate ptbr custom_tetris_repeat_audio_67206e64:
 
     # y "So in the end your custome_Tetris folder should have 26 files. 2 Background, 8 cube, 8 shadow png and 8 .ogg files"
-    y ""
+    y "Então no final a sua pasta custome_Tetris deve ter 26 arquivos.2 arquivos png de Background, 8 de cubos, 8 de sombras e 8 arquivos .ogg"
 
 # game/tetris.rpy:359
 translate ptbr custom_tetris_repeat_audio_2cf50ed3:
 
     # y "I-I hope I didn't confuse you with that explanation..."
-    y ""
+    y "E-Eu espero que eu não te confundi com essa explicação..."
 
 # game/tetris.rpy:360
 translate ptbr custom_tetris_repeat_audio_5667b6e3:
 
     # y "I'm not good at explaining such technicalities..."
-    y ""
+    y "Eu não sou boa em explicar detalhes tão técnicos..."
 
 # game/tetris.rpy:361
 translate ptbr custom_tetris_repeat_audio_430cda67:
 
     # y "If I mess up and you still need to adjust something let me know and I will repeat the steps"
-    y ""
+    y "Se eu fazer besteira e você ainda precisar de ajustar algo me fale que eu vou repetir as etapas"
 
 # game/tetris.rpy:364
 translate ptbr custom_tetris_repeat_audio_278283bc:
@@ -766,43 +766,43 @@ translate ptbr custom_tetris_repeat_audio_8efaddd8_1:
 translate ptbr custom_tetris_repeat_audio_1629ca8f:
 
     # y "Anyway, I'm looking forward to what you might come up with!"
-    y ""
+    y "Enfim, estou esperando para ver o que você criou!"
 
 # game/tetris.rpy:374
 translate ptbr custom_tetris_repeat_audio_92daedbd:
 
     # y "Everything you do is fun for me anyway..."
-    y ""
+    y "Tudo que você faz é divertido para mim afinal das contas..."
 
 # game/tetris.rpy:377
 translate ptbr custom_tetris_repeat_audio_4b7c406e:
 
     # y "Oh, I do wonder what you just might come up with..."
-    y ""
+    y "Oh, eu me pergunto o que você pode simplesmente ter criado..."
 
 # game/tetris.rpy:378
 translate ptbr custom_tetris_repeat_audio_9b1b5f0d:
 
     # y "Most likely something ridiculous or nonsensical..."
-    y ""
+    y "Muito provavelmente algo ridículo ou sem sentido..."
 
 # game/tetris.rpy:384
 translate ptbr custom_tetris_failure_62398379:
 
     # y "[player]? It seems you need to fix some issue which I mention"
-    y ""
+    y "[player]? Parece que você precisa corrigir alguns problemas que eu mencionei"
 
 # game/tetris.rpy:385
 translate ptbr custom_tetris_failure_03027af4:
 
     # y "Perhaps I should explain all steps again"
-    y ""
+    y "Talvez eu devesse explicar todos os passos de novo"
 
 # game/tetris.rpy:390
 translate ptbr custom_tetris_checkpoint_2390d2a1:
 
     # y "Do you have everything done?" nointeract
-    y "" nointeract
+    y "Você tem tudo pronto?" nointeract
 
 # game/tetris.rpy:439
 translate ptbr custom_tetris_checkpoint_138eba0a:
@@ -814,13 +814,13 @@ translate ptbr custom_tetris_checkpoint_138eba0a:
 translate ptbr custom_tetris_checkpoint_805750e4:
 
     # y "No need to rush. Take your time."
-    y ""
+    y "Não precisa ter pressa. No seu tempo."
 
 # game/tetris.rpy:448
 translate ptbr tetris_difficulty_c24e5bcd:
 
     # y "If you are not used to Tetris, we can adjust the difficulty a bit. Just tell me how you wish it to be, I will not judge."
-    y ""
+    y "Se você não está acostumado ao Tetris, podemos ajustar a dificuldade um pouco. Só me fale como você quer que seja, não vou julgar."
 
 # game/tetris.rpy:456
 translate ptbr tetris_difficulty_f0c8691b:
@@ -832,13 +832,13 @@ translate ptbr tetris_difficulty_f0c8691b:
 translate ptbr tetris_difficulty_ac44e2aa:
 
     # y "You'd like me to go easy on you this time, hm?"
-    y ""
+    y "Você gostaria que eu pegue leve com você dessa vez, hm?"
 
 # game/tetris.rpy:458
 translate ptbr tetris_difficulty_35fb6b93:
 
     # y "I'm happy to oblige, [player]!"
-    y ""
+    y "Com prazer, [player]!"
 
 # game/tetris.rpy:463
 translate ptbr tetris_difficulty_71a86863:
@@ -850,97 +850,97 @@ translate ptbr tetris_difficulty_71a86863:
 translate ptbr tetris_difficulty_4c311a4c:
 
     # y "I-is this some kind of joke? Directed at me?"
-    y ""
+    y "I-Isso é algum tipo de piada? Direcionada a mim?"
 
 # game/tetris.rpy:465
 translate ptbr tetris_difficulty_9874c98f:
 
     # y "To indulge in this activity but at such an infantile level... Seemingly to jest at my abilities?"
-    y ""
+    y "Para desfrutar dessa atividade mas em um nível tão infantil... Aparentemente para zombar das minhas habilidades?"
 
 # game/tetris.rpy:467
 translate ptbr tetris_difficulty_d2755378:
 
     # y "Whatever... Let us proceed."
-    y ""
+    y "De qualquer forma... Prossigamos."
 
 # game/tetris.rpy:479
 translate ptbr tetris_difficulty_cf35142a:
 
     # y "Oh I see~ Trying to warm up with a slight challenge eh?"
-    y ""
+    y "Oh estou vendo~ Tentando se aquecer com um pequeno desafio eh?"
 
 # game/tetris.rpy:480
 translate ptbr tetris_difficulty_ef0603b4:
 
     # y "Well then. I would like to see how you do!"
-    y ""
+    y "Bem então, eu gostaria de ver como você vai se sair!"
 
 # game/tetris.rpy:481
 translate ptbr tetris_difficulty_4322c388:
 
     # y "It is good to get out of your comfort zone a bit more."
-    y ""
+    y "É bom sair um pouquinho mais da sua zona de conforto."
 
 # game/tetris.rpy:486
 translate ptbr tetris_difficulty_fecdbe0c:
 
     # y "Hm... Y-you know I am slightly surprised that you wanted to partake in this game with me. I was thinking you'd pick a harder difficulty just to prove a point."
-    y ""
+    y "Hm... V-você sabe que estou ligeiramente surpresa que você queria participar desse jogo comigo. Eu estava pensando que você escolheria uma dificuldade maior apenas para provar o ponto."
 
 # game/tetris.rpy:487
 translate ptbr tetris_difficulty_ede34972:
 
     # y "I mean why even bother with such a simple difficulty with someone as myself?"
-    y ""
+    y "Digo por que se importar com uma dificuldade tão simples com uma pessoa como eu?"
 
 # game/tetris.rpy:488
 translate ptbr tetris_difficulty_550e0a55:
 
     # y "If this is meant to be a joke, I quite frankly do not understand it."
-    y ""
+    y "Se era para ser uma piada, eu francamente não a entendi muito."
 
 # game/tetris.rpy:490
 translate ptbr tetris_difficulty_20b96591:
 
     # y "Whatever... Anyways let the games begin."
-    y ""
+    y "De qualquer forma... Enfim que comecem os jogos."
 
 # game/tetris.rpy:499
 translate ptbr tetris_difficulty_03257879:
 
     # y "Oh huhuhehehe... Really turning the dial up are you now, [player]?"
-    y ""
+    y "Oh huhuhehehe... Você está realmente pegando mais pesando agora, [player]?"
 
 # game/tetris.rpy:500
 translate ptbr tetris_difficulty_4d990962:
 
     # y "Well I do like it when you get a bit more daring~ It is rather inspiring."
-    y ""
+    y "Bem eu gosto quando você fica um pouco mais audacioso~ Na verdade isso é inspirador."
 
 # game/tetris.rpy:502
 translate ptbr tetris_difficulty_93fbb8e0:
 
     # y "Well as people say nowadays, I guess, let these games begin!"
-    y ""
+    y "Bem como as pessoas dizem nos dias de hoje, eu acho, que comecem os jogos!"
 
 # game/tetris.rpy:503
 translate ptbr tetris_difficulty_e6d78206:
 
     # y "O-oh but don't go too hard on yourself [player]... Eheheh."
-    y ""
+    y "O-oh mas não se cobre demais [player]... Eheheh."
 
 # game/tetris.rpy:508
 translate ptbr tetris_difficulty_dd9b31ac:
 
     # y "I-I guess you really want to rub it in my face just to prove a point..."
-    y ""
+    y "E-Eu acho que você realmente quer esfregar na minha cara para provar o ponto..."
 
 # game/tetris.rpy:509
 translate ptbr tetris_difficulty_d4e5aa1f:
 
     # y "Very well then... Let the games begin, I suppose."
-    y ""
+    y "Mutio bem... Que os jogos comecem, suponho."
 
 # game/tetris.rpy:510
 translate ptbr tetris_difficulty_96067a36:
@@ -958,139 +958,139 @@ translate ptbr tetris_difficulty_5c53d1aa:
 translate ptbr tetris_difficulty_fb9e922e:
 
     # y "Oh dear [player]. That seems like such a Herculean task to tackle. Are you sure?"
-    y ""
+    y "Oh ceús [player]. Parece uma tarefa hercúlea para lidar. Você tem certeza?"
 
 # game/tetris.rpy:521
 translate ptbr tetris_difficulty_848416cf:
 
     # y "Ehehehehe... Well alright if you insist~"
-    y ""
+    y "Ehehehehe... Bem entendido se você insiste~"
 
 # game/tetris.rpy:522
 translate ptbr tetris_difficulty_7bedec12:
 
     # y "Prepare thy mind and body for the penultimate gamer's challenge dear [player]!"
-    y ""
+    y "Prepare tua mente e corpo para o penúltimo desafio do gamer, querido [player]!"
 
 # game/tetris.rpy:527
 translate ptbr tetris_difficulty_9abb9ea6:
 
     # y "Oh oh... Oh my yes!"
-    y ""
+    y "Oh oh... Ah sim!"
 
 # game/tetris.rpy:528
 translate ptbr tetris_difficulty_87e4cfd1:
 
     # y "A glutton for punishment aren't you [player]?"
-    y ""
+    y "Você um masoquista, não é [player]?"
 
 # game/tetris.rpy:529
 translate ptbr tetris_difficulty_dd6e5642:
 
     # y "Whatever scars from this task you may carry I will bear with you!"
-    y ""
+    y "Quaisquer cicatrizes dessa tarefa que você pode levar eu vou te apoiar!"
 
 # game/tetris.rpy:530
 translate ptbr tetris_difficulty_d1bfa4e4:
 
     # y "J-just be a bit careful [player]... If you exert yourself too much and get hurt, I might have to thrash a few things here~ Aahahaha..."
-    y ""
+    y "Só tome um pouco de cuidado [player]... Se você se exceder demais e se machucar, eu talvez tenha que dar um jeito em algumas cosias aqui~ Aahahaha..."
 
 # game/tetris.rpy:532
 translate ptbr tetris_difficulty_02091b8a:
 
     # y "Show me, show them all what you are made of sweet [player]!!!"
-    y ""
+    y "Me mostre, mostre a todos que você é feito de doçura [player]!!!"
 
 # game/tetris.rpy:537
 translate ptbr tetris_difficulty_2cf3a26d:
 
     # y "I-I see..."
-    y "V-Vejamos..."
+    y "E-Entendi..."
 
 # game/tetris.rpy:538
 translate ptbr tetris_difficulty_487f9709:
 
     # y "I guess you just want to jest with me then..."
-    y ""
+    y "Eu acho que você só quer zombar de mim então..."
 
 # game/tetris.rpy:540
 translate ptbr tetris_difficulty_a546faed:
 
     # y "Maybe prove your point further on how bigger you are than me? Rub it in my face just a little more. To show how much you don't need me?"
-    y ""
+    y "Talvez prove o seu ponto mais em quão maior você é que eu? Esfregue na minha cara só mais um pouco. Para me mostrar o quanto você não precisa de mim?"
 
 # game/tetris.rpy:542
 translate ptbr tetris_difficulty_e924c95d:
 
     # y "N-nevermind... It wouldn't matter what I said here. Let the games begin I guess."
-    y ""
+    y "E-esquece... Não importaria o que eu disse aqui. Que os jogos comecem eu acho."
 
 # game/tetris.rpy:549
 translate ptbr tetris_difficulty_d97d97a4:
 
     # y "Oh you are in for a bumpy ride [player]..."
-    y ""
+    y "Oh você topou para um perrengue [player]..."
 
 # game/tetris.rpy:554
 translate ptbr tetris_difficulty_eb1db2ff:
 
     # y "...but I guess you like it that way don't you..."
-    y ""
+    y "... mas eu acho que você gosta assim não é..."
 
 # game/tetris.rpy:560
 translate ptbr tetris_difficulty_a209d8a0:
 
     # y "Very well, I'll try my best to offer you a suitable challenge."
-    y ""
+    y "Muito bem, vou tentar meu melhor para te oferecer um desafio apropriado."
 
 # game/tetris.rpy:561
 translate ptbr tetris_difficulty_9ba9f63d:
 
     # y "Just keep in mind, it is just a game. It doesn't really matter who wins as long as we are having a good time."
-    y ""
+    y "Só não se esqueça, é apenas um jogo. Não importa realmente quem ganha contanto que nós estejamos nos divertindo."
 
 # game/tetris.rpy:566
 translate ptbr tetris_difficulty_5e750acc:
 
     # y "Maybe I can teach you a lesson here..."
-    y ""
+    y "Talvez eu possa te ensinar uma lição aqui..."
 
 # game/tetris.rpy:572
 translate ptbr tetris_difficulty_7277ca60:
 
     # y "The highest, I see..."
-    y ""
+    y "A maior, entendi..."
 
 # game/tetris.rpy:573
 translate ptbr tetris_difficulty_9d424703:
 
     # y "I'm not even sure if I'm good enough to pull this off but... let's give it a try."
-    y ""
+    y "Eu nem tenho certeza de que se eu sou boa o suficiente para dar conta disso mas... vamos tentar."
 
 # game/tetris.rpy:592
 translate ptbr tetris_difficulty_e3ce8c17:
 
     # y "Oh, how polite of you to let me choose. Why don't we keep it casual for now with easy then darling~"
-    y ""
+    y "Oh, que educado da sua parte me deixar escolher. Por que não deixamos casual por agora com fácil então querido~"
 
 # game/tetris.rpy:594
 translate ptbr tetris_difficulty_0423c870:
 
     # y "Oh, how polite of you to let me choose [player]. Why don't we keep it casual with easy then?"
-    y ""
+    y "Oh, que educado da sua parte me deixar escolher [player]. Por que não deixamos casual com fácil então?"
 
 # game/tetris.rpy:602
 translate ptbr tetris_difficulty_f9bfbd9d:
 
     # y "Oh, how polite of you to let me choose. Why don't we keep it casual for now with medium then darling~"
-    y ""
+    y "Oh, que educado da sua parte me deixar escolher. Por que não deixamos casual por agora com médio então qurido~"
 
 # game/tetris.rpy:604
 translate ptbr tetris_difficulty_3fdd3ab8:
 
     # y "Oh, how polite of you to let me choose [player]. Why don't we keep it casual with medium for now then?"
-    y ""
+    y "Oh, que educado da sua parte me deixar escolher [player]. Por que não deixamos casual com médio por agora então?"
 
 # game/tetris.rpy:613
 translate ptbr tetris_difficulty_66f151ed:
@@ -1102,13 +1102,13 @@ translate ptbr tetris_difficulty_66f151ed:
 translate ptbr tetris_difficulty_88ae1066:
 
     # y "I'm feeling something just a bit less challenging if that's alright with you."
-    y ""
+    y "Eu estou com vontade de algo só um pouco menos desafiador se for tudo bem para você."
 
 # game/tetris.rpy:616
 translate ptbr tetris_difficulty_855c9cce:
 
     # y "Easy should work just fine for us then."
-    y ""
+    y "Fácil deve funcionar bem para nós então."
 
 # game/tetris.rpy:623
 translate ptbr tetris_difficulty_66f151ed_1:
@@ -1120,13 +1120,13 @@ translate ptbr tetris_difficulty_66f151ed_1:
 translate ptbr tetris_difficulty_9bd3dfcd:
 
     # y "I'm feeling something just a bit challenging if that's alright with you."
-    y ""
+    y "Eu estou com vontade de algo só um pouco desafiador se for tudo bem para você."
 
 # game/tetris.rpy:626
 translate ptbr tetris_difficulty_022b7d88:
 
     # y "Medium should work just fine for us then."
-    y ""
+    y "Médio deve funcionar bem para nós então."
 
 # game/tetris.rpy:633
 translate ptbr tetris_difficulty_66f151ed_2:
@@ -1138,31 +1138,31 @@ translate ptbr tetris_difficulty_66f151ed_2:
 translate ptbr tetris_difficulty_2d7819e3:
 
     # y "I'm feeling something with a decent bit of challenge if that's alright with you."
-    y ""
+    y "Eu estou com vontade de uma quantidade decente de desafio se for tudo para você."
 
 # game/tetris.rpy:636
 translate ptbr tetris_difficulty_2fcbeaab:
 
     # y "Hard should work just fine for us then."
-    y ""
+    y "Difícil deve funcionar bem para nós então."
 
 # game/tetris.rpy:649
 translate ptbr tetris_difficulty_b9ce55ab:
 
     # y "I-If you're comfortable with that, [player]."
-    y ""
+    y "S-Se você estiver confortável com isso, [player]."
 
 # game/tetris.rpy:650
 translate ptbr tetris_difficulty_92847e77:
 
     # y "Don't expect me to give you a free pass though."
-    y ""
+    y "Mas não espere que eu te dê carta branca."
 
 # game/tetris.rpy:652
 translate ptbr tetris_difficulty_0a35923e:
 
     # y "Medium should suffice."
-    y ""
+    y "Médio já seria suficiente."
 
 # game/tetris.rpy:657
 translate ptbr tetris_difficulty_71a86863_1:
@@ -1174,19 +1174,19 @@ translate ptbr tetris_difficulty_71a86863_1:
 translate ptbr tetris_difficulty_4fe7a64a:
 
     # y "Could you at least have put in the effort to choose your own difficulty setting?"
-    y ""
+    y "Você poderia pelo menos ter se esforçado para escolher a sua própria configuração de dificuldade?"
 
 # game/tetris.rpy:660
 translate ptbr tetris_difficulty_6147cbf6:
 
     # y "Let's just get this over with. Medium it is."
-    y ""
+    y "Só vamos acabar logo com isso. Vai ser Médio."
 
 # game/tetris.rpy:665
 translate ptbr tetris_difficulty_2279d203:
 
     # y "{b}It would be quite fun if you were always this passive towards me [player].{/b}"
-    y ""
+    y "{b}Seria bem divertido se você sempre fosse passivo assim comigo [player].{/b}"
 
 # game/tetris.rpy:667
 translate ptbr tetris_difficulty_71a86863_2:
@@ -1198,25 +1198,25 @@ translate ptbr tetris_difficulty_71a86863_2:
 translate ptbr tetris_difficulty_2b508806:
 
     # y "I still need to go ahead and choose a difficulty don't I? Medium should do just fine then, correct?"
-    y ""
+    y "Eu ainda preciso prosseguir e escolher uma dificuldade não é? Médio deve funcionar bem então, correto?"
 
 # game/tetris.rpy:678
 translate ptbr tetris_difficulty_b9ce55ab_1:
 
     # y "I-If you're comfortable with that, [player]."
-    y ""
+    y "S-Se você estiver confortável com isso, [player]."
 
 # game/tetris.rpy:679
 translate ptbr tetris_difficulty_92847e77_1:
 
     # y "Don't expect me to give you a free pass though."
-    y ""
+    y "Mas não espere que eu te dê carta branca."
 
 # game/tetris.rpy:681
 translate ptbr tetris_difficulty_12c65871:
 
     # y "Hard should suffice."
-    y ""
+    y "Difícil já seria suficiente."
 
 # game/tetris.rpy:686
 translate ptbr tetris_difficulty_71a86863_3:
@@ -1228,19 +1228,19 @@ translate ptbr tetris_difficulty_71a86863_3:
 translate ptbr tetris_difficulty_4fe7a64a_1:
 
     # y "Could you at least have put in the effort to choose your own difficulty setting?"
-    y ""
+    y "Você poderia pelo menos ter se esforçado para escolher a sua própria configuração de dificuldade?"
 
 # game/tetris.rpy:689
 translate ptbr tetris_difficulty_6b814908:
 
     # y "Let's just get this over with. Hard it is."
-    y ""
+    y "Só vamos acabar logo com isso. Vai ser Difícil."
 
 # game/tetris.rpy:694
 translate ptbr tetris_difficulty_2279d203_1:
 
     # y "{b}It would be quite fun if you were always this passive towards me [player].{/b}"
-    y ""
+    y "{b}Seria bem divertido se você sempre fosse passivo assim comigo [player].{/b}"
 
 # game/tetris.rpy:696
 translate ptbr tetris_difficulty_71a86863_4:
@@ -1252,13 +1252,13 @@ translate ptbr tetris_difficulty_71a86863_4:
 translate ptbr tetris_difficulty_a74f5c83:
 
     # y "I still need to go ahead and choose a difficulty don't I? Hard should do just fine then, correct?"
-    y ""
+    y "Eu ainda preciso prosseguir e escolher uma dificuldade não é? Difícil deve funcionar bem então, correto?"
 
 # game/tetris.rpy:707
 translate ptbr tetris_difficulty_b9ce55ab_2:
 
     # y "I-If you're comfortable with that, [player]."
-    y ""
+    y "S-Se você estiver confortável com isso, [player]."
 
 # game/tetris.rpy:708
 translate ptbr tetris_difficulty_92847e77_2:
@@ -1282,19 +1282,19 @@ translate ptbr tetris_difficulty_71a86863_5:
 translate ptbr tetris_difficulty_4fe7a64a_2:
 
     # y "Could you at least have put in the effort to choose your own difficulty setting?"
-    y ""
+    y "Você poderia pelo menos ter se esforçado para escolher a sua própria configuração de dificuldade?"
 
 # game/tetris.rpy:718
 translate ptbr tetris_difficulty_1dade134:
 
     # y "Let's just get this over with. Disadvantaged it is."
-    y ""
+    y "Só vamos acabar logo com isso. Vai ser Desvantajoso."
 
 # game/tetris.rpy:723
 translate ptbr tetris_difficulty_2279d203_2:
 
     # y "{b}It would be quite fun if you were always this passive towards me [player].{/b}"
-    y ""
+    y "{b}Seria bem divertido se você sempre fosse passivo assim comigo [player].{/b}"
 
 # game/tetris.rpy:725
 translate ptbr tetris_difficulty_71a86863_6:
@@ -1306,49 +1306,49 @@ translate ptbr tetris_difficulty_71a86863_6:
 translate ptbr tetris_difficulty_76eb34e1:
 
     # y "I still need to go ahead and choose a difficulty don't I? Disadvantaged should do just fine then, correct?"
-    y ""
+    y "Eu ainda preciso prosseguir e escolher uma dificuldade não é? Desvantajoso deve funcionar bem então, correto?"
 
 # game/tetris.rpy:740
 translate ptbr tetris_difficulty_54ede72b:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:741
 translate ptbr tetris_difficulty_5681003b:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa a dificuldade em que nós jogamos?"
 
 # game/tetris.rpy:742
 translate ptbr tetris_difficulty_f14c5608:
 
     # y "I guess I'll just go for hard, You'll probably just boast about it afterwards regardless."
-    y ""
+    y "Eu acho que eu simplesmente vou de Difícil, você provavelmente só vai se gabar disso depois de qualquer forma."
 
 # game/tetris.rpy:747
 translate ptbr tetris_difficulty_54ede72b_1:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:748
 translate ptbr tetris_difficulty_5681003b_1:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa a dificuldade em que nós jogamos?"
 
 # game/tetris.rpy:749
 translate ptbr tetris_difficulty_a41027ce:
 
     # y "I guess I'll just go for hard, You'll probably just boast about it afterwards regardless..."
-    y ""
+    y "Eu acho que eu simplesmente vou de Difícil, você provavelmente só vai se gabar disso depois de qualquer forma."
 
 # game/tetris.rpy:751
 translate ptbr tetris_difficulty_bfce4349:
 
     # y "What did I do to deserve this kind of treatment anyways?"
-    y ""
+    y "O que eu fiz para merecer esse tipo de tratamento afinal?"
 
 # game/tetris.rpy:752
 translate ptbr tetris_difficulty_71a86863_7:
@@ -1360,67 +1360,67 @@ translate ptbr tetris_difficulty_71a86863_7:
 translate ptbr tetris_difficulty_d1968c87:
 
     # y "Let's just get on with it already."
-    y ""
+    y "Só vamos continuar isso logo."
 
 # game/tetris.rpy:758
 translate ptbr tetris_difficulty_8926ef53:
 
     # y "How about we go for hard if you're willing?"
-    y ""
+    y "Que tal irmos de difícil se você estiver com vontade?"
 
 # game/tetris.rpy:760
 translate ptbr tetris_difficulty_d3d461d9:
 
     # y "It would be quite fun to pressure you just a bit."
-    y ""
+    y "Seria bem divertido fazer pressão em você só um pouco."
 
 # game/tetris.rpy:761
 translate ptbr tetris_difficulty_6b6c8bff:
 
     # y "Not to mention it's cute to watch you squirm around trying to keep up with me."
-    y ""
+    y "Sem esquecer de que é fofo te ver se contorcendo tentando me acompanhar."
 
 # game/tetris.rpy:770
 translate ptbr tetris_difficulty_54ede72b_2:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:771
 translate ptbr tetris_difficulty_5681003b_2:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa em que dificuldade nós jogamos?"
 
 # game/tetris.rpy:772
 translate ptbr tetris_difficulty_942018f2:
 
     # y "I guess I'll just go for disadvantaged, You'll probably just boast about it afterwards regardless."
-    y ""
+    y "Eu acho que eu simplesmente vou de Desvantajoso, você provavelmente só vai se gabar disso depois de qualquer forma."
 
 # game/tetris.rpy:777
 translate ptbr tetris_difficulty_54ede72b_3:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:778
 translate ptbr tetris_difficulty_5681003b_3:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa em que dificuldade nós jogamos?"
 
 # game/tetris.rpy:779
 translate ptbr tetris_difficulty_ae456b49:
 
     # y "I guess I'll just go for disadvantaged, You'll probably just boast about it afterwards regardless..."
-    y ""
+    y "Eu acho que eu simplesmente vou de Desvantajoso, você provavelmente só vai se gabar disso depois de qualquer forma..."
 
 # game/tetris.rpy:781
 translate ptbr tetris_difficulty_bfce4349_1:
 
     # y "What did I do to deserve this kind of treatment anyways?"
-    y ""
+    y "O que eu fiz para merecer esse tipo de tratamento afinal?"
 
 # game/tetris.rpy:782
 translate ptbr tetris_difficulty_71a86863_8:
@@ -1432,67 +1432,67 @@ translate ptbr tetris_difficulty_71a86863_8:
 translate ptbr tetris_difficulty_d1968c87_1:
 
     # y "Let's just get on with it already."
-    y ""
+    y "Só vamos continuar isso logo."
 
 # game/tetris.rpy:788
 translate ptbr tetris_difficulty_c4637ad7:
 
     # y "How about we go for disadvantaged if you're willing?"
-    y ""
+    y "Que tal irmos de Desvantajoso se você estiver com vontade?"
 
 # game/tetris.rpy:790
 translate ptbr tetris_difficulty_d3d461d9_1:
 
     # y "It would be quite fun to pressure you just a bit."
-    y ""
+    y "Seria bem divertido fazer pressão em você só um pouco."
 
 # game/tetris.rpy:791
 translate ptbr tetris_difficulty_6b6c8bff_1:
 
     # y "Not to mention it's cute to watch you squirm around trying to keep up with me."
-    y ""
+    y "Sem esquecer de que é fofo te ver se contorcer tentando me acompanhar."
 
 # game/tetris.rpy:800
 translate ptbr tetris_difficulty_54ede72b_4:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:801
 translate ptbr tetris_difficulty_5681003b_4:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa em que dificuldade nós jogamos?"
 
 # game/tetris.rpy:802
 translate ptbr tetris_difficulty_c9adca38:
 
     # y "I guess I'll just go for expert, You'll probably just boast about it afterwards regardless."
-    y ""
+    y "Eu acho que eu simplesmente vou de Expert, você provavelmente só vai se gabar disso depois de qualquer forma."
 
 # game/tetris.rpy:807
 translate ptbr tetris_difficulty_54ede72b_5:
 
     # y "I d-don't really know..."
-    y ""
+    y "Eu não s-sei na verdade..."
 
 # game/tetris.rpy:808
 translate ptbr tetris_difficulty_5681003b_5:
 
     # y "Does it really even matter what difficulty we play on?"
-    y ""
+    y "Realmente importa em que dificuldade nós jogamos?"
 
 # game/tetris.rpy:809
 translate ptbr tetris_difficulty_6ec12e73:
 
     # y "I guess I'll just go for expert, You'll probably just boast about it afterwards regardless..."
-    y ""
+    y "Eu acho que eu simplesmente vou de Expert, você provavelmente só vai se gabar disso depois de qualquer forma..."
 
 # game/tetris.rpy:811
 translate ptbr tetris_difficulty_bfce4349_2:
 
     # y "What did I do to deserve this kind of treatment anyways?"
-    y ""
+    y "O que eu fiz para merecer esse tipo de tratamento afinal?"
 
 # game/tetris.rpy:812
 translate ptbr tetris_difficulty_71a86863_9:
@@ -1504,31 +1504,31 @@ translate ptbr tetris_difficulty_71a86863_9:
 translate ptbr tetris_difficulty_d1968c87_2:
 
     # y "Let's just get on with it already."
-    y ""
+    y "Só vamos continuar isso logo."
 
 # game/tetris.rpy:818
 translate ptbr tetris_difficulty_be73a27b:
 
     # y "How about we go for expert if you're willing?"
-    y ""
+    y "Que tal irmos de Expert se você estiver com vontade?"
 
 # game/tetris.rpy:820
 translate ptbr tetris_difficulty_d3d461d9_2:
 
     # y "It would be quite fun to pressure you just a bit."
-    y ""
+    y "Seria bem divertido fazer pressão em você só um pouco."
 
 # game/tetris.rpy:821
 translate ptbr tetris_difficulty_6b6c8bff_2:
 
     # y "Not to mention it's cute to watch you squirm around trying to keep up with me."
-    y ""
+    y "Sem esquecer de que é fofo te ver se contorcer tentando me acompanhar."
 
 # game/tetris.rpy:833
 translate ptbr tetris_difficulty_0331ef30:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:834
 translate ptbr tetris_difficulty_7d886a48:
@@ -1540,19 +1540,19 @@ translate ptbr tetris_difficulty_7d886a48:
 translate ptbr tetris_difficulty_04c6ca11:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de te colocar no seu lugar, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:836
 translate ptbr tetris_difficulty_2163ad84:
 
     # y "Let's set it to disadvantaged and see just how well you do."
-    y ""
+    y "Vamos colocar em Desvantajoso e ver quão bem você se sai."
 
 # game/tetris.rpy:840
 translate ptbr tetris_difficulty_0331ef30_1:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:841
 translate ptbr tetris_difficulty_7d886a48_1:
@@ -1564,19 +1564,19 @@ translate ptbr tetris_difficulty_7d886a48_1:
 translate ptbr tetris_difficulty_04c6ca11_1:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de baixar a sua bola, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:844
 translate ptbr tetris_difficulty_2163ad84_1:
 
     # y "Let's set it to disadvantaged and see just how well you do."
-    y ""
+    y "Vamos colocar em Desvantajoso e ver quão bem você se sai."
 
 # game/tetris.rpy:852
 translate ptbr tetris_difficulty_0331ef30_2:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:853
 translate ptbr tetris_difficulty_7d886a48_2:
@@ -1588,19 +1588,19 @@ translate ptbr tetris_difficulty_7d886a48_2:
 translate ptbr tetris_difficulty_04c6ca11_2:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de baixar a sua bola, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:855
 translate ptbr tetris_difficulty_c0a33526:
 
     # y "Let's set it to expert and see just how well you do."
-    y ""
+    y "Vamos colocar em Expert e ver quão bem você se sai."
 
 # game/tetris.rpy:859
 translate ptbr tetris_difficulty_0331ef30_3:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:860
 translate ptbr tetris_difficulty_7d886a48_3:
@@ -1612,19 +1612,19 @@ translate ptbr tetris_difficulty_7d886a48_3:
 translate ptbr tetris_difficulty_04c6ca11_3:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de baixar a sua bola, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:863
 translate ptbr tetris_difficulty_c0a33526_1:
 
     # y "Let's set it to expert and see just how well you do."
-    y ""
+    y "Vamos colocar em Expert e ver quão bem você se sai."
 
 # game/tetris.rpy:871
 translate ptbr tetris_difficulty_0331ef30_4:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:872
 translate ptbr tetris_difficulty_7d886a48_4:
@@ -1636,19 +1636,19 @@ translate ptbr tetris_difficulty_7d886a48_4:
 translate ptbr tetris_difficulty_04c6ca11_4:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de baixar a sua bola, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:874
 translate ptbr tetris_difficulty_af62599c:
 
     # y "Let's set it to veteran and see just how well you do."
-    y ""
+    y "Vamos colocar em Veterano e ver quão bem você se sai."
 
 # game/tetris.rpy:878
 translate ptbr tetris_difficulty_0331ef30_5:
 
     # y "I couldn't honestly care less what difficulty we play at by this point."
-    y ""
+    y "Eu honestamente não poderia me importar menos com a dificuldade que nós jogamos a esse ponto."
 
 # game/tetris.rpy:879
 translate ptbr tetris_difficulty_7d886a48_5:
@@ -1660,13 +1660,13 @@ translate ptbr tetris_difficulty_7d886a48_5:
 translate ptbr tetris_difficulty_04c6ca11_5:
 
     # y "This would make for a good opportunity to put you in your place, and I won't waste it."
-    y ""
+    y "Seria uma boa oportunidade de baixar a sua bola, e eu não vou desperdiçá-la."
 
 # game/tetris.rpy:882
 translate ptbr tetris_difficulty_af62599c_1:
 
     # y "Let's set it to veteran and see just how well you do."
-    y ""
+    y "Vamos colocar em Veterano e ver quão bem você se sai."
 
 # game/tetris.rpy:891
 translate ptbr tetris_difficulty_4f87b85b:
@@ -1678,25 +1678,25 @@ translate ptbr tetris_difficulty_4f87b85b:
 translate ptbr tetris_difficulty_739cf581:
 
     # y "You want me to choose the difficulty?"
-    y ""
+    y "Você quer que eu escolha a dificuldade?"
 
 # game/tetris.rpy:893
 translate ptbr tetris_difficulty_a588282e:
 
     # y "Fine [player], your wish is my command."
-    y ""
+    y "Muito bem [player], seu desejo é uma ordem."
 
 # game/tetris.rpy:895
 translate ptbr tetris_difficulty_2f3c2cdd:
 
     # y "How about expert hmm? Seems like a fair competition don't you think?"
-    y ""
+    y "Que tal Expert hmm? Parece uma competição justa, você não acha?"
 
 # game/tetris.rpy:897
 translate ptbr tetris_difficulty_a1b15c92:
 
     # y "I just hope you'll be able to keep up the pace. It would be quite a shame if I decimated the scoreboard."
-    y ""
+    y "Eu só espero que você consiga manter o ritmo. Seria uma vergonha se eu dizimasse a pontuação."
 
 # game/tetris.rpy:904
 translate ptbr tetris_difficulty_4f87b85b_1:
@@ -1714,61 +1714,61 @@ translate ptbr tetris_difficulty_739cf581_1:
 translate ptbr tetris_difficulty_a588282e_1:
 
     # y "Fine [player], your wish is my command."
-    y ""
+    y "Muito bem [player], seu desejo é uma ordem."
 
 # game/tetris.rpy:908
 translate ptbr tetris_difficulty_20c32cb4:
 
     # y "How about veteran hmm? Seems like a fair competition don't you think?"
-    y ""
+    y "Que tal Veterano hmm? Parece uma competição justa, você não acha?"
 
 # game/tetris.rpy:910
 translate ptbr tetris_difficulty_a1b15c92_1:
 
     # y "I just hope you'll be able to keep up the pace. It would be quite a shame if I decimated the scoreboard."
-    y ""
+    y "Eu só espero que você consiga manter o ritmo. Seria uma vergonha se eu dizimasse a pontuação."
 
 # game/tetris.rpy:916
 translate ptbr tetris_rules_be8949cb:
 
     # y "Allow me to explain the controls..."
-    y ""
+    y "Me permita explicar os controles..."
 
 # game/tetris.rpy:917
 translate ptbr tetris_rules_96d1eb1c:
 
     # y "You can use arrows to move your pieces. Hitting UP will rotate your piece, hitting DOWN will speed up your drop."
-    y ""
+    y "Você pode usar as setas para mover as suas peças. Apertar UP vai rotacionar a sua peça, apertar DOWN vai acelerar a queda."
 
 # game/tetris.rpy:918
 translate ptbr tetris_rules_783a4ce2:
 
     # y "Hitting SPACE will drop the piece instantaneously."
-    y ""
+    y "Apertar ESPAÇO vai deixar a peça cair instantaneamente."
 
 # game/tetris.rpy:919
 translate ptbr tetris_rules_f895b000:
 
     # y "Q key will put the piece into hold, but you can't double hold the same piece..."
-    y ""
+    y "A tecla Q vai colocar a peça na reserva, mas você não pode deixar a mesma peça na reserva."
 
 # game/tetris.rpy:920
 translate ptbr tetris_rules_caf83716:
 
     # y "...While the E key will use the piece which you are holding."
-    y ""
+    y "... Enquanto a tecla E vai usar a peça que você estiver reservando."
 
 # game/tetris.rpy:924
 translate ptbr tetris_rules_b0420706:
 
     # y "Would you like some Tetris music while we play?" nointeract
-    y "" nointeract
+    y "Você quer música do Tetris enquanto nós jogamos?" nointeract
 
 # game/tetris.rpy:927
 translate ptbr tetris_rules_e1b4db28:
 
     # y "Let the best Tetris player win."
-    y ""
+    y "Que o melhor jogador de Tetris vença."
 
 # game/tetris.rpy:929
 translate ptbr tetris_rules_ad2c739b:
@@ -1780,91 +1780,91 @@ translate ptbr tetris_rules_ad2c739b:
 translate ptbr tetris_rules_5e2deb57:
 
     # y "Let's enjoy our time together trying to get the highest score!"
-    y ""
+    y "Vamos aproveitar o nosso tempo juntos tentando conseguir a maior pontuação!"
 
 # game/tetris.rpy:933
 translate ptbr tetris_rules_d9a6e860:
 
     # y "I really hope I will be at least some of help for you, [player]."
-    y ""
+    y "Eu realmente espero que eu seja pelo menos um pouco de ajuda para você, [player]."
 
 # game/tetris.rpy:951
 translate ptbr tetris_rules_e1b4db28_1:
 
     # y "Let the best Tetris player win."
-    y ""
+    y "Que o melhor jogador de Tetris vença."
 
 # game/tetris.rpy:953
 translate ptbr tetris_rules_ad2c739b_1:
 
     # y "Game on, [player]!"
-    y ""
+    y "Partida andando, [player]!"
 
 # game/tetris.rpy:955
 translate ptbr tetris_rules_5e2deb57_1:
 
     # y "Let's enjoy our time together trying to get the highest score!"
-    y ""
+    y "Vamos aproveitar o nosso tempo juntos tentando conseguir a maior pontuação!"
 
 # game/tetris.rpy:957
 translate ptbr tetris_rules_d9a6e860_1:
 
     # y "I really hope I will be at least some of help for you, [player]."
-    y ""
+    y "Eu realmente espero que eu seja pelo menos um pouco de ajuda para você, [player]."
 
 # game/tetris.rpy:968
 translate ptbr tetris_over_ba72ef4d:
 
     # y "O-oh my!! Oh that was quite a little thrill~"
-    y ""
+    y "O-oh minha nossa!! Essa foi emocionante~"
 
 # game/tetris.rpy:969
 translate ptbr tetris_over_90576ca7:
 
     # y "I had enjoyment just being in that moment with you [player]. Even though I may have strived for a higher score."
-    y ""
+    y "Eu me diverti simplesmente por estar no momento com você [player]. Mesmo que eu tenha alcançado uma pontuação maior."
 
 # game/tetris.rpy:971
 translate ptbr tetris_over_301c5f0c:
 
     # y "Really though, it is indeed the moment shared together and the heart that counts!"
-    y ""
+    y "Mas realmente, é de fato o momento jutnos e o coração que importam!"
 
 # game/tetris.rpy:972
 translate ptbr tetris_over_c4208512:
 
     # y "Hehehe... Though I will admit part of me does want to try again and see if I score higher."
-    y ""
+    y "Hehehe... Mas eu vou admitir, uma parte de mim quer tentar de novo e ver se eu pontuo mais."
 
 # game/tetris.rpy:974
 translate ptbr tetris_over_59c9dcff:
 
     # y "Either way I believe we both put our best effort!"
-    y ""
+    y "De qualquer jeito eu acredito que nós dois damos o nosso melhor!"
 
 # game/tetris.rpy:976
 translate ptbr tetris_over_f1f1e376:
 
     # y "So [player], do you want to try again? Us together one more time?" nointeract
-    y "" nointeract
+    y "Então [player], você quer tentar de novo? Nós juntos mais uma vez?" nointeract
 
 # game/tetris.rpy:979
 translate ptbr tetris_over_0f53e203:
 
     # y "Would you like the same music as our last game?" nointeract
-    y "" nointeract
+    y "Você gostaria da mesma música como a nossa última partida?" nointeract
 
 # game/tetris.rpy:1000
 translate ptbr tetris_over_7d937098:
 
     # y "I really enjoy playing with you. Let's do this again sometime soon."
-    y ""
+    y "Eu realmente gosto de jogar com você. Vamos fazer isso de novo algum momento em breve."
 
 # game/tetris.rpy:1006
 translate ptbr tetris_over_22167797:
 
     # y "O-oh my... Oh I hope I did not slip up too much."
-    y ""
+    y "O-oh minha nossa... Oh eu espero que eu não vacilei demais."
 
 # game/tetris.rpy:1007
 translate ptbr tetris_over_a5959bb2:
@@ -1876,43 +1876,43 @@ translate ptbr tetris_over_a5959bb2:
 translate ptbr tetris_over_d229546b:
 
     # y "I mean I obviously think your skills are lovely... I-I just don't want to b-bore you too much with mine... I mean! It was a lovely time and I appreciated it very much."
-    y ""
+    y "Digo eu obviamente aho que as suas habildade são adoráveis... E-Eu só não quero te entediar demais com as minhas... Digo! Foi um belo momento e eu o apreciei muito."
 
 # game/tetris.rpy:1012
 translate ptbr tetris_over_991566b9:
 
     # y "Anyways.. W-would you like to play this again with me [player]...?" nointeract
-    y "" nointeract
+    y "V-você gostaria jogar isso de novo comigo [player]...?" nointeract
 
 # game/tetris.rpy:1018
 translate ptbr tetris_over_7d937098_1:
 
     # y "I really enjoy playing with you. Let's do this again sometime soon."
-    y ""
+    y "Eu realmente gosto de jogar com você. Vamos fazer isso de novo algum momento em breve."
 
 # game/tetris.rpy:1024
 translate ptbr tetris_over_e7176ebc:
 
     # y "O-oh you won eh...?"
-    y ""
+    y "O-oh você ganhou eh...?"
 
 # game/tetris.rpy:1025
 translate ptbr tetris_over_0440748d:
 
     # y "I suppose now would be a good time to rub it in that you won over me."
-    y ""
+    y "Eu acho que seria uma boa hora para esfregar na minha cara que você ganhou de mim."
 
 # game/tetris.rpy:1027
 translate ptbr tetris_over_151a2fba:
 
     # y "G-go ahead. Boast to your heart's content."
-    y ""
+    y "V-vai em frente. Gabe-se à vontade."
 
 # game/tetris.rpy:1028
 translate ptbr tetris_over_33bc14b5:
 
     # y "I bet you only pretended to have fun playing against me..."
-    y ""
+    y "Eu aposto que você só fingiu ter se divertido jogando contra mim..."
 
 # game/tetris.rpy:1029
 translate ptbr tetris_over_315b7fc4:
@@ -1924,43 +1924,43 @@ translate ptbr tetris_over_315b7fc4:
 translate ptbr tetris_over_3c57f7f9:
 
     # y "Congratulations, well done."
-    y ""
+    y "Parabéns, bom trabalho."
 
 # game/tetris.rpy:1033
 translate ptbr tetris_over_60b4c43d:
 
     # y "I have to admit, that was more fun than I anticipated. Actually I was a bit worried that Tetris might become boring pretty fast."
-    y ""
+    y "Eu tenho que admitir, foi mais divertido que eu pensei. Na verdade eu estava um pouco preocupada que Tetris ficaria chato bem rápido."
 
 # game/tetris.rpy:1036
 translate ptbr tetris_over_456ab97f:
 
     # y "I hope you had a bit of fun too? If you wish we could try another round. Are you up for a rematch?" nointeract
-    y "" nointeract
+    y "Eu espero que você se divertiu também? Se você quiser nós poderíamos tentar outra rodada. Topa para uma revanche?" nointeract
 
 # game/tetris.rpy:1042
 translate ptbr tetris_over_7d937098_2:
 
     # y "I really enjoy playing with you. Let's do this again sometime soon."
-    y ""
+    y "Eu realmente gosto de jogar com você. Vamos fazer isso de novo algum momento em breve."
 
 # game/tetris.rpy:1047
 translate ptbr tetris_over_5f5d2f6c:
 
     # y "Oh my, it looks like you've beaten me!"
-    y ""
+    y "Oh minha nossa, parece que você me derrotou!"
 
 # game/tetris.rpy:1048
 translate ptbr tetris_over_aa8444a8:
 
     # y "I might have to put more training into this, so that I can be an actual challenge next time."
-    y ""
+    y "Eu talvez tenha que treinar mais nisso, para que eu possa ser um desafio de verdade da próxima vez."
 
 # game/tetris.rpy:1049
 translate ptbr tetris_over_84de0e0f:
 
     # y "Actually, would you like to give it another try? Playing with you turned out to be a lot of fun, even if it's only Tetris."
-    y ""
+    y "Na verdade, você gostaria de tentar de novo? Jogar com você "
 
 # game/tetris.rpy:1051
 translate ptbr tetris_over_0af64d18:
@@ -2098,7 +2098,7 @@ translate ptbr tetris_over_1ff6200a:
 translate ptbr tetris_over_770c3d32:
 
     # y "M-maybe this activity might help me relax and get my bearings on getting used to here and maybe knowing you more?"
-    y ""
+    y "T-talvez essa atividade possa me ajudar a relaxar e "
 
 # game/tetris.rpy:1109
 translate ptbr tetris_over_0d9d6ee7:
