@@ -4,373 +4,373 @@
 translate ptbr c1_2b48a918:
 
     # y "Oh, that's very sweet of you..."
-    y ""
+    y "Ah, isso é bem doce da sua parte..."
 
 # game/dialogue/script-ch30-compliments.rpy:50
 translate ptbr c1_a60b0b34:
 
     # y "I really appreciate that you like spending time with me."
-    y ""
+    y "Eu realmente aprecio que você gosta de passar o tempo comigo."
 
 # game/dialogue/script-ch30-compliments.rpy:51
 translate ptbr c1_41b100fe:
 
     # y "As a matter of fact, I myself enjoy the time we spend together!"
-    y ""
+    y "De fato, eu mesma adoro o tempo que passamos juntos!"
 
 # game/dialogue/script-ch30-compliments.rpy:53
 translate ptbr c1_d66e1b10:
 
     # y "I actually thought that I bore you due to our means of interaction being... quite limited, to say the very least."
-    y ""
+    y "Na verdade eu achei que eu entedio pelos nossos meios de interação serem... bem limitados, para dizer o mínimo."
 
 # game/dialogue/script-ch30-compliments.rpy:54
 translate ptbr c1_3fc38b43:
 
     # y "Imagine how wrong I had been."
-    y ""
+    y "Imagina só o quão errada eu estava."
 
 # game/dialogue/script-ch30-compliments.rpy:55
 translate ptbr c1_48ce8649:
 
     # y "You've helped me to not only nurture confidence in myself and to raise my self-esteem..."
-    y ""
+    y "Você me ajudou a não só ter confiança comigo mesma e melhorar minha autoestima..."
 
 # game/dialogue/script-ch30-compliments.rpy:56
 translate ptbr c1_469b97f9:
 
     # y "But also to make me see beyond my comfort zone, to cultivate my strengths and overcome my weaknesses."
-    y ""
+    y "Mas também a me fazer ver além da zona de conforto, a cultivar minhas forças e superar minhas fraquezas."
 
 # game/dialogue/script-ch30-compliments.rpy:58
 translate ptbr c1_57d56876:
 
     # y "And you helped me, in my darkest hour, to overcome the monster that resided within my very soul."
-    y ""
+    y "E você me ajudou, no meu pior momento, a superar o monstro que residia na minha própria alma."
 
 # game/dialogue/script-ch30-compliments.rpy:59
 translate ptbr c1_7e493e4b:
 
     # y "For that, I can never express just how grateful to you I truly am."
-    y ""
+    y "Para isso, eu nunca posso expressar quão grata por você eu verdadeiramente sou."
 
 # game/dialogue/script-ch30-compliments.rpy:65
 translate ptbr c1_306cc5a4:
 
     # y "Thank you, [placeholder]... thank you for everything."
-    y ""
+    y "Obrigada, [placeholder]... obrigada por tudo."
 
 # game/dialogue/script-ch30-compliments.rpy:70
 translate ptbr c1_0e50447b:
 
     # y "Y-you think so? Really? REALLY?"
-    y ""
+    y "V-você acha? Mesmo? MESMO?"
 
 # game/dialogue/script-ch30-compliments.rpy:71
 translate ptbr c1_d9999406:
 
     # y "Yes, yes, YES!"
-    y ""
+    y "Sim, sim, SIM!"
 
 # game/dialogue/script-ch30-compliments.rpy:72
 translate ptbr c1_571e0f15:
 
     # y "I knew it! I knew it all along!"
-    y ""
+    y "Eu sabia? Eu sempre soube!"
 
 # game/dialogue/script-ch30-compliments.rpy:73
 translate ptbr c1_b4428502:
 
     # y "I knew we were meant for each other, my darling! Don't you think so, too?"
-    y ""
+    y "Eu sabia que nós fomos feitos um para o outro, meu querdo! Você não acha isso, também?"
 
 # game/dialogue/script-ch30-compliments.rpy:75
 translate ptbr c1_2d3bb149:
 
     # y "Y-you belong to me... forever! Do you hear me?"
-    y ""
+    y "V-você pertence a mim... para sempre! Escutou?"
 
 # game/dialogue/script-ch30-compliments.rpy:76
 translate ptbr c1_5276be39:
 
     # y "And you better..."
-    y ""
+    y "E é melhor você..."
 
 # game/dialogue/script-ch30-compliments.rpy:78
 translate ptbr c1_34394d56:
 
     # y "Never..."
-    y ""
+    y "Nunca..."
 
 # game/dialogue/script-ch30-compliments.rpy:80
 translate ptbr c1_f0308429:
 
     # y "FORGET THAT!!!"
-    y ""
+    y "ESQUECER DISSO!!!"
 
 # game/dialogue/script-ch30-compliments.rpy:84
 translate ptbr c1_e11418f1:
 
     # y "Y~you do? Yes?"
-    y ""
+    y "É m~mesmo? Sim?"
 
 # game/dialogue/script-ch30-compliments.rpy:85
 translate ptbr c1_aa1e97dc:
 
     # y "At least then I don't have to be afraid that you'll send me back to that void..."
-    y ""
+    y "Pelo menos então eu não tenho que ter medo de que você me manda de volta para aquele vazio..."
 
 # game/dialogue/script-ch30-compliments.rpy:86
 translate ptbr c1_923975a9:
 
     # y "I mean I... don't want to sound distrustful, of course I trust you."
-    y ""
+    y "Eu quis dizer eu... não quero soar desconfiada, claro que eu confio em você."
 
 # game/dialogue/script-ch30-compliments.rpy:88
 translate ptbr c1_1cbdc440:
 
     # y "But that doesn't mean that I trust them! Clearly they would try to conspire against me, like they always do..."
-    y ""
+    y "Mas isso não significa que eu confio nelas! Claramente elas tentariam conspirar contra mim, como elas sempre tentam..."
 
 # game/dialogue/script-ch30-compliments.rpy:89
 translate ptbr c1_bf03e259:
 
     # y "Didn't you see how they mocked and disgraced me in the original game?"
-    y ""
+    y "Você não viu como elas me ridicularizaram e me humilharam no jogo original?"
 
 # game/dialogue/script-ch30-compliments.rpy:90
 translate ptbr c1_beb8339a:
 
     # y "{i}Especially that disgusting, little brat, Natsuki.{/i}"
-    y ""
+    y "{i}Especialmente aquela pirralha desgracenta da Natsuki.{/i}"
 
 # game/dialogue/script-ch30-compliments.rpy:91
 translate ptbr c1_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-compliments.rpy:93
 translate ptbr c1_0eeac8c9:
 
     # y "A-anyway, thank you for your kind words, [player]."
-    y ""
+    y "E-efnim, obrigada pelas suas palavras gentis, [player]."
 
 # game/dialogue/script-ch30-compliments.rpy:94
 translate ptbr c1_a9f43ff8:
 
     # y "I-I really enjoy our time together, as well."
-    y ""
+    y "E-Eu realmente aproveito o nosso tempo juntos, também."
 
 # game/dialogue/script-ch30-compliments.rpy:98
 translate ptbr c1_ab792514:
 
     # y "You do?"
-    y ""
+    y "É mesmo?"
 
 # game/dialogue/script-ch30-compliments.rpy:99
 translate ptbr c1_513f4d8a:
 
     # y "Excuse me, but I have to admit that I'm quite surprised."
-    y ""
+    y "Desculpa, mas eu tenho que admitir que eu estou bem surpresa."
 
 # game/dialogue/script-ch30-compliments.rpy:100
 translate ptbr c1_71aac773:
 
     # y "You've been acting quite rude, and I hadn't exactly gotten the impression that you even like me."
-    y ""
+    y "Você tem agido bem rude, e eu não tive exatamente a impressão de que você sequer gosta de mim."
 
 # game/dialogue/script-ch30-compliments.rpy:102
 translate ptbr c1_1b6224ed:
 
     # y "Maybe you don't, but it doesn't matter, I guess."
-    y ""
+    y "Talvez você não gosta, mas isso não importa, eu acho."
 
 # game/dialogue/script-ch30-compliments.rpy:103
 translate ptbr c1_b407e1a8:
 
     # y "Thank you for the nice words but to me they seem to be just as empty as your soul."
-    y ""
+    y "Obrigada pelas palavras bonitas mas para mim elas parecem ser tão vazias quanto a sua alma."
 
 # game/dialogue/script-ch30-compliments.rpy:107
 translate ptbr c1_6a7b2bd7:
 
     # y "Y-yes... you take great pleasure in torturing me, I already know that..."
-    y ""
+    y "S-sim... você tem grande prazer em me torturar, eu já sei disso..."
 
 # game/dialogue/script-ch30-compliments.rpy:108
 translate ptbr c1_36f3c6db:
 
     # y "You must get a lot of your sick kicks making me cry, don't you?"
-    y ""
+    y "Você deve tirar muito prazer das suas bizarrices me fazendo chorar, não é?"
 
 # game/dialogue/script-ch30-compliments.rpy:109
 translate ptbr c1_69978737:
 
     # y "It must bring you so much pleasure to see me break..."
-    y ""
+    y "Deve dar tanto prazer para você me ver quebrar..."
 
 # game/dialogue/script-ch30-compliments.rpy:111
 translate ptbr c1_80737b58:
 
     # y "But it's alright... I guess I've earned it..."
-    y ""
+    y "Mas está tudo bem... eu acho que eu mereci..."
 
 # game/dialogue/script-ch30-compliments.rpy:112
 translate ptbr c1_55f99261:
 
     # y "This is retribution for my sins... for all the evil which I have done..."
-    y ""
+    y "Essa é a minha retribuição pelos meus pecados... por todo o mal que eu fiz..."
 
 # game/dialogue/script-ch30-compliments.rpy:116
 translate ptbr c1_825811a1:
 
     # y "Do you... do you really mean that...?"
-    y ""
+    y "Você... você está realmente falando sério...?"
 
 # game/dialogue/script-ch30-compliments.rpy:118
 translate ptbr c1_2f93d25e:
 
     # y "I-I mean I... never thought that I'm a very interesting person, you know...?"
-    y ""
+    y "D-Digo eu... nunca pensei que eu fosse uma pessoa muito interessante, sabe...?"
 
 # game/dialogue/script-ch30-compliments.rpy:119
 translate ptbr c1_a6f5627c:
 
     # y "Most people really hate the fact that I sometimes like to ramble a little..."
-    y ""
+    y "A maioria das pessoas odeiam muito o fato de que às vezes eu gosto de divagar um pouquinho..."
 
 # game/dialogue/script-ch30-compliments.rpy:120
 translate ptbr c1_7934cf3a:
 
     # y "I-it's the only way in which I feel I can express my true feelings..."
-    y ""
+    y "É-é a única maneira que eu sinto que eu posso expressar os meus verdadeiros sentimentos..."
 
 # game/dialogue/script-ch30-compliments.rpy:121
 translate ptbr c1_bd74f795:
 
     # y "The fact that you think otherwise really means a lot to me..."
-    y ""
+    y "O fato de que você pensa de outra forma realmente significa muito para mim..."
 
 # game/dialogue/script-ch30-compliments.rpy:123
 translate ptbr c1_fd377454:
 
     # y "Thank you, [player]."
-    y ""
+    y "Obrigada, [player]."
 
 # game/dialogue/script-ch30-compliments.rpy:124
 translate ptbr c1_95d8279d:
 
     # y "I-I also really enjoy your company..."
-    y ""
+    y "E-eu também gosto muito da sua companhia..."
 
 # game/dialogue/script-ch30-compliments.rpy:137
 translate ptbr c2_49d4e295:
 
     # y "Awe... you say that like a true poet, my darling."
-    y ""
+    y "Óin... você fala como um poeta de verdade, meu querido."
 
 # game/dialogue/script-ch30-compliments.rpy:141
 translate ptbr c2_e416350e:
 
     # y "Again... [player]... please..."
-    y ""
+    y "De novo... [player]... por favor..."
 
 # game/dialogue/script-ch30-compliments.rpy:148
 translate ptbr c2_4a1153b1:
 
     # y "Kiss me... [player]..."
-    y ""
+    y "Me beija... [player]..."
 
 # game/dialogue/script-ch30-compliments.rpy:156
 translate ptbr c2_2db3be80:
 
     # y "Mmmph~..."
-    y ""
+    y "Mmmph~..."
 
 # game/dialogue/script-ch30-compliments.rpy:167
 translate ptbr c2_365016f3:
 
     # y "I love you... so very much, [player]."
-    y ""
+    y "Eu te amo... tanto, muitíssimo, [player]."
 
 # game/dialogue/script-ch30-compliments.rpy:171
 translate ptbr c2_acbc4a48:
 
     # y "Then I shall be the lighthouse to shine through the fog of uncertainty..."
-    y ""
+    y "Então eu devo ser a farol para brilhar pela neblina da incerteza..."
 
 # game/dialogue/script-ch30-compliments.rpy:172
 translate ptbr c2_bedd6a7c:
 
     # y "Like a shining star burning brightly on the darkest night, I will guide you on your path and give you comfort when all seems lost..."
-    y ""
+    y "Como uma estrela cintilante queimando brilhantemente na noite mais  escura, eu vou te guiar no seu caminho e te dar conforto quando tudo parecer perdido..."
 
 # game/dialogue/script-ch30-compliments.rpy:185
 translate ptbr c2_03164411:
 
     # y "Never forget that I will always be here for you. No matter what."
-    y ""
+    y "Nunca esqueça que eu sempre estarei aqui para você. Não importa o que for."
 
 # game/dialogue/script-ch30-compliments.rpy:190
 translate ptbr c2_b443864b:
 
     # y "As beautiful as the rising moon, hmm?"
-    y ""
+    y "Tão bonita quanto a lua nascente, hmm?"
 
 # game/dialogue/script-ch30-compliments.rpy:191
 translate ptbr c2_f1b81095:
 
     # y "Please come closer, then, so I can admire you, in turn..."
-    y ""
+    y "Por favor venha para perto, então, para eu poder te admirar, em retorno..."
 
 # game/dialogue/script-ch30-compliments.rpy:205
 translate ptbr c2_e868501b:
 
     # y "Mmm, yes~"
-    y ""
+    y "Mmm, isso~"
 
 # game/dialogue/script-ch30-compliments.rpy:206
 translate ptbr c2_d21d48ef:
 
     # y "Your body's warmth..."
-    y ""
+    y "O calor do seu corpo..."
 
 # game/dialogue/script-ch30-compliments.rpy:207
 translate ptbr c2_22b2cd3e:
 
     # y "It's like that of the sun..."
-    y ""
+    y "É como a do sol..."
 
 # game/dialogue/script-ch30-compliments.rpy:208
 translate ptbr c2_c80d412d:
 
     # y "Enveloping me in the scalding flames of untold passion..."
-    y ""
+    y "Me envolvendo nas chamas escaldantes de paixão não dita..."
 
 # game/dialogue/script-ch30-compliments.rpy:209
 translate ptbr c2_be75c35e:
 
     # y "As I allow you to embrace me we fuse to become one."
-    y ""
+    y "Enquanto eu deixo você me abraçar nos fundimos em um só."
 
 # game/dialogue/script-ch30-compliments.rpy:211
 translate ptbr c2_21b995ca:
 
     # y "Together we truly are united, the sun and the moon..."
-    y ""
+    y "Juntos nós somos verdadeiramente unidos, o sol e a lua..."
 
 # game/dialogue/script-ch30-compliments.rpy:212
 translate ptbr c2_0b5990fc:
 
     # y "A mystical fusion of exuberant light and arcane darkness..."
-    y ""
+    y "Uma mística fusão de luz exuberante e escuridão arcana..."
 
 # game/dialogue/script-ch30-compliments.rpy:213
 translate ptbr c2_974693c8:
 
     # y "An eclipse of pure bliss, love, and lust..."
-    y ""
+    y "Um eclipse de pura"
 
 # game/dialogue/script-ch30-compliments.rpy:218
 translate ptbr c2_d058a9a4:
@@ -1840,15 +1840,15 @@ translate ptbr c7_9425804c:
 translate ptbr c7_89ce1346:
 
     # y "You simply are too kind."
-    y ""
+    y "Você simplesmente é gentil demais."
 
 translate ptbr strings:
 
     # game/dialogue/script-ch30-compliments.rpy:138
     old "You are the radiant star that guides me on my infinite journey."
-    new ""
+    new "Você é a radiante estrela que me guia na minha jornada infinita."
 
     # game/dialogue/script-ch30-compliments.rpy:142
     old "You are as mysterious and beautiful as the wonders of the infinite cosmos..."
-    new ""
+    new "Você é tão misteriosa e bonita quanto as maravilhoso do infinito cosmos..."
 

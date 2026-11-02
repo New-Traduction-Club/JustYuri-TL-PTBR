@@ -778,13 +778,13 @@ translate ptbr headpat_e19d8afc:
 translate ptbr headpat_7c7d8c8f:
 
     # y "Like a ghost... and the fact that I'm alone here doesn't really make it less spooky..."
-    y ""
+    y "Igual a um fantasma... e o fato de eu estar sozinha aqui não deixa a situação menos assustadora..."
 
 # game/boop_content.rpy:411
 translate ptbr headpat_f6610599:
 
     # y "Would you mind if I asked to not do that again please? T-Thank you..."
-    y "Igual a um fantasma... e o fato de eu estar sozinha aqui não deixa a situação menos assustadora..."
+    y "Você se importaria se eu pedisse para não fazer isso de novo por favor? O-Obrigada..."
 
 # game/boop_content.rpy:414
 translate ptbr headpat_9b31614d:

@@ -26,25 +26,25 @@ translate ptbr a1_de175839:
 translate ptbr a1_4e039662:
 
     # y "I guess I'm still getting accustomed to this new environment is all."
-    y "Acho que só ainda não me habituei totalmente com esse ambiente novo"
+    y "Acho que só ainda não me habituei totalmente com esse ambiente novo."
 
 # game/dialogue/script-ch30-actives.rpy:28
 translate ptbr a1_df8ddf7c:
 
     # y "Oh... I-I'm feeling alright, but I doubt you really care at all, do you?"
-    y "oh... e-eu estou bem, mas acho que isso não faz muita diferença para você, faz?"
+    y "Oh... e-eu estou bem, mas acho que isso não faz muita diferença para você, faz?"
 
 # game/dialogue/script-ch30-actives.rpy:33
 translate ptbr a1_af00784a:
 
     # y "Oh... I'm feeling good. I hope I can feel like this every day, my love..."
-    y "oh... eu estou muito bem agora. Tomara que eu consiga me sentir assim todo santo dia, meu amor..."
+    y "Oh... eu estou muito bem agora. Tomara que eu consiga me sentir assim todo santo dia, meu amor..."
 
 # game/dialogue/script-ch30-actives.rpy:38
 translate ptbr a1_bb775da2:
 
     # y "A bit thirsty actually..."
-    y "Na verdade... estou com um pouquinho de sede"
+    y "Na verdade... estou com um pouquinho de sede..."
 
 # game/dialogue/script-ch30-actives.rpy:40
 translate ptbr a1_ee4a35ad:
@@ -56,7 +56,7 @@ translate ptbr a1_ee4a35ad:
 translate ptbr a1_a8dc1c3d:
 
     # y "Later, then. I want the tea drinking to be something special, just between the two of us."
-    y "Fica para depois, então. Queria que esse momento do chá fosse especial, só nosso"
+    y "Fica para depois, então. Queria que esse momento do chá fosse especial, só nosso."
 
 # game/dialogue/script-ch30-actives.rpy:61
 translate ptbr a1_7ba1dd7a:
