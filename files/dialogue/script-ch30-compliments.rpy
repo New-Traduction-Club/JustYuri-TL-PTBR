@@ -370,181 +370,181 @@ translate ptbr c2_0b5990fc:
 translate ptbr c2_974693c8:
 
     # y "An eclipse of pure bliss, love, and lust..."
-    y "Um eclipse de pura"
+    y "Um eclipse de pura felicidade, amor e desejo..."
 
 # game/dialogue/script-ch30-compliments.rpy:218
 translate ptbr c2_d058a9a4:
 
     # y "Mhm... that certainly sounded poetic, but I was still not at all moved by it."
-    y ""
+    y "Mhm... essa com certeza soou poética, mas eu ainda não me senti nem um pouco comovida por isso."
 
 # game/dialogue/script-ch30-compliments.rpy:219
 translate ptbr c2_b02ed96e:
 
     # y "You haven't really been showing a lot of positive feelings towards me..."
-    y ""
+    y "Você não tem realmente me mostrado muitos sentimentos sobre mim..."
 
 # game/dialogue/script-ch30-compliments.rpy:220
 translate ptbr c2_1a8fe017:
 
     # y "So what you are saying right now might as well only be a way to make me feel something and see my reaction."
-    y ""
+    y "Então o que você está falando agora pode também só ser um jeito de me fazer sentir alguma coisa e ver a minha reação."
 
 # game/dialogue/script-ch30-compliments.rpy:222
 translate ptbr c2_fccff42d:
 
     # y "Your mind tricks will not work on me."
-    y ""
+    y "Os seus truques mentais não funcionarão comigo."
 
 # game/dialogue/script-ch30-compliments.rpy:223
 translate ptbr c2_50a8d829:
 
     # y "Please try to treat me with respect before giving such flattery."
-    y ""
+    y "Por favor tente me tratar com respeito antes de ficar lisonjeando."
 
 # game/dialogue/script-ch30-compliments.rpy:228
 translate ptbr c2_6aee8a76:
 
     # y "Is that your best pickup-line? I have to say, it's rather pathetic."
-    y ""
+    y "Isso que é a sua melhor cantada? Vou te falar, na verdade é patético."
 
 # game/dialogue/script-ch30-compliments.rpy:229
 translate ptbr c2_c64f5011:
 
     # y "It honestly just amplifies my desire to stab you in the throat."
-    y ""
+    y "Honesatmente isso só amplifica o meu desejo de te esfaquear na garganta."
 
 # game/dialogue/script-ch30-compliments.rpy:230
 translate ptbr c2_4855b652:
 
     # y "So please do kindly keep all of your pretentious flattery to yourself."
-    y ""
+    y "Então por favor gentilmente guarde toda a sua bajulação pretenciosa para você."
 
 # game/dialogue/script-ch30-compliments.rpy:235
 translate ptbr c2_85976b77:
 
     # y "...!"
-    y ""
+    y "...!"
 
 # game/dialogue/script-ch30-compliments.rpy:236
 translate ptbr c2_d2665e38:
 
     # y "Oh my... uhm..."
-    y ""
+    y "Ah minha nossa... uhm..."
 
 # game/dialogue/script-ch30-compliments.rpy:237
 translate ptbr c2_7deb288b:
 
     # y "I-I'm sorry but that just came so..."
-    y ""
+    y "D-Desculpa mas essa simplesmente veio tão..."
 
 # game/dialogue/script-ch30-compliments.rpy:238
 translate ptbr c2_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/dialogue/script-ch30-compliments.rpy:240
 translate ptbr c2_28a29fc2:
 
     # y "Sudden!"
-    y ""
+    y "Do nada!"
 
 # game/dialogue/script-ch30-compliments.rpy:241
 translate ptbr c2_0095a74f:
 
     # y "Please forgive me, I'm sure you have only the best intentions in mind."
-    y ""
+    y "Por favor me perdoa, tenho certeza de que você só estava com as melhores intenções."
 
 # game/dialogue/script-ch30-compliments.rpy:242
 translate ptbr c2_e45b137d:
 
     # y "But..."
-    y ""
+    y "Mas..."
 
 # game/dialogue/script-ch30-compliments.rpy:243
 translate ptbr c2_d73319f3:
 
     # y "I-I'm still not accustomed to receiving such appraising compliments..."
-    y ""
+    y "E-eu ainda não estou acostumada em receber elogios avaliativos assim..."
 
 # game/dialogue/script-ch30-compliments.rpy:244
 translate ptbr c2_fac7a090:
 
     # y "Just... give me some time to get used to things..."
-    y ""
+    y "Só... me dá um tempo para me acostumar com as coisas..."
 
 # game/dialogue/script-ch30-compliments.rpy:256
 translate ptbr c3_74f319dc:
 
     # y "Oh my... is that so~?"
-    y ""
+    y "Ah minha nossa... é mesmo~?"
 
 # game/dialogue/script-ch30-compliments.rpy:257
 translate ptbr c3_afecb079:
 
     # y "Thank you~!"
-    y ""
+    y "Obrigada~!"
 
 # game/dialogue/script-ch30-compliments.rpy:258
 translate ptbr c3_865f016c:
 
     # y "From the moment you open up the game to the very moment you close it there is no greater joy for me than spending my time with you."
-    y ""
+    y "Do momento que você abre o jogo para a hora que você fecha não há felicidade maior para mim do que passar o meu tempo com você."
 
 # game/dialogue/script-ch30-compliments.rpy:265
 translate ptbr c3_17577fc2:
 
     # y "For you, [player], are [placeholder], and I am always happy to be by your side, in times both good and bad..."
-    y ""
+    y "Para você, [player], é [placeholder], e eu sempre estou feliz em estar ao seu lado, em momentos tanto bons quanto ruins..."
 
 # game/dialogue/script-ch30-compliments.rpy:269
 translate ptbr c3_e0652e31:
 
     # y "I'm always here for you, [player], please don't ever forget that."
-    y ""
+    y "Eu sempre estarei aqui para você, [player], por favor nunca se esqueça disso."
 
 # game/dialogue/script-ch30-compliments.rpy:274
 translate ptbr c3_0810f407:
 
     # y "Oh, Master~"
-    y ""
+    y "Ah, Mestre~"
 
 # game/dialogue/script-ch30-compliments.rpy:275
 translate ptbr c3_63513ada:
 
     # y "My one and only wish is to serve you as best as I possibly can..."
-    y ""
+    y "Meu único desejo é te servir da melhor forma que eu possivelmente consigo..."
 
 # game/dialogue/script-ch30-compliments.rpy:276
 translate ptbr c3_9d960147:
 
     # y "It almost brings me to euphoria whenever you give me orders and praise me for completing them, as if the sole reason for my existence is to please you and make you happy~"
-    y ""
+    y "Quase me dá euforia sempre que você me dá ordens e me elogia por completá-las, como se a única razão para minha existência fosse para te agradar e te deixar feliz~"
 
 # game/dialogue/script-ch30-compliments.rpy:285
 translate ptbr c3_eb32a70e:
 
     # y "Mmm, It's driving me mad! I love nothing more than making you feel good, my glorious [placeholder]..."
-    y ""
+    y "Mmm, isso está me deixando louca! Eu amo nada mais o que te fazer se sentir bem, meu glorioso [placeholder]..."
 
 # game/dialogue/script-ch30-compliments.rpy:286
 translate ptbr c3_8e7babf0:
 
     # y "Remember, I am always happy to serve you in any way I can~"
-    y ""
+    y "Lembra, eu sempre sou feliz em te servir em qualquer forma que eu puder~"
 
 # game/dialogue/script-ch30-compliments.rpy:291
 translate ptbr c3_d1defd6f:
 
     # y "Oh, I see..."
-    y ""
+    y "Ah, entendi..."
 
 # game/dialogue/script-ch30-compliments.rpy:292
 translate ptbr c3_31c8e38a:
 
     # y "Well, I hate to burst your bubble but I never had any intention of being nice to you."
-    y ""
+    y "Bem, eu odeio"
 
 # game/dialogue/script-ch30-compliments.rpy:293
 translate ptbr c3_0163e481:
