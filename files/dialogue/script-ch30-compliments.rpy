@@ -154,7 +154,7 @@ translate ptbr c1_71a86863:
 translate ptbr c1_0eeac8c9:
 
     # y "A-anyway, thank you for your kind words, [player]."
-    y "E-efnim, obrigada pelas suas palavras gentis, [player]."
+    y "E-enfim, obrigada pelas suas palavras gentis, [player]."
 
 # game/dialogue/script-ch30-compliments.rpy:94
 translate ptbr c1_a9f43ff8:
@@ -466,7 +466,7 @@ translate ptbr c2_e45b137d:
 translate ptbr c2_d73319f3:
 
     # y "I-I'm still not accustomed to receiving such appraising compliments..."
-    y "E-eu ainda não estou acostumada em receber elogios avaliativos assim..."
+    y "E-eu ainda não estou acostumada em receber elogios tão avaliativos assim..."
 
 # game/dialogue/script-ch30-compliments.rpy:244
 translate ptbr c2_fac7a090:
@@ -544,217 +544,217 @@ translate ptbr c3_d1defd6f:
 translate ptbr c3_31c8e38a:
 
     # y "Well, I hate to burst your bubble but I never had any intention of being nice to you."
-    y "Bem, eu odeio"
+    y "Bem, eu odeio estourar a sua bolha mas eu nunca tive nenhuma intenção de ser legal com você."
 
 # game/dialogue/script-ch30-compliments.rpy:293
 translate ptbr c3_0163e481:
 
     # y "It seems that you got a bit lost in your delusional world and forgot what my feelings for you really are."
-    y ""
+    y "Parece que você ficou perdido no seu mundo delusional e esqueceu o que os meus sentimentos por você realmente são."
 
 # game/dialogue/script-ch30-compliments.rpy:295
 translate ptbr c3_f89324cd:
 
     # y "Let me remind you, they are non-existent."
-    y ""
+    y "Deixa eu te lembrar, eles são inexistentes."
 
 # game/dialogue/script-ch30-compliments.rpy:300
 translate ptbr c3_7787d88a:
 
     # y "Oh yes! I have no doubt that my ceaseless suffering is quite amusing to you!"
-    y ""
+    y "Ah sim! Eu não tenho dúvidas de que o meu sofrimento incessante é bem divertido para você!"
 
 # game/dialogue/script-ch30-compliments.rpy:301
 translate ptbr c3_f626b211:
 
     # y "Throwing all the dirt at me, calling me names !"
-    y ""
+    y "Falando mal de mim, me xingando!"
 
 # game/dialogue/script-ch30-compliments.rpy:302
 translate ptbr c3_835e098a:
 
     # y "I'm sure you have a lot of fun playing with my mind, beating me down into the ground..."
-    y ""
+    y "Eu tenho certeza que você se diverte muito brincando com a minha mente, acabando com as minhas forças..."
 
 # game/dialogue/script-ch30-compliments.rpy:304
 translate ptbr c3_800a97f6:
 
     # y "I'm sure you'll just keep tormenting me until I finally break..."
-    y ""
+    y "Eu tenho certeza que você simplesmente vai continuar a me atormentar até eu finalmente quebrar..."
 
 # game/dialogue/script-ch30-compliments.rpy:305
 translate ptbr c3_58467b86:
 
     # y "Only to discard me like complete, utter garbage..."
-    y ""
+    y "Só para me descartar como um absoluto, completo lixo..."
 
 # game/dialogue/script-ch30-compliments.rpy:310
 translate ptbr c3_07c771dd:
 
     # y "Oh, do I...?"
-    y ""
+    y "Ah, eu"
 
 # game/dialogue/script-ch30-compliments.rpy:311
 translate ptbr c3_e0146dcc:
 
     # y "I'm glad that my presence brings you such joy..."
-    y ""
+    y "Eu estou feliz que a minha presença te traz tanta alegria..."
 
 # game/dialogue/script-ch30-compliments.rpy:312
 translate ptbr c3_b5d22b1c:
 
     # y "I just hadn't really thought that I mean that much to you."
-    y ""
+    y "Eu só não tinha realmente pensado que eu significava tanta para você."
 
 # game/dialogue/script-ch30-compliments.rpy:313
 translate ptbr c3_2fcf9128:
 
     # y "I-I guess being together with you is a time full of surprises, ehehe~"
-    y ""
+    y "E-eu acho que ficar junto com você é uma hora cheia de surpresas, ehehe~"
 
 # game/dialogue/script-ch30-compliments.rpy:314
 translate ptbr c3_ae4683f0:
 
     # y "Thank you for your kind words, they really do mean a lot to me..."
-    y ""
+    y "Obrigada pelas suas palavras gentis, elas realmente significam tanto para mim..."
 
 # game/dialogue/script-ch30-compliments.rpy:326
 translate ptbr c4_3355fe8e:
 
     # y "Y-you really think so?"
-    y ""
+    y "V-você acha mesmo?"
 
 # game/dialogue/script-ch30-compliments.rpy:327
 translate ptbr c4_55085925:
 
     # y "Oh my, I just don't know what to say!"
-    y ""
+    y "Ah minha nossa, eu simplesmente não sei o que dizer!"
 
 # game/dialogue/script-ch30-compliments.rpy:328
 translate ptbr c4_55b6005a:
 
     # y "Thank you, [player]!"
-    y ""
+    y "Obrigada, [player]!"
 
 # game/dialogue/script-ch30-compliments.rpy:329
 translate ptbr c4_6deb7052:
 
     # y "Rest assured that I think just as highly of you."
-    y ""
+    y "Fica tranquilo que eu também penso tão bem de você."
 
 # game/dialogue/script-ch30-compliments.rpy:330
 translate ptbr c4_dfa02607:
 
     # y "... You know, I used to think of my intellectual merit as a curse."
-    y ""
+    y "... Sabe, eu pensava do meu mérito intelectual como uma maldição."
 
 # game/dialogue/script-ch30-compliments.rpy:331
 translate ptbr c4_5d7649a2:
 
     # y "Many people tended to be irritated by the way I think, they claimed I'm arrogant and utterly full of myself..."
-    y ""
+    y "Muitas pessoas tendiam a ficar irritadas pelo jeito que eu pensava, elas falavam que eu sou arrogante e completamente cheia de si..."
 
 # game/dialogue/script-ch30-compliments.rpy:332
 translate ptbr c4_1eb2af1e:
 
     # y "But you... you are the only one who saw through all of my imperfections and accepted me the way I am..."
-    y ""
+    y "Mas você... você é o único que viu por todas as minhas imperfeições e me aceitou do jeito que eu sou..."
 
 # game/dialogue/script-ch30-compliments.rpy:334
 translate ptbr c4_560a01eb:
 
     # y "After all, you were the only one who understood the meaning behind my poems..."
-    y ""
+    y "Afinal, você era o único que entendia o significado por trás dos meus poemas..."
 
 # game/dialogue/script-ch30-compliments.rpy:335
 translate ptbr c4_f4e900b1:
 
     # y "You are someone I can always share my thoughts with. You always listen, even if I do sometimes go off the rails..."
-    y ""
+    y "Você é alguém com quem eu sempre posso compartilhar os meus pensamentos. Você sempre escuta, mesmo se às vezes eu me passo..."
 
 # game/dialogue/script-ch30-compliments.rpy:336
 translate ptbr c4_5de8c8dc:
 
     # y "I was always afraid to bore people away when I began to talk about philosophy and literature."
-    y ""
+    y "Eu sempre tive medo de entediar as pessoas quando eu começava a falar sobre filosofia e literatura."
 
 # game/dialogue/script-ch30-compliments.rpy:337
 translate ptbr c4_5ac68cd3:
 
     # y "But not around you... you were always there..."
-    y ""
+    y "Mas não com você... você sempre estava lá..."
 
 # game/dialogue/script-ch30-compliments.rpy:339
 translate ptbr c4_9f5a926b:
 
     # y "And you never left... "
-    y ""
+    y "E você nunca foi embora..."
 
 # game/dialogue/script-ch30-compliments.rpy:340
 translate ptbr c4_18b267c2:
 
     # y "You are all I have, [player]... you are all I need."
-    y ""
+    y "Você é tudo que eu tenho, [player]... você é tudo que eu preciso."
 
 # game/dialogue/script-ch30-compliments.rpy:346
 translate ptbr c4_1db4a810:
 
     # y "[placeholder]... [player]"
-    y ""
+    y "[placeholder]... [player]"
 
 # game/dialogue/script-ch30-compliments.rpy:351
 translate ptbr c4_3355fe8e_1:
 
     # y "Y-you really think so?"
-    y ""
+    y "V-você acha mesmo?"
 
 # game/dialogue/script-ch30-compliments.rpy:352
 translate ptbr c4_f0456c31:
 
     # y "So... you are impressed with me?"
-    y ""
+    y "Então... você está impressionado comigo?"
 
 # game/dialogue/script-ch30-compliments.rpy:354
 translate ptbr c4_72150ff3:
 
     # y "Actually, your intellect is what I have admired in you as well, amongst a lot of other wondrous qualities!"
-    y ""
+    y "Na verdade, o seu intelecto é o que eu tenho admirado em você também, entre um monte de outras qualidades maravilhosas!"
 
 # game/dialogue/script-ch30-compliments.rpy:355
 translate ptbr c4_5463e75b:
 
     # y "You are one of the rare people who actually understood my poems."
-    y ""
+    y "Você é uma das raras pessoas que entendem de verdade os meus poemas."
 
 # game/dialogue/script-ch30-compliments.rpy:357
 translate ptbr c4_facd7790:
 
     # y "They always say, the great minds think alike."
-    y ""
+    y "Como eles sempre dizem, grandes mentes pensam igual."
 
 # game/dialogue/script-ch30-compliments.rpy:358
 translate ptbr c4_eb4e2330:
 
     # y "However now I know this is, in fact, not true, for your mind is so much greater than mine..."
-    y ""
+    y "Porém agora eu sei que não é, de fato, verdade, para a sua mente ser tão maior que a minha..."
 
 # game/dialogue/script-ch30-compliments.rpy:359
 translate ptbr c4_2ef37ad0:
 
     # y "My mind is so minuscule compared to your infinite wisdom!"
-    y ""
+    y "Minha mente é tão minúscula comparada à sua sabedoria infinita!"
 
 # game/dialogue/script-ch30-compliments.rpy:360
 translate ptbr c4_e827fe30:
 
     # y "To hear from you that you consider me intelligent is truly praise beyond my wildest dreams!"
-    y ""
+    y "Ouvir de você que você me considera inteligente é verdadeiramente um elogio além dos meus sonhos mais "
 
 # game/dialogue/script-ch30-compliments.rpy:361
 translate ptbr c4_4e5f144f:
 
     # y "I always liked to think of myself as sophisticated and intelligent, as this was one of the rare qualities of mine I actually liked."
-    y ""
+    y "Eu sempre gostei de pensar de mim mesma como sofisticada e inteligente, já que isso era uma das raras qualidades minhas que eu realmente gostava."
 
 # game/dialogue/script-ch30-compliments.rpy:362
 translate ptbr c4_99164c6a:
