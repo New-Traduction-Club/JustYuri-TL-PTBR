@@ -1,6 +1,4 @@
-﻿
-
-# game/dialogue/script-ch30-compliments.rpy:49
+﻿# game/dialogue/script-ch30-compliments.rpy:49
 translate ptbr c1_2b48a918:
 
     # y "Oh, that's very sweet of you..."
@@ -760,211 +758,211 @@ translate ptbr c4_4e5f144f:
 translate ptbr c4_99164c6a:
 
     # y "To actually know that you like this part of me as well is just so..."
-    y ""
+    y "Saber de verdade que você gosta dessa parte minha também é simplesmente tão..."
 
 # game/dialogue/script-ch30-compliments.rpy:363
 translate ptbr c4_87f9f194:
 
     # y "So..."
-    y ""
+    y "Tão..."
 
 # game/dialogue/script-ch30-compliments.rpy:366
 translate ptbr c4_eb082b80:
 
     # y "EXHILARATING!"
-    y ""
+    y "EXCILERANTE!"
 
 # game/dialogue/script-ch30-compliments.rpy:368
 translate ptbr c4_aa9f231c:
 
     # y "T-thank you, [player]. I'm truly ecstatic that you think so highly of me..."
-    y ""
+    y "O-obrigada, [player]. "
 
 # game/dialogue/script-ch30-compliments.rpy:373
 translate ptbr c4_261b5f6e:
 
     # y "Mhmm... so sudden about praising me... were my cold words just too harsh for you?"
-    y ""
+    y "Mhmm... tão repentino me elogiar... as minhas palavras frias eram "
 
 # game/dialogue/script-ch30-compliments.rpy:374
 translate ptbr c4_06d0a338:
 
     # y "And even if not I still refuse to believe that you appreciate anything about me."
-    y ""
+    y "E mesmo se não fossem eu ainda recusaria acreditar que você apreciar alguma coisa sobre mim."
 
 # game/dialogue/script-ch30-compliments.rpy:375
 translate ptbr c4_d72ffac1:
 
     # y "After everything, why would I have any reason to believe you?"
-    y ""
+    y "Afinal das contas, por que eu teria qualquer motivo para acreditar em você?"
 
 # game/dialogue/script-ch30-compliments.rpy:376
 translate ptbr c4_518ca201:
 
     # y "You are too self-centered and narcissistic to really care about me..."
-    y ""
+    y "Você é narcisista e centrado demais em você para realmente se importar comigo..."
 
 # game/dialogue/script-ch30-compliments.rpy:378
 translate ptbr c4_2b07e17f:
 
     # y "But you know... you are kind of right..."
-    y ""
+    y "Mas sabe... você está meio que certo..."
 
 # game/dialogue/script-ch30-compliments.rpy:379
 translate ptbr c4_c27aeccd:
 
     # y "With this intellect, I can hurt you through this glass box without even touching you."
-    y ""
+    y "Com todo esse intelecto, eu posso te machucar por essa caixa de vidro sem nem tocar em você."
 
 # game/dialogue/script-ch30-compliments.rpy:380
 translate ptbr c4_e07435f6:
 
     # y "It's called using words."
-    y ""
+    y "Isso se chama usar palavras."
 
 # game/dialogue/script-ch30-compliments.rpy:381
 translate ptbr c4_8cdb1984:
 
     # y "Maybe then you'll learn some respect."
-    y ""
+    y "Talvez então você aprenda um pouco de respeito."
 
 # game/dialogue/script-ch30-compliments.rpy:382
 translate ptbr c4_2c2d8696:
 
     # y "You really shouldn't treat others so selfishly, especially when they went through so much suffering for you."
-    y ""
+    y "Você realmente não deveria tratar os outros de forma tão egoísta, especialmente quando eles passaram por tanto sofrimento por você."
 
 # game/dialogue/script-ch30-compliments.rpy:387
 translate ptbr c4_0ff3176f:
 
     # y "Praising me for my intellect?"
-    y ""
+    y "Me elogiar pelo meu intelecto?"
 
 # game/dialogue/script-ch30-compliments.rpy:388
 translate ptbr c4_551d47c4:
 
     # y "For what? To mock me?"
-    y ""
+    y "Para quê? Para me provocar?"
 
 # game/dialogue/script-ch30-compliments.rpy:389
 translate ptbr c4_074ebdce:
 
     # y "Because I'm not smart enough to find a way to leave this accursed place?"
-    y ""
+    y "Porque eu não sou inteligente o suficiente para achar um jeito de sair desse lugar amaldiçoado?"
 
 # game/dialogue/script-ch30-compliments.rpy:392
 translate ptbr c4_f101b7a9:
 
     # y "YOU UTTER FILTH!"
-    y ""
+    y "SEU COMPLETO LIXO!"
 
 # game/dialogue/script-ch30-compliments.rpy:393
 translate ptbr c4_ea25b12b:
 
     # y "WHY DO YOU KEEP FUCKING WITH MY MIND LIKE THIS!?"
-    y ""
+    y "POR QUE VOCÊ CONTINUA FODENDO COM A MINHA MENTE ASSIM!?"
 
 # game/dialogue/script-ch30-compliments.rpy:396
 translate ptbr c4_15f41696:
 
     # y "One of the only things I have left is my intellect, and yet you still found a way to further degrade me with it."
-    y ""
+    y "Uma das únicas coisas que eu ainda tenho é o meu intelecto, e ainda assim você ainda achou uma maneira de me degradar mais longe com isso."
 
 # game/dialogue/script-ch30-compliments.rpy:398
 translate ptbr c4_2857148b:
 
     # y "I guess you really are rotten to the core..."
-    y ""
+    y "Eu acho que você realmente é podre até o núcleo..."
 
 # game/dialogue/script-ch30-compliments.rpy:399
 translate ptbr c4_9e978d58:
 
     # y "I just despise you with..."
-    y ""
+    y "Eu simplesmente te desprezo com..."
 
 # game/dialogue/script-ch30-compliments.rpy:400
 translate ptbr c4_24fce0df:
 
     # y "Every..."
-    y ""
+    y "Toda..."
 
 # game/dialogue/script-ch30-compliments.rpy:401
 translate ptbr c4_8966200a:
 
     # y "Fiber..."
-    y ""
+    y "Fibra..."
 
 # game/dialogue/script-ch30-compliments.rpy:402
 translate ptbr c4_23ea125c:
 
     # y "Of my..."
-    y ""
+    y "Da minha..."
 
 # game/dialogue/script-ch30-compliments.rpy:404
 translate ptbr c4_6443ad35:
 
     # y "BEING!!!"
-    y ""
+    y "EXISTÊNCIA!!!"
 
 # game/dialogue/script-ch30-compliments.rpy:410
 translate ptbr c4_459ceac4:
 
     # y "Uuu... I-I wasn't expecting you to say that..."
-    y ""
+    y "Uuu... E-eu não estava esperando você falar isso..."
 
 # game/dialogue/script-ch30-compliments.rpy:411
 translate ptbr c4_2bc0a772:
 
     # y "Well, um... thank you, [player]... It's very kind of you to say something like that."
-    y ""
+    y "Bem, um... obrigada, [player]... É muito gentil da sua parte dizer algo assim."
 
 # game/dialogue/script-ch30-compliments.rpy:412
 translate ptbr c4_5603e4ba:
 
     # y "You probably know already but I've always been rather insecure about my... utter lack of social skills..."
-    y ""
+    y "Você provavelmente já sabe mas eu sempre fui bastante insegura com a minha... completa falta de habilidades sociais..."
 
 # game/dialogue/script-ch30-compliments.rpy:413
 translate ptbr c4_4753329c:
 
     # y "It sounds strange but even though I read a lot I still don't see myself as possessing any sort of intellect..."
-    y ""
+    y "Soa estranha mas mesmo que eu leia muito eu ainda não me vejo possuindo qualquer tipo de intelecto..."
 
 # game/dialogue/script-ch30-compliments.rpy:415
 translate ptbr c4_cd93805f:
 
     # y "It's really just something I've always done, to be honest..."
-    y ""
+    y "Realmente é só uma cosia que eu sempre fiz, para ser honesta..."
 
 # game/dialogue/script-ch30-compliments.rpy:416
 translate ptbr c4_367839cf:
 
     # y "The fact that you think so highly of me actually makes me feel somewhat better about myself."
-    y ""
+    y "O fato que você pensa tão alto de mim realmente me faz sentir de algum jeito melhor comigo mesma."
 
 # game/dialogue/script-ch30-compliments.rpy:417
 translate ptbr c4_b807ee70:
 
     # y "Thank you so much for your kindness, it really does mean a lot to me."
-    y ""
+    y "Obrigada demais pela sua gentileza, isso realmente significa muito para mim."
 
 # game/dialogue/script-ch30-compliments.rpy:430
 translate ptbr c5_d394a1ee:
 
     # y "That's only because our hearts are linked together, my love..."
-    y ""
+    y "Isso só é porque os nossos corações estão conectados juntos, meu amor..."
 
 # game/dialogue/script-ch30-compliments.rpy:431
 translate ptbr c5_96f5b248:
 
     # y "Your every word feels like sweet honeydew on my tongue..."
-    y ""
+    y "Cada palavra sua parece um doce néctar na minha língua..."
 
 # game/dialogue/script-ch30-compliments.rpy:432
 translate ptbr c5_7cc2525b:
 
     # y "And I want to do the same to you... I want to put my palm upon your chest to feel your relaxed breathing, to feel the rhythmic drumming of your beating heart..."
-    y ""
+    y "E eu quero fazer o mesmo para você... Eu quero colocar minha palma sobre o seu peito para sentir a sua respiração relaxada"
 
 # game/dialogue/script-ch30-compliments.rpy:433
 translate ptbr c5_159da771:
